@@ -1,0 +1,44 @@
+name: ⚽ Football Intel Daily Report
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # 北京时间每天早 8:00（UTC 00:00）
+  workflow_dispatch:        # 允许手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 免费版无需安装任何第三方库，纯标准库运行
+      - name: ⚽ Run scraper
+        run: python scraper/scraper.py
+
+      - name: 💾 Commit report
+        run: |
+          git config user.email "bot@football-intel"
+          git config user.name "Football Intel Bot"
+          git add web/
+          git diff --staged --quiet || git commit -m "📰 $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git push
+
+      - name: 🚀 Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/
+
+      - name: 🌐 Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
