@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FOOTBALL INTEL // 2026-02-26</title>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;600&family=Playfair+Display:wght@700;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --green:#1a7c3e;--green-light:#22a052;--green-dark:#0f4d26;
+  --carbon:#0e0e0e;--carbon-2:#1a1a1a;--carbon-3:#252525;
+  --yellow:#e8ff00;--yellow-dim:#c8dd00;
+  --white:#f5f5f0;--grey:#888;--red:#e03535;
+  --fd:'Bebas Neue',Impact,sans-serif;
+  --fe:'Playfair Display',serif;
+  --fb:'Inter',sans-serif;
+  --fm:'IBM Plex Mono',monospace;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--carbon);color:var(--white);font-family:var(--fb);line-height:1.5}
+.masthead{background:var(--carbon);border-bottom:4px solid var(--yellow)}
+.mi{max-width:1200px;margin:0 auto;padding:24px 24px 0}
+.mt{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap}
+.pn{font-family:var(--fd);font-size:clamp(48px,8vw,96px);line-height:.9;color:var(--white)}
+.pn span{color:var(--yellow)}
+.mm{text-align:right;font-family:var(--fm);font-size:11px;color:var(--grey);letter-spacing:1px;padding-bottom:4px}
+.mm strong{color:var(--yellow);display:block;font-size:13px;margin-bottom:2px}
+.mnav{display:flex;margin-top:16px;border-top:1px solid #333}
+.nt{padding:10px 20px;font-family:var(--fm);font-size:11px;font-weight:600;letter-spacing:2px;text-transform:uppercase;cursor:pointer;border:none;background:transparent;color:var(--grey);border-bottom:3px solid transparent;transition:all .2s}
+.nt:hover{color:var(--white)}
+.nt.active{color:var(--yellow);border-bottom-color:var(--yellow)}
+.nc{background:var(--green);color:var(--white);font-size:9px;padding:1px 5px;border-radius:2px;margin-left:6px}
+.main{max-width:1200px;margin:0 auto;padding:32px 24px 80px}
+.sec{display:none}.sec.active{display:block}
+.cg{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:2px;background:#222}
+.card{background:var(--carbon-2);padding:24px;cursor:pointer;transition:background .15s;border-top:3px solid transparent}
+.card:hover{background:var(--carbon-3)}
+.card.transfer{border-top-color:var(--yellow)}
+.card.match_report{border-top-color:var(--green-light)}
+.card.injury{border-top-color:var(--red)}
+.ch{display:flex;align-items:flex-start;gap:10px;margin-bottom:12px}
+.ce{font-size:28px;line-height:1;flex-shrink:0}
+.cs{font-family:var(--fm);font-size:9px;letter-spacing:2px;text-transform:uppercase;color:var(--grey);margin-bottom:2px}
+.cb{display:inline-block;font-family:var(--fm);font-size:9px;font-weight:600;letter-spacing:1px;padding:2px 6px;text-transform:uppercase}
+.cat-transfer{background:var(--yellow);color:var(--carbon)}
+.cat-match_report{background:var(--green-light);color:var(--white)}
+.cat-injury{background:var(--red);color:var(--white)}
+.ct{font-family:var(--fe);font-size:18px;font-weight:700;line-height:1.3;color:var(--white);margin-bottom:10px}
+.csum{font-size:13px;color:#aaa;line-height:1.6;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.gs{display:flex;gap:3px;margin-top:12px;align-items:center}
+.star{font-size:13px}.star.on{color:var(--yellow)}.star.off{color:#333}
+.gl{font-family:var(--fm);font-size:10px;color:var(--grey);margin-left:8px;letter-spacing:1px}
+.cf{display:flex;justify-content:space-between;align-items:center;margin-top:14px;padding-top:12px;border-top:1px solid #2a2a2a}
+.ctags{display:flex;flex-wrap:wrap;gap:4px}
+.tag{font-family:var(--fm);font-size:9px;background:#1e2a1e;color:var(--green-light);padding:2px 6px;border-radius:2px}
+.rm{font-family:var(--fm);font-size:10px;color:var(--yellow-dim);letter-spacing:1px;text-decoration:none}
+.rm:hover{color:var(--yellow)}
+.mo{position:fixed;inset:0;background:rgba(0,0,0,.85);z-index:1000;display:flex;align-items:center;justify-content:center;padding:20px;opacity:0;visibility:hidden;transition:all .2s;backdrop-filter:blur(4px)}
+.mo.open{opacity:1;visibility:visible}
+.md{background:var(--carbon-2);border:1px solid #333;border-top:4px solid var(--yellow);max-width:660px;width:100%;max-height:90vh;overflow-y:auto;transform:translateY(20px);transition:transform .2s;position:relative}
+.mo.open .md{transform:translateY(0)}
+.mh{background:linear-gradient(135deg,var(--green-dark) 0%,#0a0a0a 100%);padding:28px 28px 20px;border-bottom:2px solid #1e3d1e;position:relative}
+.mc{position:absolute;top:16px;right:16px;background:transparent;border:1px solid #444;color:var(--grey);width:32px;height:32px;cursor:pointer;font-size:18px;display:flex;align-items:center;justify-content:center;transition:all .2s}
+.mc:hover{border-color:var(--yellow);color:var(--yellow)}
+.ml{font-family:var(--fm);font-size:10px;letter-spacing:3px;color:var(--green-light);text-transform:uppercase;margin-bottom:10px}
+.mtt{font-family:var(--fe);font-size:clamp(20px,3vw,28px);font-weight:900;line-height:1.2;color:var(--white)}
+.mb{padding:28px}
+.bs{margin-bottom:24px}
+.bh{font-family:var(--fm);font-size:10px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:var(--yellow);margin-bottom:8px;display:flex;align-items:center;gap:8px}
+.bh::after{content:'';flex:1;height:1px;background:#2a2a2a}
+.bt{font-size:14px;line-height:1.7;color:#ccc}
+.tb{background:var(--carbon-3);border-left:3px solid var(--green-light);padding:16px 18px;font-size:14px;line-height:1.7;color:#ccc}
+.pv{background:radial-gradient(ellipse at center,#1a5c2a 0%,var(--green-dark) 60%,#0a2010 100%);border:2px solid #1e3d1e;border-radius:4px;padding:20px;margin-bottom:20px;text-align:center;position:relative;min-height:90px;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:8px}
+.pp{display:flex;gap:12px;flex-wrap:wrap;justify-content:center}
+.pc{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);color:var(--white);font-family:var(--fm);font-size:11px;padding:4px 10px;border-radius:20px}
+.pc2{width:60px;height:60px;border:2px solid rgba(255,255,255,.3);border-radius:50%;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);opacity:.4}
+.sr{display:flex;align-items:center;gap:12px;padding:16px 18px;background:rgba(232,255,0,.04);border:1px solid rgba(232,255,0,.1);margin-top:20px}
+.sl{font-family:var(--fm);font-size:11px;color:var(--grey);letter-spacing:1px}
+.sk{font-family:var(--fm);font-size:11px;color:var(--yellow);letter-spacing:1px}
+.mlink{display:block;margin-top:20px;padding:12px 18px;border:1px solid #333;font-family:var(--fm);font-size:11px;color:var(--grey);text-decoration:none;letter-spacing:1px;transition:all .2s;text-align:center}
+.mlink:hover{border-color:var(--yellow);color:var(--yellow);background:rgba(232,255,0,.03)}
+.footer{position:fixed;bottom:0;left:0;right:0;background:var(--carbon);border-top:2px solid var(--green-dark);padding:10px 24px;display:flex;justify-content:space-between;align-items:center;font-family:var(--fm);font-size:10px;color:var(--grey);letter-spacing:1px;z-index:100}
+.footer span{color:var(--green-light)}
+.empty{padding:60px;text-align:center;color:var(--grey);font-family:var(--fm);font-size:12px;letter-spacing:2px;border:1px dashed #2a2a2a}
+@media(max-width:600px){.mi{padding:16px 16px 0}.main{padding:20px 16px 80px}.nt{padding:8px 12px;font-size:9px;letter-spacing:1px}.pn{font-size:40px}}
+</style>
+</head>
+<body>
+<div class="masthead">
+  <div class="mi">
+    <div class="mt">
+      <div class="pn">FOOTBALL<span>INTEL</span></div>
+      <div class="mm">
+        <strong>📡 RULE ENGINE EDITION</strong>
+        2026-02-26 03:38 UTC<br>BBC Sport · The Guardian
+      </div>
+    </div>
+    <nav class="mnav">
+      <button class="nt active" onclick="showSec('all',this)">全部 <span class="nc" id="c-all">21</span></button>
+      <button class="nt" onclick="showSec('transfer',this)">转会情报 <span class="nc" id="c-tr">8</span></button>
+      <button class="nt" onclick="showSec('match_report',this)">赛事战报 <span class="nc" id="c-mr">12</span></button>
+      <button class="nt" onclick="showSec('injury',this)">伤病速递 <span class="nc" id="c-inj">1</span></button>
+    </nav>
+  </div>
+</div>
+<main class="main">
+  <div id="s-all" class="sec active"><div class="cg" id="g-all"></div></div>
+  <div id="s-transfer" class="sec"><div class="cg" id="g-transfer"></div></div>
+  <div id="s-match_report" class="sec"><div class="cg" id="g-match_report"></div></div>
+  <div id="s-injury" class="sec"><div class="cg" id="g-injury"></div></div>
+</main>
+<div class="mo" id="mo" onclick="closeMo(event)">
+  <div class="md">
+    <div class="mh">
+      <button class="mc" onclick="closeMo(null)">✕</button>
+      <div class="ml" id="m-lb"></div>
+      <div class="mtt" id="m-tt"></div>
+    </div>
+    <div class="mb">
+      <div class="pv"><div class="pc2"></div><div class="pp" id="m-pl"></div></div>
+      <div class="bs"><div class="bh">核心事件</div><div class="bt" id="m-co"></div></div>
+      <div class="bs"><div class="bh">战术 / 财务影响</div><div class="tb" id="m-im"></div></div>
+      <div id="m-sr" class="sr" style="display:none">
+        <div class="sl">吃瓜指数</div>
+        <div class="gs" id="m-st"></div>
+        <div class="sk" id="m-gl"></div>
+      </div>
+      <a id="m-lk" href="#" target="_blank" class="mlink">→ 阅读原文报道</a>
+    </div>
+  </div>
+</div>
+<footer class="footer">
+  <div>FOOTBALL INTEL // RULE ENGINE</div>
+  <div>Generated: <span>2026-02-26 03:38 UTC</span></div>
+  <div>Sources: <span>BBC · GUARDIAN</span></div>
+</footer>
+<script>
+const DATA=[{"source": "BBC Sport", "title": "Real Madrid win 'for everyone who stands against racism'", "url": "https://www.bbc.com/sport/football/articles/cewzn4leyx1o", "category": "match_report", "emoji_tag": "⚪", "core_event": "来自 BBC Sport 的赛事报道。Real Madrid win 'for everyone who stands against racism'", "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。", "gossip_rating": null, "gossip_label": null, "key_players": ["Real Madrid"]}, {"source": "BBC Sport", "title": "Vinicius Jr scores as Real Madrid see off Benfica", "url": "https://www.bbc.com/sport/football/live/cq5747devq8t", "category": "match_report", "emoji_tag": "⚪", "core_event": "来自 BBC Sport 的赛事报道。Vinicius Jr scores as Real Madrid see off Benfica", "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。", "gossip_rating": null, "gossip_label": null, "key_players": ["Vinicius Jr", "Real Madrid", "Benfica"]}, {"source": "BBC Sport", "title": "Leaders Coventry overcome Sheff Utd with clinical comeback", "url": "https://www.bbc.com/sport/football/live/c78x7x5dqvjt", "category": "match_report", "emoji_tag": "⚽", "core_event": "来自 BBC Sport 的赛事报道。Leaders Coventry overcome Sheff Utd with clinical comeback", "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。", "gossip_rating": null, "gossip_label": null, "key_players": ["Leaders Coventry", "Sheff Utd"]}, {"source": "BBC Sport", "title": "Man Utd post profit but debt rises to £1.3bn", "url": "https://www.bbc.com/sport/football/articles/c4gq70yqv0do", "category": "transfer", "emoji_tag": "🔴", "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man Utd post profit but debt rises to £1.3bn", "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。", "gossip_rating": 2, "gossip_label": "野史流言", "key_players": ["Man Utd"]}, {"source": "BBC Sport", "title": "Atalanta cap comeback with last-kick penalty to stun Dortmund", "url": "https://www.bbc.com/sport/football/live/c86y1ylq9pwt", "category": "match_report", "emoji_tag": "🟡", "core_event": "来自 BBC Sport 的赛事报道。Atalanta cap comeback with last-kick penalty to stun Dortmund", "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。", "gossip_rating": null, "gossip_label": null, "key_players": ["Atalanta", "Dortmund"]}, {"source": "BBC Sport", "title": "Norwich cruise to win over relegated Wednesday", "url": "https://www.bbc.com/sport/football/live/cpd848lqpvlt", "category": "match_report", "emoji_tag": "⚽", "core_event": "来自 BBC Sport 的赛事报道。Norwich cruise to win over relegated Wednesday", "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。", "gossip_rating": null, "gossip_label": null, "key_players": ["Norwich", "Wednesday"]}, {"source": "BBC Sport", "title": "Stoke put another dent in Oxford's survival bid", "url": "https://www.bbc.com/sport/football/live/cdjm9mwejjlt", "category": "transfer", "emoji_tag": "⚽", "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Stoke put another dent in Oxford's survival bid", "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。", "gossip_rating": 2, "gossip_label": "野史流言", "key_players": ["Stoke", "Oxford"]}, {"source": "BBC Sport", "title": "Football Daily. 72+ EFL Pod: West Brom & Walsall woes. Audio, 42 minutes Football Daily 72+ EFL Pod: West Brom & Walsall woes", "url": "https://www.bbc.com/sounds/play/p0n35nls", "category": "match_report", "emoji_tag": "⚽", "core_event": "来自 BBC Sport 的赛事报道。Football Daily. 72+ EFL Pod: West Brom & Walsall woes. Audio, 42 minutes Football Daily 72+ EFL Pod: West Brom & Walsall woes", "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。", "gossip_rating": null, "gossip_label": null, "key_players": ["Football Daily", "West Brom", "Walsall", "Audio"]}, {"source": "BBC Sport", "title": "When is Champions League last-16 draw and how does it work?", "url": "https://www.bbc.com/sport/football/articles/cm21k48dpvpo", "category": "match_report", "emoji_tag": "⚽", "core_event": "来自 BBC Sport 的赛事报道。When is Champions League last-16 draw and how does it work?", "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。", "gossip_rating": null, "gossip_label": null, "key_players": ["Champions League"]}, {"source": "BBC Sport", "title": "Napoli 'smell blood' & target Premier League's discarded stars", "url": "https://www.bbc.com/sport/football/articles/cy5w4qzygzlo", "category": "transfer", "emoji_tag": "⚽", "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Napoli 'smell blood' & target Premier League's discarded stars", "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。", "gossip_rating": 2, "gossip_label": "野史流言", "key_players": ["Napoli", "Premier League"]}, {"source": "BBC Sport", "title": "Can you name the all-time top Champions League goalscorers?", "url": "https://www.bbc.com/sport/football/articles/cly9lez0313o", "category": "match_report", "emoji_tag": "⚽", "core_event": "来自 BBC Sport 的赛事报道。Can you name the all-time top Champions League goalscorers?", "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。", "gossip_rating": null, "gossip_label": null, "key_players": ["Champions League"]}, {"source": "BBC Sport", "title": "New stadium curse - are Everton showing how clubs struggle after move?", "url": "https://www.bbc.com/sport/football/articles/c0rj7jd1jdro", "category": "transfer", "emoji_tag": "⚽", "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。New stadium curse - are Everton showing how clubs struggle after move?", "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。", "gossip_rating": 2, "gossip_label": "野史流言", "key_players": ["Everton"]}, {"source": "BBC Sport", "title": "VAR vs TMO – what are the key differences?", "url": "https://www.bbc.com/sport/articles/cvgjp5v000go", "category": "match_report", "emoji_tag": "⚽", "core_event": "来自 BBC Sport 的赛事报道。VAR vs TMO – what are the key differences?", "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。", "gossip_rating": null, "gossip_label": null, "key_players": []}, {"source": "BBC Sport", "title": "Where do iconic football moves originate from?", "url": "https://www.bbc.com/sport/football/articles/c20g5vq14vyo", "category": "transfer", "emoji_tag": "⚽", "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Where do iconic football moves originate from?", "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。", "gossip_rating": 2, "gossip_label": "野史流言", "key_players": ["Where"]}, {"source": "BBC Sport", "title": "Kane scores two as Bayern beat Eintracht Frankfurt", "url": "https://www.bbc.com/sport/football/live/c0rjz51g15dt", "category": "match_report", "emoji_tag": "🔴", "core_event": "来自 BBC Sport 的赛事报道。Kane scores two as Bayern beat Eintracht Frankfurt", "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。", "gossip_rating": null, "gossip_label": null, "key_players": ["Kane", "Bayern", "Eintracht Frankfurt"]}, {"source": "The Guardian", "title": "Champions League Bodø/Glimt bask in ‘crazy’ victory over shellshocked Inter", "url": "https://www.theguardian.com/football/2026/feb/25/bodo-glimt-bask-crazy-champions-league-victory-shellshocked-inter", "category": "match_report", "emoji_tag": "🔵", "core_event": "来自 The Guardian 的赛事报道。Champions League Bodø/Glimt bask in ‘crazy’ victory over shellshocked Inter", "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。", "gossip_rating": null, "gossip_label": null, "key_players": ["Champions League", "Glimt", "Inter"]}, {"source": "The Guardian", "title": "Sheffield Wednesday Takeover collapses as would-be buyers end their interest", "url": "https://www.theguardian.com/football/2026/feb/25/sheffield-wednesday-buyers-end-takeover-interest", "category": "transfer", "emoji_tag": "🔵", "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Sheffield Wednesday Takeover collapses as would-be buyers end their interest", "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。", "gossip_rating": 2, "gossip_label": "野史流言", "key_players": ["Sheffield Wednesday Takeover"]}, {"source": "The Guardian", "title": "Vinícius has last word as Real Madrid wrap up victory over Benfica", "url": "https://www.theguardian.com/football/2026/feb/25/real-madrid-benfica-champions-league-playoff-second-leg-match-report", "category": "match_report", "emoji_tag": "⚪", "core_event": "来自 The Guardian 的赛事报道。Vinícius has last word as Real Madrid wrap up victory over Benfica", "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。", "gossip_rating": null, "gossip_label": null, "key_players": ["Vinícius", "Real Madrid", "Benfica"]}, {"source": "The Guardian", "title": "Outrage in Austria after man ordered to pay female footballers €625 each for secretly filming dressing room", "url": "https://www.theguardian.com/football/2026/feb/25/outrage-in-austria-after-man-secretly-filmed-dressing-room-female-players", "category": "transfer", "emoji_tag": "⚽", "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Outrage in Austria after man ordered to pay female footballers €625 each for secretly filming dressing room", "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。", "gossip_rating": 2, "gossip_label": "野史流言", "key_players": ["Outrage", "Austria"]}, {"source": "The Guardian", "title": "Nearly blind refugee abandoned by US border patrol found dead in Buffalo", "url": "https://www.theguardian.com/us-news/2026/feb/25/border-patrol-refugee-buffalo", "category": "injury", "emoji_tag": "⚽", "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Nearly blind refugee abandoned by US border patrol found dead in Buffalo", "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。", "gossip_rating": null, "gossip_label": null, "key_players": ["Nearly", "Buffalo"]}, {"source": "The Guardian", "title": "Iran enters critical nuclear talks with US insisting deal is within reach", "url": "https://www.theguardian.com/world/2026/feb/25/us-iran-nuclear-talks-critical-stage-trump", "category": "transfer", "emoji_tag": "⚽", "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Iran enters critical nuclear talks with US insisting deal is within reach", "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。", "gossip_rating": 2, "gossip_label": "野史流言", "key_players": ["Iran"]}];
+const CL={'transfer':'转会情报','match_report':'赛事战报','injury':'伤病速递'};
+const CE={'transfer':'TRANSFER INTEL','match_report':'MATCH REPORT','injury':'INJURY UPDATE'};
+function st(n){let s='';for(let i=1;i<=5;i++)s+=`<span class="star ${i<=n?'on':'off'}">★</span>`;return s;}
+function mkCard(a){
+  const d=document.createElement('div');
+  d.className=`card ${a.category}`;
+  d.onclick=()=>openMo(a);
+  const gH=a.gossip_rating!=null?`<div class="gs">${st(a.gossip_rating)}<span class="gl">${a.gossip_label}</span></div>`:'';
+  const tH=(a.key_players||[]).slice(0,3).map(p=>`<span class="tag">${p}</span>`).join('');
+  d.innerHTML=`
+    <div class="ch"><div class="ce">${a.emoji_tag}</div>
+    <div><div class="cs">${a.source}</div><span class="cb cat-${a.category}">${CL[a.category]}</span></div></div>
+    <div class="ct">${a.title}</div>
+    <div class="csum">${a.core_event}</div>
+    ${gH}
+    <div class="cf"><div class="ctags">${tH}</div><span class="rm">战术板 →</span></div>`;
+  return d;
+}
+function render(){
+  const G={'all':document.getElementById('g-all'),'transfer':document.getElementById('g-transfer'),'match_report':document.getElementById('g-match_report'),'injury':document.getElementById('g-injury')};
+  DATA.forEach(a=>{G.all.appendChild(mkCard(a));if(G[a.category])G[a.category].appendChild(mkCard(a));});
+  Object.values(G).forEach(g=>{if(!g.children.length)g.innerHTML='<div class="empty">// NO DATA</div>';});
+}
+function showSec(k,btn){
+  document.querySelectorAll('.sec').forEach(s=>s.classList.remove('active'));
+  document.querySelectorAll('.nt').forEach(t=>t.classList.remove('active'));
+  document.getElementById(`s-${k}`).classList.add('active');
+  btn.classList.add('active');
+}
+function openMo(a){
+  document.getElementById('m-lb').textContent=`// ${CE[a.category]} · ${a.source.toUpperCase()}`;
+  document.getElementById('m-tt').textContent=a.title;
+  document.getElementById('m-co').textContent=a.core_event;
+  document.getElementById('m-im').textContent=a.tactical_financial_impact;
+  document.getElementById('m-lk').href=a.url;
+  document.getElementById('m-pl').innerHTML=(a.key_players||[]).map(p=>`<span class="pc">${p}</span>`).join('');
+  const sr=document.getElementById('m-sr');
+  if(a.gossip_rating!=null){sr.style.display='flex';document.getElementById('m-st').innerHTML=st(a.gossip_rating);document.getElementById('m-gl').textContent=a.gossip_label||'';}
+  else sr.style.display='none';
+  document.getElementById('mo').classList.add('open');
+  document.body.style.overflow='hidden';
+}
+function closeMo(e){
+  if(e&&e.target!==document.getElementById('mo'))return;
+  document.getElementById('mo').classList.remove('open');
+  document.body.style.overflow='';
+}
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeMo(null);});
+render();
+</script>
+</body>
+</html>
