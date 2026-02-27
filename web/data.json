@@ -1,136 +1,17 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Real Madrid win 'for everyone who stands against racism'",
-    "url": "https://www.bbc.com/sport/football/articles/cewzn4leyx1o",
-    "category": "match_report",
-    "emoji_tag": "⚪",
-    "core_event": "来自 BBC Sport 的赛事报道。Real Madrid win 'for everyone who stands against racism'",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Real Madrid"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Leaders Coventry overcome Sheff Utd with clinical comeback",
-    "url": "https://www.bbc.com/sport/football/live/c78x7x5dqvjt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Leaders Coventry overcome Sheff Utd with clinical comeback",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Leaders Coventry",
-      "Sheff Utd"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Spurs' injured outfield XI - who are they missing most?",
-    "url": "https://www.bbc.com/sport/football/teams/tottenham-hotspur",
-    "category": "injury",
-    "emoji_tag": "⚪",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Spurs' injured outfield XI - who are they missing most?",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Spurs"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "'I'm ready' - Park bids to show Man Utd form for England",
-    "url": "https://www.bbc.com/sport/football/articles/c5ykx4nqgv6o",
+    "title": "Sacking Amorim could cost Man Utd nearly £16m",
+    "url": "https://www.bbc.com/sport/football/articles/cpv812n1w7vo",
     "category": "transfer",
     "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。'I'm ready' - Park bids to show Man Utd form for England",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Sacking Amorim could cost Man Utd nearly £16m",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Park",
-      "Man Utd",
-      "England"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Galatasaray hold off Juventus in epic extra-time thriller",
-    "url": "https://www.bbc.com/sport/football/live/cjd9z9k5dd2t",
-    "category": "match_report",
-    "emoji_tag": "⚫",
-    "core_event": "来自 BBC Sport 的赛事报道。Galatasaray hold off Juventus in epic extra-time thriller",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Galatasaray",
-      "Juventus"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Vinicius Jr scores as Real Madrid see off Benfica",
-    "url": "https://www.bbc.com/sport/football/live/cq5747devq8t",
-    "category": "match_report",
-    "emoji_tag": "⚪",
-    "core_event": "来自 BBC Sport 的赛事报道。Vinicius Jr scores as Real Madrid see off Benfica",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Vinicius Jr",
-      "Real Madrid",
-      "Benfica"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Atalanta cap comeback with last-kick penalty to stun Dortmund",
-    "url": "https://www.bbc.com/sport/football/live/c86y1ylq9pwt",
-    "category": "match_report",
-    "emoji_tag": "🟡",
-    "core_event": "来自 BBC Sport 的赛事报道。Atalanta cap comeback with last-kick penalty to stun Dortmund",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Atalanta",
-      "Dortmund"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Man Utd post profit but debt rises to £1.3bn",
-    "url": "https://www.bbc.com/sport/football/articles/c4gq70yqv0do",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man Utd post profit but debt rises to £1.3bn",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
+      "Sacking Amorim",
       "Man Utd"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Norwich cruise to win over relegated Wednesday",
-    "url": "https://www.bbc.com/sport/football/live/cpd848lqpvlt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Norwich cruise to win over relegated Wednesday",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Norwich",
-      "Wednesday"
     ]
   },
   {
@@ -149,17 +30,93 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Stoke put another dent in Oxford's survival bid",
-    "url": "https://www.bbc.com/sport/football/live/cdjm9mwejjlt",
+    "title": "Celtic out of Europa League despite historic win in Stuttgart",
+    "url": "https://www.bbc.com/sport/football/live/clyz8ej57get",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Celtic out of Europa League despite historic win in Stuttgart",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Celtic",
+      "Europa League",
+      "Stuttgart"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Fans of richest PL clubs pay £74 per match as ticket revenue soars",
+    "url": "https://www.bbc.com/sport/articles/c2lrxyw4p02o",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Stoke put another dent in Oxford's survival bid",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Fans of richest PL clubs pay £74 per match as ticket revenue soars",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Stoke",
-      "Oxford"
+      "Fans"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "How have Chelsea made biggest loss in English football history?",
+    "url": "https://www.bbc.com/sport/football/articles/crrxjyk54zpo",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。How have Chelsea made biggest loss in English football history?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Chelsea",
+      "English"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Brentford boss Andrews signs new deal to 2032",
+    "url": "https://www.bbc.com/sport/football/articles/czx4097l7gxo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Brentford boss Andrews signs new deal to 2032",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
+    "key_players": [
+      "Brentford",
+      "Andrews"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Football Daily. Euro Leagues: Italian drama & Diego Simeone’s future. Audio, 48 minutes Football Daily Euro Leagues: Italian drama & Diego Simeone’s future",
+    "url": "https://www.bbc.com/sounds/play/p0n3l17t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. Euro Leagues: Italian drama & Diego Simeone’s future. Audio, 48 minutes Football Daily Euro Leagues: Italian drama & Diego Simeone’s future",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Football Daily",
+      "Euro Leagues",
+      "Italian",
+      "Diego Simeone"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Real Madrid win 'for everyone who stands against racism'",
+    "url": "https://www.bbc.com/sport/football/articles/cewzn4leyx1o",
+    "category": "match_report",
+    "emoji_tag": "⚪",
+    "core_event": "来自 BBC Sport 的赛事报道。Real Madrid win 'for everyone who stands against racism'",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Real Madrid"
     ]
   },
   {
@@ -221,47 +178,76 @@
     ]
   },
   {
-    "source": "The Guardian",
-    "title": "Champions League Bodø/Glimt bask in ‘crazy’ victory over shellshocked Inter",
-    "url": "https://www.theguardian.com/football/2026/feb/25/bodo-glimt-bask-crazy-champions-league-victory-shellshocked-inter",
+    "source": "BBC Sport",
+    "title": "VAR vs TMO – what are the key differences?",
+    "url": "https://www.bbc.com/sport/articles/cvgjp5v000go",
     "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 The Guardian 的赛事报道。Champions League Bodø/Glimt bask in ‘crazy’ victory over shellshocked Inter",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。VAR vs TMO – what are the key differences?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
-    "key_players": [
-      "Champions League",
-      "Glimt",
-      "Inter"
-    ]
+    "key_players": []
   },
   {
-    "source": "The Guardian",
-    "title": "Football Daily Sign up to get our free and (sometimes) funny email",
-    "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+    "source": "BBC Sport",
+    "title": "Where do iconic football moves originate from?",
+    "url": "https://www.bbc.com/sport/football/articles/c20g5vq14vyo",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Football Daily Sign up to get our free and (sometimes) funny email",
-    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Football Daily Sign"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Sheffield Wednesday Takeover collapses as would-be buyers end their interest",
-    "url": "https://www.theguardian.com/football/2026/feb/25/sheffield-wednesday-buyers-end-takeover-interest",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Sheffield Wednesday Takeover collapses as would-be buyers end their interest",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Where do iconic football moves originate from?",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Sheffield Wednesday Takeover"
+      "Where"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Vinicius scores but Real Madrid beaten by Osasuna",
+    "url": "https://www.bbc.com/sport/football/live/cwy9e763vx5t",
+    "category": "match_report",
+    "emoji_tag": "⚪",
+    "core_event": "来自 BBC Sport 的赛事报道。Vinicius scores but Real Madrid beaten by Osasuna",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Vinicius",
+      "Real Madrid",
+      "Osasuna"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Cristiano Ronaldo Star buys 25% stake in second division club Almería",
+    "url": "https://www.theguardian.com/football/2026/feb/26/cristiano-ronaldo-buys-25-per-cent-stake-in-spanish-second-division-club-almeria",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Cristiano Ronaldo Star buys 25% stake in second division club Almería",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Cristiano Ronaldo Star",
+      "Almería"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Football Weekly Extra Atalanta’s stunning comeback and Juve’s costly near-miss",
+    "url": "https://www.theguardian.com/football/audio/2026/feb/26/atalanta-stunning-comeback-juventus-near-miss-football-weekly-extra-podcast",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Football Weekly Extra Atalanta’s stunning comeback and Juve’s costly near-miss",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Football Weekly Extra",
+      "Atalanta",
+      "Juve"
     ]
   },
   {
@@ -281,79 +267,61 @@
   },
   {
     "source": "The Guardian",
-    "title": "Outrage in Austria after man ordered to pay female footballers €625 each for secretly filming dressing room",
-    "url": "https://www.theguardian.com/football/2026/feb/25/outrage-in-austria-after-man-secretly-filmed-dressing-room-female-players",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Outrage in Austria after man ordered to pay female footballers €625 each for secretly filming dressing room",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Outrage",
-      "Austria"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Vinícius has last word as Real Madrid wrap up victory over Benfica",
-    "url": "https://www.theguardian.com/football/2026/feb/25/real-madrid-benfica-champions-league-playoff-second-leg-match-report",
+    "title": "David Squires on … the spectacular own goal that united the world",
+    "url": "https://www.theguardian.com/football/picture/2026/feb/26/david-squires-josh-oluwayemi-own-goal-australia-football-a-league-ntwnfb",
     "category": "match_report",
-    "emoji_tag": "⚪",
-    "core_event": "来自 The Guardian 的赛事报道。Vinícius has last word as Real Madrid wrap up victory over Benfica",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。David Squires on … the spectacular own goal that united the world",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Vinícius",
-      "Real Madrid",
-      "Benfica"
+      "David Squires"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Bodø/Glimt bask in ‘crazy’ Champions League victory over shellshocked Inter",
-    "url": "https://www.theguardian.com/football/2026/feb/25/bodo-glimt-bask-crazy-champions-league-victory-shellshocked-inter",
-    "category": "match_report",
+    "title": "Chelsea made English record £355m loss in 2024-25 season, Uefa data reveals",
+    "url": "https://www.theguardian.com/football/2026/feb/26/chelsea-made-english-record-355m-loss-in-2024-25-season-uefa-data-reveals",
+    "category": "transfer",
     "emoji_tag": "🔵",
-    "core_event": "来自 The Guardian 的赛事报道。Bodø/Glimt bask in ‘crazy’ Champions League victory over shellshocked Inter",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Glimt",
-      "Champions League",
-      "Inter"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Nearly blind refugee abandoned by US border patrol found dead in Buffalo",
-    "url": "https://www.theguardian.com/us-news/2026/feb/25/border-patrol-refugee-buffalo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Nearly blind refugee abandoned by US border patrol found dead in Buffalo",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Nearly",
-      "Buffalo"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "US basketball player Jarred Shaw escaped execution in Indonesia, but his prison ordeal continues",
-    "url": "https://www.theguardian.com/sport/2026/feb/24/jarred-shaw-indonesian-jail-crohns",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。US basketball player Jarred Shaw escaped execution in Indonesia, but his prison ordeal continues",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Chelsea made English record £355m loss in 2024-25 season, Uefa data reveals",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Jarred Shaw",
-      "Indonesia"
+      "Chelsea",
+      "English",
+      "Uefa"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "US-Iran nuclear talks end without a deal as threat of war grows",
+    "url": "https://www.theguardian.com/world/2026/feb/26/trump-attack-threat-looms-as-nuclear-talks-between-us-and-iran-go-to-wire",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。US-Iran nuclear talks end without a deal as threat of war grows",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Iran"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Anthropic says it ‘cannot in good conscience’ allow Pentagon to remove AI checks",
+    "url": "https://www.theguardian.com/us-news/2026/feb/26/anthropic-pentagon-claude",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Anthropic says it ‘cannot in good conscience’ allow Pentagon to remove AI checks",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Anthropic",
+      "Pentagon"
     ]
   }
 ]
