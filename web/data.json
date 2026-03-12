@@ -1,271 +1,362 @@
 [
   {
     "source": "BBC Sport",
-    "title": "How Kinsky's horror night unfolded before 17th-minute substitution",
-    "url": "https://www.bbc.com/sport/football/articles/cly18g0lym4o",
+    "title": "Valverde's sumptuous hat-trick punishes Man City",
+    "url": "https://www.bbc.com/sport/football/live/cwy6w05gzwwt",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。How Kinsky's horror night unfolded before 17th-minute substitution",
+    "emoji_tag": "🩵",
+    "core_event": "来自 BBC Sport 的赛事报道。Valverde's sumptuous hat-trick punishes Man City",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "How Kinsky"
+      "Valverde",
+      "Man City"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Sense of missed opportunity for Newcastle after late Barca blow",
-    "url": "https://www.bbc.com/sport/football/articles/cvg37lqdy46o",
+    "title": "Leaders Coventry beat Preston to go eight points clear",
+    "url": "https://www.bbc.com/sport/football/live/c8xy720dyegt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Leaders Coventry beat Preston to go eight points clear",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Leaders Coventry",
+      "Preston"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "'Doomsday scenario' for Spurs after 'blows' - Van de Ven",
+    "url": "https://www.bbc.com/sport/football/articles/cqlgxeqz053o",
     "category": "injury",
-    "emoji_tag": "⚫",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Sense of missed opportunity for Newcastle after late Barca blow",
+    "emoji_tag": "⚪",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。'Doomsday scenario' for Spurs after 'blows' - Van de Ven",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Sense",
-      "Newcastle",
-      "Barca"
+      "Doomsday",
+      "Spurs"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Keeper Kinsky substituted after only 17 minutes as Spurs collapse at Atletico",
-    "url": "https://www.bbc.com/sport/football/live/cwyxjw5qvzqt",
-    "category": "match_report",
-    "emoji_tag": "⚪",
-    "core_event": "来自 BBC Sport 的赛事报道。Keeper Kinsky substituted after only 17 minutes as Spurs collapse at Atletico",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Keeper Kinsky",
-      "Spurs",
-      "Atletico"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Last-gasp penalty denies Ipswich victory at Stoke",
-    "url": "https://www.bbc.com/sport/football/live/c2e4vgmlr4lt",
+    "title": "Boro's promotion hopes hit by loss to Charlton",
+    "url": "https://www.bbc.com/sport/football/live/cvg1352rdpnt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Last-gasp penalty denies Ipswich victory at Stoke",
+    "core_event": "来自 BBC Sport 的赛事报道。Boro's promotion hopes hit by loss to Charlton",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Last",
-      "Ipswich",
-      "Stoke"
+      "Boro",
+      "Charlton"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Millwall beat Derby to strengthen automatic promotion bid",
-    "url": "https://www.bbc.com/sport/football/live/cx28eq4vdd3t",
+    "title": "Donley scores as Oxford beat Blackburn",
+    "url": "https://www.bbc.com/sport/football/live/c8egj209xg5t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Donley scores as Oxford beat Blackburn",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Donley",
+      "Oxford",
+      "Blackburn"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Birmingham end losing run with comfortable win over QPR",
+    "url": "https://www.bbc.com/sport/football/live/cn5g390lydxt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Birmingham end losing run with comfortable win over QPR",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Birmingham"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Norwich secure comeback win against Blades",
+    "url": "https://www.bbc.com/sport/football/live/cm215rjvzd0t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Norwich secure comeback win against Blades",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Norwich",
+      "Blades"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Sheff Wed to be docked 15 points next season if preferred bidder deal completed",
+    "url": "https://www.bbc.com/sport/football/articles/c0lj5n6gl9ro",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Millwall beat Derby to strengthen automatic promotion bid",
+    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Sheff Wed to be docked 15 points next season if preferred bidder deal completed",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
     "key_players": [
-      "Millwall",
-      "Derby"
+      "Sheff Wed"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Wrexham's Moore a 'big doubt' for Wales play-offs",
-    "url": "https://www.bbc.com/sport/football/articles/cwy8ly8078qo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Wrexham's Moore a 'big doubt' for Wales play-offs",
-    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Wrexham",
-      "Moore",
-      "Wales"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Lamine Yamal stuns Newcastle with 96th-minute penalty in draw",
-    "url": "https://www.bbc.com/sport/football/live/c0rjxqpdjert",
-    "category": "match_report",
-    "emoji_tag": "⚫",
-    "core_event": "来自 BBC Sport 的赛事报道。Lamine Yamal stuns Newcastle with 96th-minute penalty in draw",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Lamine Yamal",
-      "Newcastle"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Foxes end 10-game winless run by beating Bristol City",
-    "url": "https://www.bbc.com/sport/football/live/c39w317y83pt",
+    "title": "UEFA Europa League Agg Bologna Bologna (0) Aggregate score 0 plays Roma Roma (0) Aggregate score 0 at 17:45 17:45 on Thu the 12 of Mar",
+    "url": "https://www.bbc.com/sport/football/live/ckg3pddrx9dt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Foxes end 10-game winless run by beating Bristol City",
+    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg Bologna Bologna (0) Aggregate score 0 plays Roma Roma (0) Aggregate score 0 at 17:45 17:45 on Thu the 12 of Mar",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Foxes",
-      "Bristol City"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Sheff Wed denied rare win by late Watford leveller",
-    "url": "https://www.bbc.com/sport/football/live/cx28eq4vd3yt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Sheff Wed denied rare win by late Watford leveller",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Sheff Wed",
-      "Watford"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Aluko awarded more than £300,000 in Barton libel case",
-    "url": "https://www.bbc.com/news/articles/c8eg2n83y1eo",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Aluko awarded more than £300,000 in Barton libel case",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Aluko",
-      "Barton"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "UEFA Champions League Agg Leverkusen Bayer Leverkusen (0) Aggregate score 0 plays Arsenal Arsenal (0) Aggregate score 0 at 17:45 17:45 on Wed the 11 of Mar",
-    "url": "https://www.bbc.com/sport/football/live/c5yvwz1d5l2t",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Champions League Agg Leverkusen Bayer Leverkusen (0) Aggregate score 0 plays Arsenal Arsenal (0) Aggregate score 0 at 17:45 17:45 on Wed the 11 of Mar",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Champions League Agg",
-      "Leverkusen Bayer Leverkusen",
+      "Europa League Agg",
+      "Bologna Bologna",
       "Aggregate",
-      "Arsenal Arsenal"
+      "Roma Roma"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "UEFA Champions League Agg Bodø/Glimt Bodø / Glimt (0) Aggregate score 0 plays Sporting Sporting CP (0) Aggregate score 0 at 20:00 20:00 on Wed the 11 of Mar",
-    "url": "https://www.bbc.com/sport/football/live/cpd853w606wt",
+    "title": "UEFA Europa League Agg Lille Lille (0) Aggregate score 0 plays Aston Villa Aston Villa (0) Aggregate score 0 at 17:45 17:45 on Thu the 12 of Mar",
+    "url": "https://www.bbc.com/sport/football/live/c5y6ellgzrxt",
+    "category": "match_report",
+    "emoji_tag": "🟣",
+    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg Lille Lille (0) Aggregate score 0 plays Aston Villa Aston Villa (0) Aggregate score 0 at 17:45 17:45 on Thu the 12 of Mar",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Europa League Agg",
+      "Lille Lille",
+      "Aggregate",
+      "Aston Villa Aston"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "UEFA Europa League Agg Panathinaikos Panathinaikos (0) Aggregate score 0 plays Betis Real Betis (0) Aggregate score 0 at 17:45 17:45 on Thu the 12 of Mar",
+    "url": "https://www.bbc.com/sport/football/live/cddnpzzeve1t",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Champions League Agg Bodø/Glimt Bodø / Glimt (0) Aggregate score 0 plays Sporting Sporting CP (0) Aggregate score 0 at 20:00 20:00 on Wed the 11 of Mar",
+    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg Panathinaikos Panathinaikos (0) Aggregate score 0 plays Betis Real Betis (0) Aggregate score 0 at 17:45 17:45 on Thu the 12 of Mar",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Champions League Agg",
-      "Glimt",
+      "Europa League Agg",
+      "Panathinaikos Panathinaikos",
       "Aggregate",
-      "Sporting Sporting"
+      "Betis Real Betis"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "UEFA Champions League Agg Paris SG Paris Saint-Germain (0) Aggregate score 0 plays Chelsea Chelsea (0) Aggregate score 0 at 20:00 20:00 on Wed the 11 of Mar",
-    "url": "https://www.bbc.com/sport/football/live/cy7j13rvznvt",
+    "title": "UEFA Europa League Agg Stuttgart Stuttgart (0) Aggregate score 0 plays Porto Porto (0) Aggregate score 0 at 17:45 17:45 on Thu the 12 of Mar",
+    "url": "https://www.bbc.com/sport/football/live/ce3gp77qrp1t",
     "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Champions League Agg Paris SG Paris Saint-Germain (0) Aggregate score 0 plays Chelsea Chelsea (0) Aggregate score 0 at 20:00 20:00 on Wed the 11 of Mar",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg Stuttgart Stuttgart (0) Aggregate score 0 plays Porto Porto (0) Aggregate score 0 at 17:45 17:45 on Thu the 12 of Mar",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Champions League Agg",
-      "Paris",
-      "Paris Saint",
-      "Germain"
+      "Europa League Agg",
+      "Stuttgart Stuttgart",
+      "Aggregate",
+      "Porto Porto"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "UEFA Champions League Agg Real Madrid Real Madrid (0) Aggregate score 0 plays Man City Manchester City (0) Aggregate score 0 at 20:00 20:00 on Wed the 11 of Mar",
-    "url": "https://www.bbc.com/sport/football/live/cwy6w05gzwwt",
+    "title": "UEFA Europa League Agg Celta Vigo Celta Vigo (0) Aggregate score 0 plays Lyon Olympique Lyonnais (0) Aggregate score 0 at 20:00 20:00 on Thu the 12 of Mar",
+    "url": "https://www.bbc.com/sport/football/live/c5yq9005n45t",
     "category": "match_report",
-    "emoji_tag": "🩵",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Champions League Agg Real Madrid Real Madrid (0) Aggregate score 0 plays Man City Manchester City (0) Aggregate score 0 at 20:00 20:00 on Wed the 11 of Mar",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg Celta Vigo Celta Vigo (0) Aggregate score 0 plays Lyon Olympique Lyonnais (0) Aggregate score 0 at 20:00 20:00 on Thu the 12 of Mar",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Champions League Agg",
-      "Real Madrid Real",
-      "Madrid",
+      "Europa League Agg",
+      "Celta Vigo Celta",
+      "Vigo",
       "Aggregate"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "BBC Women's Football Weekly. The WSL returns, Scotland net seven and Bronze remains gold standard. Audio, 37 minutes BBC Women's Football Weekly The WSL returns, Scotland net seven and Bronze remains gold standard",
-    "url": "https://www.bbc.com/sounds/play/p0n5sgpg",
+    "title": "UEFA Europa League Agg Ferencváros Ferencváros (0) Aggregate score 0 plays Braga Sporting Braga (0) Aggregate score 0 at 20:00 20:00 on Thu the 12 of Mar",
+    "url": "https://www.bbc.com/sport/football/live/crm8pvv3pe0t",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。BBC Women's Football Weekly. The WSL returns, Scotland net seven and Bronze remains gold standard. Audio, 37 minutes BBC Women's Football Weekly The WSL returns, Scotland net seven and Bronze remains gold standard",
+    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg Ferencváros Ferencváros (0) Aggregate score 0 plays Braga Sporting Braga (0) Aggregate score 0 at 20:00 20:00 on Thu the 12 of Mar",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Women",
-      "Football Weekly",
-      "Scotland",
-      "Bronze"
+      "Europa League Agg",
+      "Ferencváros Ferencváros",
+      "Aggregate",
+      "Braga Sporting Braga"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "UEFA Europa League Agg Genk Genk (0) Aggregate score 0 plays Freiburg Freiburg (0) Aggregate score 0 at 20:00 20:00 on Thu the 12 of Mar",
+    "url": "https://www.bbc.com/sport/football/live/c0lj2440yd6t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg Genk Genk (0) Aggregate score 0 plays Freiburg Freiburg (0) Aggregate score 0 at 20:00 20:00 on Thu the 12 of Mar",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Europa League Agg",
+      "Genk Genk",
+      "Aggregate",
+      "Freiburg Freiburg"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Lamine Yamal hurts Newcastle hopes as Barcelona snatch draw with last kick",
-    "url": "https://www.theguardian.com/football/2026/mar/10/newcastle-barcelona-champions-league-last-16-first-leg-match-report",
+    "title": "Dibble to Duverger Other goalkeeper nightmares after Kinsky’s horror show",
+    "url": "https://www.theguardian.com/football/2026/mar/11/other-goalkeeper-nightmares-antonin-kinsky-spurs-atletico-madrid-dibble-to-duverger",
     "category": "match_report",
-    "emoji_tag": "⚫",
-    "core_event": "来自 The Guardian 的赛事报道。Lamine Yamal hurts Newcastle hopes as Barcelona snatch draw with last kick",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Dibble to Duverger Other goalkeeper nightmares after Kinsky’s horror show",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Dibble",
+      "Duverger Other",
+      "Kinsky"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Championship Millwall keep promotion push going, Leicester claim vital victory",
+    "url": "https://www.theguardian.com/football/2026/mar/10/championship-roundup-millwall-keep-promotion-push-going-with-win-against-derby",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Championship Millwall keep promotion push going, Leicester claim vital victory",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Championship Millwall",
+      "Leicester"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Valverde’s astonishing Real Madrid hat-trick leaves Manchester City on brink",
+    "url": "https://www.theguardian.com/football/2026/mar/11/real-madrid-manchester-city-champions-league-last-16-first-leg-match-report",
+    "category": "match_report",
+    "emoji_tag": "🩵",
+    "core_event": "来自 The Guardian 的赛事报道。Valverde’s astonishing Real Madrid hat-trick leaves Manchester City on brink",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Valverde",
+      "Real Madrid",
+      "Manchester City"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Havertz’s late penalty on return to Leverkusen rescues first-leg draw for Arsenal",
+    "url": "https://www.theguardian.com/football/2026/mar/11/bayer-leverkusen-arsenal-champions-league-last-16-first-leg-match-report",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Havertz’s late penalty on return to Leverkusen rescues first-leg draw for Arsenal",
     "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Lamine Yamal",
-      "Newcastle",
-      "Barcelona"
+      "Havertz",
+      "Leverkusen",
+      "Arsenal"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Havertz eager to make up for lost time for Arsenal against familiar foe",
-    "url": "https://www.theguardian.com/football/2026/mar/10/havertz-eager-to-make-up-for-lost-time-for-arsenal-against-familiar-foe",
-    "category": "match_report",
+    "title": "Igor Tudor to carry on at Spurs but future in doubt beyond Liverpool match",
+    "url": "https://www.theguardian.com/football/2026/mar/11/igor-tudor-to-carry-on-at-spurs-but-future-in-doubt-beyond-liverpool-match",
+    "category": "injury",
     "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Havertz eager to make up for lost time for Arsenal against familiar foe",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Igor Tudor to carry on at Spurs but future in doubt beyond Liverpool match",
+    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Havertz",
-      "Arsenal"
+      "Igor Tudor",
+      "Spurs",
+      "Liverpool"
     ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Barcelona fan ‘gutted’ at missing Newcastle game after going to wrong St James’ Park",
+    "url": "https://www.theguardian.com/football/2026/mar/11/barcelona-fan-wrong-st-james-park-misses-newcastle-game-exeter",
+    "category": "injury",
+    "emoji_tag": "⚫",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Barcelona fan ‘gutted’ at missing Newcastle game after going to wrong St James’ Park",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Barcelona",
+      "Newcastle",
+      "St James",
+      "Park"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Noma chef resigns amid shocking allegations of physical abuse of staff",
+    "url": "https://www.theguardian.com/food/2026/mar/11/noma-chef-resigns-rene-redzepi",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "【官方】The Guardian 报道此次转会已正式完成。Noma chef resigns amid shocking allegations of physical abuse of staff",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
+    "key_players": [
+      "Noma"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "US orders petroleum reserve release in bid to calm markets – as it happened",
+    "url": "https://www.theguardian.com/world/live/2026/mar/11/iran-war-live-updates-trump-oil-hormuz-protestors-us-israel-beirut-middle-east-latest-news",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。US orders petroleum reserve release in bid to calm markets – as it happened",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": []
   }
 ]
