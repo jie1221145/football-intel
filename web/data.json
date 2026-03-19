@@ -1,363 +1,368 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Morocco awarded Afcon title after CAF overturns result",
-    "url": "https://www.bbc.com/sport/football/articles/ce949glzzglo",
+    "title": "Even when they win it still ends in defeat - Spurs' season summed up",
+    "url": "https://www.bbc.com/sport/football/articles/c5y5y8nxl7xo",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Morocco awarded Afcon title after CAF overturns result",
+    "emoji_tag": "⚪",
+    "core_event": "来自 BBC Sport 的赛事报道。Even when they win it still ends in defeat - Spurs' season summed up",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Morocco",
+      "Even",
+      "Spurs"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "'One of a kind' Messi hits 900 career goals - numbers behind milestone",
+    "url": "https://www.bbc.com/sport/football/articles/c0rj25g225ro",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。'One of a kind' Messi hits 900 career goals - numbers behind milestone",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Messi"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Kane reaches 50 Champions League goals with double",
+    "url": "https://www.bbc.com/sport/football/live/cj4zjj7g40et",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Kane reaches 50 Champions League goals with double",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Kane",
+      "Champions League"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Liverpool thrash Galatasaray to set up PSG quarter-final",
+    "url": "https://www.bbc.com/sport/football/live/c1mjvv4y4vdt",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Liverpool thrash Galatasaray to set up PSG quarter-final",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Liverpool",
+      "Galatasaray"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Southampton into top six with win over Norwich",
+    "url": "https://www.bbc.com/sport/football/live/cvg5yy64e1wt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Southampton into top six with win over Norwich",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Southampton",
+      "Norwich"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Tudor lands first Spurs victory but Atleti book Barca date",
+    "url": "https://www.bbc.com/sport/football/live/cq6q33n16qzt",
+    "category": "match_report",
+    "emoji_tag": "⚪",
+    "core_event": "来自 BBC Sport 的赛事报道。Tudor lands first Spurs victory but Atleti book Barca date",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Tudor",
+      "Spurs",
+      "Atleti",
+      "Barca"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Rampant Barca score seven as Newcastle knocked out",
+    "url": "https://www.bbc.com/sport/football/live/cn48kk9r4dkt",
+    "category": "match_report",
+    "emoji_tag": "⚫",
+    "core_event": "来自 BBC Sport 的赛事报道。Rampant Barca score seven as Newcastle knocked out",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Rampant Barca",
+      "Newcastle"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Chelsea up to second as teenager Potter scores on first start",
+    "url": "https://www.bbc.com/sport/football/live/c0ljrrdyl2kt",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。Chelsea up to second as teenager Potter scores on first start",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Chelsea",
+      "Potter"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Pepi set for medical at Fulham before £28.5m move",
+    "url": "https://www.bbc.com/sport/football/articles/czr0r4n5zjpo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Pepi set for medical at Fulham before £28.5m move",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Pepi",
+      "Fulham"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Barcelona seek second Rashford loan - Thursday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/clyzy62qp4no",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Barcelona seek second Rashford loan - Thursday's gossip",
+    "tactical_financial_impact": "租借操作灵活，不占永久薪资配额，是一种低风险补强策略。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Barcelona",
+      "Rashford",
+      "Thursday"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Why ex-Palace winger Olise is now in Ballon d'Or contention at Bayern",
+    "url": "https://www.bbc.com/sport/football/articles/c5yjd459xreo",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Why ex-Palace winger Olise is now in Ballon d'Or contention at Bayern",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Palace",
+      "Olise",
+      "Ballon",
+      "Bayern"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Hoban scores twice as Glentoran close in on Larne - report & highlights",
+    "url": "https://www.bbc.com/sport/football/live/cwy1wpz9w7zt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Hoban scores twice as Glentoran close in on Larne - report & highlights",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Hoban",
+      "Glentoran",
+      "Larne"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Afcon final chaos - key questions answered",
+    "url": "https://www.bbc.com/sport/football/articles/cd707yj9pgzo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Afcon final chaos - key questions answered",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
       "Afcon"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Chelsea blown away by PSG to exit Champions League",
-    "url": "https://www.bbc.com/sport/football/live/c80j473e8g8t",
-    "category": "injury",
-    "emoji_tag": "🔵",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Chelsea blown away by PSG to exit Champions League",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Chelsea",
-      "Champions League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Real Madrid defeat leaves Man City with season-defining run",
-    "url": "https://www.bbc.com/sport/football/articles/c3636e11y2yo",
-    "category": "match_report",
-    "emoji_tag": "🩵",
-    "core_event": "来自 BBC Sport 的赛事报道。Real Madrid defeat leaves Man City with season-defining run",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Real Madrid",
-      "Man City"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Watford beat Wrexham to keep top six hopes alive",
-    "url": "https://www.bbc.com/sport/football/live/c77e0nzlrvnt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Watford beat Wrexham to keep top six hopes alive",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Watford",
-      "Wrexham"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Eze and Rice score as Arsenal cruise into quarters",
-    "url": "https://www.bbc.com/sport/football/live/c80j473e8rzt",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Eze and Rice score as Arsenal cruise into quarters",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Rice",
-      "Arsenal"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Why Bayern may have to play 16-year-old in goal",
-    "url": "https://www.bbc.com/sport/football/articles/c75e5nzvvv4o",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Why Bayern may have to play 16-year-old in goal",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Why Bayern"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Champions League Debrief: Arsenal win but disappointment for Chelsea & Man City. Audio, 32 minutes Champions League Debrief: Arsenal win but disappointment for Chelsea & Man City",
-    "url": "https://www.bbc.com/sounds/play/p0n776qg",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Champions League Debrief: Arsenal win but disappointment for Chelsea & Man City. Audio, 32 minutes Champions League Debrief: Arsenal win but disappointment for Chelsea & Man City",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Champions League Debrief",
-      "Arsenal",
-      "Chelsea",
-      "Man City"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "How Chelsea signed a star team with hidden payments",
-    "url": "https://www.bbc.com/sport/football/articles/cn48e171zlvo",
+    "title": "Iranian footballers return home after dropping Australian asylum bids",
+    "url": "https://www.bbc.com/news/articles/c5yvyl5ve8lo",
     "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。How Chelsea signed a star team with hidden payments",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Iranian footballers return home after dropping Australian asylum bids",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "How Chelsea"
+      "Iranian",
+      "Australian"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "VAR error cost Brighton penalty against Arsenal",
-    "url": "https://www.bbc.com/sport/football/articles/cn4gk591qkyo",
+    "title": "West Brom announce reduced losses of £17m",
+    "url": "https://www.bbc.com/sport/football/articles/cn0e0g6r7x7o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。West Brom announce reduced losses of £17m",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "West Brom"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "As it happened Read Taha Hashim's rolling report on a goal-filled night",
+    "url": "https://www.theguardian.com/football/live/2026/mar/18/champions-league-last-16-liverpool-galatasaray-tottenham-atletico-madrid-live",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。VAR error cost Brighton penalty against Arsenal",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。As it happened Read Taha Hashim's rolling report on a goal-filled night",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Brighton",
-      "Arsenal"
+      "Read Taha Hashim"
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "UEFA Champions League Agg Barcelona Barcelona (1) Aggregate score 1 plays Newcastle Newcastle United (1) Aggregate score 1 at 17:45 17:45 on Wed the 18 of Mar",
-    "url": "https://www.bbc.com/sport/football/live/cn48kk9r4dkt",
-    "category": "match_report",
+    "source": "The Guardian",
+    "title": "'We need to deal with this' Howe urges Newcastle to put thrashing behind them",
+    "url": "https://www.theguardian.com/football/2026/mar/18/we-need-to-deal-with-this-howe-urges-newcastle-to-put-thrashing-behind-them",
+    "category": "transfer",
     "emoji_tag": "⚫",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Champions League Agg Barcelona Barcelona (1) Aggregate score 1 plays Newcastle Newcastle United (1) Aggregate score 1 at 17:45 17:45 on Wed the 18 of Mar",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Champions League Agg",
-      "Barcelona Barcelona",
-      "Aggregate",
-      "Newcastle Newcastle United"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "UEFA Champions League Agg Bayern Munich Bayern Munich (6) Aggregate score 6 plays Atalanta Atalanta (1) Aggregate score 1 at 20:00 20:00 on Wed the 18 of Mar",
-    "url": "https://www.bbc.com/sport/football/live/cj4zjj7g40et",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Champions League Agg Bayern Munich Bayern Munich (6) Aggregate score 6 plays Atalanta Atalanta (1) Aggregate score 1 at 20:00 20:00 on Wed the 18 of Mar",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Champions League Agg",
-      "Bayern Munich Bayern",
-      "Munich",
-      "Aggregate"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "UEFA Champions League Agg Liverpool Liverpool (0) Aggregate score 0 plays Galatasaray Galatasaray (1) Aggregate score 1 at 20:00 20:00 on Wed the 18 of Mar",
-    "url": "https://www.bbc.com/sport/football/live/c1mjvv4y4vdt",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Champions League Agg Liverpool Liverpool (0) Aggregate score 0 plays Galatasaray Galatasaray (1) Aggregate score 1 at 20:00 20:00 on Wed the 18 of Mar",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Champions League Agg",
-      "Liverpool Liverpool",
-      "Aggregate",
-      "Galatasaray Galatasaray"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "UEFA Champions League Agg Spurs Tottenham Hotspur (2) Aggregate score 2 plays Atlético Atletico Madrid (5) Aggregate score 5 at 20:00 20:00 on Wed the 18 of Mar",
-    "url": "https://www.bbc.com/sport/football/live/cq6q33n16qzt",
-    "category": "match_report",
-    "emoji_tag": "⚪",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Champions League Agg Spurs Tottenham Hotspur (2) Aggregate score 2 plays Atlético Atletico Madrid (5) Aggregate score 5 at 20:00 20:00 on Wed the 18 of Mar",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Champions League Agg",
-      "Spurs Tottenham Hotspur",
-      "Aggregate",
-      "Atlético Atletico Madrid"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Arsenal trial and self-doubt: Valverde's journey to Real legend",
-    "url": "https://www.bbc.com/sport/football/articles/cd9g12yl111o",
-    "category": "injury",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Arsenal trial and self-doubt: Valverde's journey to Real legend",
-    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Arsenal",
-      "Valverde",
-      "Real"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "BBC Women's Football Weekly. Chelsea claim more silverware & Macario to NWSL? Audio, 39 minutes BBC Women's Football Weekly Chelsea claim more silverware & Macario to NWSL?",
-    "url": "https://www.bbc.com/sounds/play/p0n75k21",
-    "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 BBC Sport 的赛事报道。BBC Women's Football Weekly. Chelsea claim more silverware & Macario to NWSL? Audio, 39 minutes BBC Women's Football Weekly Chelsea claim more silverware & Macario to NWSL?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Women",
-      "Football Weekly",
-      "Chelsea",
-      "Macario"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Exclusive ‘A hell of a debate’: row looms over Champions League elite’s share of EFL deal payments",
-    "url": "https://www.theguardian.com/football/2026/mar/17/champions-league-premier-league-efl-deal",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Exclusive ‘A hell of a debate’: row looms over Champions League elite’s share of EFL deal payments",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。'We need to deal with this' Howe urges Newcastle to put thrashing behind them",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Exclusive",
-      "Champions League"
+      "Howe",
+      "Newcastle"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Reaction Guardiola admits Manchester City ‘still not complete’ after exit",
-    "url": "https://www.theguardian.com/football/2026/mar/18/pep-guardiola-manchester-city-not-complete-real-madrid-champions-league",
-    "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Reaction Guardiola admits Manchester City ‘still not complete’ after exit",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Reaction Guardiola",
-      "Manchester City"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Senegal stripped of Africa Cup of Nations title over walkout protest in final",
+    "title": "Football Senegal stripped of Africa Cup of Nations title over walkout protest in final",
     "url": "https://www.theguardian.com/football/2026/mar/17/senegal-stripped-of-africa-cup-of-nations-title-over-protest-in-chaotic-final",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Senegal stripped of Africa Cup of Nations title over walkout protest in final",
+    "core_event": "来自 The Guardian 的赛事报道。Football Senegal stripped of Africa Cup of Nations title over walkout protest in final",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Senegal",
+      "Football Senegal",
       "Africa Cup",
       "Nations"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Eze and Rice pick off Bayer Leverkusen as Arsenal cruise into quarter-finals",
-    "url": "https://www.theguardian.com/football/2026/mar/17/arsenal-bayer-leverkusen-champions-league-last-16-match-report",
+    "title": "Salah caps comeback to send Liverpool into last eight with rout of Galatasaray",
+    "url": "https://www.theguardian.com/football/2026/mar/18/liverpool-galatasaray-champions-league-last-16-match-report",
     "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Eze and Rice pick off Bayer Leverkusen as Arsenal cruise into quarter-finals",
+    "core_event": "来自 The Guardian 的赛事报道。Salah caps comeback to send Liverpool into last eight with rout of Galatasaray",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Rice",
-      "Bayer Leverkusen",
-      "Arsenal"
+      "Salah",
+      "Liverpool",
+      "Galatasaray"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Guardiola says Manchester City ‘still not complete’ after Champions League exit",
-    "url": "https://www.theguardian.com/football/2026/mar/18/pep-guardiola-manchester-city-not-complete-real-madrid-champions-league",
+    "title": "Simons stars but Spurs crash out of Champions League despite win over Atlético Madrid",
+    "url": "https://www.theguardian.com/football/2026/mar/18/tottenham-atletico-madrid-champions-league-last-16-match-report",
+    "category": "match_report",
+    "emoji_tag": "⚪",
+    "core_event": "来自 The Guardian 的赛事报道。Simons stars but Spurs crash out of Champions League despite win over Atlético Madrid",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Simons",
+      "Spurs",
+      "Champions League",
+      "Atlético Madrid"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "The WNBA’s new labor deal explained: what it means for pay, power and the league’s future",
+    "url": "https://www.theguardian.com/sport/2026/mar/18/wnba-cba-explained-salaries-revenue-player-pay-deal",
     "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Guardiola says Manchester City ‘still not complete’ after Champions League exit",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。The WNBA’s new labor deal explained: what it means for pay, power and the league’s future",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": []
+  },
+  {
+    "source": "The Guardian",
+    "title": "Kash Patel admits under oath FBI is buying location data on Americans",
+    "url": "https://www.theguardian.com/us-news/2026/mar/18/kash-patel-fbi-location-data",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Kash Patel admits under oath FBI is buying location data on Americans",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Guardiola",
-      "Manchester City",
-      "Champions League"
+      "Kash Patel",
+      "Americans"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Venezuela 3-2 United States: World Baseball Classic final – as it happened",
-    "url": "https://www.theguardian.com/sport/live/2026/mar/17/world-baseball-classic-championship-game-usa-venezuela-live-updates",
+    "title": "Nancy Mace draws White House ire over independent Middle East rescue efforts",
+    "url": "https://www.theguardian.com/world/2026/mar/18/nancy-mace-rescue-efforts-americans-middle-east",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Venezuela 3-2 United States: World Baseball Classic final – as it happened",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "来自 The Guardian 的赛事报道。Nancy Mace draws White House ire over independent Middle East rescue efforts",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Venezuela",
-      "United States",
-      "World Baseball Classic"
+      "Nancy Mace",
+      "White House",
+      "Middle East"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Subnautica 2 publisher’s CEO used ChatGPT in failed bid to avoid paying US$250m bonus to own studio head, court hears",
-    "url": "https://www.theguardian.com/technology/2026/mar/18/subnautica-2-publisher-krafton-ceo-reinstated-ai-chatgpt-failed-bid-avoid-paying-bonus",
-    "category": "transfer",
+    "title": "Live Middle East crisis live: Trump threatens to ‘blow up’ entire South Pars gasfield if Iran strikes Qatar",
+    "url": "https://www.theguardian.com/world/live/2026/mar/19/iran-war-live-updates-oil-prices-gas-field-strikes-pentagon-more-funds-trump-news",
+    "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Subnautica 2 publisher’s CEO used ChatGPT in failed bid to avoid paying US$250m bonus to own studio head, court hears",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Subnautica"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Death of influential Ali Larijani could be bigger loss to Iran than Khamenei",
-    "url": "https://www.theguardian.com/world/2026/mar/17/ali-larijani-influence-iran-profile",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Death of influential Ali Larijani could be bigger loss to Iran than Khamenei",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Live Middle East crisis live: Trump threatens to ‘blow up’ entire South Pars gasfield if Iran strikes Qatar",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Death",
-      "Ali Larijani",
-      "Iran",
-      "Khamenei"
+      "Live Middle East",
+      "Trump",
+      "South Pars",
+      "Iran"
     ]
   }
 ]
