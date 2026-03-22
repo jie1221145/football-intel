@@ -1,311 +1,355 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Man Utd fury at 'astonishing' and 'baffling' penalty decisions",
-    "url": "https://www.bbc.com/sport/football/articles/cwyd7rklyeyo",
+    "title": "The race no-one wants to win - are Everton serious top-five contenders?",
+    "url": "https://www.bbc.com/sport/football/articles/czd7104md18o",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Man Utd fury at 'astonishing' and 'baffling' penalty decisions",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。The race no-one wants to win - are Everton serious top-five contenders?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Man Utd"
+      "Everton"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "One final experiment? Unpicking Tuchel's latest England squad",
-    "url": "https://www.bbc.com/sport/football/articles/clyrnrgp6k6o",
+    "title": "'Not just goals, he's a great connecter' - should Welbeck be in England squad?",
+    "url": "https://www.bbc.com/sport/football/articles/c2k3dqjz55do",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。One final experiment? Unpicking Tuchel's latest England squad",
+    "core_event": "来自 BBC Sport 的赛事报道。'Not just goals, he's a great connecter' - should Welbeck be in England squad?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Unpicking Tuchel",
+      "Welbeck",
       "England"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Alisson out of Brazil squad and will miss Brighton",
-    "url": "https://www.bbc.com/sport/football/articles/crm1wr44vxvo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Alisson out of Brazil squad and will miss Brighton",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Alisson",
-      "Brazil",
-      "Brighton"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Man City's Trafford to start final but Arteta opts not to name Arsenal keeper",
-    "url": "https://www.bbc.com/sport/football/articles/cz0e7j5kj5vo",
+    "title": "Kane scores in Bayern win to edge closer to Bundesliga record",
+    "url": "https://www.bbc.com/sport/football/live/ckg353njr2dt",
     "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Man City's Trafford to start final but Arteta opts not to name Arsenal keeper",
+    "core_event": "来自 BBC Sport 的赛事报道。Kane scores in Bayern win to edge closer to Bundesliga record",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Man City",
-      "Trafford",
-      "Arteta",
-      "Arsenal"
+      "Kane",
+      "Bayern",
+      "Bundesliga"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Bournemouth equalise twice in draw with Man Utd as Maguire sees red",
-    "url": "https://www.bbc.com/sport/football/live/c9wn9j281q1t",
+    "title": "How Jimenez thrives from stuttering penalty style",
+    "url": "https://www.bbc.com/sport/football/articles/c203p941lyeo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。How Jimenez thrives from stuttering penalty style",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "How Jimenez"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Grimes strikes as Coventry cruise to Swansea victory",
+    "url": "https://www.bbc.com/sport/football/live/c39wgw1kp99t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Grimes strikes as Coventry cruise to Swansea victory",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Grimes",
+      "Coventry",
+      "Swansea"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Fulham boost European hopes with comeback win over Burnley",
+    "url": "https://www.bbc.com/sport/football/live/c3dzgz59ggzt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Fulham boost European hopes with comeback win over Burnley",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Fulham",
+      "European",
+      "Burnley"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Wrexham earn key comeback win at Sheffield United",
+    "url": "https://www.bbc.com/sport/football/live/ce8n9njdg2yt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Wrexham earn key comeback win at Sheffield United",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Wrexham",
+      "Sheffield United"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Man Utd back up to second in WSL with win over Everton",
+    "url": "https://www.bbc.com/sport/football/live/cwyg9g7lxr8t",
     "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Bournemouth equalise twice in draw with Man Utd as Maguire sees red",
+    "core_event": "来自 BBC Sport 的赛事报道。Man Utd back up to second in WSL with win over Everton",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Man Utd",
+      "Everton"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Managerless St Mirren stun Falkirk to end winless league run",
+    "url": "https://www.bbc.com/sport/football/live/c3v7g7pkxxdt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Managerless St Mirren stun Falkirk to end winless league run",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Managerless St Mirren",
+      "Falkirk"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Charles scores stunner as Southampton beat Oxford",
+    "url": "https://www.bbc.com/sport/football/live/cn0zlz12yn4t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Charles scores stunner as Southampton beat Oxford",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Charles",
+      "Southampton",
+      "Oxford"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Late McEntee goal earns leaders Hearts win over Dundee",
+    "url": "https://www.bbc.com/sport/football/live/cx2r9rj8227t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Late McEntee goal earns leaders Hearts win over Dundee",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Late",
+      "Hearts",
+      "Dundee"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "West Brom beat Bristol City to boost survival hopes",
+    "url": "https://www.bbc.com/sport/football/live/c2k8l85j91qt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。West Brom beat Bristol City to boost survival hopes",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "West Brom",
+      "Bristol City"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "London City salvage late point to end Chelsea's winning run",
+    "url": "https://www.bbc.com/sport/football/live/c0mgdg1000wt",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。London City salvage late point to end Chelsea's winning run",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "London City",
+      "Chelsea"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Motherwell frustrated by Hibs in goalless draw",
+    "url": "https://www.bbc.com/sport/football/live/cd6z1z4qyygt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Motherwell frustrated by Hibs in goalless draw",
     "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Bournemouth",
-      "Man Utd",
-      "Maguire"
+      "Motherwell",
+      "Hibs"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Devine double delivers Preston victory against Stoke",
-    "url": "https://www.bbc.com/sport/football/live/cy8g04deyg9t",
+    "title": "Millwall hit back to draw at Ipswich",
+    "url": "https://www.bbc.com/sport/football/live/cwy656exgyvt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Devine double delivers Preston victory against Stoke",
+    "core_event": "来自 BBC Sport 的赛事报道。Millwall hit back to draw at Ipswich",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Millwall",
+      "Ipswich"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "‘We enjoy it’ Gabriel relishing Carabao Cup final battle with Haaland",
+    "url": "https://www.theguardian.com/football/2026/mar/21/gabriel-magalhaes-arsenal-manchester-city-carabao-cup-final",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。‘We enjoy it’ Gabriel relishing Carabao Cup final battle with Haaland",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Devine",
-      "Preston",
-      "Stoke"
+      "Gabriel",
+      "Carabao Cup",
+      "Haaland"
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Kinsky set to return as Vicario awaits hernia surgery",
-    "url": "https://www.bbc.com/sport/football/articles/cvg34zr1rr4o",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Kinsky set to return as Vicario awaits hernia surgery",
-    "tactical_financial_impact": "长期缺阵将迫使主帅调整主力阵容，考验替补球员的临场发挥。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Kinsky",
-      "Vicario"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "McTominay goal takes Napoli second in Serie A",
-    "url": "https://www.bbc.com/sport/football/live/c78x25yelw9t",
+    "source": "The Guardian",
+    "title": "Top scorers 2025-26 Who is leading the race for the Premier League golden boot?",
+    "url": "https://www.theguardian.com/football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。McTominay goal takes Napoli second in Serie A",
+    "core_event": "来自 The Guardian 的赛事报道。Top scorers 2025-26 Who is leading the race for the Premier League golden boot?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Napoli",
-      "Serie"
+      "Premier League"
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Has Rosenior made his goalkeeping problem worse?",
-    "url": "https://www.bbc.com/sport/football/articles/cy0dx0x1vkro",
+    "source": "The Guardian",
+    "title": "Matildas rise to a grand occasion but are left to rue the goal that never came",
+    "url": "https://www.theguardian.com/football/2026/mar/22/australia-matildas-japan-womens-asian-cup-final-goal-that-never-came",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Has Rosenior made his goalkeeping problem worse?",
+    "core_event": "来自 The Guardian 的赛事报道。Matildas rise to a grand occasion but are left to rue the goal that never came",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Has Rosenior"
+      "Matildas"
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Is there more than silverware at stake in Carabao Cup final?",
-    "url": "https://www.bbc.com/sport/football/articles/cvgjgpxz8z1o",
+    "source": "The Guardian",
+    "title": "‘We enjoy it’: Gabriel relishing Carabao Cup final battle with Haaland",
+    "url": "https://www.theguardian.com/football/2026/mar/21/gabriel-magalhaes-arsenal-manchester-city-carabao-cup-final",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Is there more than silverware at stake in Carabao Cup final?",
+    "core_event": "来自 The Guardian 的赛事报道。‘We enjoy it’: Gabriel relishing Carabao Cup final battle with Haaland",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Carabao Cup"
+      "Gabriel",
+      "Carabao Cup",
+      "Haaland"
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Vote: What is Scotland's most iconic goal?",
-    "url": "https://www.bbc.com/sport/football/articles/c98qv7455e9o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Vote: What is Scotland's most iconic goal?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Vote",
-      "Scotland"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Football Daily. The Commentators' View: England squad & Producer Gary. Audio, 59 minutes Football Daily The Commentators' View: England squad & Producer Gary",
-    "url": "https://www.bbc.com/sounds/play/m002sqzj",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. The Commentators' View: England squad & Producer Gary. Audio, 59 minutes Football Daily The Commentators' View: England squad & Producer Gary",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Football Daily",
-      "The Commentators",
-      "View",
-      "England"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "EFL five things: March wins could bring forth May flowers",
-    "url": "https://www.bbc.com/sport/football/articles/cly7l2238e3o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。EFL five things: March wins could bring forth May flowers",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "March"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Napoli 'smell blood' & target Premier League's discarded stars",
-    "url": "https://www.bbc.com/sport/football/articles/cy5w4qzygzlo",
+    "source": "The Guardian",
+    "title": "‘It’s not good enough’: Slot feels the pressure after Liverpool’s loss at Brighton",
+    "url": "https://www.theguardian.com/football/2026/mar/21/arne-slot-brighton-liverpool-premier-league",
     "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Napoli 'smell blood' & target Premier League's discarded stars",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。‘It’s not good enough’: Slot feels the pressure after Liverpool’s loss at Brighton",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Napoli",
-      "Premier League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Credit to Tudor - is he turning around Spurs side who looked lost?",
-    "url": "https://www.bbc.com/sport/football/articles/c5y5y8nxl7xo",
-    "category": "match_report",
-    "emoji_tag": "⚪",
-    "core_event": "来自 BBC Sport 的赛事报道。Credit to Tudor - is he turning around Spurs side who looked lost?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Credit",
-      "Tudor",
-      "Spurs"
+      "Slot",
+      "Liverpool",
+      "Brighton"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Golden boot Premier League top scorers 2025-26",
-    "url": "https://www.theguardian.com/football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Golden boot Premier League top scorers 2025-26",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Golden",
-      "Premier League"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Team news Premier League and Carabao Cup final predicted lineups",
-    "url": "https://www.theguardian.com/football/2026/mar/20/premier-league-and-carabao-cup-final-team-news-predicted-lineups",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Team news Premier League and Carabao Cup final predicted lineups",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Team",
-      "Premier League",
-      "Carabao Cup"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Maguire red card costs Manchester United as Kroupi rescues Bournemouth draw",
-    "url": "https://www.theguardian.com/football/2026/mar/20/bournemouth-manchester-united-premier-league-match-report",
-    "category": "match_report",
+    "title": "Danny Welbeck double helps Brighton deal blow to Liverpool’s top-five hopes",
+    "url": "https://www.theguardian.com/football/2026/mar/21/brighton-liverpool-premier-league-match-report",
+    "category": "transfer",
     "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Maguire red card costs Manchester United as Kroupi rescues Bournemouth draw",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Danny Welbeck double helps Brighton deal blow to Liverpool’s top-five hopes",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "Maguire",
-      "Manchester United",
-      "Kroupi",
-      "Bournemouth"
+      "Danny Welbeck",
+      "Brighton",
+      "Liverpool"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Tuchel thinks outside the box in final push for World Cup places with England expansion",
-    "url": "https://www.theguardian.com/football/2026/mar/20/thomas-tuchel-england-squad-world-cup-football",
-    "category": "match_report",
+    "title": "Live Middle East crisis live: Trump gives Iran 48-hour ultimatum to open strait of Hormuz; about 100 injured in Israel",
+    "url": "https://www.theguardian.com/world/live/2026/mar/22/middle-east-crisis-live-iran-war-trump-ultimatum-major-attack-strait-of-hormuz-open-israel-hit-tehran-retaliation",
+    "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Tuchel thinks outside the box in final push for World Cup places with England expansion",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Live Middle East crisis live: Trump gives Iran 48-hour ultimatum to open strait of Hormuz; about 100 injured in Israel",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Tuchel",
-      "World Cup",
-      "England"
+      "Live Middle East",
+      "Trump",
+      "Iran",
+      "Hormuz"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Mikel Arteta tells Arsenal players and fans to ‘attack’ Carabao Cup final",
-    "url": "https://www.theguardian.com/football/2026/mar/20/mikel-arteta-tells-arsenal-players-and-fans-to-attack-carabao-cup-final",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Mikel Arteta tells Arsenal players and fans to ‘attack’ Carabao Cup final",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "title": "Almost 100 wounded in Iranian missile strikes on southern Israel",
+    "url": "https://www.theguardian.com/world/2026/mar/21/wounded-iranian-missile-strikes-southern-israel",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Almost 100 wounded in Iranian missile strikes on southern Israel",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Mikel Arteta",
-      "Arsenal",
-      "Carabao Cup"
+      "Almost",
+      "Iranian",
+      "Israel"
     ]
   }
 ]
