@@ -1,160 +1,124 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Foden final appearance felt like a 'charity' substitution - Rooney",
-    "url": "https://www.bbc.com/sport/football/articles/c2ev7mxr40go",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Foden final appearance felt like a 'charity' substitution - Rooney",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Foden",
-      "Rooney"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Celtic 'manufactured' title race and need five or six wins - McGregor",
-    "url": "https://www.bbc.com/sport/football/articles/c0e7nd9ryjqo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Celtic 'manufactured' title race and need five or six wins - McGregor",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Celtic"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Community Shield moves to Cardiff as Wembley hosts Weeknd shows",
-    "url": "https://www.bbc.com/sport/football/articles/ckge06z463lo",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Community Shield moves to Cardiff as Wembley hosts Weeknd shows",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Community Shield",
-      "Cardiff",
-      "Wembley",
-      "Weeknd"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Republic of Ireland quietly confident for 'cup final'",
-    "url": "https://www.bbc.com/sport/football/articles/cpqxd5wdyx3o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Republic of Ireland quietly confident for 'cup final'",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Republic",
-      "Ireland"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Football Daily. MNC: Nearlymen Arsenal, Liverpool turning on Slot, Spurs crisis continues. Audio, 62 minutes Football Daily MNC: Nearlymen Arsenal, Liverpool turning on Slot, Spurs crisis continues",
-    "url": "https://www.bbc.com/sounds/play/p0n8csgr",
+    "title": "Impressive Arsenal beat Chelsea in quarter-final first leg",
+    "url": "https://www.bbc.com/sport/football/live/c62k8dl5yz0t",
     "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. MNC: Nearlymen Arsenal, Liverpool turning on Slot, Spurs crisis continues. Audio, 62 minutes Football Daily MNC: Nearlymen Arsenal, Liverpool turning on Slot, Spurs crisis continues",
+    "core_event": "来自 BBC Sport 的赛事报道。Impressive Arsenal beat Chelsea in quarter-final first leg",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Football Daily",
-      "Nearlymen Arsenal",
-      "Liverpool",
-      "Slot"
+      "Impressive Arsenal",
+      "Chelsea"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "'Silly' if Clarke not offered new deal - Dalglish",
-    "url": "https://www.bbc.com/sport/football/articles/c3ex87d09pdo",
-    "category": "transfer",
+    "title": "Oldham stretch unbeaten run with 3-0 win against Notts",
+    "url": "https://www.bbc.com/sport/football/live/czjgd8p8yn7t",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。'Silly' if Clarke not offered new deal - Dalglish",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "core_event": "来自 BBC Sport 的赛事报道。Oldham stretch unbeaten run with 3-0 win against Notts",
+    "tactical_financial_impact": "大比分差距清晰揭示了两队实力分野，失利方需重审战术部署。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Silly",
-      "Clarke",
-      "Dalglish"
+      "Oldham",
+      "Notts"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "How will Ballard injury impact Northern Ireland?",
-    "url": "https://www.bbc.com/sport/football/articles/czd75y0rgveo",
+    "title": "Celtic's Schmeichel says shoulder surgery went well",
+    "url": "https://www.bbc.com/sport/football/articles/cm2renx0egro",
     "category": "injury",
-    "emoji_tag": "🚑",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。How will Ballard injury impact Northern Ireland?",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Celtic's Schmeichel says shoulder surgery went well",
+    "tactical_financial_impact": "长期缺阵将迫使主帅调整主力阵容，考验替补球员的临场发挥。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Celtic",
+      "Schmeichel"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Arsenal's Eze could be out for month with injury",
+    "url": "https://www.bbc.com/sport/football/articles/c62j75q0805o",
+    "category": "injury",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Arsenal's Eze could be out for month with injury",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Ballard",
-      "Northern Ireland"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Gabriel joins the list as six Arsenal players miss internationals",
-    "url": "https://www.bbc.com/sport/football/articles/c7478jx102yo",
-    "category": "injury",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Gabriel joins the list as six Arsenal players miss internationals",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Gabriel",
       "Arsenal"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "UEFA Women's Champions League Agg Wolfsburg Wolfsburg (0) Aggregate score 0 plays Lyonnes OL Lyonnes (0) Aggregate score 0 at 17:45 17:45 on Tue the 24 of Mar",
-    "url": "https://www.bbc.com/sport/football/live/cwyvjqrdzxnt",
-    "category": "match_report",
+    "title": "Tonali prefers Italy return - Wednesday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/cdxkz9p2k0go",
+    "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Women's Champions League Agg Wolfsburg Wolfsburg (0) Aggregate score 0 plays Lyonnes OL Lyonnes (0) Aggregate score 0 at 17:45 17:45 on Tue the 24 of Mar",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Tonali prefers Italy return - Wednesday's gossip",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Women",
-      "Champions League Agg",
-      "Wolfsburg Wolfsburg",
-      "Aggregate"
+      "Tonali",
+      "Italy",
+      "Wednesday"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "UEFA Women's Champions League Agg Arsenal Arsenal (0) Aggregate score 0 plays Chelsea Chelsea (0) Aggregate score 0 at 20:00 20:00 on Tue the 24 of Mar",
-    "url": "https://www.bbc.com/sport/football/live/c62k8dl5yz0t",
+    "title": "Football Daily. Salah to leave Liverpool & Inside the England camp. Audio, 51 minutes Football Daily Salah to leave Liverpool & Inside the England camp",
+    "url": "https://www.bbc.com/sounds/play/p0n8kppp",
     "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Women's Champions League Agg Arsenal Arsenal (0) Aggregate score 0 plays Chelsea Chelsea (0) Aggregate score 0 at 20:00 20:00 on Tue the 24 of Mar",
+    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. Salah to leave Liverpool & Inside the England camp. Audio, 51 minutes Football Daily Salah to leave Liverpool & Inside the England camp",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Women",
-      "Champions League Agg",
-      "Arsenal Arsenal",
-      "Aggregate"
+      "Football Daily",
+      "Salah",
+      "Liverpool",
+      "Inside"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "I miss English football - Pochettino on 'ideal place' to manage",
+    "url": "https://www.bbc.com/sport/football/articles/c0mjzmyx80ro",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。I miss English football - Pochettino on 'ideal place' to manage",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "English",
+      "Pochettino"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "PSG request to move Lens match before Liverpool Champions League tie",
+    "url": "https://www.bbc.com/sport/football/articles/cge0jl5075xo",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。PSG request to move Lens match before Liverpool Champions League tie",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Lens",
+      "Liverpool Champions League"
     ]
   },
   {
@@ -193,204 +157,149 @@
   },
   {
     "source": "BBC Sport",
-    "title": "The sentimental goalkeeping call that cost Arsenal",
-    "url": "https://www.bbc.com/sport/football/articles/cg73g9g7j5ko",
+    "title": "EFL play-off finals on Spring Bank Holiday weekend",
+    "url": "https://www.bbc.com/sport/football/articles/clyr7n3prkjo",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。The sentimental goalkeeping call that cost Arsenal",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。EFL play-off finals on Spring Bank Holiday weekend",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Arsenal"
+      "Spring Bank Holiday"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Crawley Town sack manager Lindsey after winless run",
-    "url": "https://www.bbc.com/sport/football/articles/c0kr8gkp00ko",
-    "category": "match_report",
+    "title": "Napoli 'smell blood' & target Premier League's discarded stars",
+    "url": "https://www.bbc.com/sport/football/articles/cy5w4qzygzlo",
+    "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Crawley Town sack manager Lindsey after winless run",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Napoli 'smell blood' & target Premier League's discarded stars",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "Crawley Town",
-      "Lindsey"
+      "Napoli",
+      "Premier League"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Moore revels in 'unbelievable' Rangers loan spell",
-    "url": "https://www.bbc.com/sport/football/articles/cd6lv2y5d3po",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Moore revels in 'unbelievable' Rangers loan spell",
-    "tactical_financial_impact": "租借操作灵活，不占永久薪资配额，是一种低风险补强策略。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Moore",
-      "Rangers"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Moving the Goalposts Sign up for our women's football email",
-    "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Moving the Goalposts Sign up for our women's football email",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Moving",
-      "Goalposts Sign"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Friendlies England bring White in from exile and also call up Scotland target Barnes",
-    "url": "https://www.theguardian.com/football/2026/mar/23/england-call-up-ben-white-and-harvey-barnes-for-pre-world-cup-friendlies",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Friendlies England bring White in from exile and also call up Scotland target Barnes",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Friendlies England",
-      "White",
-      "Scotland",
-      "Barnes"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "‘We smell blood’ O’Reilly believes Wembley glory can reignite City title bid",
-    "url": "https://www.theguardian.com/football/2026/mar/23/nico-oreilly-believes-wembley-glory-carabao-cup-reignite-manchester-city-title-bid-arsenal",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。‘We smell blood’ O’Reilly believes Wembley glory can reignite City title bid",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Reilly",
-      "Wembley",
-      "City"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Stars finally align for Ben White with Tuchel ending defender’s England exile",
-    "url": "https://www.theguardian.com/football/2026/mar/23/ben-white-england-thomas-tuchel-arsenal-world-cup-football",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Stars finally align for Ben White with Tuchel ending defender’s England exile",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Stars",
-      "Ben White",
-      "Tuchel",
-      "England"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "The ghost of Aprils past: is Arsenal’s title anxiety returning?",
-    "url": "https://www.theguardian.com/football/2026/mar/23/is-arsenals-title-anxiety-returning",
+    "title": "Who is one card away from suspension in the Premier League?",
+    "url": "https://www.bbc.com/sport/football/articles/cx25x2r5r32o",
     "category": "injury",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。The ghost of Aprils past: is Arsenal’s title anxiety returning?",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Who is one card away from suspension in the Premier League?",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Aprils",
-      "Arsenal"
+      "Premier League"
     ]
   },
   {
-    "source": "The Guardian",
-    "title": "Premier League and Carabao Cup final: 10 talking points from the weekend’s action",
-    "url": "https://www.theguardian.com/football/2026/mar/23/premier-league-and-carabao-cup-final-10-talking-points-from-the-weekend-action",
+    "source": "BBC Sport",
+    "title": "When can Arsenal win the Premier League?",
+    "url": "https://www.bbc.com/sport/football/articles/cd031n4d9dxo",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Premier League and Carabao Cup final: 10 talking points from the weekend’s action",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。When can Arsenal win the Premier League?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Premier League",
+      "Arsenal",
+      "Premier League"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "What happens when a manager gets suspended?",
+    "url": "https://www.bbc.com/sport/football/articles/ckg80dg9zvdo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。What happens when a manager gets suspended?",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": []
+  },
+  {
+    "source": "The Guardian",
+    "title": "‘I will never walk alone’: Mohamed Salah to leave Liverpool on free transfer at end of season",
+    "url": "https://www.theguardian.com/football/2026/mar/24/mohamed-salah-to-leave-liverpool-at-end-of-the-season",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。‘I will never walk alone’: Mohamed Salah to leave Liverpool on free transfer at end of season",
+    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Mohamed Salah",
+      "Liverpool"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Manchester United fan, 76, feeling ‘helpless’ as family seat is given to VIPs",
+    "url": "https://www.theguardian.com/football/2026/mar/24/manchester-united-fan-family-seat-given-to-vips",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Manchester United fan, 76, feeling ‘helpless’ as family seat is given to VIPs",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Manchester United"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "David Squires on … big calls and cheeky Cherki at the Carabao Cup final",
+    "url": "https://www.theguardian.com/football/picture/2026/mar/24/david-squires-on-manchester-city-arsenal-pep-guardiola-mikel-arteta",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。David Squires on … big calls and cheeky Cherki at the Carabao Cup final",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "David Squires",
+      "Cherki",
       "Carabao Cup"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "England bring Ben White in from exile and call up Scotland target Harvey Barnes",
-    "url": "https://www.theguardian.com/football/2026/mar/23/england-call-up-ben-white-and-harvey-barnes-for-pre-world-cup-friendlies",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。England bring Ben White in from exile and call up Scotland target Harvey Barnes",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "England",
-      "Ben White",
-      "Scotland",
-      "Harvey Barnes"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Clash of the Superpowers: America vs China review – Trump vomits all over Norma Percy’s film",
-    "url": "https://www.theguardian.com/tv-and-radio/2026/mar/23/clash-of-the-superpowers-america-vs-china-review-trump-norma-percy-film",
+    "title": "Arsenal 3-1 Chelsea: Women’s Champions League quarter-final, first leg – as it happened",
+    "url": "https://www.theguardian.com/football/live/2026/mar/24/arsenal-v-chelsea-womens-champions-league-quarter-final-first-leg-live",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Clash of the Superpowers: America vs China review – Trump vomits all over Norma Percy’s film",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Arsenal 3-1 Chelsea: Women’s Champions League quarter-final, first leg – as it happened",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Clash",
-      "Superpowers",
-      "America",
-      "China"
+      "Arsenal",
+      "Chelsea",
+      "Women",
+      "Champions League"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "US to pay almost $1bn to French energy company to kill wind project plan",
-    "url": "https://www.theguardian.com/us-news/2026/mar/23/trump-administration-wind-project-plan",
-    "category": "match_report",
+    "title": "Israel says it will seize parts of southern Lebanon as ‘defensive buffer’",
+    "url": "https://www.theguardian.com/world/2026/mar/24/netanyahu-vows-further-strikes-iran-lebanon-missile-hits-tel-aviv-middle-east-crisis",
+    "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。US to pay almost $1bn to French energy company to kill wind project plan",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Israel says it will seize parts of southern Lebanon as ‘defensive buffer’",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "French"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Bets on US-Iran ceasefire show signs of insider knowledge, say experts",
-    "url": "https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "【官方】The Guardian 报道此次转会已正式完成。Bets on US-Iran ceasefire show signs of insider knowledge, say experts",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 5,
-    "gossip_label": "官方确认",
-    "key_players": [
-      "Bets",
-      "Iran"
+      "Israel",
+      "Lebanon"
     ]
   }
 ]
