@@ -1,123 +1,92 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Football Daily. The Debrief: Ben White booed on England return. Audio, 35 minutes Football Daily The Debrief: Ben White booed on England return",
-    "url": "https://www.bbc.com/sounds/play/p0n98f5p",
+    "title": "Scotland succumb to late friendly defeat by Japan",
+    "url": "https://www.bbc.com/sport/football/live/cjw80pl2n64t",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. The Debrief: Ben White booed on England return. Audio, 35 minutes Football Daily The Debrief: Ben White booed on England return",
+    "core_event": "来自 BBC Sport 的赛事报道。Scotland succumb to late friendly defeat by Japan",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Football Daily",
-      "The Debrief",
-      "Ben White",
-      "England"
+      "Scotland",
+      "Japan"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Leicester lost £71.1m in Premier League relegation season",
-    "url": "https://www.bbc.com/sport/football/articles/c070k00er0no",
+    "title": "Man City win derby to close on WSL title",
+    "url": "https://www.bbc.com/sport/football/live/cp38np1y0dnt",
+    "category": "match_report",
+    "emoji_tag": "🩵",
+    "core_event": "来自 BBC Sport 的赛事报道。Man City win derby to close on WSL title",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Man City"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "St Johnstone held by Queen's Park as Morton beat Arbroath",
+    "url": "https://www.bbc.com/sport/football/live/cwyvx45q4e5t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。St Johnstone held by Queen's Park as Morton beat Arbroath",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "St Johnstone",
+      "Queen",
+      "Park",
+      "Morton"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Larne move six clear after Glens draw with Blues",
+    "url": "https://www.bbc.com/sport/articles/cwyjg723z8xo",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Leicester lost £71.1m in Premier League relegation season",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Larne move six clear after Glens draw with Blues",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Leicester",
-      "Premier League"
+      "Larne",
+      "Glens",
+      "Blues"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "'Copying Arsenal set-piece kings can win England World Cup'",
-    "url": "https://www.bbc.com/sport/football/articles/cy417p1ekx0o",
+    "title": "The remarkable return of Roy Hodgson aged 78",
+    "url": "https://www.bbc.com/sport/football/articles/ckg97pgj2q0o",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。The remarkable return of Roy Hodgson aged 78",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Roy Hodgson"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Does Chukwuemeka show the demise of the 90-minute player?",
+    "url": "https://www.bbc.com/sport/football/articles/cq8wkyyv43ko",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。'Copying Arsenal set-piece kings can win England World Cup'",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Does Chukwuemeka show the demise of the 90-minute player?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Copying Arsenal",
-      "England World Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "England superfan set to sell house for World Cup trip",
-    "url": "https://www.bbc.com/sport/football/articles/cwyv712195po",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。England superfan set to sell house for World Cup trip",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "England",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Record revenue & bumper wages - Wrexham's finances analysed",
-    "url": "https://www.bbc.com/sport/football/articles/cj940y2vnlno",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Record revenue & bumper wages - Wrexham's finances analysed",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Record",
-      "Wrexham"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Why 'candyfloss' hamstrings were the making of Notts boss Paterson",
-    "url": "https://www.bbc.com/sport/football/articles/cdj7dyx03gko",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Why 'candyfloss' hamstrings were the making of Notts boss Paterson",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Notts",
-      "Paterson"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Mbappe one goal away from equalling France record",
-    "url": "https://www.bbc.com/sport/football/live/c0krjdxygjet",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Mbappe one goal away from equalling France record",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Mbappe",
-      "France"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Tottenham manager Ho signs new long-term deal",
-    "url": "https://www.bbc.com/sport/football/articles/cwyd18xxgkeo",
-    "category": "transfer",
-    "emoji_tag": "⚪",
-    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Tottenham manager Ho signs new long-term deal",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 5,
-    "gossip_label": "官方确认",
-    "key_players": [
-      "Tottenham"
+      "Does Chukwuemeka"
     ]
   },
   {
@@ -133,6 +102,20 @@
     "key_players": [
       "Napoli",
       "Premier League"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "£123 for a child's England kit - have prices gone too far?",
+    "url": "https://www.bbc.com/sport/football/articles/cj94nm47823o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。£123 for a child's England kit - have prices gone too far?",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "England"
     ]
   },
   {
@@ -224,142 +207,138 @@
     ]
   },
   {
-    "source": "The Guardian",
-    "title": "England player ratings Maguire makes solid return, Foden fails to find a spark",
-    "url": "https://www.theguardian.com/football/2026/mar/27/england-1-1-uruguay-england-player-ratings-from-the-wembley-friendly",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。England player ratings Maguire makes solid return, Foden fails to find a spark",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "England",
-      "Maguire",
-      "Foden"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "NWSL US star Macario departs Chelsea for record $8m, five-year deal with San Diego Wave",
-    "url": "https://www.theguardian.com/football/2026/mar/27/catarina-macario-transfer-chelsea-san-diego-wave",
+    "source": "BBC Sport",
+    "title": "Why Real Madrid have 'complete confidence' in teenager Pitarch",
+    "url": "https://www.bbc.com/sport/football/articles/cm21274xn43o",
     "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。NWSL US star Macario departs Chelsea for record $8m, five-year deal with San Diego Wave",
+    "emoji_tag": "⚪",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Why Real Madrid have 'complete confidence' in teenager Pitarch",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Macario",
-      "Chelsea",
-      "San Diego Wave"
+      "Why Real Madrid",
+      "Pitarch"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Football Daily Sign up to get our free and (sometimes) funny email",
-    "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Football Daily Sign up to get our free and (sometimes) funny email",
-    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Football Daily Sign"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "World Cup playoffs Wales agony as Bosnia and Herzegovina win penalty shootout",
-    "url": "https://www.theguardian.com/football/2026/mar/26/wales-bosnia-herzegovina-world-cup-qualifying-playoff-semi-final-match-report",
+    "title": "‘It’s tough’ Light-on-light kit matchup and hydration breaks add strange wrinkles to USA loss",
+    "url": "https://www.theguardian.com/football/2026/mar/28/usmnt-belgium-kit-matchup-hydration-breaks",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。World Cup playoffs Wales agony as Bosnia and Herzegovina win penalty shootout",
+    "core_event": "来自 The Guardian 的赛事报道。‘It’s tough’ Light-on-light kit matchup and hydration breaks add strange wrinkles to USA loss",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
+      "Light"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Passive Scotland’s World Cup preparations hit by late defeat against Japan",
+    "url": "https://www.theguardian.com/football/2026/mar/28/scotland-japan-friendly-international-match-report",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Passive Scotland’s World Cup preparations hit by late defeat against Japan",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Passive Scotland",
       "World Cup",
-      "Wales",
-      "Bosnia",
-      "Herzegovina"
+      "Japan"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Ben White goes from hero to villain on England return in draw with Uruguay",
-    "url": "https://www.theguardian.com/football/2026/mar/27/england-uruguay-international-friendly-match-report",
+    "title": "‘It’s tough’: Light-on-light kit matchup, hydration breaks add strange wrinkles to USMNT loss",
+    "url": "https://www.theguardian.com/football/2026/mar/28/usmnt-belgium-kit-matchup-hydration-breaks",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Ben White goes from hero to villain on England return in draw with Uruguay",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Ben White",
-      "England",
-      "Uruguay"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Jordan Bos strikes late to spare Socceroos’ blushes in stodgy win over Cameroon",
-    "url": "https://www.theguardian.com/football/2026/mar/27/australia-socceroos-cameroon-football-friendly-match-report-jordan-bos",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Jordan Bos strikes late to spare Socceroos’ blushes in stodgy win over Cameroon",
+    "core_event": "来自 The Guardian 的赛事报道。‘It’s tough’: Light-on-light kit matchup, hydration breaks add strange wrinkles to USMNT loss",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Jordan Bos",
-      "Socceroos",
-      "Cameroon"
+      "Light"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Everton to offer David Moyes new deal in recognition of success at club",
-    "url": "https://www.theguardian.com/football/2026/mar/27/everton-to-offer-david-moyes-new-deal-in-recognition-of-success-at-club",
+    "title": "Alessia Russo’s rapid fire hat-trick sinks Tottenham and sends Arsenal second in WSL",
+    "url": "https://www.theguardian.com/football/2026/mar/28/arsenal-tottenham-womens-super-league-match-report",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Alessia Russo’s rapid fire hat-trick sinks Tottenham and sends Arsenal second in WSL",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Alessia Russo",
+      "Tottenham",
+      "Arsenal"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Ukraine war briefing: Zelenskyy drums up defence agreements with Gulf states on countering missiles and drones",
+    "url": "https://www.theguardian.com/world/2026/mar/29/ukraine-war-briefing-zelenskyy-drums-up-defence-agreements-with-gulf-states-on-countering-missiles-and-drones",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Everton to offer David Moyes new deal in recognition of success at club",
+    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。Ukraine war briefing: Zelenskyy drums up defence agreements with Gulf states on countering missiles and drones",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Ukraine",
+      "Zelenskyy",
+      "Gulf"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "No Kings protests: millions rally in cities around the world against Trump and his administration – as it happened",
+    "url": "https://www.theguardian.com/us-news/live/2026/mar/28/no-kings-protests-us-trump-administration-latest-updates",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。No Kings protests: millions rally in cities around the world against Trump and his administration – as it happened",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Everton",
-      "David Moyes"
+      "No Kings",
+      "Trump"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Live Middle East crisis live: Israel says it identified missile launched from Yemen; 12 US soldiers reportedly injured in Iran attack on Saudi base",
-    "url": "https://www.theguardian.com/world/live/2026/mar/28/middle-east-crisis-live-iran-war-updates-trump-us-negotiations-israel-strikes-lebanon-tehran-syria-explosions",
+    "title": "Third No Kings protest draws millions from across US to push back on Trump administration",
+    "url": "https://www.theguardian.com/us-news/2026/mar/28/no-kings-protests-trump",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Third No Kings protest draws millions from across US to push back on Trump administration",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Third No Kings",
+      "Trump"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "US has destroyed only a third of Iran’s missiles, intelligence suggests",
+    "url": "https://www.theguardian.com/world/2026/mar/28/us-destroyed-third-iran-missiles-intelligence-suggests-trump",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Live Middle East crisis live: Israel says it identified missile launched from Yemen; 12 US soldiers reportedly injured in Iran attack on Saudi base",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。US has destroyed only a third of Iran’s missiles, intelligence suggests",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Live Middle East",
-      "Israel",
-      "Yemen",
       "Iran"
     ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "UAE targeted with missiles and drones – as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/mar/27/iran-war-live-updates-trump-negotiations-bombing-hormuz-energy-oil-prices-middle-east",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。UAE targeted with missiles and drones – as it happened",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": []
   }
 ]
