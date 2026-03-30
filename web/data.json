@@ -1,26 +1,118 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Scotland succumb to late friendly defeat by Japan",
-    "url": "https://www.bbc.com/sport/football/live/cjw80pl2n64t",
+    "title": "Chelsea score late to beat Aston Villa in thriller",
+    "url": "https://www.bbc.com/sport/football/live/cj60z8966egt",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Scotland succumb to late friendly defeat by Japan",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。Chelsea score late to beat Aston Villa in thriller",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Scotland",
-      "Japan"
+      "Chelsea",
+      "Aston Villa"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Man City win derby to close on WSL title",
-    "url": "https://www.bbc.com/sport/football/live/cp38np1y0dnt",
+    "title": "Caf general secretary resigns amid Afcon final fallout",
+    "url": "https://www.bbc.com/news/articles/cx2w8d1q70vo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Caf general secretary resigns amid Afcon final fallout",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
+    "key_players": [
+      "Afcon"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "'Tudor always unlikely to succeed... Spurs' next move has to be perfect'",
+    "url": "https://www.bbc.com/sport/football/teams/tottenham-hotspur",
+    "category": "transfer",
+    "emoji_tag": "⚪",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。'Tudor always unlikely to succeed... Spurs' next move has to be perfect'",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Tudor",
+      "Spurs"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Forrest double helps Glasgow City beat Rangers in SWPL Cup final",
+    "url": "https://www.bbc.com/sport/football/live/ce8j9r288dxt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Forrest double helps Glasgow City beat Rangers in SWPL Cup final",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Forrest",
+      "Glasgow City",
+      "Rangers"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Seike strike sends Leicester to seventh-straight WSL loss",
+    "url": "https://www.bbc.com/sport/football/live/ce9m021992pt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Seike strike sends Leicester to seventh-straight WSL loss",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Seike",
+      "Leicester"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Football Daily. Tudor sacked: 'Another desperate act by Tottenham' Audio, 33 minutes Football Daily Tudor sacked: 'Another desperate act by Tottenham'",
+    "url": "https://www.bbc.com/sounds/play/p0n9grxj",
+    "category": "match_report",
+    "emoji_tag": "⚪",
+    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. Tudor sacked: 'Another desperate act by Tottenham' Audio, 33 minutes Football Daily Tudor sacked: 'Another desperate act by Tottenham'",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Football Daily",
+      "Tudor",
+      "Another",
+      "Tottenham"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "'Scotland's Hampden warriors return to reserved selves'",
+    "url": "https://www.bbc.com/sport/football/articles/clyxd495kp4o",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。'Scotland's Hampden warriors return to reserved selves'",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Scotland",
+      "Hampden"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Man City 'handling pressure' of WSL title race with 'statement' win",
+    "url": "https://www.bbc.com/sport/football/articles/c3v6wdg6dq2o",
     "category": "match_report",
     "emoji_tag": "🩵",
-    "core_event": "来自 BBC Sport 的赛事报道。Man City win derby to close on WSL title",
+    "core_event": "来自 BBC Sport 的赛事报道。Man City 'handling pressure' of WSL title race with 'statement' win",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
@@ -30,35 +122,33 @@
   },
   {
     "source": "BBC Sport",
-    "title": "St Johnstone held by Queen's Park as Morton beat Arbroath",
-    "url": "https://www.bbc.com/sport/football/live/cwyvx45q4e5t",
+    "title": "Russo hits hat-trick as Arsenal breeze past Spurs",
+    "url": "https://www.bbc.com/sport/football/live/cj0vjprq3gzt",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。St Johnstone held by Queen's Park as Morton beat Arbroath",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Russo hits hat-trick as Arsenal breeze past Spurs",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "St Johnstone",
-      "Queen",
-      "Park",
-      "Morton"
+      "Russo",
+      "Arsenal",
+      "Spurs"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Larne move six clear after Glens draw with Blues",
-    "url": "https://www.bbc.com/sport/articles/cwyjg723z8xo",
+    "title": "Napoli 'smell blood' & target Premier League's discarded stars",
+    "url": "https://www.bbc.com/sport/football/articles/cy5w4qzygzlo",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Larne move six clear after Glens draw with Blues",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Napoli 'smell blood' & target Premier League's discarded stars",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Larne",
-      "Glens",
-      "Blues"
+      "Napoli",
+      "Premier League"
     ]
   },
   {
@@ -87,35 +177,6 @@
     "gossip_label": null,
     "key_players": [
       "Does Chukwuemeka"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Napoli 'smell blood' & target Premier League's discarded stars",
-    "url": "https://www.bbc.com/sport/football/articles/cy5w4qzygzlo",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Napoli 'smell blood' & target Premier League's discarded stars",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Napoli",
-      "Premier League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "£123 for a child's England kit - have prices gone too far?",
-    "url": "https://www.bbc.com/sport/football/articles/cj94nm47823o",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。£123 for a child's England kit - have prices gone too far?",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "England"
     ]
   },
   {
@@ -160,185 +221,120 @@
     "key_players": []
   },
   {
-    "source": "BBC Sport",
-    "title": "Who are the record Champions League goalscorers?",
-    "url": "https://www.bbc.com/sport/football/articles/cgk0yyepkxjo",
+    "source": "The Guardian",
+    "title": "WSL Nüsken fires Chelsea to second with narrow win over Aston Villa",
+    "url": "https://www.theguardian.com/football/live/2026/mar/29/chelsea-v-aston-villa-womens-super-league-live",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Who are the record Champions League goalscorers?",
+    "emoji_tag": "🔵",
+    "core_event": "来自 The Guardian 的赛事报道。WSL Nüsken fires Chelsea to second with narrow win over Aston Villa",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Champions League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Why ex-Palace winger Olise is now in Ballon d'Or contention at Bayern",
-    "url": "https://www.bbc.com/sport/football/articles/c5yjd459xreo",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Why ex-Palace winger Olise is now in Ballon d'Or contention at Bayern",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Palace",
-      "Olise",
-      "Ballon",
-      "Bayern"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Raphinha nets hat-trick as Barca hit five past Sevilla",
-    "url": "https://www.bbc.com/sport/football/live/c204j74k426t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Raphinha nets hat-trick as Barca hit five past Sevilla",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Raphinha",
-      "Barca",
-      "Sevilla"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Why Real Madrid have 'complete confidence' in teenager Pitarch",
-    "url": "https://www.bbc.com/sport/football/articles/cm21274xn43o",
-    "category": "transfer",
-    "emoji_tag": "⚪",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Why Real Madrid have 'complete confidence' in teenager Pitarch",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Why Real Madrid",
-      "Pitarch"
+      "Chelsea",
+      "Aston Villa"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "‘It’s tough’ Light-on-light kit matchup and hydration breaks add strange wrinkles to USA loss",
-    "url": "https://www.theguardian.com/football/2026/mar/28/usmnt-belgium-kit-matchup-hydration-breaks",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。‘It’s tough’ Light-on-light kit matchup and hydration breaks add strange wrinkles to USA loss",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Light"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Passive Scotland’s World Cup preparations hit by late defeat against Japan",
-    "url": "https://www.theguardian.com/football/2026/mar/28/scotland-japan-friendly-international-match-report",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Passive Scotland’s World Cup preparations hit by late defeat against Japan",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Passive Scotland",
-      "World Cup",
-      "Japan"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "‘It’s tough’: Light-on-light kit matchup, hydration breaks add strange wrinkles to USMNT loss",
-    "url": "https://www.theguardian.com/football/2026/mar/28/usmnt-belgium-kit-matchup-hydration-breaks",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。‘It’s tough’: Light-on-light kit matchup, hydration breaks add strange wrinkles to USMNT loss",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Light"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Alessia Russo’s rapid fire hat-trick sinks Tottenham and sends Arsenal second in WSL",
-    "url": "https://www.theguardian.com/football/2026/mar/28/arsenal-tottenham-womens-super-league-match-report",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Alessia Russo’s rapid fire hat-trick sinks Tottenham and sends Arsenal second in WSL",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Alessia Russo",
-      "Tottenham",
-      "Arsenal"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Ukraine war briefing: Zelenskyy drums up defence agreements with Gulf states on countering missiles and drones",
-    "url": "https://www.theguardian.com/world/2026/mar/29/ukraine-war-briefing-zelenskyy-drums-up-defence-agreements-with-gulf-states-on-countering-missiles-and-drones",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。Ukraine war briefing: Zelenskyy drums up defence agreements with Gulf states on countering missiles and drones",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
-    "key_players": [
-      "Ukraine",
-      "Zelenskyy",
-      "Gulf"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "No Kings protests: millions rally in cities around the world against Trump and his administration – as it happened",
-    "url": "https://www.theguardian.com/us-news/live/2026/mar/28/no-kings-protests-us-trump-administration-latest-updates",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。No Kings protests: millions rally in cities around the world against Trump and his administration – as it happened",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "No Kings",
-      "Trump"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Third No Kings protest draws millions from across US to push back on Trump administration",
-    "url": "https://www.theguardian.com/us-news/2026/mar/28/no-kings-protests-trump",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Third No Kings protest draws millions from across US to push back on Trump administration",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Third No Kings",
-      "Trump"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "US has destroyed only a third of Iran’s missiles, intelligence suggests",
-    "url": "https://www.theguardian.com/world/2026/mar/28/us-destroyed-third-iran-missiles-intelligence-suggests-trump",
+    "title": "Big interview Roberto Martínez: ‘It’s a hammer blow when you don’t succeed, but let us dream’",
+    "url": "https://www.theguardian.com/football/2026/mar/28/roberto-martinez-interview-portugal-world-cup-cristiano-ronaldo",
     "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。US has destroyed only a third of Iran’s missiles, intelligence suggests",
+    "emoji_tag": "🔵",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Big interview Roberto Martínez: ‘It’s a hammer blow when you don’t succeed, but let us dream’",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Iran"
+      "Roberto Martínez"
     ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Jeff Rueter Pochettino's USA looked disjointed and unrehearsed in big loss to Belgium",
+    "url": "https://www.theguardian.com/football/2026/mar/28/usmnt-belgium-analysis-jeremy-doku-defense",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Jeff Rueter Pochettino's USA looked disjointed and unrehearsed in big loss to Belgium",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Jeff Rueter Pochettino",
+      "Belgium"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Tottenham target De Zerbi to save them from relegation after parting company with Tudor",
+    "url": "https://www.theguardian.com/football/2026/mar/29/igor-tudor-leaves-tottenham-after-44-days-with-club-mired-in-relegation-troubled",
+    "category": "transfer",
+    "emoji_tag": "⚪",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Tottenham target De Zerbi to save them from relegation after parting company with Tudor",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Tottenham",
+      "De Zerbi",
+      "Tudor"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "double quotation mark After 12 years, a USMNT loss to Belgium still carries a World Cup weight",
+    "url": "https://www.theguardian.com/football/2026/mar/29/after-12-years-a-usmnt-loss-to-belgium-still-carries-a-world-cup-weight",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。double quotation mark After 12 years, a USMNT loss to Belgium still carries a World Cup weight",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Belgium",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Back on form: six England-based players who are doing well on loan in Europe",
+    "url": "https://www.theguardian.com/football/2026/mar/29/back-on-form-six-england-based-players-who-are-doing-well-on-loan-in-europe",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Back on form: six England-based players who are doing well on loan in Europe",
+    "tactical_financial_impact": "租借操作灵活，不占永久薪资配额，是一种低风险补强策略。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Back",
+      "England",
+      "Europe"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Caf general secretary resigns amid fallout from Afcon final controversy",
+    "url": "https://www.theguardian.com/football/2026/mar/29/caf-general-secretary-resigns-veron-mosengo-omba-afcon-final-senegal-controversy",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "【官方】The Guardian 报道此次转会已正式完成。Caf general secretary resigns amid fallout from Afcon final controversy",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
+    "key_players": [
+      "Afcon"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "‘I thought, what the hell have I done?’: the people who moved abroad for love – and regretted it",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/mar/29/emigrate-partner-moved-abroad-love-regret",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。‘I thought, what the hell have I done?’: the people who moved abroad for love – and regretted it",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": []
   }
 ]
