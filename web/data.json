@@ -1,425 +1,367 @@
 [
   {
     "source": "BBC Sport",
-    "title": "'This is bigger than football' - DR Congo bid to end 52-year World Cup wait",
-    "url": "https://www.bbc.com/sport/football/articles/cwyd1zpy81mo",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。'This is bigger than football' - DR Congo bid to end 52-year World Cup wait",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "This",
-      "Congo",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Fit-again McGinn was 'petrified' he would miss World Cup",
-    "url": "https://www.bbc.com/sport/football/articles/cy81q4n6v3yo",
+    "title": "Italy miss out on third World Cup in row - how have they got here?",
+    "url": "https://www.bbc.com/sport/football/live/c208ge6p142t",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Fit-again McGinn was 'petrified' he would miss World Cup",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Italy miss out on third World Cup in row - how have they got here?",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
+      "Italy",
       "World Cup"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Tuchel not angry over England withdrawals",
-    "url": "https://www.bbc.com/sport/football/articles/cvg39k8274ko",
+    "title": "Lewandowski misses out on World Cup - who else won't be there?",
+    "url": "https://www.bbc.com/sport/football/articles/cn89z009kv3o",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Lewandowski misses out on World Cup - who else won't be there?",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Lewandowski",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Three top-20 teams played, no wins. Should Tuchel be concerned?",
+    "url": "https://www.bbc.com/sport/football/articles/c8jkgg73kgdo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Tuchel not angry over England withdrawals",
+    "core_event": "来自 BBC Sport 的赛事报道。Three top-20 teams played, no wins. Should Tuchel be concerned?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Three",
+      "Should Tuchel"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Turkey beat Kosovo to reach first World Cup in 24 years",
+    "url": "https://www.bbc.com/sport/football/live/c3ex17zp5wjt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Turkey beat Kosovo to reach first World Cup in 24 years",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Turkey",
+      "Kosovo",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "'Japan beat England too, so let's be real' - Robertson on Scotland defeats",
+    "url": "https://www.bbc.com/sport/football/articles/cgk0ddjd6n4o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。'Japan beat England too, so let's be real' - Robertson on Scotland defeats",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Japan",
+      "England",
+      "Robertson",
+      "Scotland"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Wales held to flat friendly draw by Northern Ireland",
+    "url": "https://www.bbc.com/sport/football/live/cwy3n5zn4rwt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Wales held to flat friendly draw by Northern Ireland",
     "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Tuchel",
-      "England"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Cardiff City damages claim over Emiliano Sala death dismissed",
-    "url": "https://www.bbc.com/news/articles/c8jkeprrn00o",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Cardiff City damages claim over Emiliano Sala death dismissed",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Cardiff City",
-      "Emiliano Sala"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Undav scores Germany winner in Ghana friendly",
-    "url": "https://www.bbc.com/sport/football/live/cx2epz219d2t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Undav scores Germany winner in Ghana friendly",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Undav",
-      "Germany",
-      "Ghana"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "I designed Everton's new stadium - now I have an 1878 tattoo",
-    "url": "https://www.bbc.com/sport/football/articles/cm2k7g94mmro",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。I designed Everton's new stadium - now I have an 1878 tattoo",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Everton"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Will De Zerbi save Spurs & is Tuchel’s mind made up already? Audio, 59 minutes Will De Zerbi save Spurs & is Tuchel’s mind made up already?",
-    "url": "https://www.bbc.com/sounds/play/p0n9nz3b",
-    "category": "match_report",
-    "emoji_tag": "⚪",
-    "core_event": "来自 BBC Sport 的赛事报道。Will De Zerbi save Spurs & is Tuchel’s mind made up already? Audio, 59 minutes Will De Zerbi save Spurs & is Tuchel’s mind made up already?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Will De Zerbi",
-      "Spurs",
-      "Tuchel",
-      "Audio"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "'We've had closure' - O'Shea ready to park Czech loss",
-    "url": "https://www.bbc.com/sport/football/articles/c78r7v9lml9o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。'We've had closure' - O'Shea ready to park Czech loss",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Shea",
-      "Czech"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Young Liverpool winger in line for Northern Ireland chance",
-    "url": "https://www.bbc.com/sport/football/articles/cr71241veygo",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Young Liverpool winger in line for Northern Ireland chance",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Young Liverpool",
+      "Wales",
       "Northern Ireland"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Women's Football Weekly Extra: Inside Bayern Munich with Harder and Eriksson. Audio, 41 minutes Women's Football Weekly Extra: Inside Bayern Munich with Harder and Eriksson",
-    "url": "https://www.bbc.com/sounds/play/p0n9l5km",
+    "title": "How did Scotland defeat look from Clarke's vantage point?",
+    "url": "https://www.bbc.com/sport/football/articles/c98kp14d889o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。How did Scotland defeat look from Clarke's vantage point?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Scotland",
+      "Clarke"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "England beaten by Japan in final match before World Cup squad named",
+    "url": "https://www.bbc.com/sport/football/live/c3dl5rpnk5mt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。England beaten by Japan in final match before World Cup squad named",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "England",
+      "Japan",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Parrott rues missed chances in North Macedonia draw",
+    "url": "https://www.bbc.com/sport/football/articles/cy7150m65l6o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Parrott rues missed chances in North Macedonia draw",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Parrott",
+      "North Macedonia"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Football Daily. The Debrief: De Zerbi joins Spurs & Japan beat England. Audio, 40 minutes Football Daily The Debrief: De Zerbi joins Spurs & Japan beat England",
+    "url": "https://www.bbc.com/sounds/play/p0n9wrlp",
+    "category": "match_report",
+    "emoji_tag": "⚪",
+    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. The Debrief: De Zerbi joins Spurs & Japan beat England. Audio, 40 minutes Football Daily The Debrief: De Zerbi joins Spurs & Japan beat England",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Football Daily",
+      "The Debrief",
+      "De Zerbi",
+      "Spurs"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Ivory Coast inflict Scotland's second consecutive friendly defeat",
+    "url": "https://www.bbc.com/sport/football/live/cew75ny45v9t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Ivory Coast inflict Scotland's second consecutive friendly defeat",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Ivory Coast",
+      "Scotland"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Nwaneri and Gray score as England U21s beat Moldova",
+    "url": "https://www.bbc.com/sport/football/live/cm2k7d1l1d1t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Nwaneri and Gray score as England U21s beat Moldova",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Nwaneri",
+      "Gray",
+      "England",
+      "Moldova"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "UEFA Women's Champions League Agg Bayern Munich Bayern Munich (3) Aggregate score 3 plays Man Utd Manchester United (2) Aggregate score 2 at 17:45 17:45 on Wed the 1 of Apr",
+    "url": "https://www.bbc.com/sport/football/live/cj40nxjne7zt",
     "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Women's Football Weekly Extra: Inside Bayern Munich with Harder and Eriksson. Audio, 41 minutes Women's Football Weekly Extra: Inside Bayern Munich with Harder and Eriksson",
+    "core_event": "来自 BBC Sport 的赛事报道。UEFA Women's Champions League Agg Bayern Munich Bayern Munich (3) Aggregate score 3 plays Man Utd Manchester United (2) Aggregate score 2 at 17:45 17:45 on Wed the 1 of Apr",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
       "Women",
-      "Football Weekly Extra",
-      "Inside Bayern Munich",
-      "Harder"
+      "Champions League Agg",
+      "Bayern Munich Bayern",
+      "Munich"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Caf general secretary steps down amid Afcon final fallout",
-    "url": "https://www.bbc.com/news/articles/cx2w8d1q70vo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Caf general secretary steps down amid Afcon final fallout",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Afcon"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Napoli 'smell blood' & target Premier League's discarded stars",
-    "url": "https://www.bbc.com/sport/football/articles/cy5w4qzygzlo",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Napoli 'smell blood' & target Premier League's discarded stars",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Napoli",
-      "Premier League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "The remarkable return of Roy Hodgson aged 78",
-    "url": "https://www.bbc.com/sport/football/articles/ckg97pgj2q0o",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。The remarkable return of Roy Hodgson aged 78",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Roy Hodgson"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Who is one card away from suspension in the Premier League?",
-    "url": "https://www.bbc.com/sport/football/articles/cx25x2r5r32o",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Who is one card away from suspension in the Premier League?",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Premier League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "When can Arsenal win the Premier League?",
-    "url": "https://www.bbc.com/sport/football/articles/cd031n4d9dxo",
+    "title": "UEFA Women's Champions League Agg Chelsea Chelsea (1) Aggregate score 1 plays Arsenal Arsenal (3) Aggregate score 3 at 20:00 20:00 on Wed the 1 of Apr",
+    "url": "https://www.bbc.com/sport/football/live/cew7kl9ky1vt",
     "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。When can Arsenal win the Premier League?",
+    "core_event": "来自 BBC Sport 的赛事报道。UEFA Women's Champions League Agg Chelsea Chelsea (1) Aggregate score 1 plays Arsenal Arsenal (3) Aggregate score 3 at 20:00 20:00 on Wed the 1 of Apr",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Arsenal",
-      "Premier League"
+      "Women",
+      "Champions League Agg",
+      "Chelsea Chelsea",
+      "Aggregate"
     ]
   },
   {
-    "source": "The Guardian",
-    "title": "Tottenham Pochettino distances himself from return but backs club to beat drop",
-    "url": "https://www.theguardian.com/football/2026/mar/30/mauricio-pochettino-tottenham-usmnt-real-madrid",
+    "source": "BBC Sport",
+    "title": "UEFA Women's Champions League Agg Barcelona Barcelona (6) Aggregate score 6 plays Real Madrid Real Madrid (2) Aggregate score 2 at 17:45 17:45 on Thu the 2 of Apr",
+    "url": "https://www.bbc.com/sport/football/live/cd9v2g29ye8t",
     "category": "match_report",
-    "emoji_tag": "⚪",
-    "core_event": "来自 The Guardian 的赛事报道。Tottenham Pochettino distances himself from return but backs club to beat drop",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。UEFA Women's Champions League Agg Barcelona Barcelona (6) Aggregate score 6 plays Real Madrid Real Madrid (2) Aggregate score 2 at 17:45 17:45 on Thu the 2 of Apr",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Tottenham Pochettino"
+      "Women",
+      "Champions League Agg",
+      "Barcelona Barcelona",
+      "Aggregate"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Football Daily Tottenham embrace the chaos in bid to stop slide into Championship",
-    "url": "https://www.theguardian.com/football/2026/mar/30/tottenham-hotspur-chaos-football-daily-newsletter",
-    "category": "transfer",
-    "emoji_tag": "⚪",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Football Daily Tottenham embrace the chaos in bid to stop slide into Championship",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "title": "Italy miss out on World Cup again after Bosnia and Herzegovina’s shootout triumph",
+    "url": "https://www.theguardian.com/football/2026/mar/31/bosnia-herzegovina-italy-world-cup-2026-qualifying-playoff-match-report",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Italy miss out on World Cup again after Bosnia and Herzegovina’s shootout triumph",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Football Daily Tottenham",
-      "Championship"
+      "Italy",
+      "World Cup",
+      "Bosnia",
+      "Herzegovina"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Analysis England have plenty to prove against Japan after drab Uruguay draw",
-    "url": "https://www.theguardian.com/football/2026/mar/30/england-thomas-tuchel-japan-uruguay-wembley-world-cup",
+    "title": "Mitoma pounces as Japan beat England to give Tuchel World Cup headache",
+    "url": "https://www.theguardian.com/football/2026/mar/31/england-japan-international-friendly-match-report",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Analysis England have plenty to prove against Japan after drab Uruguay draw",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "core_event": "来自 The Guardian 的赛事报道。Mitoma pounces as Japan beat England to give Tuchel World Cup headache",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Analysis England",
+      "Mitoma",
       "Japan",
-      "Uruguay"
+      "England",
+      "Tuchel World Cup"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Football Japan head to Wembley ready to show they’re the real deal",
-    "url": "https://www.theguardian.com/football/2026/mar/30/japan-england-wembley-friendly-world-cup-2026",
-    "category": "transfer",
+    "title": "Sweden qualify for World Cup after Viktor Gyökeres hits late winner against Poland",
+    "url": "https://www.theguardian.com/football/2026/mar/31/sweden-poland-world-cup-playoff-match-report",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Football Japan head to Wembley ready to show they’re the real deal",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "core_event": "来自 The Guardian 的赛事报道。Sweden qualify for World Cup after Viktor Gyökeres hits late winner against Poland",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Football Japan",
-      "Wembley"
+      "Sweden",
+      "World Cup",
+      "Viktor",
+      "Poland"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Football Salah warned by Egypt team director that MLS move would diminish spotlight",
-    "url": "https://www.theguardian.com/football/2026/mar/30/mohamed-salah-mls-saudi-pro-league-liverpool-egypt",
-    "category": "transfer",
+    "title": "USMNT fall 2-0 to Portugal in final game before World Cup roster is named",
+    "url": "https://www.theguardian.com/football/2026/mar/31/usmnt-fall-2-0-to-portugal-in-final-game-before-world-cup-roster-is-named",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Football Salah warned by Egypt team director that MLS move would diminish spotlight",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "core_event": "来自 The Guardian 的赛事报道。USMNT fall 2-0 to Portugal in final game before World Cup roster is named",
+    "tactical_financial_impact": "紧张的比分说明双方实力接近，细节决定胜负，临场调整至关重要。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Football Salah",
-      "Egypt"
+      "Portugal",
+      "World Cup"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Afcon Caf general secretary resigns amid fallout from final controversy",
-    "url": "https://www.theguardian.com/football/2026/mar/29/caf-general-secretary-resigns-veron-mosengo-omba-afcon-final-senegal-controversy",
-    "category": "transfer",
+    "title": "Portugal defeat USMNT 2-0 to end disappointing homestand – as it happened",
+    "url": "https://www.theguardian.com/football/live/2026/mar/31/usmnt-portugal-live-updates-analysis",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "【官方】The Guardian 报道此次转会已正式完成。Afcon Caf general secretary resigns amid fallout from final controversy",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 5,
-    "gossip_label": "官方确认",
+    "core_event": "来自 The Guardian 的赛事报道。Portugal defeat USMNT 2-0 to end disappointing homestand – as it happened",
+    "tactical_financial_impact": "紧张的比分说明双方实力接近，细节决定胜负，临场调整至关重要。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Afcon Caf"
+      "Portugal"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Moving the Goalposts Sign up for our women's football newsletter",
-    "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-    "category": "transfer",
+    "title": "‘I’d love to race him’: Irankunda scores Socceroos double then sets sights on Gout Gout",
+    "url": "https://www.theguardian.com/football/2026/mar/31/irankunda-scores-socceroos-double-then-set-sights-on-gout-gout",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Moving the Goalposts Sign up for our women's football newsletter",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "core_event": "来自 The Guardian 的赛事报道。‘I’d love to race him’: Irankunda scores Socceroos double then sets sights on Gout Gout",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Moving",
-      "Goalposts Sign"
+      "Irankunda",
+      "Socceroos",
+      "Gout Gout"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Mauricio Pochettino distances himself from Spurs return but backs club to avoid relegation",
-    "url": "https://www.theguardian.com/football/2026/mar/30/mauricio-pochettino-tottenham-usmnt-real-madrid",
+    "title": "Hegseth says suspensions lifted for helicopter crews who hovered over Kid Rock home",
+    "url": "https://www.theguardian.com/us-news/2026/mar/31/hegseth-kid-rock-army-helicopter-video",
     "category": "injury",
-    "emoji_tag": "⚪",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Mauricio Pochettino distances himself from Spurs return but backs club to avoid relegation",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Hegseth says suspensions lifted for helicopter crews who hovered over Kid Rock home",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Mauricio Pochettino",
-      "Spurs"
+      "Hegseth",
+      "Kid Rock"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Mohamed Salah warned by Egypt team director that MLS move would diminish spotlight",
-    "url": "https://www.theguardian.com/football/2026/mar/30/mohamed-salah-mls-saudi-pro-league-liverpool-egypt",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Mohamed Salah warned by Egypt team director that MLS move would diminish spotlight",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Mohamed Salah",
-      "Egypt"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Mohamed Salah could make Liverpool return at Manchester City in FA Cup",
-    "url": "https://www.theguardian.com/football/2026/mar/30/mohamed-salah-liverpool-hope-return-injury-fa-cup-quarter-final-manchester-city",
+    "title": "Human remains found on California beach in 2022 identified as missing man",
+    "url": "https://www.theguardian.com/us-news/2026/mar/31/human-remains-california-beach-identified-missing-man",
     "category": "injury",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Mohamed Salah could make Liverpool return at Manchester City in FA Cup",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Human remains found on California beach in 2022 identified as missing man",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Mohamed Salah",
-      "Liverpool",
-      "Manchester City"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Thomas Tuchel has ‘100% trust’ in Rice and Saka over England injury absences",
-    "url": "https://www.theguardian.com/football/2026/mar/30/thomas-tuchel-declan-rice-bukayo-saka-england-uruguay-japan-wembley",
-    "category": "injury",
-    "emoji_tag": "🚑",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Thomas Tuchel has ‘100% trust’ in Rice and Saka over England injury absences",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Thomas Tuchel",
-      "Rice",
-      "Saka",
-      "England"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "‘I don’t need a crutch’: Roy Hodgson relishes Bristol City return at age of 78",
-    "url": "https://www.theguardian.com/football/2026/mar/30/roy-hodgson-bristol-city-crystal-palace-manager",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。‘I don’t need a crutch’: Roy Hodgson relishes Bristol City return at age of 78",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Roy Hodgson",
-      "Bristol City"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "US directs American embassies to wage campaign against foreign ‘hostility’ – with Musk’s help",
-    "url": "https://www.theguardian.com/us-news/2026/mar/30/embassies-campaign-marco-rubio-elon-musk",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。US directs American embassies to wage campaign against foreign ‘hostility’ – with Musk’s help",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "American",
-      "Musk"
+      "Human",
+      "California"
     ]
   }
 ]
