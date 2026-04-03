@@ -1,62 +1,48 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Chelsea make pre-tax loss of £262.4m - biggest in Premier League history",
-    "url": "https://www.bbc.com/sport/football/articles/cm2k3jdylp1o",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Chelsea make pre-tax loss of £262.4m - biggest in Premier League history",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Chelsea",
-      "Premier League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "BBC Sport's McNulty picks his England World Cup squad - do you agree?",
-    "url": "https://www.bbc.com/sport/football/articles/c995p9kdm3mo",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。BBC Sport's McNulty picks his England World Cup squad - do you agree?",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
-    "key_players": [
-      "Sport",
-      "England World Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Everton interested in Stones return - Thursday's gossip",
-    "url": "https://www.bbc.com/sport/football/articles/ckge4elpp46o",
-    "category": "injury",
-    "emoji_tag": "🔵",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Everton interested in Stones return - Thursday's gossip",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Everton",
-      "Stones",
-      "Thursday"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Who were Scotland's winners and losers from international break?",
-    "url": "https://www.bbc.com/sport/football/articles/c6249z0zw4po",
+    "title": "The $11k World Cup final ticket - what we learned from first open sale",
+    "url": "https://www.bbc.com/sport/football/articles/ce8lzj0rprpo",
     "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 BBC Sport 的赛事报道。Who were Scotland's winners and losers from international break?",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。The $11k World Cup final ticket - what we learned from first open sale",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Scotland"
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Lyon beat Wolfsburg to set up Champions League semi-final against Arsenal",
+    "url": "https://www.bbc.com/sport/football/live/cx269d92yy1t",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Lyon beat Wolfsburg to set up Champions League semi-final against Arsenal",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Lyon",
+      "Wolfsburg",
+      "Champions League",
+      "Arsenal"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Officials correct not to give Amad penalty - panel",
+    "url": "https://www.bbc.com/sport/football/articles/cwykx5yzr7ko",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Officials correct not to give Amad penalty - panel",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Officials",
+      "Amad"
     ]
   },
   {
@@ -78,109 +64,80 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Chelsea lead Premier League's record £460m spend on agent fees",
-    "url": "https://www.bbc.com/sport/football/articles/clyxnpvl7wdo",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Chelsea lead Premier League's record £460m spend on agent fees",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Chelsea",
-      "Premier League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "The World Cup line-up is complete - here's what you need to know",
-    "url": "https://www.bbc.com/sport/football/articles/c3exv0820e4o",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。The World Cup line-up is complete - here's what you need to know",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "The World Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Lewandowski misses out on World Cup - who else won't be there?",
-    "url": "https://www.bbc.com/sport/football/articles/cn89z009kv3o",
+    "title": "Isak to return to training this week - Slot",
+    "url": "https://www.bbc.com/sport/football/articles/c0e7qy0rz3eo",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Lewandowski misses out on World Cup - who else won't be there?",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Isak to return to training this week - Slot",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Lewandowski",
-      "World Cup"
+      "Isak",
+      "Slot"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Italy miss out on third World Cup in row - how have they got here?",
-    "url": "https://www.bbc.com/sport/football/live/c208ge6p142t",
+    "title": "Football Daily. Euro Leagues: Italy World Cup fallout & Bosnia delight. Audio, 41 minutes Football Daily Euro Leagues: Italy World Cup fallout & Bosnia delight",
+    "url": "https://www.bbc.com/sounds/play/p0nbdgtr",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. Euro Leagues: Italy World Cup fallout & Bosnia delight. Audio, 41 minutes Football Daily Euro Leagues: Italy World Cup fallout & Bosnia delight",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Football Daily",
+      "Euro Leagues",
+      "Italy World Cup",
+      "Bosnia"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Davies back in Wales squad but Clark misses out",
+    "url": "https://www.bbc.com/sport/football/articles/cx2elk0we3go",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Italy miss out on third World Cup in row - how have they got here?",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Davies back in Wales squad but Clark misses out",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Italy",
-      "World Cup"
+      "Davies",
+      "Wales",
+      "Clark"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Wrexham ready 'to get going again' in promotion bid",
-    "url": "https://www.bbc.com/sport/football/articles/c5yvkvl6mr0o",
+    "title": "BBC Sport's McNulty picks his England World Cup squad - do you agree?",
+    "url": "https://www.bbc.com/sport/football/articles/c995p9kdm3mo",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Wrexham ready 'to get going again' in promotion bid",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。BBC Sport's McNulty picks his England World Cup squad - do you agree?",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
     "key_players": [
-      "Wrexham"
+      "Sport",
+      "England World Cup"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "UEFA Women's Champions League Agg Barcelona Barcelona (6) Aggregate score 6 plays Real Madrid Real Madrid (2) Aggregate score 2 at 17:45 17:45 on Thu the 2 of Apr",
-    "url": "https://www.bbc.com/sport/football/live/cd9v2g29ye8t",
-    "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Women's Champions League Agg Barcelona Barcelona (6) Aggregate score 6 plays Real Madrid Real Madrid (2) Aggregate score 2 at 17:45 17:45 on Thu the 2 of Apr",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Women",
-      "Champions League Agg",
-      "Barcelona Barcelona",
-      "Aggregate"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "UEFA Women's Champions League Agg Lyonnes OL Lyonnes (0) Aggregate score 0 plays Wolfsburg Wolfsburg (1) Aggregate score 1 at 20:00 20:00 on Thu the 2 of Apr",
-    "url": "https://www.bbc.com/sport/football/live/cx269d92yy1t",
-    "category": "match_report",
+    "title": "Askou calls for consistency after Slattery ban",
+    "url": "https://www.bbc.com/sport/football/articles/cly0z8rn30jo",
+    "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Women's Champions League Agg Lyonnes OL Lyonnes (0) Aggregate score 0 plays Wolfsburg Wolfsburg (1) Aggregate score 1 at 20:00 20:00 on Thu the 2 of Apr",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Askou calls for consistency after Slattery ban",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Women",
-      "Champions League Agg",
-      "Lyonnes",
-      "Aggregate"
+      "Askou",
+      "Slattery"
     ]
   },
   {
@@ -200,6 +157,35 @@
   },
   {
     "source": "BBC Sport",
+    "title": "Who were Scotland's winners and losers from international break?",
+    "url": "https://www.bbc.com/sport/football/articles/c6249z0zw4po",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。Who were Scotland's winners and losers from international break?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Scotland"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Lewandowski misses out on World Cup - who else won't be there?",
+    "url": "https://www.bbc.com/sport/football/articles/cn89z009kv3o",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Lewandowski misses out on World Cup - who else won't be there?",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Lewandowski",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
     "title": "Who is one card away from suspension in the Premier League?",
     "url": "https://www.bbc.com/sport/football/articles/cx25x2r5r32o",
     "category": "injury",
@@ -210,6 +196,22 @@
     "gossip_label": null,
     "key_players": [
       "Premier League"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Vinicius scores twice as Real beat Atletico in thriller",
+    "url": "https://www.bbc.com/sport/football/live/cjwzw41x3dwt",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Vinicius scores twice as Real beat Atletico in thriller",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Vinicius",
+      "Real",
+      "Atletico"
     ]
   },
   {
@@ -230,235 +232,151 @@
   },
   {
     "source": "The Guardian",
-    "title": "World Cup playoffs Iraq hold off Bolivia to claim final World Cup place",
-    "url": "https://www.theguardian.com/football/2026/apr/01/iraq-final-world-cup-place-coach-graham-arnold",
+    "title": "Moving the Goalposts How Denver Summit drew a record NWSL crowd",
+    "url": "https://www.theguardian.com/football/2026/apr/02/denver-summit-nwsl-attendance-record-washington-spirit-moving-goalposts",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。World Cup playoffs Iraq hold off Bolivia to claim final World Cup place",
+    "core_event": "来自 The Guardian 的赛事报道。Moving the Goalposts How Denver Summit drew a record NWSL crowd",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "World Cup",
-      "Iraq",
-      "Bolivia"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Newsletter Sign up for the World Behind the Cup",
-    "url": "https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Newsletter Sign up for the World Behind the Cup",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Newsletter Sign",
-      "World Behind"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Moving the Goalposts Sign up for our women's football email",
-    "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Moving the Goalposts Sign up for our women's football email",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
       "Moving",
-      "Goalposts Sign"
+      "Goalposts How Denver",
+      "Summit"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Women's Super League Manchester United wage bill revealed as half that of rivals Arsenal last season",
-    "url": "https://www.theguardian.com/football/2026/apr/01/manchester-united-women-wage-bill-arsenal-last-season-wsl",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Women's Super League Manchester United wage bill revealed as half that of rivals Arsenal last season",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Women",
-      "Super League Manchester",
-      "United",
-      "Arsenal"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Football Daily Italy blow another World Cup chance. Will they ever learn?",
-    "url": "https://www.theguardian.com/football/2026/apr/01/italy-world-cup-football-daily-newsletter",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Football Daily Italy blow another World Cup chance. Will they ever learn?",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Football Daily Italy",
-      "World Cup",
-      "Will"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "‘An unacceptable disgrace’ Anger and sadness as Azzurri miss out again",
-    "url": "https://www.theguardian.com/football/2026/apr/01/italy-miss-out-world-cup-qualify",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。‘An unacceptable disgrace’ Anger and sadness as Azzurri miss out again",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Anger",
-      "Azzurri"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "World Cup 2026 Montella pictures ‘beautiful path’ as Turkey embrace return to World Cup",
-    "url": "https://www.theguardian.com/football/2026/apr/01/vincenzo-montella-turkey-return-world-cup-2026",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。World Cup 2026 Montella pictures ‘beautiful path’ as Turkey embrace return to World Cup",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "World Cup",
-      "Montella",
-      "Turkey"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Italy’s latest World Cup failure no longer feels like ‘The End’ but the same sad song on repeat",
+    "title": "Nicky Bandini Italy’s latest failure feels like the same sad song on repeat",
     "url": "https://www.theguardian.com/football/2026/apr/01/italy-world-cup-qualification-failure-football-gennaro-gattuso",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Italy’s latest World Cup failure no longer feels like ‘The End’ but the same sad song on repeat",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Nicky Bandini Italy’s latest failure feels like the same sad song on repeat",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Italy",
+      "Nicky Bandini Italy"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Ticket prices Fifa raises top price for final to $10,990, up from $1,600 in 2022",
+    "url": "https://www.theguardian.com/football/2026/apr/02/fifa-ticket-prices-world-cup-2026-final",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Ticket prices Fifa raises top price for final to $10,990, up from $1,600 in 2022",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Ticket",
+      "Fifa"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Football Weekly FA Cup quarter-finals and trouble brewing at Chelsea",
+    "url": "https://www.theguardian.com/football/audio/2026/apr/02/fa-cup-quarter-final-preview-arsenal-chelsea-football-weekly",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 The Guardian 的赛事报道。Football Weekly FA Cup quarter-finals and trouble brewing at Chelsea",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Football Weekly",
+      "Chelsea"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "More than half of World Cup countries face extra costs as Fifa fails to agree US tax deal",
+    "url": "https://www.theguardian.com/football/2026/apr/02/world-cup-countries-face-extra-costs-fifa-tax-deal-us-government",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。More than half of World Cup countries face extra costs as Fifa fails to agree US tax deal",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "More",
       "World Cup",
-      "The End"
+      "Fifa"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Thomas Tuchel on hiding to nothing after being dealt poor hand in England camp",
-    "url": "https://www.theguardian.com/football/2026/apr/01/thomas-tuchel-england-uruguay-japan-world-cup-2026",
+    "title": "Sam Kerr set for Chelsea exit after reportedly signing with US club Denver Summit",
+    "url": "https://www.theguardian.com/football/2026/apr/03/matildas-captain-sam-kerr-chelsea-exit-denver-summit",
     "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Thomas Tuchel on hiding to nothing after being dealt poor hand in England camp",
+    "emoji_tag": "🔵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Sam Kerr set for Chelsea exit after reportedly signing with US club Denver Summit",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "gossip_rating": 1,
+    "gossip_label": "纯属猜测",
     "key_players": [
-      "Thomas Tuchel",
-      "England"
+      "Sam Kerr",
+      "Chelsea",
+      "Denver Summit"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Scale of Socceroos’ challenge comes into focus as Turkey complete daunting World Cup group",
-    "url": "https://www.theguardian.com/football/2026/apr/01/fifa-football-world-cup-socceroos-group-turkey",
+    "title": "FA Cup quarter-finals: things to look out for this weekend",
+    "url": "https://www.theguardian.com/football/2026/apr/03/fa-cup-quarter-finals-things-to-look-out-for-this-weekend",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。FA Cup quarter-finals: things to look out for this weekend",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": []
+  },
+  {
+    "source": "The Guardian",
+    "title": "Italian football in crisis as FA chief resigns and Ceferin issues Euro 2032 warning",
+    "url": "https://www.theguardian.com/football/2026/apr/02/uefa-president-ceferin-warns-italy-it-could-lose-euro-2032-without-action-on-stadiums",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Scale of Socceroos’ challenge comes into focus as Turkey complete daunting World Cup group",
+    "core_event": "【官方】The Guardian 报道此次转会已正式完成。Italian football in crisis as FA chief resigns and Ceferin issues Euro 2032 warning",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
     "key_players": [
-      "Scale",
-      "Socceroos",
-      "Turkey",
+      "Italian",
+      "Ceferin",
+      "Euro"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Fifa raises top ticket price for World Cup final to $10,990, up from $1,600 in 2022",
+    "url": "https://www.theguardian.com/football/2026/apr/02/fifa-ticket-prices-world-cup-2026-final",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Fifa raises top ticket price for World Cup final to $10,990, up from $1,600 in 2022",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Fifa",
       "World Cup"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "‘An unacceptable disgrace’: anger and sadness as Italy miss out on World Cup again",
-    "url": "https://www.theguardian.com/football/2026/apr/01/italy-miss-out-world-cup-qualify",
+    "title": "Kuwait’s military says its air defences working to intercept missiles – as it happened",
+    "url": "https://www.theguardian.com/world/live/2026/apr/02/middle-east-crisis-live-trump-prime-time-address-white-house-iran-war-israel-strait-hormuz",
     "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。‘An unacceptable disgrace’: anger and sadness as Italy miss out on World Cup again",
+    "emoji_tag": "🔵",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Kuwait’s military says its air defences working to intercept missiles – as it happened",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Italy",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Human remains found on California beach in 2022 identified as missing man",
-    "url": "https://www.theguardian.com/us-news/2026/mar/31/human-remains-california-beach-identified-missing-man",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Human remains found on California beach in 2022 identified as missing man",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Human",
-      "California"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "double quotation mark Donald Trump, man-baby leader of the free world, is having an epic tantrum. Anthony Albanese must call it out",
-    "url": "https://www.theguardian.com/australia-news/commentisfree/2026/apr/02/donald-trump-man-baby-leader-of-the-free-world-is-having-an-epic-tantrum-anthony-albanese-must-call-it-out",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。double quotation mark Donald Trump, man-baby leader of the free world, is having an epic tantrum. Anthony Albanese must call it out",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Donald Trump",
-      "Anthony Albanese"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Top Senate Democrat says ‘House Republicans caved’ as deal to fund DHS moves forward – as it happened",
-    "url": "https://www.theguardian.com/us-news/live/2026/apr/01/donald-trump-supreme-court-birthright-citizenship-case-us-politics-latest-news-updates",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Top Senate Democrat says ‘House Republicans caved’ as deal to fund DHS moves forward – as it happened",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Top Senate Democrat",
-      "House Republicans"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Molly the border collie rescued after a week waiting for injured owner in New Zealand’s remote backcountry",
-    "url": "https://www.theguardian.com/world/2026/apr/01/molly-border-collie-rescued-new-zealand",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Molly the border collie rescued after a week waiting for injured owner in New Zealand’s remote backcountry",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Molly",
-      "New Zealand"
+      "Kuwait"
     ]
   }
 ]
