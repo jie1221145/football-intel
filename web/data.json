@@ -1,388 +1,368 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Was 11 minutes of stoppage time at West Ham excessive?",
-    "url": "https://www.bbc.com/sport/football/articles/cvge47evx0no",
+    "title": "Man City beat Birmingham to reach Women's FA Cup semi-final",
+    "url": "https://www.bbc.com/sport/football/live/cvg3d22g1vgt",
     "category": "match_report",
-    "emoji_tag": "⚒️",
-    "core_event": "来自 BBC Sport 的赛事报道。Was 11 minutes of stoppage time at West Ham excessive?",
+    "emoji_tag": "🩵",
+    "core_event": "来自 BBC Sport 的赛事报道。Man City beat Birmingham to reach Women's FA Cup semi-final",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "West Ham"
+      "Man City",
+      "Birmingham",
+      "Women"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Leeds draw Chelsea, Man City face Southampton in FA Cup semis",
-    "url": "https://www.bbc.com/sport/football/articles/c4g6j43yzy5o",
+    "title": "Charlton defender Coady leaves hospital after scans",
+    "url": "https://www.bbc.com/sport/football/articles/c62jl11qqgpo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Charlton defender Coady leaves hospital after scans",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Charlton",
+      "Coady"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Middlesbrough fight back to draw at Swansea",
+    "url": "https://www.bbc.com/sport/football/live/cvg4n22g6lyt",
     "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 BBC Sport 的赛事报道。Leeds draw Chelsea, Man City face Southampton in FA Cup semis",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Middlesbrough fight back to draw at Swansea",
     "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Leeds",
-      "Chelsea",
-      "Man City",
-      "Southampton"
+      "Middlesbrough",
+      "Swansea"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "'We're still top of the league' - McInnes reminds doubters",
-    "url": "https://www.bbc.com/sport/football/articles/c0krn8ke53ko",
-    "category": "injury",
+    "title": "Ipswich beat Birmingham to boost promotion hopes",
+    "url": "https://www.bbc.com/sport/football/live/c15dnee5gzqt",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。'We're still top of the league' - McInnes reminds doubters",
-    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
+    "core_event": "来自 BBC Sport 的赛事报道。Ipswich beat Birmingham to boost promotion hopes",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Ipswich",
+      "Birmingham"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Second win for Hodgson as Bristol City beat Sheff Utd",
+    "url": "https://www.bbc.com/sport/football/live/cwyj7444dd0t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Second win for Hodgson as Bristol City beat Sheff Utd",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Second",
+      "Hodgson",
+      "Bristol City",
+      "Sheff Utd"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Liverpool target Camavinga - Tuesday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/c5yxgjlkrjlo",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Liverpool target Camavinga - Tuesday's gossip",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Liverpool",
+      "Camavinga",
+      "Tuesday"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Holders Chelsea beat Spurs to reach Women's FA Cup semis",
+    "url": "https://www.bbc.com/sport/football/live/c5y7x11ykppt",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。Holders Chelsea beat Spurs to reach Women's FA Cup semis",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Holders Chelsea",
+      "Spurs",
+      "Women"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Coventry close in on top-flight return with Hull draw",
+    "url": "https://www.bbc.com/sport/football/live/c78r022854vt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Coventry close in on top-flight return with Hull draw",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Coventry",
+      "Hull"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Agyemang injured as Derby beat Stoke",
+    "url": "https://www.bbc.com/sport/football/live/cm2k355520nt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Agyemang injured as Derby beat Stoke",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Agyemang",
+      "Derby",
+      "Stoke"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Wilkinson hat-track as Rangers beat Celtic to go second in SWPL",
+    "url": "https://www.bbc.com/sport/football/live/cy01kee0576t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Wilkinson hat-track as Rangers beat Celtic to go second in SWPL",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Wilkinson",
+      "Rangers",
+      "Celtic"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Leicester rescue late draw at Sheffield Wednesday",
+    "url": "https://www.bbc.com/sport/football/live/c17vr447exqt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Leicester rescue late draw at Sheffield Wednesday",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Leicester",
+      "Sheffield Wednesday"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Strugglers Blackburn and West Brom play out goalless draw",
+    "url": "https://www.bbc.com/sport/football/live/cyv1mdddrnzt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Strugglers Blackburn and West Brom play out goalless draw",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Strugglers Blackburn",
+      "West Brom"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Football Daily. MNC: Arsenal's slump and can Slot turn Liverpool around? Audio, 56 minutes Football Daily MNC: Arsenal's slump and can Slot turn Liverpool around?",
+    "url": "https://www.bbc.com/sounds/play/p0nbxg91",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. MNC: Arsenal's slump and can Slot turn Liverpool around? Audio, 56 minutes Football Daily MNC: Arsenal's slump and can Slot turn Liverpool around?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Football Daily",
+      "Arsenal",
+      "Slot",
+      "Liverpool"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Own goal gives QPR late draw at Preston",
+    "url": "https://www.bbc.com/sport/football/live/cx2rx882llwt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Own goal gives QPR late draw at Preston",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Preston"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "UEFA Champions League Agg Real Madrid Real Madrid (0) Aggregate score 0 plays Bayern Munich Bayern Munich (0) Aggregate score 0 at 20:00 20:00 on Tue the 7 of Apr",
+    "url": "https://www.bbc.com/sport/football/live/c9d4g9g3vzyt",
+    "category": "match_report",
+    "emoji_tag": "⚪",
+    "core_event": "来自 BBC Sport 的赛事报道。UEFA Champions League Agg Real Madrid Real Madrid (0) Aggregate score 0 plays Bayern Munich Bayern Munich (0) Aggregate score 0 at 20:00 20:00 on Tue the 7 of Apr",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Champions League Agg",
+      "Real Madrid Real",
+      "Madrid",
+      "Aggregate"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Football Daily Sign up to get our free and (sometimes) funny email",
+    "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Football Daily Sign up to get our free and (sometimes) funny email",
+    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Football Daily Sign"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Women's FA Cup Shock win for Brighton at Arsenal; Liverpool beat Charlton in extra time",
+    "url": "https://www.theguardian.com/football/2026/apr/05/arsenal-brighton-charlton-liverpool-womens-fa-cup-quarter-finals",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Women's FA Cup Shock win for Brighton at Arsenal; Liverpool beat Charlton in extra time",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Women",
+      "Cup Shock",
+      "Brighton",
+      "Arsenal"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Football Daily Sign up for the tea-timeliest email in the game",
+    "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Football Daily Sign up for the tea-timeliest email in the game",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Football Daily Sign"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "‘Use that fuel’: Mikel Arteta and David Raya urge Arsenal to feed off cup losses",
+    "url": "https://www.theguardian.com/football/2026/apr/06/use-that-fuel-mikel-arteta-and-david-raya-urge-arsenal-to-feed-off-cup-losses",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。‘Use that fuel’: Mikel Arteta and David Raya urge Arsenal to feed off cup losses",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Mikel Arteta",
+      "David Raya",
+      "Arsenal"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Kasey McAteer seals controversial win over Birmingham to lift Ipswich up to second",
+    "url": "https://www.theguardian.com/football/2026/apr/06/ipswich-birmingham-chanpionship-match-report",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Kasey McAteer seals controversial win over Birmingham to lift Ipswich up to second",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Kasey",
+      "Birmingham",
+      "Ipswich"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "EFL roundup: Lincoln promoted to Championship with win at Reading",
+    "url": "https://www.theguardian.com/football/2026/apr/06/efl-roundup-lincoln-promoted-to-championship-with-win-at-reading",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。EFL roundup: Lincoln promoted to Championship with win at Reading",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Lincoln",
+      "Championship",
+      "Reading"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "FA Cup quarter-finals: talking points from the men’s and women’s weekend ties",
+    "url": "https://www.theguardian.com/football/2026/apr/06/fa-cup-quarter-finals-10-talking-points-from-the-mens-and-womens-weekend-ties",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。FA Cup quarter-finals: talking points from the men’s and women’s weekend ties",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": []
   },
   {
-    "source": "BBC Sport",
-    "title": "Brighton upset 14-time Women's FA Cup winners Arsenal",
-    "url": "https://www.bbc.com/sport/football/live/crl1j09x5x6t",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Brighton upset 14-time Women's FA Cup winners Arsenal",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Brighton",
-      "Women",
-      "Arsenal"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Leeds beat West Ham on penalties to reach semi-finals",
-    "url": "https://www.bbc.com/sport/football/live/c75k3rv779xt",
-    "category": "match_report",
-    "emoji_tag": "⚒️",
-    "core_event": "来自 BBC Sport 的赛事报道。Leeds beat West Ham on penalties to reach semi-finals",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Leeds",
-      "West Ham"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Liverpool beat second-tier Charlton to reach FA Cup semi-finals",
-    "url": "https://www.bbc.com/sport/football/live/cd6l2gx5353t",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Liverpool beat second-tier Charlton to reach FA Cup semi-finals",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Liverpool",
-      "Charlton"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Raith Rovers lift Challenge Cup after thumping win over Inverness",
-    "url": "https://www.bbc.com/sport/football/live/c8jkg1w07xet",
-    "category": "match_report",
+    "source": "The Guardian",
+    "title": "Trump threatens to jail journalist to find source of second missing airman report",
+    "url": "https://www.theguardian.com/us-news/2026/apr/06/trump-threats-journalist-missing-airman-iran",
+    "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Raith Rovers lift Challenge Cup after thumping win over Inverness",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Trump threatens to jail journalist to find source of second missing airman report",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Raith Rovers",
-      "Challenge Cup",
-      "Inverness"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Celtic narrow gap to top two with nervy win at Dundee",
-    "url": "https://www.bbc.com/sport/football/live/cx29ek3rkn1t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Celtic narrow gap to top two with nervy win at Dundee",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Celtic",
-      "Dundee"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Hearts return to summit despite draw at lowly Livingston",
-    "url": "https://www.bbc.com/sport/football/live/clyxnl3znqwt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Hearts return to summit despite draw at lowly Livingston",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Hearts",
-      "Livingston"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Win no fluke, says Shearer, as Eckert's Saints target Wembley treble",
-    "url": "https://www.bbc.com/sport/football/articles/c747d3ypngjo",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Win no fluke, says Shearer, as Eckert's Saints target Wembley treble",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Shearer",
-      "Eckert",
-      "Saints",
-      "Wembley"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Messi & Suarez score as Miami draw at new stadium",
-    "url": "https://www.bbc.com/sport/football/live/clye32147k0t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Messi & Suarez score as Miami draw at new stadium",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Messi",
-      "Suarez",
-      "Miami"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Chelsea thrash Port Vale to reach Wembley semi-final",
-    "url": "https://www.bbc.com/sport/football/live/clyew9r7jdet",
-    "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 BBC Sport 的赛事报道。Chelsea thrash Port Vale to reach Wembley semi-final",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Chelsea",
-      "Port Vale",
-      "Wembley"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Bayern grab 99th-minute winner to cap superb fightback",
-    "url": "https://www.bbc.com/sport/football/live/crl1d7n579dt",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Bayern grab 99th-minute winner to cap superb fightback",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Bayern"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Real seven points adrift after Muriqi's late Mallorca winner",
-    "url": "https://www.bbc.com/sport/football/live/cj0vz3jeqd3t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Real seven points adrift after Muriqi's late Mallorca winner",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Real",
-      "Muriqi",
-      "Mallorca"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Southampton stun Arsenal to reach FA Cup semi-finals",
-    "url": "https://www.bbc.com/sport/football/live/c4gx7vpwpq9t",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Southampton stun Arsenal to reach FA Cup semi-finals",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Southampton",
-      "Arsenal"
+      "Trump"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "FA Cup Arteta says Arsenal must ‘look in the mirror’ after Southampton defeat",
-    "url": "https://www.theguardian.com/football/2026/apr/04/arteta-says-arsenal-must-look-in-the-mirror-after-southampton-defeat",
+    "title": "Is a new weight-loss drug making people fall out of love?",
+    "url": "https://www.theguardian.com/science/2026/apr/06/is-retatrutide-experimental-weight-loss-drug-making-people-fall-out-of-love",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。FA Cup Arteta says Arsenal must ‘look in the mirror’ after Southampton defeat",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Is a new weight-loss drug making people fall out of love?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
-    "key_players": [
-      "Cup Arteta",
-      "Arsenal",
-      "Southampton"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Reaction Leeds fans will take over London for semi-final, Farke promises",
-    "url": "https://www.theguardian.com/football/2026/apr/05/leeds-fans-london-fa-cup-semi-final-daniel-farke-chelsea-wembley",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Reaction Leeds fans will take over London for semi-final, Farke promises",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Reaction Leeds",
-      "London",
-      "Farke"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Leeds hold nerve to win shootout after West Ham’s dramatic fightback",
-    "url": "https://www.theguardian.com/football/2026/apr/05/west-ham-leeds-fa-cup-quarter-final-match-report",
-    "category": "match_report",
-    "emoji_tag": "⚒️",
-    "core_event": "来自 The Guardian 的赛事报道。Leeds hold nerve to win shootout after West Ham’s dramatic fightback",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Leeds",
-      "West Ham"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "‘Don’t wait four more years’: World Cup co-hosts Canada offer Italy fans free shirt swap",
-    "url": "https://www.theguardian.com/football/2026/apr/04/world-cup-2026-canada-offer-italy-fans-free-shirt-swap",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。‘Don’t wait four more years’: World Cup co-hosts Canada offer Italy fans free shirt swap",
-    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "World Cup",
-      "Canada",
-      "Italy"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Leeds to face Chelsea in FA Cup semi-finals after beating West Ham on penalties - as it happened",
-    "url": "https://www.theguardian.com/football/live/2026/apr/05/west-ham-leeds-united-fa-cup-live-semi-final-draw",
-    "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 The Guardian 的赛事报道。Leeds to face Chelsea in FA Cup semi-finals after beating West Ham on penalties - as it happened",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Leeds",
-      "Chelsea",
-      "West Ham"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Leeds fans will take over London for FA Cup semi-final, Daniel Farke promises",
-    "url": "https://www.theguardian.com/football/2026/apr/05/leeds-fans-london-fa-cup-semi-final-daniel-farke-chelsea-wembley",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Leeds fans will take over London for FA Cup semi-final, Daniel Farke promises",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Leeds",
-      "London",
-      "Daniel Farke"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "European football: PSV crowned Dutch champions after Feyenoord draw with Volendam",
-    "url": "https://www.theguardian.com/football/2026/apr/05/european-football-psv-eindhoven-eredivisie-champions-inter-roma-serie-a",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。European football: PSV crowned Dutch champions after Feyenoord draw with Volendam",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "European",
-      "Dutch",
-      "Feyenoord",
-      "Volendam"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "‘We’re home’: Even in a draw, Inter Miami’s stadium opener was a win for David Beckham",
-    "url": "https://www.theguardian.com/football/2026/apr/05/inter-miami-lionel-messi-david-beckham-nu-stadium-opener",
-    "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 The Guardian 的赛事报道。‘We’re home’: Even in a draw, Inter Miami’s stadium opener was a win for David Beckham",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Even",
-      "Inter Miami",
-      "David Beckham"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Premier League clubs facing £80m shirt sponsor void amid gambling ban",
-    "url": "https://www.theguardian.com/football/2026/apr/05/premier-league-new-season-no-shirt-sponsor-gambling-ban",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Premier League clubs facing £80m shirt sponsor void amid gambling ban",
-    "tactical_financial_impact": "本次转会金额巨大，将对俱乐部的财政健康和 FFP 合规性构成压力。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Premier League"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "double quotation mark As Team Trump wage unceasing war on Iran, evangelical nationalists are destroying any moral world order we once had",
-    "url": "https://www.theguardian.com/commentisfree/2026/apr/04/donald-trump-iran-war-evangelical-nationalists-moral-world-order-pete-hegseth",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。double quotation mark As Team Trump wage unceasing war on Iran, evangelical nationalists are destroying any moral world order we once had",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "As Team Trump",
-      "Iran"
-    ]
+    "key_players": []
   }
 ]
