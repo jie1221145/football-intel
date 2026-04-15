@@ -1,113 +1,157 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Leeds stun Man Utd to move six points clear of drop zone",
-    "url": "https://www.bbc.com/sport/football/live/c2lwv150jwwt",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Leeds stun Man Utd to move six points clear of drop zone",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Leeds",
-      "Man Utd"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Spurs captain Romero out for rest of season with injury",
-    "url": "https://www.bbc.com/sport/football/articles/c98mqrpz50vo",
+    "title": "Slot fears Ekitike injury is 'really bad'",
+    "url": "https://www.bbc.com/sport/football/articles/cx2dd3z9lddo",
     "category": "injury",
-    "emoji_tag": "⚪",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Spurs captain Romero out for rest of season with injury",
+    "emoji_tag": "🚑",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Slot fears Ekitike injury is 'really bad'",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Spurs",
-      "Romero"
+      "Slot",
+      "Ekitike"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Tottenham in advanced talks to sign Robertson",
-    "url": "https://www.bbc.com/sport/football/articles/cevk7kpj4l4o",
+    "title": "McArdle praises NI's 'intent' in big win over Malta",
+    "url": "https://www.bbc.com/sport/articles/ce9mmrjy17ko",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。McArdle praises NI's 'intent' in big win over Malta",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Malta"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Southampton beat Blackburn to fire promotion bid",
+    "url": "https://www.bbc.com/sport/football/live/c3v6175g5ywt",
     "category": "transfer",
-    "emoji_tag": "⚪",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Tottenham in advanced talks to sign Robertson",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Southampton beat Blackburn to fire promotion bid",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Tottenham",
-      "Robertson"
+      "Southampton",
+      "Blackburn"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Jorginho withdraws criticism of Chappell Roan",
-    "url": "https://www.bbc.com/sport/football/articles/cx2dgz1vk91o",
+    "title": "Scots salvage deserved late draw against Belgium",
+    "url": "https://www.bbc.com/sport/football/live/ckg0z1qvz9yt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Jorginho withdraws criticism of Chappell Roan",
+    "core_event": "来自 BBC Sport 的赛事报道。Scots salvage deserved late draw against Belgium",
     "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Jorginho",
-      "Chappell Roan"
+      "Scots",
+      "Belgium"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Football Daily. MNC: Are Arsenal 'bottling' it & will Spurs survive? Audio, 51 minutes Football Daily MNC: Are Arsenal 'bottling' it & will Spurs survive?",
-    "url": "https://www.bbc.com/sounds/play/p0nd6vjl",
+    "title": "England beat world champions Spain in World Cup qualifier",
+    "url": "https://www.bbc.com/sport/football/live/crk1782g2n4t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。England beat world champions Spain in World Cup qualifier",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "England",
+      "Spain",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Late Salech strike rescues Cardiff draw at Huddersfield",
+    "url": "https://www.bbc.com/sport/football/live/cly9zgv57jxt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Late Salech strike rescues Cardiff draw at Huddersfield",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Late Salech",
+      "Cardiff",
+      "Huddersfield"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Football Daily. UCL Debrief: Liverpool knocked out, Atleti down Barcelona. Audio, 34 minutes Football Daily UCL Debrief: Liverpool knocked out, Atleti down Barcelona",
+    "url": "https://www.bbc.com/sounds/play/p0nddzp3",
     "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. MNC: Are Arsenal 'bottling' it & will Spurs survive? Audio, 51 minutes Football Daily MNC: Are Arsenal 'bottling' it & will Spurs survive?",
+    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. UCL Debrief: Liverpool knocked out, Atleti down Barcelona. Audio, 34 minutes Football Daily UCL Debrief: Liverpool knocked out, Atleti down Barcelona",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
       "Football Daily",
-      "Are Arsenal",
-      "Spurs",
-      "Audio"
+      "Debrief",
+      "Liverpool",
+      "Atleti"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "UEFA Champions League Agg Atlético Atletico Madrid (2) Aggregate score 2 plays Barcelona Barcelona (0) Aggregate score 0 at 20:00 20:00 on Tue the 14 of Apr",
-    "url": "https://www.bbc.com/sport/football/live/cly6xz3ex6lt",
+    "title": "Republic of Ireland stun Poland in Gdansk thriller",
+    "url": "https://www.bbc.com/sport/football/live/c239ezmj4x7t",
     "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Champions League Agg Atlético Atletico Madrid (2) Aggregate score 2 plays Barcelona Barcelona (0) Aggregate score 0 at 20:00 20:00 on Tue the 14 of Apr",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Republic of Ireland stun Poland in Gdansk thriller",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Champions League Agg",
-      "Atlético Atletico Madrid",
-      "Aggregate",
-      "Barcelona Barcelona"
+      "Republic",
+      "Ireland",
+      "Poland",
+      "Gdansk"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "UEFA Champions League Agg Liverpool Liverpool (0) Aggregate score 0 plays Paris SG Paris Saint-Germain (2) Aggregate score 2 at 20:00 20:00 on Tue the 14 of Apr",
-    "url": "https://www.bbc.com/sport/football/live/c4g89qene45t",
+    "title": "Cain scores twice as Wales ease to Albania win",
+    "url": "https://www.bbc.com/sport/football/live/cq6j0q9e8gyt",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Champions League Agg Liverpool Liverpool (0) Aggregate score 0 plays Paris SG Paris Saint-Germain (2) Aggregate score 2 at 20:00 20:00 on Tue the 14 of Apr",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Cain scores twice as Wales ease to Albania win",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Champions League Agg",
-      "Liverpool Liverpool",
-      "Aggregate",
-      "Paris"
+      "Cain",
+      "Wales",
+      "Albania"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "NI end winless run against Malta in McArdle's first match",
+    "url": "https://www.bbc.com/sport/football/live/cz904qyd387t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。NI end winless run against Malta in McArdle's first match",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Malta"
     ]
   },
   {
@@ -146,198 +190,213 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Andreatta '500% sure' Scotland will reach major finals",
-    "url": "https://www.bbc.com/sport/football/articles/c248dm5l0g8o",
+    "title": "Irish deserve praise for victory in Poland - Ward",
+    "url": "https://www.bbc.com/sport/football/articles/cjd88zypjm9o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Andreatta '500% sure' Scotland will reach major finals",
+    "core_event": "来自 BBC Sport 的赛事报道。Irish deserve praise for victory in Poland - Ward",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Andreatta",
-      "Scotland"
+      "Irish",
+      "Poland",
+      "Ward"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Will thrilling Scottish title race be decided on goal difference?",
-    "url": "https://www.bbc.com/sport/football/articles/clyxgvq0lyro",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Will thrilling Scottish title race be decided on goal difference?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Will",
-      "Scottish"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "'I'm not blind' - Howe 'accountable' for loss after three-week break",
-    "url": "https://www.bbc.com/sport/football/articles/cdxkgz70qv9o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。'I'm not blind' - Howe 'accountable' for loss after three-week break",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Howe"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Luton beat Stockport to win EFL Trophy final",
-    "url": "https://www.bbc.com/sport/football/live/c79j7v7lpgdt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Luton beat Stockport to win EFL Trophy final",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Luton",
-      "Stockport",
-      "Trophy"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Napoli 'smell blood' & target Premier League's discarded stars",
-    "url": "https://www.bbc.com/sport/football/articles/cy5w4qzygzlo",
+    "title": "Neville's Overlap buys Goldbridge's YouTube channels",
+    "url": "https://www.bbc.com/sport/football/articles/c62jj766py3o",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Napoli 'smell blood' & target Premier League's discarded stars",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Neville's Overlap buys Goldbridge's YouTube channels",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Napoli",
-      "Premier League"
+      "Neville",
+      "Overlap",
+      "Goldbridge"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "How are the Scottish Premiership post-split fixtures decided?",
-    "url": "https://www.bbc.com/sport/football/articles/cd0r4mvgglno",
+    "title": "Falkirk boss McGlynn eyes pinnacle of cup final",
+    "url": "https://www.bbc.com/sport/football/articles/c2evv3krk8no",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。How are the Scottish Premiership post-split fixtures decided?",
+    "core_event": "来自 BBC Sport 的赛事报道。Falkirk boss McGlynn eyes pinnacle of cup final",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Scottish Premiership"
+      "Falkirk"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Will Unwin Absent Mainoo and Maguire emphasise United’s shortcomings",
-    "url": "https://www.theguardian.com/football/2026/apr/13/absent-mainoo-maguire-emphasise-manchester-united-shortcomings-after-shock-loss-leeds",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Will Unwin Absent Mainoo and Maguire emphasise United’s shortcomings",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Will Unwin Absent",
-      "Mainoo",
-      "Maguire",
-      "United"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Top scorers Who is leading race for the Premier League golden boot?",
-    "url": "https://www.theguardian.com/football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Top scorers Who is leading race for the Premier League golden boot?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Premier League"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Football Daily Arsenal take a ‘punch in the face’ but will it be a knockout blow?",
-    "url": "https://www.theguardian.com/football/2026/apr/13/arsenal-manchester-city-premier-league-title-race-football-daily",
+    "title": "Liverpool Slot fears ‘really bad’ Ekitiké injury and laments missed chances",
+    "url": "https://www.theguardian.com/football/2026/apr/14/slot-points-to-liverpools-missed-chances-amid-concern-for-ekitike",
     "category": "injury",
     "emoji_tag": "🔴",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Football Daily Arsenal take a ‘punch in the face’ but will it be a knockout blow?",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Liverpool Slot fears ‘really bad’ Ekitiké injury and laments missed chances",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Football Daily Arsenal"
+      "Liverpool Slot",
+      "Ekitiké"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Ghanaian winger Dominic Frimpong killed at age of 20 in attack on team bus",
-    "url": "https://www.theguardian.com/football/2026/apr/13/dominic-frimpong-killed-armed-robbers-team-bus-ghana",
+    "title": "Exclusive Sponsorship revenue for Uefa’s club competitions set to break €1bn barrier",
+    "url": "https://www.theguardian.com/football/2026/apr/14/sponsorship-uefa-club-competitions-1billion-champions-league",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Exclusive Sponsorship revenue for Uefa’s club competitions set to break €1bn barrier",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Exclusive Sponsorship",
+      "Uefa"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "West Brom Club say they have not broken EFL financial rules as penalty fears grow",
+    "url": "https://www.theguardian.com/football/2026/apr/13/west-brom-say-they-have-not-broken-efl-financial-rules-as-points-deduction-fears-grow",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Ghanaian winger Dominic Frimpong killed at age of 20 in attack on team bus",
+    "core_event": "来自 The Guardian 的赛事报道。West Brom Club say they have not broken EFL financial rules as penalty fears grow",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Ghanaian",
-      "Dominic Frimpong"
+      "West Brom Club"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Absent Mainoo and Maguire emphasise United’s shortcomings after shock loss",
-    "url": "https://www.theguardian.com/football/2026/apr/13/absent-mainoo-maguire-emphasise-manchester-united-shortcomings-after-shock-loss-leeds",
+    "title": "Atlético hold off Barcelona comeback after Lookman strike and García red",
+    "url": "https://www.theguardian.com/football/2026/apr/14/atletico-madrid-barcelona-champions-league-match-report",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Absent Mainoo and Maguire emphasise United’s shortcomings after shock loss",
+    "emoji_tag": "🔵",
+    "core_event": "来自 The Guardian 的赛事报道。Atlético hold off Barcelona comeback after Lookman strike and García red",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Absent Mainoo",
-      "Maguire",
-      "United"
+      "Atlético",
+      "Barcelona",
+      "Lookman",
+      "García"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Arne Slot backs Liverpool to produce ‘great performance’ to beat PSG",
-    "url": "https://www.theguardian.com/football/2026/apr/13/arne-slot-backs-liverpool-to-produce-great-performance-to-beat-psg",
-    "category": "match_report",
+    "title": "Arne Slot fears ‘really bad’ Ekitiké injury and laments missed Liverpool chances",
+    "url": "https://www.theguardian.com/football/2026/apr/14/slot-points-to-liverpools-missed-chances-amid-concern-for-ekitike",
+    "category": "injury",
     "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Arne Slot backs Liverpool to produce ‘great performance’ to beat PSG",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Arne Slot fears ‘really bad’ Ekitiké injury and laments missed Liverpool chances",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
       "Arne Slot",
+      "Ekitiké",
       "Liverpool"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Texas congressman Tony Gonzales says he will resign from House seat – as it happened",
-    "url": "https://www.theguardian.com/us-news/live/2026/apr/13/donald-trump-eric-swalwell-congress-iran-pope-politics-live-latest-news-updates",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Texas congressman Tony Gonzales says he will resign from House seat – as it happened",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "title": "Liverpool 0-2 PSG: Champions League quarter-final, second leg – as it happened",
+    "url": "https://www.theguardian.com/football/live/2026/apr/14/liverpool-v-paris-saint-germain-champions-league-quarter-final-second-leg-live",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Liverpool 0-2 PSG: Champions League quarter-final, second leg – as it happened",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Texas",
-      "Tony Gonzales",
-      "House"
+      "Liverpool",
+      "Champions League"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Atlético Madrid 1-2 Barcelona (agg 3-2): Champions League quarter-final, second leg – as it happened",
+    "url": "https://www.theguardian.com/football/live/2026/apr/14/atletico-madrid-v-barcelona-champions-league-quarter-final-second-leg-live",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 The Guardian 的赛事报道。Atlético Madrid 1-2 Barcelona (agg 3-2): Champions League quarter-final, second leg – as it happened",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Atlético Madrid",
+      "Barcelona",
+      "Champions League"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Javier Mascherano resigns as Inter Miami manager months after winning MLS Cup",
+    "url": "https://www.theguardian.com/football/2026/apr/14/javier-mascherano-inter-miami-resigns-lionel-messi",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "【官方】The Guardian 报道此次转会已正式完成。Javier Mascherano resigns as Inter Miami manager months after winning MLS Cup",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
+    "key_players": [
+      "Javier Mascherano",
+      "Inter Miami"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "US edges closer to popular vote deciding winner of presidential elections",
+    "url": "https://www.theguardian.com/us-news/2026/apr/14/majority-vote-for-president-us-constitution",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。US edges closer to popular vote deciding winner of presidential elections",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": []
+  },
+  {
+    "source": "The Guardian",
+    "title": "House Democrats call for commission led by JD Vance to oust Trump",
+    "url": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。House Democrats call for commission led by JD Vance to oust Trump",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "House Democrats",
+      "Vance",
+      "Trump"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "‘An incalculable loss’: Hampshire College to close doors after fall semester",
+    "url": "https://www.theguardian.com/us-news/2026/apr/14/hampshire-college-massachusetts-closure",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。‘An incalculable loss’: Hampshire College to close doors after fall semester",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Hampshire College"
     ]
   }
 ]
