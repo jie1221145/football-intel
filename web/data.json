@@ -1,402 +1,407 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Slot fears Ekitike injury is 'really bad'",
-    "url": "https://www.bbc.com/sport/football/articles/cx2dd3z9lddo",
+    "title": "Seven goals, fastest strike & two red cards - Bayern-Real delivers drama",
+    "url": "https://www.bbc.com/sport/football/articles/cz0e27043kpo",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Seven goals, fastest strike & two red cards - Bayern-Real delivers drama",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Seven",
+      "Bayern",
+      "Real"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Arsenal reach Champions League semi-finals with Sporting draw",
+    "url": "https://www.bbc.com/sport/football/live/c895q72505yt",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Arsenal reach Champions League semi-finals with Sporting draw",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Arsenal",
+      "Champions League",
+      "Sporting"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Late goals send Bayern into semis after Real thriller",
+    "url": "https://www.bbc.com/sport/football/live/ce84ryj43dmt",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Late goals send Bayern into semis after Real thriller",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Late",
+      "Bayern",
+      "Real"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Ekitike to miss rest of season and World Cup - Deschamps",
+    "url": "https://www.bbc.com/sport/football/articles/c4g443g0l76o",
     "category": "injury",
-    "emoji_tag": "🚑",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Slot fears Ekitike injury is 'really bad'",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Ekitike to miss rest of season and World Cup - Deschamps",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Slot",
-      "Ekitike"
+      "Ekitike",
+      "World Cup",
+      "Deschamps"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "McArdle praises NI's 'intent' in big win over Malta",
-    "url": "https://www.bbc.com/sport/articles/ce9mmrjy17ko",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。McArdle praises NI's 'intent' in big win over Malta",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "title": "Maguire gets extra ban and will miss Chelsea trip",
+    "url": "https://www.bbc.com/sport/football/articles/cjr99vpwd2go",
+    "category": "injury",
+    "emoji_tag": "🔵",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Maguire gets extra ban and will miss Chelsea trip",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Malta"
+      "Maguire",
+      "Chelsea"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Southampton beat Blackburn to fire promotion bid",
-    "url": "https://www.bbc.com/sport/football/live/c3v6175g5ywt",
+    "title": "Sheff Wed to start next season with 15-point penalty, bidder told",
+    "url": "https://www.bbc.com/sport/football/articles/cz0eekymmkko",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Southampton beat Blackburn to fire promotion bid",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Sheff Wed to start next season with 15-point penalty, bidder told",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Southampton",
-      "Blackburn"
+      "Sheff Wed"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Scots salvage deserved late draw against Belgium",
-    "url": "https://www.bbc.com/sport/football/live/ckg0z1qvz9yt",
-    "category": "match_report",
+    "title": "Wood must manage knee issue for the rest of his life",
+    "url": "https://www.bbc.com/sport/football/articles/cy711l1ryv6o",
+    "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Scots salvage deserved late draw against Belgium",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Wood must manage knee issue for the rest of his life",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Scots",
-      "Belgium"
+      "Wood"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "England beat world champions Spain in World Cup qualifier",
-    "url": "https://www.bbc.com/sport/football/live/crk1782g2n4t",
+    "title": "Northampton relegated from League One with defeat at Luton",
+    "url": "https://www.bbc.com/sport/football/live/cvg059e0vxkt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。England beat world champions Spain in World Cup qualifier",
+    "core_event": "来自 BBC Sport 的赛事报道。Northampton relegated from League One with defeat at Luton",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "England",
-      "Spain",
-      "World Cup"
+      "Northampton",
+      "League One",
+      "Luton"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Late Salech strike rescues Cardiff draw at Huddersfield",
-    "url": "https://www.bbc.com/sport/football/live/cly9zgv57jxt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Late Salech strike rescues Cardiff draw at Huddersfield",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Late Salech",
-      "Cardiff",
-      "Huddersfield"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Football Daily. UCL Debrief: Liverpool knocked out, Atleti down Barcelona. Audio, 34 minutes Football Daily UCL Debrief: Liverpool knocked out, Atleti down Barcelona",
-    "url": "https://www.bbc.com/sounds/play/p0nddzp3",
+    "title": "Football Daily. UCL Debrief: Arsenal squeeze into the semis as Bayern blast past Real. Audio, 35 minutes Football Daily UCL Debrief: Arsenal squeeze into the semis as Bayern blast past Real",
+    "url": "https://www.bbc.com/sounds/play/p0ndn01t",
     "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. UCL Debrief: Liverpool knocked out, Atleti down Barcelona. Audio, 34 minutes Football Daily UCL Debrief: Liverpool knocked out, Atleti down Barcelona",
+    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. UCL Debrief: Arsenal squeeze into the semis as Bayern blast past Real. Audio, 35 minutes Football Daily UCL Debrief: Arsenal squeeze into the semis as Bayern blast past Real",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
       "Football Daily",
       "Debrief",
-      "Liverpool",
-      "Atleti"
+      "Arsenal",
+      "Bayern"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Republic of Ireland stun Poland in Gdansk thriller",
-    "url": "https://www.bbc.com/sport/football/live/c239ezmj4x7t",
+    "title": "Rutkowski misses penalty as Ballymena draw with Bangor",
+    "url": "https://www.bbc.com/sport/football/live/ckg954lylp8t",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Republic of Ireland stun Poland in Gdansk thriller",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "来自 BBC Sport 的赛事报道。Rutkowski misses penalty as Ballymena draw with Bangor",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Republic",
-      "Ireland",
-      "Poland",
-      "Gdansk"
+      "Rutkowski",
+      "Ballymena",
+      "Bangor"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Cain scores twice as Wales ease to Albania win",
-    "url": "https://www.bbc.com/sport/football/live/cq6j0q9e8gyt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Cain scores twice as Wales ease to Albania win",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Cain",
-      "Wales",
-      "Albania"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "NI end winless run against Malta in McArdle's first match",
-    "url": "https://www.bbc.com/sport/football/live/cz904qyd387t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。NI end winless run against Malta in McArdle's first match",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Malta"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "UEFA Champions League Agg Arsenal Arsenal (1) Aggregate score 1 plays Sporting Sporting CP (0) Aggregate score 0 at 20:00 20:00 on Wed the 15 of Apr",
-    "url": "https://www.bbc.com/sport/football/live/c895q72505yt",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Champions League Agg Arsenal Arsenal (1) Aggregate score 1 plays Sporting Sporting CP (0) Aggregate score 0 at 20:00 20:00 on Wed the 15 of Apr",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Champions League Agg",
-      "Arsenal Arsenal",
-      "Aggregate",
-      "Sporting Sporting"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "UEFA Champions League Agg Bayern Munich Bayern Munich (2) Aggregate score 2 plays Real Madrid Real Madrid (1) Aggregate score 1 at 20:00 20:00 on Wed the 15 of Apr",
-    "url": "https://www.bbc.com/sport/football/live/ce84ryj43dmt",
-    "category": "match_report",
-    "emoji_tag": "⚪",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Champions League Agg Bayern Munich Bayern Munich (2) Aggregate score 2 plays Real Madrid Real Madrid (1) Aggregate score 1 at 20:00 20:00 on Wed the 15 of Apr",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Champions League Agg",
-      "Bayern Munich Bayern",
-      "Munich",
-      "Aggregate"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Irish deserve praise for victory in Poland - Ward",
-    "url": "https://www.bbc.com/sport/football/articles/cjd88zypjm9o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Irish deserve praise for victory in Poland - Ward",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Irish",
-      "Poland",
-      "Ward"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Neville's Overlap buys Goldbridge's YouTube channels",
-    "url": "https://www.bbc.com/sport/football/articles/c62jj766py3o",
+    "title": "John Terry and Colchester - why now, and why are ex-pros buying clubs?",
+    "url": "https://www.bbc.com/sport/football/articles/cddqq94dv4ro",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Neville's Overlap buys Goldbridge's YouTube channels",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。John Terry and Colchester - why now, and why are ex-pros buying clubs?",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Neville",
-      "Overlap",
-      "Goldbridge"
+      "John Terry",
+      "Colchester"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Falkirk boss McGlynn eyes pinnacle of cup final",
-    "url": "https://www.bbc.com/sport/football/articles/c2evv3krk8no",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Falkirk boss McGlynn eyes pinnacle of cup final",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Falkirk"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Liverpool Slot fears ‘really bad’ Ekitiké injury and laments missed chances",
-    "url": "https://www.theguardian.com/football/2026/apr/14/slot-points-to-liverpools-missed-chances-amid-concern-for-ekitike",
+    "title": "Two fans get first banning orders for tailgating",
+    "url": "https://www.bbc.com/sport/football/articles/c2033737k29o",
     "category": "injury",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Liverpool Slot fears ‘really bad’ Ekitiké injury and laments missed chances",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Two fans get first banning orders for tailgating",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Liverpool Slot",
-      "Ekitiké"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Exclusive Sponsorship revenue for Uefa’s club competitions set to break €1bn barrier",
-    "url": "https://www.theguardian.com/football/2026/apr/14/sponsorship-uefa-club-competitions-1billion-champions-league",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Exclusive Sponsorship revenue for Uefa’s club competitions set to break €1bn barrier",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Exclusive Sponsorship",
-      "Uefa"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "West Brom Club say they have not broken EFL financial rules as penalty fears grow",
-    "url": "https://www.theguardian.com/football/2026/apr/13/west-brom-say-they-have-not-broken-efl-financial-rules-as-points-deduction-fears-grow",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。West Brom Club say they have not broken EFL financial rules as penalty fears grow",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "West Brom Club"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Atlético hold off Barcelona comeback after Lookman strike and García red",
-    "url": "https://www.theguardian.com/football/2026/apr/14/atletico-madrid-barcelona-champions-league-match-report",
-    "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 The Guardian 的赛事报道。Atlético hold off Barcelona comeback after Lookman strike and García red",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Atlético",
-      "Barcelona",
-      "Lookman",
-      "García"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Arne Slot fears ‘really bad’ Ekitiké injury and laments missed Liverpool chances",
-    "url": "https://www.theguardian.com/football/2026/apr/14/slot-points-to-liverpools-missed-chances-amid-concern-for-ekitike",
-    "category": "injury",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Arne Slot fears ‘really bad’ Ekitiké injury and laments missed Liverpool chances",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Arne Slot",
-      "Ekitiké",
-      "Liverpool"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Liverpool 0-2 PSG: Champions League quarter-final, second leg – as it happened",
-    "url": "https://www.theguardian.com/football/live/2026/apr/14/liverpool-v-paris-saint-germain-champions-league-quarter-final-second-leg-live",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Liverpool 0-2 PSG: Champions League quarter-final, second leg – as it happened",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Liverpool",
-      "Champions League"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Atlético Madrid 1-2 Barcelona (agg 3-2): Champions League quarter-final, second leg – as it happened",
-    "url": "https://www.theguardian.com/football/live/2026/apr/14/atletico-madrid-v-barcelona-champions-league-quarter-final-second-leg-live",
-    "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 The Guardian 的赛事报道。Atlético Madrid 1-2 Barcelona (agg 3-2): Champions League quarter-final, second leg – as it happened",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Atlético Madrid",
-      "Barcelona",
-      "Champions League"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Javier Mascherano resigns as Inter Miami manager months after winning MLS Cup",
-    "url": "https://www.theguardian.com/football/2026/apr/14/javier-mascherano-inter-miami-resigns-lionel-messi",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "【官方】The Guardian 报道此次转会已正式完成。Javier Mascherano resigns as Inter Miami manager months after winning MLS Cup",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 5,
-    "gossip_label": "官方确认",
-    "key_players": [
-      "Javier Mascherano",
-      "Inter Miami"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "US edges closer to popular vote deciding winner of presidential elections",
-    "url": "https://www.theguardian.com/us-news/2026/apr/14/majority-vote-for-president-us-constitution",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。US edges closer to popular vote deciding winner of presidential elections",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": []
   },
   {
-    "source": "The Guardian",
-    "title": "House Democrats call for commission led by JD Vance to oust Trump",
-    "url": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。House Democrats call for commission led by JD Vance to oust Trump",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "House Democrats",
-      "Vance",
-      "Trump"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "‘An incalculable loss’: Hampshire College to close doors after fall semester",
-    "url": "https://www.theguardian.com/us-news/2026/apr/14/hampshire-college-massachusetts-closure",
+    "source": "BBC Sport",
+    "title": "UEFA Europa League Agg Celta Vigo Celta Vigo (0) Aggregate score 0 plays Freiburg Freiburg (3) Aggregate score 3 at 17:45 17:45 on Thu the 16 of Apr",
+    "url": "https://www.bbc.com/sport/football/live/cy41q58d7wdt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。‘An incalculable loss’: Hampshire College to close doors after fall semester",
+    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg Celta Vigo Celta Vigo (0) Aggregate score 0 plays Freiburg Freiburg (3) Aggregate score 3 at 17:45 17:45 on Thu the 16 of Apr",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Hampshire College"
+      "Europa League Agg",
+      "Celta Vigo Celta",
+      "Vigo",
+      "Aggregate"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "UEFA Europa League Agg Aston Villa Aston Villa (3) Aggregate score 3 plays Bologna Bologna (1) Aggregate score 1 at 20:00 20:00 on Thu the 16 of Apr",
+    "url": "https://www.bbc.com/sport/football/live/cwydgm13v8dt",
+    "category": "match_report",
+    "emoji_tag": "🟣",
+    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg Aston Villa Aston Villa (3) Aggregate score 3 plays Bologna Bologna (1) Aggregate score 1 at 20:00 20:00 on Thu the 16 of Apr",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Europa League Agg",
+      "Aston Villa Aston",
+      "Villa",
+      "Aggregate"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "UEFA Europa League Agg Nottm Forest Nottingham Forest (1) Aggregate score 1 plays Porto Porto (1) Aggregate score 1 at 20:00 20:00 on Thu the 16 of Apr",
+    "url": "https://www.bbc.com/sport/football/live/cr71jke4xkxt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg Nottm Forest Nottingham Forest (1) Aggregate score 1 plays Porto Porto (1) Aggregate score 1 at 20:00 20:00 on Thu the 16 of Apr",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Europa League Agg",
+      "Nottm Forest Nottingham",
+      "Forest",
+      "Aggregate"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Barney Ronay Arsenal are painful to watch but maybe this is just how you win things",
+    "url": "https://www.theguardian.com/football/2026/apr/15/arsenal-are-painful-to-watch-but-maybe-this-is-just-how-you-win-things",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Barney Ronay Arsenal are painful to watch but maybe this is just how you win things",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Barney Ronay Arsenal"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Women's Football Weekly England beat Spain again and Eta blazes a trail",
+    "url": "https://www.theguardian.com/football/audio/2026/apr/15/england-beat-spain-again-and-marie-louise-eta-blazes-a-trail-womens-football-weekly",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Women's Football Weekly England beat Spain again and Eta blazes a trail",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Women",
+      "Football Weekly England",
+      "Spain"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Díaz and Olise late show sends Bayern into semi-finals after Real Madrid classic",
+    "url": "https://www.theguardian.com/football/2026/apr/15/bayern-munich-real-madrid-champions-league-quarter-final-second-leg-match-report",
+    "category": "match_report",
+    "emoji_tag": "⚪",
+    "core_event": "来自 The Guardian 的赛事报道。Díaz and Olise late show sends Bayern into semi-finals after Real Madrid classic",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Díaz",
+      "Olise",
+      "Bayern",
+      "Real Madrid"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Edgy Arsenal squeeze past Sporting to set up Atlético Madrid semi-final",
+    "url": "https://www.theguardian.com/football/2026/apr/15/arsenal-sporting-lisbon-champions-league-quarter-final-second-leg-match-report",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Edgy Arsenal squeeze past Sporting to set up Atlético Madrid semi-final",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Edgy Arsenal",
+      "Sporting",
+      "Atlético Madrid"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Arsenal are painful to watch but maybe this is just how you win things",
+    "url": "https://www.theguardian.com/football/2026/apr/15/arsenal-are-painful-to-watch-but-maybe-this-is-just-how-you-win-things",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Arsenal are painful to watch but maybe this is just how you win things",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Arsenal"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Caitlin Foord baffled by lost goal as Kerr lifts Matildas to Fifa Series final win over Kenya",
+    "url": "https://www.theguardian.com/football/2026/apr/16/australia-matildas-kenya-fifa-series-final-kerr-foord-report",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Caitlin Foord baffled by lost goal as Kerr lifts Matildas to Fifa Series final win over Kenya",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Caitlin Foord",
+      "Kerr",
+      "Matildas",
+      "Fifa Series"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Bayern Munich 4-3 Real Madrid (6-4 agg): Champions League quarter-final, second leg – as it happened",
+    "url": "https://www.theguardian.com/football/live/2026/apr/15/bayern-munich-v-real-madrid-champions-league-quarter-final-second-leg-live",
+    "category": "match_report",
+    "emoji_tag": "⚪",
+    "core_event": "来自 The Guardian 的赛事报道。Bayern Munich 4-3 Real Madrid (6-4 agg): Champions League quarter-final, second leg – as it happened",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Bayern Munich",
+      "Real Madrid",
+      "Champions League"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Liverpool’s Hugo Ekitiké ruled out for rest of season and World Cup with France",
+    "url": "https://www.theguardian.com/football/2026/apr/15/liverpools-hugo-ekitike-ruled-out-for-rest-of-season-and-world-cup-with-france",
+    "category": "injury",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Liverpool’s Hugo Ekitiké ruled out for rest of season and World Cup with France",
+    "tactical_financial_impact": "长期缺阵将迫使主帅调整主力阵容，考验替补球员的临场发挥。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Liverpool",
+      "Hugo Ekitiké",
+      "World Cup",
+      "France"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Arsenal 0-0 Sporting (1-0 on aggregate): Champions League quarter-final, second leg – as it happened",
+    "url": "https://www.theguardian.com/football/live/2026/apr/15/arsenal-v-sporting-champions-league-quarter-final-second-leg-live",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Arsenal 0-0 Sporting (1-0 on aggregate): Champions League quarter-final, second leg – as it happened",
+    "tactical_financial_impact": "紧张的比分说明双方实力接近，细节决定胜负，临场调整至关重要。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Arsenal",
+      "Sporting",
+      "Champions League"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Harry Maguire given extra one-match ban for ‘joke’ comment towards officials",
+    "url": "https://www.theguardian.com/football/2026/apr/15/harry-maguire-given-extra-one-match-ban-manchester-united-chelsea",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Harry Maguire given extra one-match ban for ‘joke’ comment towards officials",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Harry Maguire"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Critical Atlantic current significantly more likely to collapse than thought",
+    "url": "https://www.theguardian.com/environment/2026/apr/15/critical-atlantic-current-significantly-more-likely-to-collapse-than-thought",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Critical Atlantic current significantly more likely to collapse than thought",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Critical Atlantic"
     ]
   }
 ]
