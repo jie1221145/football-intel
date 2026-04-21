@@ -1,33 +1,109 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Are Man City now title favourites after win over Arsenal?",
-    "url": "https://www.bbc.com/sport/football/articles/c1kr1jk0wnpo",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Are Man City now title favourites after win over Arsenal?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "title": "Rose agrees to succeed Iraola at Bournemouth",
+    "url": "https://www.bbc.com/sport/football/articles/cyv1llpvy0mo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Rose agrees to succeed Iraola at Bournemouth",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
     "key_players": [
-      "Are Man City",
-      "Arsenal"
+      "Rose",
+      "Iraola",
+      "Bournemouth"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Dream derby result for Liverpool fans but huge summer ahead for Slot",
-    "url": "https://www.bbc.com/sport/football/articles/c9qd94rzr01o",
+    "title": "Wolves relegation confirmed as West Ham draw at Crystal Palace",
+    "url": "https://www.bbc.com/sport/football/live/cm25p06k3mdt",
     "category": "match_report",
+    "emoji_tag": "⚒️",
+    "core_event": "来自 BBC Sport 的赛事报道。Wolves relegation confirmed as West Ham draw at Crystal Palace",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Wolves",
+      "West Ham",
+      "Crystal Palace"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Rosenior feels '100%' support from Chelsea owners",
+    "url": "https://www.bbc.com/sport/football/articles/cvg4jm0npmpo",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Rosenior feels '100%' support from Chelsea owners",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Rosenior",
+      "Chelsea"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Konate says he is close to signing new Liverpool deal",
+    "url": "https://www.bbc.com/sport/football/articles/cdj70nngwp2o",
+    "category": "transfer",
     "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Dream derby result for Liverpool fans but huge summer ahead for Slot",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Konate says he is close to signing new Liverpool deal",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Konate",
+      "Liverpool"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Gordon will cost Bayern Munich £75m - Tuesday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/c3r30095q9qo",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Gordon will cost Bayern Munich £75m - Tuesday's gossip",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Gordon",
+      "Bayern Munich",
+      "Tuesday"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Redesigned ball could reduce heading impact - scientists",
+    "url": "https://www.bbc.com/sport/football/articles/c4g43yd416xo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Redesigned ball could reduce heading impact - scientists",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Redesigned"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Lennon cup final reunion for what could be O'Neill swansong",
+    "url": "https://www.bbc.com/sport/football/articles/c79jgydd31eo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Lennon cup final reunion for what could be O'Neill swansong",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Dream",
-      "Liverpool",
-      "Slot"
+      "Lennon",
+      "Neill"
     ]
   },
   {
@@ -49,17 +125,82 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Villa score in 93rd minute to beat Sunderland in thriller",
-    "url": "https://www.bbc.com/sport/football/live/c3exx07xk7et",
+    "title": "Football Daily. MNC: Manchester City close in on Arsenal. Audio, 61 minutes Football Daily MNC: Manchester City close in on Arsenal",
+    "url": "https://www.bbc.com/sounds/play/p0nfl8wd",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Villa score in 93rd minute to beat Sunderland in thriller",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. MNC: Manchester City close in on Arsenal. Audio, 61 minutes Football Daily MNC: Manchester City close in on Arsenal",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Villa",
-      "Sunderland"
+      "Football Daily",
+      "Manchester City",
+      "Arsenal",
+      "Audio"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Are Man City now title favourites after win over Arsenal?",
+    "url": "https://www.bbc.com/sport/football/articles/c1kr1jk0wnpo",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Are Man City now title favourites after win over Arsenal?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Are Man City",
+      "Arsenal"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Police fire rubber bullets and detain dozens as Paraguay derby abandoned",
+    "url": "https://www.bbc.com/sport/football/articles/c5ylr2zdq78o",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Police fire rubber bullets and detain dozens as Paraguay derby abandoned",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Police",
+      "Paraguay"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Dream derby result for Liverpool fans but huge summer ahead for Slot",
+    "url": "https://www.bbc.com/sport/football/articles/c9qd94rzr01o",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Dream derby result for Liverpool fans but huge summer ahead for Slot",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Dream",
+      "Liverpool",
+      "Slot"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "More than the Score. Coventry City are back in the Premier League after 25 years. Audio, 11 minutes More than the Score Coventry City are back in the Premier League after 25 years",
+    "url": "https://www.bbc.com/sounds/play/p0nfhmnp",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。More than the Score. Coventry City are back in the Premier League after 25 years. Audio, 11 minutes More than the Score Coventry City are back in the Premier League after 25 years",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "More",
+      "Score",
+      "Coventry City",
+      "Premier League"
     ]
   },
   {
@@ -95,239 +236,139 @@
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "First 'daylight' offside goal scored in Canada",
-    "url": "https://www.bbc.com/sport/football/articles/c04xk952zd4o",
+    "source": "The Guardian",
+    "title": "As it happened Read Michael Butler's minute-by-minute report",
+    "url": "https://www.theguardian.com/football/live/2026/apr/20/crystal-palace-v-west-ham-united-premier-league-live",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。First 'daylight' offside goal scored in Canada",
+    "core_event": "来自 The Guardian 的赛事报道。As it happened Read Michael Butler's minute-by-minute report",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "First",
-      "Canada"
+      "Read Michael Butler"
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Man City beat Arsenal to cut lead to three points",
-    "url": "https://www.bbc.com/sport/football/live/ckg99k2949pt",
+    "source": "The Guardian",
+    "title": "Top scorers Check out the latest Premier League goal standings",
+    "url": "https://www.theguardian.com/football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Man City beat Arsenal to cut lead to three points",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Top scorers Check out the latest Premier League goal standings",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Man City",
-      "Arsenal"
+      "Check",
+      "Premier League"
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Celtic hit St Mirren for six to set up Dunfermline Scottish Cup final meeting",
-    "url": "https://www.bbc.com/sport/football/live/c3w33753j9yt",
+    "source": "The Guardian",
+    "title": "US goalkeeper Jonathan Klinsmann breaks neck playing for Cesena",
+    "url": "https://www.theguardian.com/football/2026/apr/20/jonathan-klinsmann-broken-neck-usmnt-cesena",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Celtic hit St Mirren for six to set up Dunfermline Scottish Cup final meeting",
+    "core_event": "来自 The Guardian 的赛事报道。US goalkeeper Jonathan Klinsmann breaks neck playing for Cesena",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Celtic",
-      "St Mirren",
-      "Dunfermline Scottish Cup"
+      "Jonathan Klinsmann",
+      "Cesena"
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Van Dijk's 100th-minute winner sinks Everton",
-    "url": "https://www.bbc.com/sport/football/live/c3v661z603vt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Van Dijk's 100th-minute winner sinks Everton",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Van Dijk",
-      "Everton"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Brentford held by Fulham for fifth consecutive draw",
-    "url": "https://www.bbc.com/sport/football/live/cx2dg2neg2mt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Brentford held by Fulham for fifth consecutive draw",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Brentford",
-      "Fulham"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Bayern fight back against Stuttgart to win Bundesliga for 35th time",
-    "url": "https://www.bbc.com/sport/football/live/c89558d5d5nt",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Bayern fight back against Stuttgart to win Bundesliga for 35th time",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Bayern",
-      "Stuttgart",
-      "Bundesliga"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Ipswich back in second place with Middlesbrough draw",
-    "url": "https://www.bbc.com/sport/football/live/clyee17ep5et",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Ipswich back in second place with Middlesbrough draw",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Ipswich",
-      "Middlesbrough"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Forest closer to safety as Gibbs-White gets hat-trick in win over Burnley",
-    "url": "https://www.bbc.com/sport/football/live/cpqxx45x0jxt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Forest closer to safety as Gibbs-White gets hat-trick in win over Burnley",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Forest",
-      "Gibbs",
-      "White",
-      "Burnley"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Protests and another costly loss - pressure mounts on Rosenior's Chelsea",
-    "url": "https://www.bbc.com/sport/football/articles/cj0vg341djqo",
+    "source": "The Guardian",
+    "title": "Liam Rosenior admits ‘I need results now’ as pressure mounts at Chelsea",
+    "url": "https://www.theguardian.com/football/2026/apr/20/liam-rosenior-pressure-chelsea-future-wesley-fofana",
     "category": "match_report",
     "emoji_tag": "🔵",
-    "core_event": "来自 BBC Sport 的赛事报道。Protests and another costly loss - pressure mounts on Rosenior's Chelsea",
+    "core_event": "来自 The Guardian 的赛事报道。Liam Rosenior admits ‘I need results now’ as pressure mounts at Chelsea",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Protests",
-      "Rosenior",
+      "Liam Rosenior",
       "Chelsea"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Premier League Van Dijk earns late Liverpool victory in first derby at Everton’s new home",
-    "url": "https://www.theguardian.com/football/2026/apr/19/everton-liverpool-premier-league-match-report",
+    "title": "West Ham draw at Crystal Palace to relegate Wolves: Premier League – as it happened",
+    "url": "https://www.theguardian.com/football/live/2026/apr/20/crystal-palace-v-west-ham-united-premier-league-live",
     "category": "match_report",
+    "emoji_tag": "⚒️",
+    "core_event": "来自 The Guardian 的赛事报道。West Ham draw at Crystal Palace to relegate Wolves: Premier League – as it happened",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "West Ham",
+      "Crystal Palace",
+      "Wolves",
+      "Premier League"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Ibrahima Konaté close to agreeing new contract and extending Liverpool stay",
+    "url": "https://www.theguardian.com/football/2026/apr/20/ibrahima-konate-liverpool-close-new-contract",
+    "category": "transfer",
     "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Premier League Van Dijk earns late Liverpool victory in first derby at Everton’s new home",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。Ibrahima Konaté close to agreeing new contract and extending Liverpool stay",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
     "key_players": [
-      "Premier League Van",
-      "Dijk",
-      "Liverpool",
-      "Everton"
+      "Ibrahima Konaté",
+      "Liverpool"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "‘Big, big compliment’: Arne Slot hails Liverpool’s mentality in win at Everton",
-    "url": "https://www.theguardian.com/football/2026/apr/19/arne-slot-liverpool-everton-derby",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。‘Big, big compliment’: Arne Slot hails Liverpool’s mentality in win at Everton",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "title": "Trump labor secretary Lori Chavez-DeRemer resigns amid misconduct investigation",
+    "url": "https://www.theguardian.com/us-news/2026/apr/20/trump-labor-secretary-lori-chavez-deremer",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "【官方】The Guardian 报道此次转会已正式完成。Trump labor secretary Lori Chavez-DeRemer resigns amid misconduct investigation",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
     "key_players": [
-      "Arne Slot",
-      "Liverpool",
-      "Everton"
+      "Trump",
+      "Lori Chavez"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "European football: Bayern Munich win 35th league title by surging past Stuttgart",
-    "url": "https://www.theguardian.com/football/2026/apr/19/european-football-bayern-munich-win-35th-league-title-by-surging-past-stuttgart",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。European football: Bayern Munich win 35th league title by surging past Stuttgart",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "European",
-      "Bayern Munich",
-      "Stuttgart"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Virgil van Dijk earns late Liverpool win in first derby at Everton’s new home",
-    "url": "https://www.theguardian.com/football/2026/apr/19/everton-liverpool-premier-league-match-report",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Virgil van Dijk earns late Liverpool win in first derby at Everton’s new home",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Virgil",
-      "Dijk",
-      "Liverpool",
-      "Everton"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Aston Villa’s Tammy Abraham grabs dramatic victory after Sunderland rally",
-    "url": "https://www.theguardian.com/football/2026/apr/19/aston-villa-sunderland-premier-league-match-report",
-    "category": "match_report",
-    "emoji_tag": "🟣",
-    "core_event": "来自 The Guardian 的赛事报道。Aston Villa’s Tammy Abraham grabs dramatic victory after Sunderland rally",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Aston Villa",
-      "Tammy Abraham",
-      "Sunderland"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "IDF map shows its advance into southern Lebanon – as it happened",
-    "url": "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel",
+    "title": "Madonna offers reward after vintage Coachella costume goes missing",
+    "url": "https://www.theguardian.com/music/2026/apr/21/madonna-coachella-2026-costume-missing",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。IDF map shows its advance into southern Lebanon – as it happened",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Madonna offers reward after vintage Coachella costume goes missing",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Lebanon"
+      "Madonna",
+      "Coachella"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Fitness influencer drowns during swimming portion of Ironman Texas",
+    "url": "https://www.theguardian.com/sport/2026/apr/20/fitness-influencer-drowns-during-swimming-portion-of-ironman-texas",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Fitness influencer drowns during swimming portion of Ironman Texas",
+    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Fitness",
+      "Ironman Texas"
     ]
   }
 ]
