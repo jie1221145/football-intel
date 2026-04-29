@@ -1,17 +1,196 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Who will win the Champions League? Place your vote",
-    "url": "https://www.bbc.com/sport/football/articles/c1mkvzlnk2ro",
+    "title": "A record-breaking semi-final - the antidote to modern football?",
+    "url": "https://www.bbc.com/sport/football/articles/cp3pd2kgy76o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Who will win the Champions League? Place your vote",
+    "core_event": "来自 BBC Sport 的赛事报道。A record-breaking semi-final - the antidote to modern football?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": []
+  },
+  {
+    "source": "BBC Sport",
+    "title": "PSG edge Bayern in record nine-goal semi-final first leg",
+    "url": "https://www.bbc.com/sport/football/live/cj60j38yk0gt",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。PSG edge Bayern in record nine-goal semi-final first leg",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Champions League",
-      "Place"
+      "Bayern"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Saints and Ipswich take promotion race to final day",
+    "url": "https://www.bbc.com/sport/football/live/cj0vl3zmlz1t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Saints and Ipswich take promotion race to final day",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Saints",
+      "Ipswich"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Man City left frustrated by fixture pile-up",
+    "url": "https://www.bbc.com/sport/football/articles/cm2pn84y1r3o",
+    "category": "match_report",
+    "emoji_tag": "🩵",
+    "core_event": "来自 BBC Sport 的赛事报道。Man City left frustrated by fixture pile-up",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Man City"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Stockport miss chance to seal play-off place with loss",
+    "url": "https://www.bbc.com/sport/football/live/c8r4zngpr1mt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Stockport miss chance to seal play-off place with loss",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Stockport"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Ranking the players who could decide the Champions League semi-finals",
+    "url": "https://www.bbc.com/sport/football/articles/c5yw5g3e7nko",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Ranking the players who could decide the Champions League semi-finals",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Ranking",
+      "Champions League"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Scunthorpe beat Southend to reach play-off semis",
+    "url": "https://www.bbc.com/sport/football/live/c4g4ng75npyt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Scunthorpe beat Southend to reach play-off semis",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Scunthorpe",
+      "Southend"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Tottenham target Rashford - Wednesday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/c9q3gn39el7o",
+    "category": "transfer",
+    "emoji_tag": "⚪",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Tottenham target Rashford - Wednesday's gossip",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Tottenham",
+      "Rashford",
+      "Wednesday"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Brighton plan Europe's first purpose-built £80m women's stadium",
+    "url": "https://www.bbc.com/sport/football/articles/ce8p01x34pyo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Brighton plan Europe's first purpose-built £80m women's stadium",
+    "tactical_financial_impact": "本次转会金额巨大，将对俱乐部的财政健康和 FFP 合规性构成压力。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Brighton",
+      "Europe"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Peterborough stay up in League One with Mansfield draw",
+    "url": "https://www.bbc.com/sport/football/live/cz78xd9l4pvt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Peterborough stay up in League One with Mansfield draw",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Peterborough",
+      "League One",
+      "Mansfield"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Croatia confident of Modric recovery for World Cup",
+    "url": "https://www.bbc.com/sport/football/articles/cqjpl4zj0ezo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Croatia confident of Modric recovery for World Cup",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Croatia",
+      "Modric",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Arsenal defender Catley signs new contract",
+    "url": "https://www.bbc.com/sport/football/articles/c172ggye84do",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Arsenal defender Catley signs new contract",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
+    "key_players": [
+      "Arsenal",
+      "Catley"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "New stadia, a slip for Man City & advantage Arsenal in Europe. Audio, 46 minutes New stadia, a slip for Man City & advantage Arsenal in Europe",
+    "url": "https://www.bbc.com/sounds/play/p0nh3bmt",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。New stadia, a slip for Man City & advantage Arsenal in Europe. Audio, 46 minutes New stadia, a slip for Man City & advantage Arsenal in Europe",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Man City",
+      "Arsenal",
+      "Europe",
+      "Audio"
     ]
   },
   {
@@ -26,176 +205,6 @@
     "gossip_label": null,
     "key_players": [
       "Rangers"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Man Utd beat Brentford to close in on Champions League return",
-    "url": "https://www.bbc.com/sport/football/live/c79jpd052gjt",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Man Utd beat Brentford to close in on Champions League return",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Man Utd",
-      "Brentford",
-      "Champions League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Newcastle to explore selling Wissa - Tuesday's gossip",
-    "url": "https://www.bbc.com/sport/football/articles/c3939m7y30eo",
-    "category": "transfer",
-    "emoji_tag": "⚫",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Newcastle to explore selling Wissa - Tuesday's gossip",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Newcastle",
-      "Wissa",
-      "Tuesday"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Spurs' Simons to miss rest of season and World Cup",
-    "url": "https://www.bbc.com/sport/football/articles/cy0101p91z3o",
-    "category": "injury",
-    "emoji_tag": "⚪",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Spurs' Simons to miss rest of season and World Cup",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Spurs",
-      "Simons",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Man City discuss fixture scheduling with Premier League",
-    "url": "https://www.bbc.com/sport/football/articles/c4g5eeyl95no",
-    "category": "match_report",
-    "emoji_tag": "🩵",
-    "core_event": "来自 BBC Sport 的赛事报道。Man City discuss fixture scheduling with Premier League",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Man City",
-      "Premier League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "'Pure ecstasy' - York and a Saturday that may never be beaten",
-    "url": "https://www.bbc.com/sport/football/articles/c5yjy0nd4y9o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。'Pure ecstasy' - York and a Saturday that may never be beaten",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Pure",
-      "York",
-      "Saturday"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Real striker Mbappe a doubt for El Clasico",
-    "url": "https://www.bbc.com/sport/football/articles/c0q9qxepjxdo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Real striker Mbappe a doubt for El Clasico",
-    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Real",
-      "Mbappe",
-      "El Clasico"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "'Complete loss of control' - keeper punches player after being sent off",
-    "url": "https://www.bbc.com/sport/football/articles/cvg0g3gl73yo",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。'Complete loss of control' - keeper punches player after being sent off",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Complete"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Fishlock awaits injury news after stretcher exit",
-    "url": "https://www.bbc.com/sport/football/articles/c5y9llwqejxo",
-    "category": "injury",
-    "emoji_tag": "🚑",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Fishlock awaits injury news after stretcher exit",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Fishlock"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Hire, fire, final - Chelsea's player power may be ugly, but it wins",
-    "url": "https://www.bbc.com/sport/football/articles/cededgwjj62o",
-    "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 BBC Sport 的赛事报道。Hire, fire, final - Chelsea's player power may be ugly, but it wins",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Hire",
-      "Chelsea"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "What's the score with Scotland's World Cup holiday - and will schools be off?",
-    "url": "https://www.bbc.com/news/articles/c239jnlkpgvo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。What's the score with Scotland's World Cup holiday - and will schools be off?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Scotland",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "UEFA Champions League Agg Paris SG Paris Saint-Germain (0) Aggregate score 0 plays Bayern Munich Bayern Munich (0) Aggregate score 0 at 20:00 20:00 on Tue the 28 of Apr",
-    "url": "https://www.bbc.com/sport/football/live/cj60j38yk0gt",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Champions League Agg Paris SG Paris Saint-Germain (0) Aggregate score 0 plays Bayern Munich Bayern Munich (0) Aggregate score 0 at 20:00 20:00 on Tue the 28 of Apr",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Champions League Agg",
-      "Paris",
-      "Paris Saint",
-      "Germain"
     ]
   },
   {
@@ -216,167 +225,123 @@
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Arsenal 'on a mission' - is another special season on the horizon?",
-    "url": "https://www.bbc.com/sport/football/articles/cnv8v10r1z7o",
-    "category": "injury",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Arsenal 'on a mission' - is another special season on the horizon?",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Arsenal"
-    ]
-  },
-  {
     "source": "The Guardian",
-    "title": "Manchester United Casemiro’s decision to leave is final, insists Carrick",
-    "url": "https://www.theguardian.com/football/2026/apr/27/casemiros-decision-to-leave-manchester-united-is-final-insists-michael-carrick",
+    "title": "‘The best match I have ever coached' Enrique thrilled by PSG’s win over Bayern",
+    "url": "https://www.theguardian.com/football/2026/apr/29/champions-league-paris-saint-germain-bayern-munich-luis-enrique-vincent-kompany",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Manchester United Casemiro’s decision to leave is final, insists Carrick",
+    "emoji_tag": "🔵",
+    "core_event": "来自 The Guardian 的赛事报道。‘The best match I have ever coached' Enrique thrilled by PSG’s win over Bayern",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Manchester United Casemiro",
-      "Carrick"
+      "Enrique",
+      "Bayern"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Football Weekly Arsenal find a way as Chelsea bounce back to reach FA Cup final",
-    "url": "https://www.theguardian.com/football/audio/2026/apr/27/arsenal-premier-league-chelsea-bounce-back-fa-cup-football-weekly-podcast",
+    "title": "Championship table See the latest standings before the final day",
+    "url": "https://www.theguardian.com/football/championship/table",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Football Weekly Arsenal find a way as Chelsea bounce back to reach FA Cup final",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Championship table See the latest standings before the final day",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Football Weekly Arsenal",
-      "Chelsea"
+      "Championship"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Tottenham Hotspur Simons ruled out of rest of season and World Cup with ruptured ACL",
-    "url": "https://www.theguardian.com/football/2026/apr/27/xavi-simons-acl-injury-tottenham-netherlands-world-cup",
-    "category": "injury",
-    "emoji_tag": "⚪",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Tottenham Hotspur Simons ruled out of rest of season and World Cup with ruptured ACL",
-    "tactical_financial_impact": "长期缺阵将迫使主帅调整主力阵容，考验替补球员的临场发挥。",
+    "title": "‘The best match I have coached’: Luis Enrique thrilled by PSG’s 5-4 win over Bayern Munich",
+    "url": "https://www.theguardian.com/football/2026/apr/29/champions-league-paris-saint-germain-bayern-munich-luis-enrique-vincent-kompany",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 The Guardian 的赛事报道。‘The best match I have coached’: Luis Enrique thrilled by PSG’s 5-4 win over Bayern Munich",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Tottenham Hotspur Simons",
-      "World Cup"
+      "Luis Enrique",
+      "Bayern Munich"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Manchester United see off Brentford to close in on Champions League return",
-    "url": "https://www.theguardian.com/football/2026/apr/27/manchester-united-brentford-premier-league-match-report",
-    "category": "injury",
+    "title": "Paris Saint-Germain 5-4 Bayern Munich: Champions League semi-final, first leg – as it happened",
+    "url": "https://www.theguardian.com/football/live/2026/apr/28/paris-saint-germain-v-bayern-munich-champions-league-semi-final-first-leg-live",
+    "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Manchester United see off Brentford to close in on Champions League return",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "core_event": "来自 The Guardian 的赛事报道。Paris Saint-Germain 5-4 Bayern Munich: Champions League semi-final, first leg – as it happened",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Manchester United",
-      "Brentford",
+      "Paris Saint",
+      "Germain",
+      "Bayern Munich",
       "Champions League"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "The Premier League finally has a relegation battle",
-    "url": "https://www.theguardian.com/football/2026/apr/27/the-premier-league-finally-has-a-relegation-battle",
+    "title": "Manchester City angered by fixture crunch of three key games in seven days",
+    "url": "https://www.theguardian.com/football/2026/apr/28/manchester-city-frustrated-by-fixture-crunch-of-three-key-games-in-seven-days",
+    "category": "match_report",
+    "emoji_tag": "🩵",
+    "core_event": "来自 The Guardian 的赛事报道。Manchester City angered by fixture crunch of three key games in seven days",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Manchester City"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Clarke earns Ipswich point at Southampton to set up final-day promotion shootout",
+    "url": "https://www.theguardian.com/football/2026/apr/28/southampton-ipswich-championship-match-report",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。The Premier League finally has a relegation battle",
+    "core_event": "来自 The Guardian 的赛事报道。Clarke earns Ipswich point at Southampton to set up final-day promotion shootout",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "The Premier League"
+      "Clarke",
+      "Ipswich",
+      "Southampton"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Casemiro’s decision to leave Manchester United is final, insists Michael Carrick",
-    "url": "https://www.theguardian.com/football/2026/apr/27/casemiros-decision-to-leave-manchester-united-is-final-insists-michael-carrick",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Casemiro’s decision to leave Manchester United is final, insists Michael Carrick",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Casemiro",
-      "Manchester United",
-      "Michael Carrick"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Brilliant Bayern’s wild comeback typifies the Kompany method perfectly",
-    "url": "https://www.theguardian.com/football/2026/apr/27/brilliant-bayern-munich-comeback-vincent-kompany-bundesliga-mainz",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Brilliant Bayern’s wild comeback typifies the Kompany method perfectly",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Brilliant Bayern",
-      "Kompany"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Refereeing scandal brings back unhappy memories of Calciopoli to Italian football",
-    "url": "https://www.theguardian.com/football/2026/apr/27/refereeing-scandal-brings-back-unhappy-memories-of-calciopoli-to-italian-football",
+    "title": "Mission accomplished as king’s speech to Congress goes down a storm",
+    "url": "https://www.theguardian.com/us-news/2026/apr/28/king-charles-congress-trump",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Refereeing scandal brings back unhappy memories of Calciopoli to Italian football",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Mission accomplished as king’s speech to Congress goes down a storm",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Refereeing",
-      "Calciopoli",
-      "Italian"
+      "Mission",
+      "Congress"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Premier League and FA Cup semi-finals: 10 talking points from the weekend’s action",
-    "url": "https://www.theguardian.com/football/2026/apr/27/premier-league-and-fa-cup-semi-finals-10-talking-points-from-the-weekends-action",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Premier League and FA Cup semi-finals: 10 talking points from the weekend’s action",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Premier League"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "A Tennessee woman needed an abortion to save her life. She then joined a lawsuit against the state’s ban",
-    "url": "https://www.theguardian.com/us-news/2026/apr/27/tennessee-abortion-lawsuit-halted",
+    "title": "‘A husband expects a yes’: how wife schools are shaping submissive Christian women",
+    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/28/wife-school-christian-women-submissive",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。A Tennessee woman needed an abortion to save her life. She then joined a lawsuit against the state’s ban",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。‘A husband expects a yes’: how wife schools are shaping submissive Christian women",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Tennessee"
+      "Christian"
     ]
   }
 ]
