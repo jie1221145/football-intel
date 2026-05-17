@@ -1,237 +1,322 @@
 [
   {
     "source": "BBC Sport",
-    "title": "'We crumbled' - another loss, another unwanted record for leaky Liverpool",
-    "url": "https://www.bbc.com/sport/football/articles/c392rp8lwe1o",
+    "title": "From non-league to FA Cup hero - Semenyo caps rise with 'incredible' goal",
+    "url": "https://www.bbc.com/sport/football/articles/cj9pz9rnywzo",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。'We crumbled' - another loss, another unwanted record for leaky Liverpool",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。From non-league to FA Cup hero - Semenyo caps rise with 'incredible' goal",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Liverpool"
+      "From",
+      "Semenyo"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Guardiola insists he has 'one more year' on Man City deal",
-    "url": "https://www.bbc.com/sport/articles/c794vqvll7eo",
+    "title": "Alonso reaches agreement in principle to be next Chelsea boss",
+    "url": "https://www.bbc.com/sport/football/articles/clypg8611k4o",
     "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Guardiola insists he has 'one more year' on Man City deal",
+    "emoji_tag": "🔵",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Alonso reaches agreement in principle to be next Chelsea boss",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Alonso",
+      "Chelsea"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Resilient Celtic time run perfectly to win race after eight-month chase",
+    "url": "https://www.bbc.com/sport/football/articles/c0m24m3nd1vo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Resilient Celtic time run perfectly to win race after eight-month chase",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Resilient Celtic"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Liverpool must return to heavy metal football - Salah",
+    "url": "https://www.bbc.com/sport/football/articles/c4g0kg9kg7ro",
+    "category": "injury",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Liverpool must return to heavy metal football - Salah",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Liverpool",
+      "Salah"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Mourinho completes unbeaten season with Benfica",
+    "url": "https://www.bbc.com/sport/football/articles/cn0p985n5y7o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Mourinho completes unbeaten season with Benfica",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Guardiola",
+      "Mourinho",
+      "Benfica"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Semenyo scores winner as Man City beat Chelsea to lift FA Cup",
+    "url": "https://www.bbc.com/sport/football/live/clypx2em7drt",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。Semenyo scores winner as Man City beat Chelsea to lift FA Cup",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Semenyo",
+      "Man City",
+      "Chelsea"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Man Utd reach agreement to appoint Carrick manager",
+    "url": "https://www.bbc.com/sport/football/articles/c392r8v1jz4o",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Man Utd reach agreement to appoint Carrick manager",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Man Utd",
+      "Carrick"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Kane scores hat-trick as champions Bayern thrash Cologne",
+    "url": "https://www.bbc.com/sport/football/live/cpdp1zg0v30t",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Kane scores hat-trick as champions Bayern thrash Cologne",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Kane",
+      "Bayern",
+      "Cologne"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Shaw and Coombs on target as champions Man City end on high",
+    "url": "https://www.bbc.com/sport/football/live/c202rz3v6mrt",
+    "category": "transfer",
+    "emoji_tag": "🩵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Shaw and Coombs on target as champions Man City end on high",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Shaw",
+      "Coombs",
       "Man City"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Man charged after referee Beaton and family put under police surveillance",
-    "url": "https://www.bbc.com/sport/football/articles/c87qye8yjg2o",
+    "title": "Kerr scores in final game as Chelsea beat Man Utd",
+    "url": "https://www.bbc.com/sport/football/live/cddpze8vz1gt",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Man charged after referee Beaton and family put under police surveillance",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。Kerr scores in final game as Chelsea beat Man Utd",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Beaton"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Carrick in talks over two-year Man Utd contract",
-    "url": "https://www.bbc.com/sport/football/articles/cwy29w01qp7o",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 报道，转会谈判正在进行中，细节尚待确认。Carrick in talks over two-year Man Utd contract",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 3,
-    "gossip_label": "可靠消息",
-    "key_players": [
-      "Carrick",
+      "Kerr",
+      "Chelsea",
       "Man Utd"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Everybody wants Hearts to win - Celtic boss O'Neill",
-    "url": "https://www.bbc.com/sport/football/articles/ceqp27jng4jo",
+    "title": "What Man City's FA Cup win means for Premier League places in Europe",
+    "url": "https://www.bbc.com/sport/football/articles/c98rd8d3881o",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Everybody wants Hearts to win - Celtic boss O'Neill",
+    "emoji_tag": "🩵",
+    "core_event": "来自 BBC Sport 的赛事报道。What Man City's FA Cup win means for Premier League places in Europe",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Everybody",
-      "Hearts",
-      "Celtic",
-      "Neill"
+      "What Man City",
+      "Premier League",
+      "Europe"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Partick beat Dunfermline to set up final with St Mirren",
-    "url": "https://www.bbc.com/sport/football/live/cn5pyp1w7yqt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Partick beat Dunfermline to set up final with St Mirren",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Partick",
-      "Dunfermline",
-      "St Mirren"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Salford get past Grimsby to reach League Two play-off final",
-    "url": "https://www.bbc.com/sport/football/live/cdxpvpry6yzt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Salford get past Grimsby to reach League Two play-off final",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Salford",
-      "Grimsby",
-      "League Two"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Man Utd's De Ligt to miss World Cup after back surgery",
-    "url": "https://www.bbc.com/sport/football/articles/cj9pzvgp03wo",
-    "category": "injury",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Man Utd's De Ligt to miss World Cup after back surgery",
-    "tactical_financial_impact": "长期缺阵将迫使主帅调整主力阵容，考验替补球员的临场发挥。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Man Utd",
-      "De Ligt",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "The making of the £60K bargain who became an Everton legend",
-    "url": "https://www.bbc.com/sport/football/articles/cn91ddjd4e0o",
+    "title": "Rangers sign off in style with thumping win at Falkirk",
+    "url": "https://www.bbc.com/sport/football/live/c98rjgz0gj2t",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。The making of the £60K bargain who became an Everton legend",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Rangers sign off in style with thumping win at Falkirk",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Everton"
+      "Rangers",
+      "Falkirk"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "The Wayne Rooney Show. Jordan Pickford on World Cup Dreams & Everton’s Rise. Audio, 31 minutes The Wayne Rooney Show Jordan Pickford on World Cup Dreams & Everton’s Rise",
-    "url": "https://www.bbc.com/sounds/play/p0nh9bss",
+    "title": "Celtic stun Hearts with late double to snatch title in astonishing finale",
+    "url": "https://www.bbc.com/sport/football/live/c0m289e39zkt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。The Wayne Rooney Show. Jordan Pickford on World Cup Dreams & Everton’s Rise. Audio, 31 minutes The Wayne Rooney Show Jordan Pickford on World Cup Dreams & Everton’s Rise",
+    "core_event": "来自 BBC Sport 的赛事报道。Celtic stun Hearts with late double to snatch title in astonishing finale",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "The Wayne Rooney",
-      "Show",
-      "Jordan Pickford",
-      "World Cup Dreams"
+      "Celtic",
+      "Hearts"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "The summer a golden generation lost its shine",
-    "url": "https://www.bbc.com/sport/extra/60s97qhdbf/the-golden-generation",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。The summer a golden generation lost its shine",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": []
-  },
-  {
-    "source": "BBC Sport",
-    "title": "'I sold my late dad's diamond ring to get to Villa's Europa League final'",
-    "url": "https://www.bbc.com/news/articles/c5y7epq3g06o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。'I sold my late dad's diamond ring to get to Villa's Europa League final'",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Villa",
-      "Europa League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Which Premier League players are out of contract this summer?",
-    "url": "https://www.bbc.com/sport/football/articles/c33l0gxm2ndo",
+    "title": "Lewandowski to leave Barcelona as 'mission is complete'",
+    "url": "https://www.bbc.com/sport/football/articles/cx2103kqxnzo",
     "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Which Premier League players are out of contract this summer?",
-    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
+    "emoji_tag": "🔵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Lewandowski to leave Barcelona as 'mission is complete'",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Which Premier League"
+      "Lewandowski",
+      "Barcelona"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Partick Thistle beat Dunfermline to set up play-off final with St Mirren",
-    "url": "https://www.bbc.com/sport/football/live/cn5pyp1w7yqt",
+    "title": "Moylan hat-trick as Republic of Ireland beat Grenada",
+    "url": "https://www.bbc.com/sport/football/live/c072d83lkr4t",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Partick Thistle beat Dunfermline to set up play-off final with St Mirren",
+    "core_event": "来自 BBC Sport 的赛事报道。Moylan hat-trick as Republic of Ireland beat Grenada",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Partick Thistle",
-      "Dunfermline",
-      "St Mirren"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Man charged after Beaton put under police watch",
-    "url": "https://www.bbc.com/sport/football/articles/c87qye8yjg2o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Man charged after Beaton put under police watch",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Beaton"
+      "Moylan",
+      "Republic",
+      "Ireland",
+      "Grenada"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "The Recap Sign up for our free sport highlights email",
+    "title": "City show off the trophy Semenyo's winning flick Semenyo cannot contain his joy Guardiola kicks every ball Chelsea reflect on falling at the last",
+    "url": "https://www.theguardian.com/football/2026/may/16/pep-guardiola-wembley-moment-semenyo-match-winner-mancheester-city",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 The Guardian 的赛事报道。City show off the trophy Semenyo's winning flick Semenyo cannot contain his joy Guardiola kicks every ball Chelsea reflect on falling at the last",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "City",
+      "Semenyo",
+      "Guardiola",
+      "Chelsea"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "FA Cup final report City seal cup double as Semenyo’s moment of magic floors Chelsea",
+    "url": "https://www.theguardian.com/football/2026/may/16/manchester-city-win-fa-cup-final-as-semenyo-magic-sinks-chelsea",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 The Guardian 的赛事报道。FA Cup final report City seal cup double as Semenyo’s moment of magic floors Chelsea",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "City",
+      "Semenyo",
+      "Chelsea"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Chelsea Alonso agrees deal in principle to become manager of Blues",
+    "url": "https://www.theguardian.com/football/2026/may/16/xabi-alonso-agrees-deal-in-principle-to-become-chelsea-head-coach",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。Chelsea Alonso agrees deal in principle to become manager of Blues",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Chelsea Alonso",
+      "Blues"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Match report Celtic stun Hearts at the last in dramatic final-day shootout to retain Scottish title",
+    "url": "https://www.theguardian.com/football/2026/may/16/celtic-stun-hearts-at-the-last-in-dramatic-final-day-shootout-to-retain-scottish-title",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Match report Celtic stun Hearts at the last in dramatic final-day shootout to retain Scottish title",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Match",
+      "Celtic",
+      "Hearts",
+      "Scottish"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "As it happened Look back at our how all the final-day drama unfolded",
+    "url": "https://www.theguardian.com/football/live/2026/may/16/celtic-v-hearts-scottish-premiership-title-decider-live",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。As it happened Look back at our how all the final-day drama unfolded",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Look"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "The Recap Sign up for our weekly newsletter of editors' picks",
     "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。The Recap Sign up for our free sport highlights email",
-    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。The Recap Sign up for our weekly newsletter of editors' picks",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
@@ -240,122 +325,125 @@
   },
   {
     "source": "The Guardian",
-    "title": "Match previews Premier League and FA Cup final: predicted lineups for the weekend",
-    "url": "https://www.theguardian.com/football/2026/may/15/premier-league-and-fa-cup-final-predicted-lineups-for-the-weekend-action",
+    "title": "Hearts contact police and condemn ‘shameful’ abuse of players and staff after Celtic defeat",
+    "url": "https://www.theguardian.com/football/2026/may/16/hearts-contact-police-and-condemn-shameful-abuse-of-players-celtic-defeat",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Match previews Premier League and FA Cup final: predicted lineups for the weekend",
+    "core_event": "来自 The Guardian 的赛事报道。Hearts contact police and condemn ‘shameful’ abuse of players and staff after Celtic defeat",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Match",
-      "Premier League"
+      "Hearts",
+      "Celtic"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Premier League Who should win the player of the year award?",
-    "url": "https://www.theguardian.com/football/who-scored-blog/2026/may/15/premier-league-player-year-award-fernandes-rice-haaland-raya-cherki",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Premier League Who should win the player of the year award?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Premier League Who"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "FA Cup Guéhi continues whirlwind journey against club where it all began",
-    "url": "https://www.theguardian.com/football/2026/may/15/marc-guehi-continues-whirlwind-fa-cup-journey-against-club-where-it-all-began",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。FA Cup Guéhi continues whirlwind journey against club where it all began",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Cup Guéhi"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Football Daily Manchester City’s page-turning narrative in a tale of two cup finals",
-    "url": "https://www.theguardian.com/football/2026/may/15/manchester-city-chelsea-fa-cup-final-football-daily-newsletter",
-    "category": "match_report",
-    "emoji_tag": "🩵",
-    "core_event": "来自 The Guardian 的赛事报道。Football Daily Manchester City’s page-turning narrative in a tale of two cup finals",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Football Daily Manchester",
-      "City"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "La Liga Relegation race ignites as Espanyol end 143-day winless streak",
-    "url": "https://www.theguardian.com/football/2026/may/14/espanyol-manolo-gonzalez-la-liga-relegation-battle",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。La Liga Relegation race ignites as Espanyol end 143-day winless streak",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "La Liga Relegation",
-      "Espanyol"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Thirteen years in the making: Madrid’s search for a saviour set to end in Mourinho return",
-    "url": "https://www.theguardian.com/football/2026/may/15/real-madrid-jose-mourinho-saviour-la-liga",
+    "title": "Mohamed Salah criticises ‘crumbling’ Liverpool and demands return to ‘heavy metal’ football",
+    "url": "https://www.theguardian.com/football/2026/may/16/mohamed-salah-criticises-crumbling-liverpools-season-and-demands-return-to-heavy-metal-football",
     "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Thirteen years in the making: Madrid’s search for a saviour set to end in Mourinho return",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Mohamed Salah criticises ‘crumbling’ Liverpool and demands return to ‘heavy metal’ football",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Thirteen",
-      "Madrid",
-      "Mourinho"
+      "Mohamed Salah",
+      "Liverpool"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Pep Guardiola swears he’s not leaving Manchester City before contract ends",
-    "url": "https://www.theguardian.com/football/2026/may/15/pep-guardiola-swears-not-leaving-manchester-city-before-contract-ends-fa-cup-final",
+    "title": "Manchester City win FA Cup final as Semenyo’s moment of magic floors Chelsea",
+    "url": "https://www.theguardian.com/football/2026/may/16/manchester-city-win-fa-cup-final-as-semenyo-magic-sinks-chelsea",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 The Guardian 的赛事报道。Manchester City win FA Cup final as Semenyo’s moment of magic floors Chelsea",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Manchester City",
+      "Semenyo",
+      "Chelsea"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Xabi Alonso agrees deal in principle to become Chelsea manager",
+    "url": "https://www.theguardian.com/football/2026/may/16/xabi-alonso-agrees-deal-in-principle-to-become-chelsea-head-coach",
     "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Pep Guardiola swears he’s not leaving Manchester City before contract ends",
+    "emoji_tag": "🔵",
+    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。Xabi Alonso agrees deal in principle to become Chelsea manager",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Xabi Alonso",
+      "Chelsea"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Celtic stun Hearts at the last in dramatic final-day shootout to retain Scottish title",
+    "url": "https://www.theguardian.com/football/2026/may/16/celtic-stun-hearts-at-the-last-in-dramatic-final-day-shootout-to-retain-scottish-title",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Celtic stun Hearts at the last in dramatic final-day shootout to retain Scottish title",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Celtic",
+      "Hearts",
+      "Scottish"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "European football: Kane uncorks title party with hat-trick; Lewandowski to leave Barça",
+    "url": "https://www.theguardian.com/football/2026/may/16/robert-lewandowski-barcelona-real-madrid-bundesliga-european-roundup",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。European football: Kane uncorks title party with hat-trick; Lewandowski to leave Barça",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "European",
+      "Kane",
+      "Lewandowski"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Trump news at a glance: billions of taxpayer dollars could go to president and his allies in unprecedented move",
+    "url": "https://www.theguardian.com/us-news/2026/may/17/trump-news-at-a-glance-irs-billions-taxpayer-dollars-could-paid-president-and-allies",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Trump news at a glance: billions of taxpayer dollars could go to president and his allies in unprecedented move",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Pep Guardiola",
-      "Manchester City"
+      "Trump"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Tennessee school district bans Alex Haley’s Roots under 2022 state law",
-    "url": "https://www.theguardian.com/us-news/2026/may/15/tennessee-book-ban-alex-haley-roots",
-    "category": "injury",
+    "title": "‘They may draw racist maps, but we are the south’: thousands rally in Alabama for Black voting rights",
+    "url": "https://www.theguardian.com/us-news/2026/may/16/alabama-black-voting-rights-protest",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Tennessee school district bans Alex Haley’s Roots under 2022 state law",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "core_event": "来自 The Guardian 的赛事报道。‘They may draw racist maps, but we are the south’: thousands rally in Alabama for Black voting rights",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Tennessee",
-      "Alex Haley",
-      "Roots"
+      "They",
+      "Alabama",
+      "Black"
     ]
   }
 ]
