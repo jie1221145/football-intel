@@ -1,81 +1,113 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Martinez breaks finger... then helps Villa win Europa League",
-    "url": "https://www.bbc.com/sport/football/articles/c5y0xpzjey8o",
+    "title": "How Palmer and Foden lost ruthless Tuchel's battle for number 10 roles",
+    "url": "https://www.bbc.com/sport/football/articles/c1k2g782m1ro",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Martinez breaks finger... then helps Villa win Europa League",
+    "core_event": "来自 BBC Sport 的赛事报道。How Palmer and Foden lost ruthless Tuchel's battle for number 10 roles",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Martinez",
-      "Villa",
-      "Europa League"
+      "How Palmer",
+      "Foden",
+      "Tuchel"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Aston Villa win Europa League to end 44-year wait for European trophy",
-    "url": "https://www.bbc.com/sport/football/live/c893dkqjv00t",
+    "title": "Ultimate image for Saudi Arabia's football poster boy: Ronaldo wins title",
+    "url": "https://www.bbc.com/sport/football/articles/c232g9lpdpgo",
     "category": "match_report",
-    "emoji_tag": "🟣",
-    "core_event": "来自 BBC Sport 的赛事报道。Aston Villa win Europa League to end 44-year wait for European trophy",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Ultimate image for Saudi Arabia's football poster boy: Ronaldo wins title",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Aston Villa",
-      "Europa League",
-      "European"
+      "Ultimate",
+      "Saudi Arabia",
+      "Ronaldo"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Boats, fire and a TikTok song - inside Arsenal's title win",
-    "url": "https://www.bbc.com/sport/football/articles/c9v3jx1jmrwo",
+    "title": "Partick Thistle hit back to draw with St Mirren in Scottish Premiership play-off",
+    "url": "https://www.bbc.com/sport/football/live/c75917nxdz1t",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Boats, fire and a TikTok song - inside Arsenal's title win",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Partick Thistle hit back to draw with St Mirren in Scottish Premiership play-off",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Partick Thistle",
+      "St Mirren",
+      "Scottish Premiership"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Foden and Palmer to miss out on World Cup squad",
+    "url": "https://www.bbc.com/sport/football/articles/c78ke277pmdo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Foden and Palmer to miss out on World Cup squad",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Foden",
+      "Palmer",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Arteta told of title win by crying son - while having barbecue",
+    "url": "https://www.bbc.com/sport/football/articles/cn4p255l5xeo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Arteta told of title win by crying son - while having barbecue",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Boats",
-      "Arsenal"
+      "Arteta"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Man Utd-Forest referee not selected for final day",
-    "url": "https://www.bbc.com/sport/football/articles/c1j2egjlp53o",
+    "title": "Premier League winner on Tuesday, GCSEs on Thursday",
+    "url": "https://www.bbc.com/sport/football/articles/cj3pv6rl1k0o",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Man Utd-Forest referee not selected for final day",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Premier League winner on Tuesday, GCSEs on Thursday",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Man Utd",
-      "Forest"
+      "Premier League",
+      "Tuesday",
+      "Thursday"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Football Daily. The Debrief: Aston Villa win the Europa League. Audio, 35 minutes Football Daily The Debrief: Aston Villa win the Europa League",
-    "url": "https://www.bbc.com/sounds/play/p0nmdgjc",
+    "title": "Football Daily. Euro Leagues: Is spying acceptable in Europe? Neuer & Neymar return to the World Cup. Audio, 52 minutes Football Daily Euro Leagues: Is spying acceptable in Europe? Neuer & Neymar return to the World Cup",
+    "url": "https://www.bbc.com/sounds/play/p0nmndgp",
     "category": "match_report",
-    "emoji_tag": "🟣",
-    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. The Debrief: Aston Villa win the Europa League. Audio, 35 minutes Football Daily The Debrief: Aston Villa win the Europa League",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. Euro Leagues: Is spying acceptable in Europe? Neuer & Neymar return to the World Cup. Audio, 52 minutes Football Daily Euro Leagues: Is spying acceptable in Europe? Neuer & Neymar return to the World Cup",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
       "Football Daily",
-      "The Debrief",
-      "Aston Villa",
-      "Europa League"
+      "Euro Leagues",
+      "Europe",
+      "Neuer"
     ]
   },
   {
@@ -94,27 +126,43 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Toulouse make approach for Motherwell boss Askou",
-    "url": "https://www.bbc.com/sport/football/articles/cj4plnkz2z4o",
+    "title": "Liverpool agree deal with Slovenia defender Agrez",
+    "url": "https://www.bbc.com/sport/football/articles/cm2pyq5vl92o",
     "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Toulouse make approach for Motherwell boss Askou",
+    "emoji_tag": "🔴",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Liverpool agree deal with Slovenia defender Agrez",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
     "key_players": [
-      "Toulouse",
-      "Motherwell",
-      "Askou"
+      "Liverpool",
+      "Slovenia",
+      "Agrez"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "'It's been messy' & 'no winners among fans' - play-off final chaos",
-    "url": "https://www.bbc.com/sport/football/articles/c62xr6dd3g9o",
+    "title": "Village in Ghana celebrates Villa win with parade",
+    "url": "https://www.bbc.com/sport/football/articles/ce8pg5jdvzeo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。'It's been messy' & 'no winners among fans' - play-off final chaos",
+    "core_event": "来自 BBC Sport 的赛事报道。Village in Ghana celebrates Villa win with parade",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Village",
+      "Ghana",
+      "Villa"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "The summer a golden generation lost its shine",
+    "url": "https://www.bbc.com/sport/extra/60s97qhdbf/the-golden-generation",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。The summer a golden generation lost its shine",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
@@ -122,33 +170,48 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Ranking the best European trophy-winning managers",
-    "url": "https://www.bbc.com/sport/football/articles/cq8pe5p491do",
+    "title": "Boats, fire and a TikTok song - inside Arsenal's title win",
+    "url": "https://www.bbc.com/sport/football/articles/c9v3jx1jmrwo",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Ranking the best European trophy-winning managers",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Boats, fire and a TikTok song - inside Arsenal's title win",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Ranking",
-      "European"
+      "Boats",
+      "Arsenal"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Southend sack Maher two days after Wembley win",
-    "url": "https://www.bbc.com/sport/football/articles/cvgz8vglrm2o",
+    "title": "All you need to know about the Europa League final",
+    "url": "https://www.bbc.com/sport/football/articles/cx219k5zye5o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Southend sack Maher two days after Wembley win",
+    "core_event": "来自 BBC Sport 的赛事报道。All you need to know about the Europa League final",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Southend",
-      "Maher",
-      "Wembley"
+      "Europa League"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "'Underdogs bite' - Dunfermline boss Lennon gives Celtic cup final warning",
+    "url": "https://www.bbc.com/sport/football/articles/cm2pxl0nwlgo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。'Underdogs bite' - Dunfermline boss Lennon gives Celtic cup final warning",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Underdogs",
+      "Dunfermline",
+      "Lennon",
+      "Celtic"
     ]
   },
   {
@@ -167,282 +230,90 @@
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Play-offs 1/2 Agg Partick Partick Thistle (0) Aggregate score 0 plays St. Mirren St. Mirren (0) Aggregate score 0 at 20:00 20:00 on Thu the 21 of May",
-    "url": "https://www.bbc.com/sport/football/live/c75917nxdz1t",
+    "source": "The Guardian",
+    "title": "The chosen and the forgotten Tuchel finalises his 26-strong England World Cup squad",
+    "url": "https://www.theguardian.com/football/2026/may/21/england-world-cup-squad-2026-thomas-tuchel",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Play-offs 1/2 Agg Partick Partick Thistle (0) Aggregate score 0 plays St. Mirren St. Mirren (0) Aggregate score 0 at 20:00 20:00 on Thu the 21 of May",
+    "core_event": "来自 The Guardian 的赛事报道。The chosen and the forgotten Tuchel finalises his 26-strong England World Cup squad",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Play",
-      "Agg Partick Partick",
-      "Thistle",
-      "Aggregate"
+      "Tuchel",
+      "England World Cup"
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Spain midfielder Lopez ruled out of World Cup",
-    "url": "https://www.bbc.com/sport/football/articles/cy925jejr2lo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Spain midfielder Lopez ruled out of World Cup",
-    "tactical_financial_impact": "长期缺阵将迫使主帅调整主力阵容，考验替补球员的临场发挥。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Spain",
-      "Lopez",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "The summer a golden generation lost its shine",
-    "url": "https://www.bbc.com/sport/extra/60s97qhdbf/the-golden-generation",
+    "source": "The Guardian",
+    "title": "Premier League top scorers Who is leading race for the golden boot?",
+    "url": "https://www.theguardian.com/football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。The summer a golden generation lost its shine",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": []
-  },
-  {
-    "source": "BBC Sport",
-    "title": "'No way Man City are this successful without Guardiola' Audio, 22 minutes 'No way Man City are this successful without Guardiola'",
-    "url": "https://www.bbc.com/sounds/play/p0nh9bt1",
-    "category": "match_report",
-    "emoji_tag": "🩵",
-    "core_event": "来自 BBC Sport 的赛事报道。'No way Man City are this successful without Guardiola' Audio, 22 minutes 'No way Man City are this successful without Guardiola'",
+    "core_event": "来自 The Guardian 的赛事报道。Premier League top scorers Who is leading race for the golden boot?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Man City",
-      "Guardiola",
-      "Audio"
+      "Premier League"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Jonathan Wilson Villa relish echoes of history but win must be stepping stone",
-    "url": "https://www.theguardian.com/football/2026/may/20/aston-villa-europa-league-win-unai-emery-freiburg",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Jonathan Wilson Villa relish echoes of history but win must be stepping stone",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Jonathan Wilson Villa"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "EFL Playoffs should restart with Wrexham replacing Southampton, says Windass",
-    "url": "https://www.theguardian.com/football/2026/may/20/championship-playoffs-wrexham-southampton-expulsion-josh-windass",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。EFL Playoffs should restart with Wrexham replacing Southampton, says Windass",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Playoffs",
-      "Wrexham",
-      "Southampton",
-      "Windass"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Arsenal Arteta rewarded with huge pay rise and put Kroupi on target list",
-    "url": "https://www.theguardian.com/football/2026/may/20/arsenal-mikel-arteta-new-contract-pay-rise-kroupi-alvarez-transfer-targets",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Arsenal Arteta rewarded with huge pay rise and put Kroupi on target list",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Arsenal Arteta",
-      "Kroupi"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Back on top Season-by-season story of Arsenal’s return to title glory",
-    "url": "https://www.theguardian.com/football/2026/may/20/season-by-season-arsenal-return-to-title-glory",
-    "category": "injury",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Back on top Season-by-season story of Arsenal’s return to title glory",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Back",
-      "Season",
-      "Arsenal"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "West Ham Manchester United, Liverpool and Chelsea target Bowen amid drop threat",
-    "url": "https://www.theguardian.com/football/2026/may/19/manchester-united-liverpool-chelsea-target-jarrod-bowen-west-ham-transfer",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。West Ham Manchester United, Liverpool and Chelsea target Bowen amid drop threat",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "West Ham Manchester",
-      "United",
-      "Liverpool",
-      "Chelsea"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Leander Schaerlaeckens A World Cup that doesn’t rip off fans? Some cities are showing it’s possible",
-    "url": "https://www.theguardian.com/football/2026/may/20/world-cup-pricing-fan-friendly-atlanta-kansas-city-philadelphia",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Leander Schaerlaeckens A World Cup that doesn’t rip off fans? Some cities are showing it’s possible",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Leander Schaerlaeckens",
-      "World Cup",
-      "Some"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Moving the Goalposts Our women's football newsletter",
-    "url": "https://www.theguardian.com/football/series/moving-the-goalposts",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Moving the Goalposts Our women's football newsletter",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Moving",
-      "Goalposts Our"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Championship playoffs should restart with Wrexham replacing Southampton, says Windass",
-    "url": "https://www.theguardian.com/football/2026/may/20/championship-playoffs-wrexham-southampton-expulsion-josh-windass",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Championship playoffs should restart with Wrexham replacing Southampton, says Windass",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Championship",
-      "Wrexham",
-      "Southampton",
-      "Windass"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Southampton appeal against expulsion from playoffs for spying is dismissed",
+    "title": "Championship Southampton appeal against expulsion from playoffs for spying is dismissed",
     "url": "https://www.theguardian.com/football/2026/may/20/southampton-middlesbrough-championship-playoffs-spygate",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Southampton appeal against expulsion from playoffs for spying is dismissed",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Championship Southampton appeal against expulsion from playoffs for spying is dismissed",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Southampton"
+      "Championship Southampton"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Arsenal to reward Mikel Arteta with huge pay rise and put Kroupi among transfer targets",
-    "url": "https://www.theguardian.com/football/2026/may/20/arsenal-mikel-arteta-new-contract-pay-rise-kroupi-alvarez-transfer-targets",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Arsenal to reward Mikel Arteta with huge pay rise and put Kroupi among transfer targets",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Arsenal",
-      "Mikel Arteta",
-      "Kroupi"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "How Arteta overcame setbacks, crises and boos to defy doubters at Arsenal",
-    "url": "https://www.theguardian.com/football/2026/may/20/mikel-arteta-arsenal-overcame-setbacks-crises-boos-defy-doubters",
-    "category": "injury",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。How Arteta overcame setbacks, crises and boos to defy doubters at Arsenal",
-    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "How Arteta",
-      "Arsenal"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "double quotation mark Aston Villa relish echoes of history but Europa League win must serve as stepping stone",
-    "url": "https://www.theguardian.com/football/2026/may/20/aston-villa-europa-league-win-unai-emery-freiburg",
-    "category": "match_report",
-    "emoji_tag": "🟣",
-    "core_event": "来自 The Guardian 的赛事报道。double quotation mark Aston Villa relish echoes of history but Europa League win must serve as stepping stone",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Aston Villa",
-      "Europa League"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Freiburg 0-3 Aston Villa: Europa League final – as it happened",
-    "url": "https://www.theguardian.com/football/live/2026/may/20/freiburg-v-aston-villa-europa-league-final-live",
-    "category": "match_report",
-    "emoji_tag": "🟣",
-    "core_event": "来自 The Guardian 的赛事报道。Freiburg 0-3 Aston Villa: Europa League final – as it happened",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Freiburg",
-      "Aston Villa",
-      "Europa League"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Tennessee man jailed over Charlie Kirk post wins $835,000 settlement",
-    "url": "https://www.theguardian.com/us-news/2026/may/20/settlement-man-jailed-charlie-kirk-post",
+    "title": "The chosen and the forgotten: Tuchel finalises his 26-strong England World Cup squad",
+    "url": "https://www.theguardian.com/football/2026/may/21/england-world-cup-squad-2026-thomas-tuchel",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Tennessee man jailed over Charlie Kirk post wins $835,000 settlement",
+    "core_event": "来自 The Guardian 的赛事报道。The chosen and the forgotten: Tuchel finalises his 26-strong England World Cup squad",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Tennessee",
-      "Charlie Kirk"
+      "Tuchel",
+      "England World Cup"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Premier League: 10 things to look out for on the final day of the season",
+    "url": "https://www.theguardian.com/football/2026/may/22/premier-league-10-things-to-look-out-for-on-the-final-day-of-the-season",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Premier League: 10 things to look out for on the final day of the season",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Premier League"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Spygate commission accuses Southampton of ‘determined plan from the top down’",
+    "url": "https://www.theguardian.com/football/2026/may/21/southampton-spying-scandal-millwall-wrexham-legal-options",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Spygate commission accuses Southampton of ‘determined plan from the top down’",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Spygate",
+      "Southampton"
     ]
   }
 ]
