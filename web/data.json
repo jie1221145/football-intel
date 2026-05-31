@@ -1,32 +1,175 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Barcelona move a dream for Gordon 'since he was three'",
-    "url": "https://www.bbc.com/sport/football/articles/c0e2jn3lne5o",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Barcelona move a dream for Gordon 'since he was three'",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "title": "'He wanted to take it' - Gabriel's first Arsenal penalty ends with heartbreak",
+    "url": "https://www.bbc.com/sport/football/articles/clypr1lzxvno",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。'He wanted to take it' - Gabriel's first Arsenal penalty ends with heartbreak",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Barcelona",
-      "Gordon"
+      "Gabriel",
+      "Arsenal"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Mourinho signs three-year deal to return as Real boss",
-    "url": "https://www.bbc.com/sport/football/articles/c5yx989zpn3o",
+    "title": "Liverpool sack head coach Slot and approach Iraola",
+    "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Liverpool sack head coach Slot and approach Iraola",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Liverpool",
+      "Slot",
+      "Iraola"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Slot sacking completes a remarkable fall from grace",
+    "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Mourinho signs three-year deal to return as Real boss",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Slot sacking completes a remarkable fall from grace",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Slot"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Gilmour ruled out of World Cup - could Man Utd's Fletcher replace him?",
+    "url": "https://www.bbc.com/sport/football/articles/cn9pwg12z0lo",
+    "category": "injury",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Gilmour ruled out of World Cup - could Man Utd's Fletcher replace him?",
+    "tactical_financial_impact": "长期缺阵将迫使主帅调整主力阵容，考验替补球员的临场发挥。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Gilmour",
+      "World Cup",
+      "Man Utd",
+      "Fletcher"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "PSG beat Arsenal in shootout to retain Champions League",
+    "url": "https://www.bbc.com/sport/football/live/cj6ppx48pk2t",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。PSG beat Arsenal in shootout to retain Champions League",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Arsenal",
+      "Champions League"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Shankland and Curtis make World Cup move - but will Clarke respond?",
+    "url": "https://www.bbc.com/sport/football/articles/c142d08m5neo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Shankland and Curtis make World Cup move - but will Clarke respond?",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Shankland",
+      "Curtis",
+      "World Cup",
+      "Clarke"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Rabonas & fake births - Chelsea win World Sevens",
+    "url": "https://www.bbc.com/sport/football/articles/c809n89jk7no",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。Rabonas & fake births - Chelsea win World Sevens",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Rabonas",
+      "Chelsea",
+      "World Sevens"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
+    "url": "https://www.bbc.com/sport/football/articles/cy822g7vv9jo",
+    "category": "transfer",
+    "emoji_tag": "⚪",
+    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。What now for Vinicius Jr after Mourinho signs Real Madrid deal?",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 5,
     "gossip_label": "官方确认",
     "key_players": [
+      "Vinicius Jr",
       "Mourinho",
-      "Real"
+      "Real Madrid"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Budapest police investigating fan brawl before Champions League final",
+    "url": "https://www.bbc.com/sport/football/articles/c7v94570nz2o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Budapest police investigating fan brawl before Champions League final",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Budapest",
+      "Champions League"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Football Daily. UCL Debrief: Arsenal beaten, PSG go back-to-back! Audio, 22 minutes Football Daily UCL Debrief: Arsenal beaten, PSG go back‑to‑back!",
+    "url": "https://www.bbc.com/sounds/play/p0np7v0z",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. UCL Debrief: Arsenal beaten, PSG go back-to-back! Audio, 22 minutes Football Daily UCL Debrief: Arsenal beaten, PSG go back‑to‑back!",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Football Daily",
+      "Debrief",
+      "Arsenal",
+      "Audio"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "What is Scotland's most iconic goal? The final - Gemmill v McTominay",
+    "url": "https://www.bbc.com/sport/football/articles/c98qv7455e9o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。What is Scotland's most iconic goal? The final - Gemmill v McTominay",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Scotland",
+      "Gemmill"
     ]
   },
   {
@@ -46,34 +189,17 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Arsenal's Timber fit to start Champions League final",
-    "url": "https://www.bbc.com/sport/football/articles/clypqg2pr2ko",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Arsenal's Timber fit to start Champions League final",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "title": "Barcelona move a dream for Gordon 'since he was three'",
+    "url": "https://www.bbc.com/sport/football/articles/c0e2jn3lne5o",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Barcelona move a dream for Gordon 'since he was three'",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "Arsenal",
-      "Timber",
-      "Champions League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "From non-league to Champions League final - Raya's fairytale rise",
-    "url": "https://www.bbc.com/sport/football/articles/ce8pm9zdmy9o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。From non-league to Champions League final - Raya's fairytale rise",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "From",
-      "Champions League",
-      "Raya"
+      "Barcelona",
+      "Gordon"
     ]
   },
   {
@@ -95,234 +221,170 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Konate set to leave Liverpool on a free transfer",
-    "url": "https://www.bbc.com/sport/football/articles/cx21dqd7j01o",
+    "title": "Mourinho signs three-year deal to return as Real boss",
+    "url": "https://www.bbc.com/sport/football/articles/c5yx989zpn3o",
     "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Mourinho signs three-year deal to return as Real boss",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
+    "key_players": [
+      "Mourinho",
+      "Real"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Reaction Arteta urges Arsenal to use Champions League final pain against PSG and ‘turn it into fuel’",
+    "url": "https://www.theguardian.com/football/2026/may/30/arteta-urges-arsenal-to-use-champions-league-pain-and-turn-it-into-fuel",
+    "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Konate set to leave Liverpool on a free transfer",
-    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Konate",
-      "Liverpool"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Man Utd want AC Milan winger Leao - Saturday's gossip",
-    "url": "https://www.bbc.com/sport/football/articles/c2k278gd02qo",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Man Utd want AC Milan winger Leao - Saturday's gossip",
+    "core_event": "来自 The Guardian 的赛事报道。Reaction Arteta urges Arsenal to use Champions League final pain against PSG and ‘turn it into fuel’",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Man Utd",
-      "Milan",
-      "Leao",
-      "Saturday"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Champions League final still not free to air despite pressure",
-    "url": "https://www.bbc.com/sport/football/articles/c98rnme5ly7o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Champions League final still not free to air despite pressure",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Champions League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Clarke sure he's best man for Scots after new deal",
-    "url": "https://www.bbc.com/sport/football/articles/c1k210y13kmo",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Clarke sure he's best man for Scots after new deal",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Clarke",
-      "Scots"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "How Ferguson twice moved to sign Rooney from Everton",
-    "url": "https://www.bbc.com/sport/football/articles/cn0pnkzl9d2o",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。How Ferguson twice moved to sign Rooney from Everton",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "How Ferguson",
-      "Rooney",
-      "Everton"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Trippier verbally agrees to Wolves move after Newcastle exit",
-    "url": "https://www.bbc.com/sport/football/articles/cewpr4yv0y5o",
-    "category": "transfer",
-    "emoji_tag": "⚫",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Trippier verbally agrees to Wolves move after Newcastle exit",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
-    "key_players": [
-      "Trippier",
-      "Wolves",
-      "Newcastle"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "McGrath expects Israel fixtures controversy to 'heat up' after tennis balls protest",
-    "url": "https://www.bbc.com/sport/football/articles/cvgz9n103zvo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。McGrath expects Israel fixtures controversy to 'heat up' after tennis balls protest",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Israel"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "The summer a golden generation lost its shine",
-    "url": "https://www.bbc.com/sport/extra/60s97qhdbf/the-golden-generation",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。The summer a golden generation lost its shine",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": []
-  },
-  {
-    "source": "BBC Sport",
-    "title": "The most iconic Champions League final performances ranked",
-    "url": "https://www.bbc.com/sport/football/articles/cwy28x7eexro",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。The most iconic Champions League final performances ranked",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
+      "Reaction Arteta",
+      "Arsenal",
       "Champions League"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Analysis Full-backs and midfield balance key to Arsenal hopes of taming PSG’s devastating wings",
-    "url": "https://www.theguardian.com/football/2026/may/28/full-backs-midfield-balance-arsenal-tactics-psg-champions-league-final",
+    "title": "Marks out of 10 Champions League final player ratings",
+    "url": "https://www.theguardian.com/football/2026/may/30/paris-saint-germain-1-1-arsenal-4-3-on-penalties-champions-league-final-player-ratings",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Analysis Full-backs and midfield balance key to Arsenal hopes of taming PSG’s devastating wings",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Marks out of 10 Champions League final player ratings",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Analysis Full",
+      "Marks",
+      "Champions League"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "News Paris police arrest more than 130 as PSG fans celebrate win",
+    "url": "https://www.theguardian.com/world/2026/may/30/paris-police-arrest-paris-saint-germain-fans-celebrate-champions-league-win-over-arsenal",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 The Guardian 的赛事报道。News Paris police arrest more than 130 as PSG fans celebrate win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "News Paris"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "‘Happy either way’ Arsenal fans find zen attitude to Champions League final",
+    "url": "https://www.theguardian.com/football/2026/may/30/arsenal-fans-zen-like-champions-league-final-result",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。‘Happy either way’ Arsenal fans find zen attitude to Champions League final",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Happy",
+      "Arsenal",
+      "Champions League"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Team guide Ouahbi’s Morocco side aim to move on from Afcon fiasco",
+    "url": "https://www.theguardian.com/football/2026/may/30/morocco-world-cup-2026-team-guide",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Team guide Ouahbi’s Morocco side aim to move on from Afcon fiasco",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Team",
+      "Ouahbi",
+      "Morocco",
+      "Afcon"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "FSG agreed with Salah: loss of style meant Arne Slot had to go to win back Liverpool fans",
+    "url": "https://www.theguardian.com/football/2026/may/30/arne-slot-liverpool-mohamed-salah-fenway-sports-group",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。FSG agreed with Salah: loss of style meant Arne Slot had to go to win back Liverpool fans",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Salah",
+      "Arne Slot",
+      "Liverpool"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Paris Saint-Germain v Arsenal: PSG win Champions League final on penalties – as it happened",
+    "url": "https://www.theguardian.com/football/live/2026/may/30/paris-saint-germain-arsenal-champions-league-final-live-psg-score-updates",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Paris Saint-Germain v Arsenal: PSG win Champions League final on penalties – as it happened",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Paris Saint",
+      "Germain",
+      "Arsenal",
+      "Champions League"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Lewis-Skelly dazzles but Arsenal endure cruel ending to thrillingly intense final",
+    "url": "https://www.theguardian.com/football/2026/may/30/cruel-ending-to-arsenals-thrillingly-intense-high-quality-evening",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Lewis-Skelly dazzles but Arsenal endure cruel ending to thrillingly intense final",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Lewis",
+      "Skelly",
       "Arsenal"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Football Daily Formidables v Expendables? Why final could be a classic",
-    "url": "https://www.theguardian.com/football/2026/may/29/psg-arsenal-champions-league-final-preview-football-daily-newsletter",
+    "title": "Paris Saint-Germain 1-1 Arsenal (4-3 on penalties): Champions League final player ratings",
+    "url": "https://www.theguardian.com/football/2026/may/30/paris-saint-germain-1-1-arsenal-4-3-on-penalties-champions-league-final-player-ratings",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Football Daily Formidables v Expendables? Why final could be a classic",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Paris Saint-Germain 1-1 Arsenal (4-3 on penalties): Champions League final player ratings",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Football Daily Formidables",
-      "Expendables"
+      "Paris Saint",
+      "Germain",
+      "Arsenal",
+      "Champions League"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Scotland Clarke ‘proud to continue’ after signing new contract to 2030",
-    "url": "https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Scotland Clarke ‘proud to continue’ after signing new contract to 2030",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Scotland Clarke"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Football Daily Sign up for our free and (sometimes) funny email",
-    "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Football Daily Sign up for our free and (sometimes) funny email",
-    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Football Daily Sign"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "‘There’s a burning fire in my belly’: Anthony Gordon signs for Barcelona from Newcastle in £69.3m deal",
-    "url": "https://www.theguardian.com/football/2026/may/29/anthony-gordon-signs-barcelona-from-newcastle-five-year-deal",
-    "category": "transfer",
-    "emoji_tag": "⚫",
-    "core_event": "【官方】The Guardian 报道此次转会已正式完成。‘There’s a burning fire in my belly’: Anthony Gordon signs for Barcelona from Newcastle in £69.3m deal",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 5,
-    "gossip_label": "官方确认",
-    "key_players": [
-      "There",
-      "Anthony Gordon",
-      "Barcelona",
-      "Newcastle"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Arteta reveals Arsenal Champions League final team news; transfer news and more – as it happened",
-    "url": "https://www.theguardian.com/football/live/2026/may/29/champions-league-final-buildup-world-cup-latest-transfer-news-and-more-football-live",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Arteta reveals Arsenal Champions League final team news; transfer news and more – as it happened",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Arteta",
-      "Arsenal Champions League"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Arteta insists Arsenal’s ‘ambition is bigger’ for Champions League glory after title win",
-    "url": "https://www.theguardian.com/football/2026/may/29/arsenal-champions-league-final-mikel-arteta-paris-saint-germain",
+    "title": "Arteta urges Arsenal to use Champions League final pain against PSG and ‘turn it into fuel’",
+    "url": "https://www.theguardian.com/football/2026/may/30/arteta-urges-arsenal-to-use-champions-league-pain-and-turn-it-into-fuel",
     "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Arteta insists Arsenal’s ‘ambition is bigger’ for Champions League glory after title win",
+    "core_event": "来自 The Guardian 的赛事报道。Arteta urges Arsenal to use Champions League final pain against PSG and ‘turn it into fuel’",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
@@ -330,36 +392,6 @@
       "Arteta",
       "Arsenal",
       "Champions League"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Trump says he has ‘no interest’ in Kennedy Center after judge orders his name removed from memorial – as it happened",
-    "url": "https://www.theguardian.com/us-news/live/2026/may/29/donald-trump-pam-bondi-jeffrey-epstein-iran-redistricting-latest-news-updates",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Trump says he has ‘no interest’ in Kennedy Center after judge orders his name removed from memorial – as it happened",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Trump",
-      "Kennedy Center"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "double quotation mark Stephen Colbert’s Late Show replacement is a depressing sign of the times",
-    "url": "https://www.theguardian.com/tv-and-radio/2026/may/29/stephen-colbert-late-show-replacement-byron-allen",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。double quotation mark Stephen Colbert’s Late Show replacement is a depressing sign of the times",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Stephen Colbert",
-      "Late Show"
     ]
   }
 ]
