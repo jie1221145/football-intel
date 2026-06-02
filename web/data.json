@@ -1,76 +1,93 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Goalkeeper tactical timeouts to be banned at World Cup",
-    "url": "https://www.bbc.com/sport/football/articles/c9v39x2v8yxo",
-    "category": "match_report",
+    "title": "Arsenal eye Kroupi & Rogers - and a new Arteta deal",
+    "url": "https://www.bbc.com/sport/football/articles/cwy2rkgnlpjo",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Arsenal eye Kroupi & Rogers - and a new Arteta deal",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Arsenal",
+      "Kroupi",
+      "Rogers",
+      "Arteta"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Chelsea reject approaches for Acheampong",
+    "url": "https://www.bbc.com/sport/football/articles/c4g81m84m0ko",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Chelsea reject approaches for Acheampong",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Chelsea",
+      "Acheampong"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Overcoming resistance - Ancelotti's bid to revive Brazil",
+    "url": "https://www.bbc.com/sport/football/articles/cp8pxyknglgo",
+    "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Goalkeeper tactical timeouts to be banned at World Cup",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Overcoming resistance - Ancelotti's bid to revive Brazil",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "Goalkeeper",
-      "World Cup"
+      "Overcoming",
+      "Ancelotti",
+      "Brazil"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Man City win first double by beating Brighton in Women's FA Cup final",
-    "url": "https://www.bbc.com/sport/football/live/clypxzw8l93t",
-    "category": "match_report",
-    "emoji_tag": "🩵",
-    "core_event": "来自 BBC Sport 的赛事报道。Man City win first double by beating Brighton in Women's FA Cup final",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Man City",
-      "Brighton",
-      "Women"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Fletcher's remarkable Scotland World Cup call after 17 minutes for Man Utd",
-    "url": "https://www.bbc.com/sport/football/articles/c2027l0w550o",
+    "title": "Six people stabbed after Arsenal victory parade",
+    "url": "https://www.bbc.com/news/articles/c78qpe866pxo",
     "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Fletcher's remarkable Scotland World Cup call after 17 minutes for Man Utd",
+    "core_event": "来自 BBC Sport 的赛事报道。Six people stabbed after Arsenal victory parade",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Fletcher",
-      "Scotland World Cup",
-      "Man Utd"
+      "Arsenal"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Is SWPL momentum with Celtic after Scottish Cup win?",
-    "url": "https://www.bbc.com/sport/football/articles/crrp481r98xo",
+    "title": "Football Daily. MNC: What next for Arsenal & is Iraola right for Liverpool? Audio, 58 minutes Football Daily MNC: What next for Arsenal & is Iraola right for Liverpool?",
+    "url": "https://www.bbc.com/sounds/play/p0npjp4v",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Is SWPL momentum with Celtic after Scottish Cup win?",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. MNC: What next for Arsenal & is Iraola right for Liverpool? Audio, 58 minutes Football Daily MNC: What next for Arsenal & is Iraola right for Liverpool?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Celtic",
-      "Scottish Cup"
+      "Football Daily",
+      "Arsenal",
+      "Iraola",
+      "Liverpool"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Chelsea set to sign McCabe following Arsenal exit",
+    "title": "Chelsea sign McCabe after Arsenal exit",
     "url": "https://www.bbc.com/sport/football/articles/c7v9460e0pro",
     "category": "transfer",
     "emoji_tag": "🔴",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Chelsea set to sign McCabe following Arsenal exit",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Chelsea sign McCabe after Arsenal exit",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
       "Chelsea",
       "Arsenal"
@@ -78,81 +95,33 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Celtic hold on to beat Rangers in Women's Scottish Cup final",
-    "url": "https://www.bbc.com/sport/football/live/c0r2y85wjekt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Celtic hold on to beat Rangers in Women's Scottish Cup final",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Celtic",
-      "Rangers",
-      "Women",
-      "Scottish Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "'He wanted to take it' - Gabriel's first Arsenal penalty ends with heartbreak",
-    "url": "https://www.bbc.com/sport/football/articles/clypr1lzxvno",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。'He wanted to take it' - Gabriel's first Arsenal penalty ends with heartbreak",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Gabriel",
-      "Arsenal"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Slot sacking completes a remarkable fall from grace",
-    "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Slot sacking completes a remarkable fall from grace",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Slot"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Hundreds arrested and police injured after Champions League riots in France",
-    "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo",
+    "title": "Williamson to miss World Cup qualifier against Spain",
+    "url": "https://www.bbc.com/sport/football/articles/cq6pngp7g53o",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Hundreds arrested and police injured after Champions League riots in France",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Williamson to miss World Cup qualifier against Spain",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Hundreds",
-      "Champions League",
-      "France"
+      "Williamson",
+      "World Cup",
+      "Spain"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Football Daily. The Debrief: Arne Slot out, Luis Enrique in? Audio, 12 minutes Football Daily The Debrief: Arne Slot out, Luis Enrique in?",
-    "url": "https://www.bbc.com/sounds/play/p0np7688",
+    "title": "SWPL winners Hearts appoint Thomson as head coach",
+    "url": "https://www.bbc.com/sport/football/articles/cdxpwk58e42o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. The Debrief: Arne Slot out, Luis Enrique in? Audio, 12 minutes Football Daily The Debrief: Arne Slot out, Luis Enrique in?",
+    "core_event": "来自 BBC Sport 的赛事报道。SWPL winners Hearts appoint Thomson as head coach",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Football Daily",
-      "The Debrief",
-      "Arne Slot",
-      "Luis Enrique"
+      "Hearts",
+      "Thomson"
     ]
   },
   {
@@ -169,47 +138,18 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Rice, Shaw and McInnes among BBC Football Awards winners",
-    "url": "https://www.bbc.com/sport/football/articles/ckgp05v0qr2o",
+    "title": "Wolves rejection to double Champions League winner: Vitinha's rise to top",
+    "url": "https://www.bbc.com/sport/football/articles/cwy9lnn19neo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Rice, Shaw and McInnes among BBC Football Awards winners",
+    "core_event": "来自 BBC Sport 的赛事报道。Wolves rejection to double Champions League winner: Vitinha's rise to top",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Rice",
-      "Shaw",
-      "Football Awards"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "What is Scotland's most iconic goal? The final - Gemmill v McTominay",
-    "url": "https://www.bbc.com/sport/football/articles/c98qv7455e9o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。What is Scotland's most iconic goal? The final - Gemmill v McTominay",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Scotland",
-      "Gemmill"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "The most iconic Champions League final performances ranked",
-    "url": "https://www.bbc.com/sport/football/articles/cwy28x7eexro",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。The most iconic Champions League final performances ranked",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Champions League"
+      "Wolves",
+      "Champions League",
+      "Vitinha"
     ]
   },
   {
@@ -230,81 +170,64 @@
     ]
   },
   {
-    "source": "The Guardian",
-    "title": "Analysis Lewis-Skelly dazzles but Arsenal endure cruel ending to thrillingly intense final",
-    "url": "https://www.theguardian.com/football/2026/may/30/cruel-ending-to-arsenals-thrillingly-intense-high-quality-evening",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Analysis Lewis-Skelly dazzles but Arsenal endure cruel ending to thrillingly intense final",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Analysis Lewis",
-      "Skelly",
-      "Arsenal"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "'Turn it into fuel’ Arteta urges Arsenal to use pain from PSG defeat",
-    "url": "https://www.theguardian.com/football/2026/may/30/arteta-urges-arsenal-to-use-champions-league-pain-and-turn-it-into-fuel",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。'Turn it into fuel’ Arteta urges Arsenal to use pain from PSG defeat",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Turn",
-      "Arteta",
-      "Arsenal"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Champions League Player ratings from Budapest final",
-    "url": "https://www.theguardian.com/football/2026/may/30/paris-saint-germain-1-1-arsenal-4-3-on-penalties-champions-league-final-player-ratings",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Champions League Player ratings from Budapest final",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Champions League Player",
-      "Budapest"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "David Usher Slot’s axe was brutal but most Reds agree he had to go",
-    "url": "https://www.theguardian.com/football/2026/may/31/slots-axe-was-brutal-but-most-liverpool-supporters-agree-he-had-to-go",
+    "source": "BBC Sport",
+    "title": "Hearts hope to seal Miller move from Falkirk",
+    "url": "https://www.bbc.com/sport/football/articles/cvgzx77z08wo",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。David Usher Slot’s axe was brutal but most Reds agree he had to go",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Hearts hope to seal Miller move from Falkirk",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "David Usher Slot",
-      "Reds"
+      "Hearts",
+      "Miller",
+      "Falkirk"
     ]
   },
   {
-    "source": "The Guardian",
-    "title": "As it happened Brighton 0-4 Manchester City – Women’s FA Cup final",
-    "url": "https://www.theguardian.com/football/live/2026/may/31/brighton-v-manchester-city-womens-fa-cup-final-live",
+    "source": "BBC Sport",
+    "title": "Is SWPL momentum with Celtic after Scottish Cup win?",
+    "url": "https://www.bbc.com/sport/football/articles/crrp481r98xo",
     "category": "match_report",
-    "emoji_tag": "🩵",
-    "core_event": "来自 The Guardian 的赛事报道。As it happened Brighton 0-4 Manchester City – Women’s FA Cup final",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Is SWPL momentum with Celtic after Scottish Cup win?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Brighton",
-      "Manchester City",
-      "Women"
+      "Celtic",
+      "Scottish Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Read about our approach to external linking.",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/links-and-feeds",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Read about our approach to external linking.",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Read"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Football Daily Arsenal feel the love after Arteta’s Bigger Cup masterplan falls short",
+    "url": "https://www.theguardian.com/football/2026/jun/01/arsenal-psg-champions-league-final-trophy-parade",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Football Daily Arsenal feel the love after Arteta’s Bigger Cup masterplan falls short",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Football Daily Arsenal",
+      "Arteta",
+      "Bigger Cup"
     ]
   },
   {
@@ -324,110 +247,61 @@
   },
   {
     "source": "The Guardian",
-    "title": "double quotation mark Arne Slot’s axe was brutal but most Liverpool supporters agree he had to go",
-    "url": "https://www.theguardian.com/football/2026/may/31/slots-axe-was-brutal-but-most-liverpool-supporters-agree-he-had-to-go",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。double quotation mark Arne Slot’s axe was brutal but most Liverpool supporters agree he had to go",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
-    "key_players": [
-      "Arne Slot",
-      "Liverpool"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Christian Pulisic shines as US kick off World Cup preparations with 3-2 win over Senegal",
-    "url": "https://www.theguardian.com/football/2026/may/31/usmnt-senegal-christian-pulisic-world-cup-friendly",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Christian Pulisic shines as US kick off World Cup preparations with 3-2 win over Senegal",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Christian Pulisic",
-      "World Cup",
-      "Senegal"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Lead prosecutor withdraws from criminal case against James Comey",
-    "url": "https://www.theguardian.com/us-news/2026/may/31/prosecutor-leaves-james-comey-case-doj",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Lead prosecutor withdraws from criminal case against James Comey",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Lead",
-      "James Comey"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Groundbreaking genomic test could spare millions of breast cancer patients chemotherapy",
-    "url": "https://www.theguardian.com/society/2026/may/29/groundbreaking-genomic-test-spare-breast-cancer-patients-chemotherapy-hormone-therapy",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Groundbreaking genomic test could spare millions of breast cancer patients chemotherapy",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Groundbreaking"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Ukraine war briefing: Big drone deal awaits Trump signature, says Zelenskyy",
-    "url": "https://www.theguardian.com/world/2026/jun/01/ukraine-war-briefing-big-drone-deal-awaits-trump-signature-says-zelenskyy",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Ukraine war briefing: Big drone deal awaits Trump signature, says Zelenskyy",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Ukraine",
-      "Trump",
-      "Zelenskyy"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Marcia Lucas, Star Wars’ Oscar-winning editor and unsung hero, dies at 80",
-    "url": "https://www.theguardian.com/film/2026/jun/01/marcia-lucas-star-wars-oscar-winning-editor-dies-80",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Marcia Lucas, Star Wars’ Oscar-winning editor and unsung hero, dies at 80",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Marcia Lucas",
-      "Star Wars",
-      "Oscar"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "European leaders condemn Israel’s deepening incursion into Lebanon",
-    "url": "https://www.theguardian.com/world/2026/jun/01/european-leaders-condemn-israel-incursion-into-lebanon",
+    "title": "Debugging: Google requests permission to release 32m mosquitoes in California and Florida",
+    "url": "https://www.theguardian.com/technology/2026/jun/01/google-permission-release-mosquitoes-california-florida",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。European leaders condemn Israel’s deepening incursion into Lebanon",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Debugging: Google requests permission to release 32m mosquitoes in California and Florida",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "European",
-      "Israel",
-      "Lebanon"
+      "Debugging",
+      "Google",
+      "California",
+      "Florida"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "To die with dignity: my young husband’s final wish came with a $65,000 price tag",
+    "url": "https://www.theguardian.com/society/ng-interactive/2026/jun/01/home-hospice-cost",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。To die with dignity: my young husband’s final wish came with a $65,000 price tag",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": []
+  },
+  {
+    "source": "The Guardian",
+    "title": "New Mexico identifies remains of nuclear lab employee missing for a year",
+    "url": "https://www.theguardian.com/us-news/2026/jun/01/melissa-casias-remains-found-new-mexico",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。New Mexico identifies remains of nuclear lab employee missing for a year",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "New Mexico"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "60 Minutes correspondent Scott Pelley accuses Bari Weiss of ‘murdering’ show",
+    "url": "https://www.theguardian.com/media/2026/jun/01/60-minutes-scott-pelley-cbs-bari-weiss-cuts",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。60 Minutes correspondent Scott Pelley accuses Bari Weiss of ‘murdering’ show",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Minutes",
+      "Scott Pelley",
+      "Bari Weiss"
     ]
   }
 ]
