@@ -1,127 +1,113 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Arsenal eye Kroupi & Rogers - and a new Arteta deal",
-    "url": "https://www.bbc.com/sport/football/articles/cwy2rkgnlpjo",
+    "title": "Liverpool agree deal with Iraola to succeed Slot",
+    "url": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro",
     "category": "transfer",
     "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Arsenal eye Kroupi & Rogers - and a new Arteta deal",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Liverpool agree deal with Iraola to succeed Slot",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
     "key_players": [
-      "Arsenal",
-      "Kroupi",
-      "Rogers",
-      "Arteta"
+      "Liverpool",
+      "Iraola",
+      "Slot"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Chelsea reject approaches for Acheampong",
-    "url": "https://www.bbc.com/sport/football/articles/c4g81m84m0ko",
+    "title": "Man Utd agree £35m fee for Atalanta's Ederson",
+    "url": "https://www.bbc.com/sport/football/articles/c78q2dxv89go",
     "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Chelsea reject approaches for Acheampong",
+    "emoji_tag": "🔴",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Man Utd agree £35m fee for Atalanta's Ederson",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
     "key_players": [
-      "Chelsea",
-      "Acheampong"
+      "Man Utd",
+      "Atalanta",
+      "Ederson"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Overcoming resistance - Ancelotti's bid to revive Brazil",
-    "url": "https://www.bbc.com/sport/football/articles/cp8pxyknglgo",
+    "title": "Late Koumas goal earns Wales draw with Ghana",
+    "url": "https://www.bbc.com/sport/football/live/cd6p95v7ppvt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Late Koumas goal earns Wales draw with Ghana",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Late Koumas",
+      "Wales",
+      "Ghana"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Silva to leave Fulham as he closes in on Benfica move",
+    "url": "https://www.bbc.com/sport/football/articles/c5y00540l4ko",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Overcoming resistance - Ancelotti's bid to revive Brazil",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Silva to leave Fulham as he closes in on Benfica move",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Overcoming",
-      "Ancelotti",
-      "Brazil"
+      "Silva",
+      "Fulham",
+      "Benfica"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Six people stabbed after Arsenal victory parade",
-    "url": "https://www.bbc.com/news/articles/c78qpe866pxo",
+    "title": "Salford sack Robinson after play-off final loss",
+    "url": "https://www.bbc.com/sport/football/articles/c7v9p272v3no",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Six people stabbed after Arsenal victory parade",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Salford sack Robinson after play-off final loss",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Arsenal"
+      "Salford",
+      "Robinson"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Football Daily. MNC: What next for Arsenal & is Iraola right for Liverpool? Audio, 58 minutes Football Daily MNC: What next for Arsenal & is Iraola right for Liverpool?",
-    "url": "https://www.bbc.com/sounds/play/p0npjp4v",
+    "title": "Hinds withdraws from England squad with ankle injury",
+    "url": "https://www.bbc.com/sport/football/articles/clyp33n48p4o",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. MNC: What next for Arsenal & is Iraola right for Liverpool? Audio, 58 minutes Football Daily MNC: What next for Arsenal & is Iraola right for Liverpool?",
+    "emoji_tag": "🚑",
+    "core_event": "来自 BBC Sport 的赛事报道。Hinds withdraws from England squad with ankle injury",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Hinds",
+      "England"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Football Daily. England touch down in Florida. Audio, 31 minutes Football Daily England touch down in Florida",
+    "url": "https://www.bbc.com/sounds/play/p0npq9vd",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. England touch down in Florida. Audio, 31 minutes Football Daily England touch down in Florida",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
       "Football Daily",
-      "Arsenal",
-      "Iraola",
-      "Liverpool"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Chelsea sign McCabe after Arsenal exit",
-    "url": "https://www.bbc.com/sport/football/articles/c7v9460e0pro",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Chelsea sign McCabe after Arsenal exit",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Chelsea",
-      "Arsenal"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Williamson to miss World Cup qualifier against Spain",
-    "url": "https://www.bbc.com/sport/football/articles/cq6pngp7g53o",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Williamson to miss World Cup qualifier against Spain",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Williamson",
-      "World Cup",
-      "Spain"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "SWPL winners Hearts appoint Thomson as head coach",
-    "url": "https://www.bbc.com/sport/football/articles/cdxpwk58e42o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。SWPL winners Hearts appoint Thomson as head coach",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Hearts",
-      "Thomson"
+      "England",
+      "Florida",
+      "Audio"
     ]
   },
   {
@@ -138,18 +124,18 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Wolves rejection to double Champions League winner: Vitinha's rise to top",
-    "url": "https://www.bbc.com/sport/football/articles/cwy9lnn19neo",
-    "category": "match_report",
+    "title": "Overcoming resistance - Ancelotti's bid to revive Brazil",
+    "url": "https://www.bbc.com/sport/football/articles/cp8pxyknglgo",
+    "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Wolves rejection to double Champions League winner: Vitinha's rise to top",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Overcoming resistance - Ancelotti's bid to revive Brazil",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "Wolves",
-      "Champions League",
-      "Vitinha"
+      "Overcoming",
+      "Ancelotti",
+      "Brazil"
     ]
   },
   {
@@ -171,33 +157,64 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Hearts hope to seal Miller move from Falkirk",
-    "url": "https://www.bbc.com/sport/football/articles/cvgzx77z08wo",
+    "title": "Shankland contract gamble paid off for Hearts - Jones",
+    "url": "https://www.bbc.com/sport/football/articles/c4g41ygl93lo",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Hearts hope to seal Miller move from Falkirk",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Shankland contract gamble paid off for Hearts - Jones",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
+      "Shankland",
       "Hearts",
-      "Miller",
-      "Falkirk"
+      "Jones"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Is SWPL momentum with Celtic after Scottish Cup win?",
-    "url": "https://www.bbc.com/sport/football/articles/crrp481r98xo",
+    "title": "Chelsea sign McCabe after Arsenal exit",
+    "url": "https://www.bbc.com/sport/football/articles/c7v9460e0pro",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Chelsea sign McCabe after Arsenal exit",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Chelsea",
+      "Arsenal"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "SWPL winners Hearts appoint Thomson as head coach",
+    "url": "https://www.bbc.com/sport/football/articles/cdxpwk58e42o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Is SWPL momentum with Celtic after Scottish Cup win?",
+    "core_event": "来自 BBC Sport 的赛事报道。SWPL winners Hearts appoint Thomson as head coach",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Celtic",
-      "Scottish Cup"
+      "Hearts",
+      "Thomson"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Williamson to miss World Cup qualifier against Spain",
+    "url": "https://www.bbc.com/sport/football/articles/cq6pngp7g53o",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Williamson to miss World Cup qualifier against Spain",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Williamson",
+      "World Cup",
+      "Spain"
     ]
   },
   {
@@ -216,92 +233,129 @@
   },
   {
     "source": "The Guardian",
-    "title": "Football Daily Arsenal feel the love after Arteta’s Bigger Cup masterplan falls short",
-    "url": "https://www.theguardian.com/football/2026/jun/01/arsenal-psg-champions-league-final-trophy-parade",
+    "title": "Transfer news London City poised to sign Earps and León in hunt for trophies and fans",
+    "url": "https://www.theguardian.com/football/2026/jun/02/london-city-lionesses-mary-earps-mapi-leon",
+    "category": "transfer",
+    "emoji_tag": "💰",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Transfer news London City poised to sign Earps and León in hunt for trophies and fans",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Transfer",
+      "London City",
+      "Earps",
+      "León"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Liverpool agree deal in principle with Andoni Iraola for two-year contract",
+    "url": "https://www.theguardian.com/football/2026/jun/02/liverpool-opened-talks-with-andoni-iraola-over-becoming-head-coach",
     "category": "transfer",
     "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Football Daily Arsenal feel the love after Arteta’s Bigger Cup masterplan falls short",
+    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。Liverpool agree deal in principle with Andoni Iraola for two-year contract",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
     "key_players": [
-      "Football Daily Arsenal",
-      "Arteta",
-      "Bigger Cup"
+      "Liverpool",
+      "Andoni Iraola"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Moving the Goalposts Sign up for our women's football email",
-    "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+    "title": "Everton interested in £15m Hayden Hackney but face stiff competition",
+    "url": "https://www.theguardian.com/football/2026/jun/02/everton-interested-in-15m-hayden-hackney-but-face-stiff-competition",
     "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Moving the Goalposts Sign up for our women's football email",
+    "emoji_tag": "🔵",
+    "core_event": "The Guardian 报道，转会谈判正在进行中，细节尚待确认。Everton interested in £15m Hayden Hackney but face stiff competition",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "gossip_rating": 3,
+    "gossip_label": "可靠消息",
     "key_players": [
-      "Moving",
-      "Goalposts Sign"
+      "Everton",
+      "Hayden Hackney"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Debugging: Google requests permission to release 32m mosquitoes in California and Florida",
-    "url": "https://www.theguardian.com/technology/2026/jun/01/google-permission-release-mosquitoes-california-florida",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Debugging: Google requests permission to release 32m mosquitoes in California and Florida",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Debugging",
-      "Google",
-      "California",
-      "Florida"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "To die with dignity: my young husband’s final wish came with a $65,000 price tag",
-    "url": "https://www.theguardian.com/society/ng-interactive/2026/jun/01/home-hospice-cost",
+    "title": "Lewis Koumas snatches Wales draw to ruin Ghana’s World Cup sendoff",
+    "url": "https://www.theguardian.com/football/2026/jun/02/wales-ghana-international-friendly-match-report",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。To die with dignity: my young husband’s final wish came with a $65,000 price tag",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": []
-  },
-  {
-    "source": "The Guardian",
-    "title": "New Mexico identifies remains of nuclear lab employee missing for a year",
-    "url": "https://www.theguardian.com/us-news/2026/jun/01/melissa-casias-remains-found-new-mexico",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。New Mexico identifies remains of nuclear lab employee missing for a year",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "core_event": "来自 The Guardian 的赛事报道。Lewis Koumas snatches Wales draw to ruin Ghana’s World Cup sendoff",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "New Mexico"
+      "Lewis Koumas",
+      "Wales",
+      "Ghana",
+      "World Cup"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "60 Minutes correspondent Scott Pelley accuses Bari Weiss of ‘murdering’ show",
-    "url": "https://www.theguardian.com/media/2026/jun/01/60-minutes-scott-pelley-cbs-bari-weiss-cuts",
+    "title": "60 Minutes correspondent Scott Pelley fired by CBS News after clash",
+    "url": "https://www.theguardian.com/media/2026/jun/02/scott-pelley-60-minutes-cbs-news",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。60 Minutes correspondent Scott Pelley accuses Bari Weiss of ‘murdering’ show",
+    "core_event": "来自 The Guardian 的赛事报道。60 Minutes correspondent Scott Pelley fired by CBS News after clash",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
       "Minutes",
       "Scott Pelley",
-      "Bari Weiss"
+      "News"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Live Midterm primaries 2026 live: results and reaction as six states including California and Iowa cast ballots",
+    "url": "https://www.theguardian.com/us-news/live/2026/jun/02/midterm-primary-election-results-california-iowa-montana-new-jersey-south-dakota-new-mexico-latest-updates",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Live Midterm primaries 2026 live: results and reaction as six states including California and Iowa cast ballots",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Live Midterm",
+      "California",
+      "Iowa"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "‘Like a Klingon prison’: inside Barack Obama’s audacious, near-windowless, $850m presidential library",
+    "url": "https://www.theguardian.com/artanddesign/2026/jun/02/klingon-prison-barack-obamas-presidential-library-chicago",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。‘Like a Klingon prison’: inside Barack Obama’s audacious, near-windowless, $850m presidential library",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Like",
+      "Klingon",
+      "Barack Obama"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "British couple jailed in Iran have lost appeal against convictions, family say",
+    "url": "https://www.theguardian.com/world/2026/jun/02/family-say-british-couple-jailed-in-iran-have-lost-appeal-against-convictions",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。British couple jailed in Iran have lost appeal against convictions, family say",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "British",
+      "Iran"
     ]
   }
 ]
