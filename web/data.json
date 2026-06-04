@@ -1,6 +1,67 @@
 [
   {
     "source": "BBC Sport",
+    "title": "Man City have opening Anderson bid rejected by Forest",
+    "url": "https://www.bbc.com/sport/football/articles/c042w3w601yo",
+    "category": "transfer",
+    "emoji_tag": "🩵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man City have opening Anderson bid rejected by Forest",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Man City",
+      "Anderson",
+      "Forest"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "The anatomy of a Golden Boot winner - and who could win it in 2026?",
+    "url": "https://www.bbc.com/sport/football/articles/ce3pe9nxe7jo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。The anatomy of a Golden Boot winner - and who could win it in 2026?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Golden Boot"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Man Utd agree £35m Ederson fee as they signal summer intentions",
+    "url": "https://www.bbc.com/sport/football/articles/c78q2dxv89go",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Man Utd agree £35m Ederson fee as they signal summer intentions",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Man Utd",
+      "Ederson"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Aston Villa top scorer Hanson set to join Spurs",
+    "url": "https://www.bbc.com/sport/football/articles/cdxp165xw7ko",
+    "category": "match_report",
+    "emoji_tag": "⚪",
+    "core_event": "来自 BBC Sport 的赛事报道。Aston Villa top scorer Hanson set to join Spurs",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Aston Villa",
+      "Hanson",
+      "Spurs"
+    ]
+  },
+  {
+    "source": "BBC Sport",
     "title": "Liverpool agree deal with Iraola to succeed Slot",
     "url": "https://www.bbc.com/sport/football/articles/c4gv1ydm4yro",
     "category": "transfer",
@@ -13,38 +74,6 @@
       "Liverpool",
       "Iraola",
       "Slot"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Man Utd agree £35m fee for Atalanta's Ederson",
-    "url": "https://www.bbc.com/sport/football/articles/c78q2dxv89go",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Man Utd agree £35m fee for Atalanta's Ederson",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
-    "key_players": [
-      "Man Utd",
-      "Atalanta",
-      "Ederson"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Late Koumas goal earns Wales draw with Ghana",
-    "url": "https://www.bbc.com/sport/football/live/cd6p95v7ppvt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Late Koumas goal earns Wales draw with Ghana",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Late Koumas",
-      "Wales",
-      "Ghana"
     ]
   },
   {
@@ -65,18 +94,32 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Salford sack Robinson after play-off final loss",
-    "url": "https://www.bbc.com/sport/football/articles/c7v9p272v3no",
+    "title": "BBC Women's Football Weekly. Extra: Inside England with Freya Godfrey and Lucia Kendall. Audio, 38 minutes BBC Women's Football Weekly Extra: Inside England with Freya Godfrey and Lucia Kendall",
+    "url": "https://www.bbc.com/sounds/play/p0npwnq6",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Salford sack Robinson after play-off final loss",
+    "core_event": "来自 BBC Sport 的赛事报道。BBC Women's Football Weekly. Extra: Inside England with Freya Godfrey and Lucia Kendall. Audio, 38 minutes BBC Women's Football Weekly Extra: Inside England with Freya Godfrey and Lucia Kendall",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Salford",
-      "Robinson"
+      "Women",
+      "Football Weekly",
+      "Extra",
+      "Inside England"
     ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "The summer a golden generation lost its shine",
+    "url": "https://www.bbc.com/sport/extra/60s97qhdbf/the-golden-generation",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。The summer a golden generation lost its shine",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": []
   },
   {
     "source": "BBC Sport",
@@ -95,126 +138,19 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Football Daily. England touch down in Florida. Audio, 31 minutes Football Daily England touch down in Florida",
-    "url": "https://www.bbc.com/sounds/play/p0npq9vd",
+    "title": "BBC Women's Football Weekly. Takeover Tuesday with Wales head coach Rhian Wilkinson! Audio, 37 minutes BBC Women's Football Weekly Takeover Tuesday with Wales head coach Rhian Wilkinson!",
+    "url": "https://www.bbc.com/sounds/play/p0nppdn8",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. England touch down in Florida. Audio, 31 minutes Football Daily England touch down in Florida",
+    "core_event": "来自 BBC Sport 的赛事报道。BBC Women's Football Weekly. Takeover Tuesday with Wales head coach Rhian Wilkinson! Audio, 37 minutes BBC Women's Football Weekly Takeover Tuesday with Wales head coach Rhian Wilkinson!",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Football Daily",
-      "England",
-      "Florida",
-      "Audio"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "The summer a golden generation lost its shine",
-    "url": "https://www.bbc.com/sport/extra/60s97qhdbf/the-golden-generation",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。The summer a golden generation lost its shine",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": []
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Overcoming resistance - Ancelotti's bid to revive Brazil",
-    "url": "https://www.bbc.com/sport/football/articles/cp8pxyknglgo",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Overcoming resistance - Ancelotti's bid to revive Brazil",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Overcoming",
-      "Ancelotti",
-      "Brazil"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "What would Crystal Palace winning Conference League mean for English clubs in Europe?",
-    "url": "https://www.bbc.com/sport/football/articles/czj2gzzxdpyo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。What would Crystal Palace winning Conference League mean for English clubs in Europe?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Crystal Palace",
-      "Conference League",
-      "English",
-      "Europe"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Shankland contract gamble paid off for Hearts - Jones",
-    "url": "https://www.bbc.com/sport/football/articles/c4g41ygl93lo",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Shankland contract gamble paid off for Hearts - Jones",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Shankland",
-      "Hearts",
-      "Jones"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Chelsea sign McCabe after Arsenal exit",
-    "url": "https://www.bbc.com/sport/football/articles/c7v9460e0pro",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Chelsea sign McCabe after Arsenal exit",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Chelsea",
-      "Arsenal"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "SWPL winners Hearts appoint Thomson as head coach",
-    "url": "https://www.bbc.com/sport/football/articles/cdxpwk58e42o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。SWPL winners Hearts appoint Thomson as head coach",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Hearts",
-      "Thomson"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Williamson to miss World Cup qualifier against Spain",
-    "url": "https://www.bbc.com/sport/football/articles/cq6pngp7g53o",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Williamson to miss World Cup qualifier against Spain",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Williamson",
-      "World Cup",
-      "Spain"
+      "Women",
+      "Football Weekly",
+      "Takeover Tuesday",
+      "Wales"
     ]
   },
   {
@@ -233,98 +169,108 @@
   },
   {
     "source": "The Guardian",
-    "title": "Transfer news London City poised to sign Earps and León in hunt for trophies and fans",
-    "url": "https://www.theguardian.com/football/2026/jun/02/london-city-lionesses-mary-earps-mapi-leon",
+    "title": "Manchester United Club tie up £35m deal to make Éderson first signing of Carrick reign",
+    "url": "https://www.theguardian.com/sport/2026/jun/02/manchester-united-tie-up-35m-deal-to-make-ederson-first-signing-of-carrick-reign",
     "category": "transfer",
-    "emoji_tag": "💰",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Transfer news London City poised to sign Earps and León in hunt for trophies and fans",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Manchester United Club tie up £35m deal to make Éderson first signing of Carrick reign",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Transfer",
-      "London City",
-      "Earps",
-      "León"
+      "Manchester United Club",
+      "Carrick"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Liverpool agree deal in principle with Andoni Iraola for two-year contract",
-    "url": "https://www.theguardian.com/football/2026/jun/02/liverpool-opened-talks-with-andoni-iraola-over-becoming-head-coach",
+    "title": "Football Daily Sign up for the tea-timeliest email in the game",
+    "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
     "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。Liverpool agree deal in principle with Andoni Iraola for two-year contract",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
-    "key_players": [
-      "Liverpool",
-      "Andoni Iraola"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Everton interested in £15m Hayden Hackney but face stiff competition",
-    "url": "https://www.theguardian.com/football/2026/jun/02/everton-interested-in-15m-hayden-hackney-but-face-stiff-competition",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "The Guardian 报道，转会谈判正在进行中，细节尚待确认。Everton interested in £15m Hayden Hackney but face stiff competition",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 3,
-    "gossip_label": "可靠消息",
-    "key_players": [
-      "Everton",
-      "Hayden Hackney"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Lewis Koumas snatches Wales draw to ruin Ghana’s World Cup sendoff",
-    "url": "https://www.theguardian.com/football/2026/jun/02/wales-ghana-international-friendly-match-report",
-    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Lewis Koumas snatches Wales draw to ruin Ghana’s World Cup sendoff",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Football Daily Sign up for the tea-timeliest email in the game",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Football Daily Sign"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Pérez confirms Mourinho will return to Real Madrid if he is re-elected president",
+    "url": "https://www.theguardian.com/football/2026/jun/03/perez-confirms-mourinho-will-return-to-real-madrid-if-he-is-re-elected-president",
+    "category": "injury",
+    "emoji_tag": "⚪",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Pérez confirms Mourinho will return to Real Madrid if he is re-elected president",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Lewis Koumas",
-      "Wales",
-      "Ghana",
-      "World Cup"
+      "Pérez",
+      "Mourinho",
+      "Real Madrid"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "60 Minutes correspondent Scott Pelley fired by CBS News after clash",
-    "url": "https://www.theguardian.com/media/2026/jun/02/scott-pelley-60-minutes-cbs-news",
+    "title": "Suspended Union executive has reportedly failed to complete MLS training",
+    "url": "https://www.theguardian.com/football/2026/jun/03/ernst-tanner-mls-philadelphia-union",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Suspended Union executive has reportedly failed to complete MLS training",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 1,
+    "gossip_label": "纯属猜测",
+    "key_players": [
+      "Suspended Union"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Fired 60 Minutes correspondent Scott Pelley says CBS told him to inject ‘falsehoods’ into reporting",
+    "url": "https://www.theguardian.com/media/2026/jun/03/60-minutes-scott-pelley-cbs-accusations",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。60 Minutes correspondent Scott Pelley fired by CBS News after clash",
+    "core_event": "来自 The Guardian 的赛事报道。Fired 60 Minutes correspondent Scott Pelley says CBS told him to inject ‘falsehoods’ into reporting",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
+      "Fired",
       "Minutes",
-      "Scott Pelley",
-      "News"
+      "Scott Pelley"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Live Midterm primaries 2026 live: results and reaction as six states including California and Iowa cast ballots",
-    "url": "https://www.theguardian.com/us-news/live/2026/jun/02/midterm-primary-election-results-california-iowa-montana-new-jersey-south-dakota-new-mexico-latest-updates",
-    "category": "match_report",
+    "title": "Pete Hegseth removes all women and some Black service members from navy promotion list",
+    "url": "https://www.theguardian.com/us-news/2026/jun/03/pete-hegseth-navy-promotion-list",
+    "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Live Midterm primaries 2026 live: results and reaction as six states including California and Iowa cast ballots",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Pete Hegseth removes all women and some Black service members from navy promotion list",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Pete Hegseth",
+      "Black"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "NBA finals 2026 Game 1: New York Knicks 105-95 San Antonio Spurs – as it happened",
+    "url": "https://www.theguardian.com/sport/live/2026/jun/03/nba-finals-2026-game-1-new-york-knicks-san-antonio-spurs-live-score",
+    "category": "match_report",
+    "emoji_tag": "⚪",
+    "core_event": "来自 The Guardian 的赛事报道。NBA finals 2026 Game 1: New York Knicks 105-95 San Antonio Spurs – as it happened",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Live Midterm",
-      "California",
-      "Iowa"
+      "Game",
+      "New York Knicks",
+      "San Antonio Spurs"
     ]
   },
   {
@@ -345,17 +291,32 @@
   },
   {
     "source": "The Guardian",
-    "title": "British couple jailed in Iran have lost appeal against convictions, family say",
-    "url": "https://www.theguardian.com/world/2026/jun/02/family-say-british-couple-jailed-in-iran-have-lost-appeal-against-convictions",
+    "title": "Wim Wenders withdraws 1975 film featuring 13-year-old Nastassja Kinski topless",
+    "url": "https://www.theguardian.com/film/2026/jun/03/wim-wenders-withdraws-1975-film-featuring-13-year-old-nastassja-kinski-topless",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。British couple jailed in Iran have lost appeal against convictions, family say",
+    "core_event": "来自 The Guardian 的赛事报道。Wim Wenders withdraws 1975 film featuring 13-year-old Nastassja Kinski topless",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Wim Wenders",
+      "Nastassja Kinski"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "California primary election results: Hilton narrowly leads as governor’s race remains too close to call",
+    "url": "https://www.theguardian.com/us-news/2026/jun/03/california-governor-election",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。California primary election results: Hilton narrowly leads as governor’s race remains too close to call",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "British",
-      "Iran"
+      "California",
+      "Hilton"
     ]
   }
 ]
