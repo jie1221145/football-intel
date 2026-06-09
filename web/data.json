@@ -1,6 +1,70 @@
 [
   {
     "source": "BBC Sport",
+    "title": "Somali referee Artan to miss World Cup after being barred from entering US",
+    "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Somali referee Artan to miss World Cup after being barred from entering US",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Somali",
+      "Artan",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Olise scores hat-trick as France beat Northern Ireland",
+    "url": "https://www.bbc.com/sport/football/live/c99lelj93zmt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Olise scores hat-trick as France beat Northern Ireland",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Olise",
+      "France",
+      "Northern Ireland"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Wolves sign Trippier and in Jimenez talks",
+    "url": "https://www.bbc.com/sport/football/articles/c70yz917vkko",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Wolves sign Trippier and in Jimenez talks",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Wolves",
+      "Trippier",
+      "Jimenez"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Lionesses need setbacks like Spain loss - Wiegman",
+    "url": "https://www.bbc.com/sport/football/articles/c892lp9q7j0o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Lionesses need setbacks like Spain loss - Wiegman",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Lionesses",
+      "Spain",
+      "Wiegman"
+    ]
+  },
+  {
+    "source": "BBC Sport",
     "title": "From dazzling winger to veteran who barely runs - the evolution of Messi",
     "url": "https://www.bbc.com/sport/football/articles/ckg42nvgx77o",
     "category": "match_report",
@@ -16,129 +80,99 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Injury worries for Morocco after friendly draw against Norway",
-    "url": "https://www.bbc.com/sport/football/live/cvgz26eev3gt",
-    "category": "match_report",
-    "emoji_tag": "🚑",
-    "core_event": "来自 BBC Sport 的赛事报道。Injury worries for Morocco after friendly draw against Norway",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Injury",
-      "Morocco",
-      "Norway"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Gemmill beats McTominay in vote for your most iconic Scotland goal",
-    "url": "https://www.bbc.com/sport/football/articles/c98qv7455e9o",
+    "title": "Beating France would be one of football's biggest stories - Ward",
+    "url": "https://www.bbc.com/sport/articles/c4gyle0pze1o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Gemmill beats McTominay in vote for your most iconic Scotland goal",
+    "core_event": "来自 BBC Sport 的赛事报道。Beating France would be one of football's biggest stories - Ward",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Gemmill",
-      "Scotland"
+      "Beating France",
+      "Ward"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Will transfers be a distraction for England at World Cup?",
-    "url": "https://www.bbc.com/sport/football/articles/crlpglx66z9o",
-    "category": "transfer",
-    "emoji_tag": "💰",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Will transfers be a distraction for England at World Cup?",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Will",
-      "England",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Spain expose England's flaws in painful defeat",
-    "url": "https://www.bbc.com/sport/football/articles/c33230637gno",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Spain expose England's flaws in painful defeat",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Spain",
-      "England"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Brighton agree £21.5m deal for winger Yohanna",
-    "url": "https://www.bbc.com/sport/football/articles/cjeg2w8zv5yo",
+    "title": "Swansea set to sign Celtic defender Welsh",
+    "url": "https://www.bbc.com/sport/football/articles/c9d2y622413o",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Brighton agree £21.5m deal for winger Yohanna",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Swansea set to sign Celtic defender Welsh",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 4,
     "gossip_label": "接近官宣",
     "key_players": [
-      "Brighton",
-      "Yohanna"
+      "Swansea",
+      "Celtic",
+      "Welsh"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "England beat New Zealand as Tuchel experiments before World Cup",
-    "url": "https://www.bbc.com/sport/football/live/c5yenj3pj1dt",
+    "title": "Walcott & Defoe’s 2006 World Cup fallout. Audio, 38 minutes Walcott & Defoe’s 2006 World Cup fallout",
+    "url": "https://www.bbc.com/sounds/play/p0nh9btw",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。England beat New Zealand as Tuchel experiments before World Cup",
+    "core_event": "来自 BBC Sport 的赛事报道。Walcott & Defoe’s 2006 World Cup fallout. Audio, 38 minutes Walcott & Defoe’s 2006 World Cup fallout",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "England",
-      "New Zealand",
-      "Tuchel",
-      "World Cup"
+      "Walcott",
+      "Defoe",
+      "World Cup",
+      "Audio"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "France's Camavinga attends Harvard after World Cup omission",
-    "url": "https://www.bbc.com/sport/football/articles/cgk6y208pm2o",
+    "title": "Netherlands' Timber out of World Cup with injury",
+    "url": "https://www.bbc.com/sport/football/articles/c4gyrpve234o",
     "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。France's Camavinga attends Harvard after World Cup omission",
+    "emoji_tag": "🚑",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Netherlands' Timber out of World Cup with injury",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "France",
-      "Camavinga",
-      "Harvard",
+      "Netherlands",
+      "Timber",
       "World Cup"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Scotland earn statement 4-0 win over Bolivia in World Cup warm-up",
-    "url": "https://www.bbc.com/sport/football/live/c87qzln4w4gt",
+    "title": "Rowing boats & regrets - Scotland's undefeated 1974 World Cup campaign",
+    "url": "https://www.bbc.com/sport/football/articles/cpdp7lyx432o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Scotland earn statement 4-0 win over Bolivia in World Cup warm-up",
-    "tactical_financial_impact": "大比分差距清晰揭示了两队实力分野，失利方需重审战术部署。",
+    "core_event": "来自 BBC Sport 的赛事报道。Rowing boats & regrets - Scotland's undefeated 1974 World Cup campaign",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
+      "Rowing",
       "Scotland",
-      "Bolivia",
       "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Football Daily. MNC: Who starts for England, & Scotland's approach v Haiti. Audio, 58 minutes Football Daily MNC: Who starts for England, & Scotland's approach v Haiti",
+    "url": "https://www.bbc.com/sounds/play/p0nqvjck",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Football Daily. MNC: Who starts for England, & Scotland's approach v Haiti. Audio, 58 minutes Football Daily MNC: Who starts for England, & Scotland's approach v Haiti",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Football Daily",
+      "England",
+      "Scotland",
+      "Haiti"
     ]
   },
   {
@@ -169,82 +203,16 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Superstar in Spain, doubted in Brazil: Will Vinicius convince a nation?",
-    "url": "https://www.bbc.com/sport/football/articles/c0l2rek0dj4o",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Superstar in Spain, doubted in Brazil: Will Vinicius convince a nation?",
-    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Superstar",
-      "Spain",
-      "Brazil",
-      "Will Vinicius"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Man Utd-bound Ederson replaces injured Wesley in Brazil squad",
-    "url": "https://www.bbc.com/sport/football/articles/c0ey82g18xjo",
-    "category": "injury",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Man Utd-bound Ederson replaces injured Wesley in Brazil squad",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Man Utd",
-      "Ederson",
-      "Wesley",
-      "Brazil"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Weir scores hat-trick as Scotland hit Israel for six",
-    "url": "https://www.bbc.com/sport/football/live/c332k35y1vkt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Weir scores hat-trick as Scotland hit Israel for six",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Weir",
-      "Scotland",
-      "Israel"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "NI suffer controversial defeat against Turkey",
-    "url": "https://www.bbc.com/sport/football/live/c362l6xy70jt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。NI suffer controversial defeat against Turkey",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Turkey"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "England Rice named as vice-captain by Tuchel for World Cup bid",
-    "url": "https://www.theguardian.com/football/2026/jun/07/declan-rice-named-england-vice-captain-thomas-tuchel-world-cup-2026",
+    "title": "Read about our approach to external linking.",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/links-and-feeds",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。England Rice named as vice-captain by Tuchel for World Cup bid",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Read about our approach to external linking.",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "England Rice",
-      "Tuchel",
-      "World Cup"
+      "Read"
     ]
   },
   {
@@ -264,82 +232,110 @@
   },
   {
     "source": "The Guardian",
-    "title": "Match report Yengi scores on debut as Socceroos draw with Switzerland",
-    "url": "https://www.theguardian.com/football/2026/jun/07/australia-socceroos-switzerland-tete-yengi-debut-goal-world-cup-warm-up",
-    "category": "match_report",
+    "title": "Team guide Argentina are no longer reliant on Messi as they target back-to-back titles",
+    "url": "https://www.theguardian.com/football/2026/jun/08/argentina-world-cup-2026-team-guide",
+    "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Match report Yengi scores on debut as Socceroos draw with Switzerland",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Team guide Argentina are no longer reliant on Messi as they target back-to-back titles",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "Match",
-      "Yengi",
-      "Socceroos",
-      "Switzerland"
+      "Team",
+      "Argentina",
+      "Messi"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Match report Adams at double as Clarke's side thrash Bolivia in perfect tune-up",
-    "url": "https://www.theguardian.com/football/2026/jun/06/scotland-bolivia-world-cup-warm-up-match-report",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Match report Adams at double as Clarke's side thrash Bolivia in perfect tune-up",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "title": "Women’s transfer interactive All deals from world’s top six leagues",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Women’s transfer interactive All deals from world’s top six leagues",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "Match",
-      "Adams",
-      "Clarke",
-      "Bolivia"
+      "Women"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "World Cup 2026 Mexico steps up security at fan zone amid growing unrest",
-    "url": "https://www.theguardian.com/football/2026/jun/06/mexico-security-world-cup-fan-zone-growing-protests-football",
-    "category": "match_report",
+    "title": "Exclusive Huge boost for WSL as Putellas agrees personal terms with London City",
+    "url": "https://www.theguardian.com/football/2026/jun/08/wsl-alexia-putellas-join-london-city",
+    "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。World Cup 2026 Mexico steps up security at fan zone amid growing unrest",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。Exclusive Huge boost for WSL as Putellas agrees personal terms with London City",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
     "key_players": [
-      "World Cup",
-      "Mexico"
+      "Exclusive Huge",
+      "Putellas",
+      "London City"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Florentino Pérez to remain as Real Madrid president after overwhelming election win",
-    "url": "https://www.theguardian.com/football/2026/jun/08/florentino-perez-to-remain-as-real-madrid-president-after-overwhelming-election-win",
-    "category": "match_report",
-    "emoji_tag": "⚪",
-    "core_event": "来自 The Guardian 的赛事报道。Florentino Pérez to remain as Real Madrid president after overwhelming election win",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "title": "Men’s transfer interactive All deals from Europe’s top five leagues",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Men’s transfer interactive All deals from Europe’s top five leagues",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "Florentino Pérez",
-      "Real Madrid"
+      "Europe"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Modric still casts a spell as Croatia win warm-up with England to come",
-    "url": "https://www.theguardian.com/football/2026/jun/07/modric-still-casts-a-spell-as-croatia-win-warm-up-with-england-to-come",
-    "category": "match_report",
+    "title": "Top African referee Omar Artan refused access to US and will miss World Cup",
+    "url": "https://www.theguardian.com/football/2026/jun/08/top-african-referee-omar-artan-refused-access-to-the-united-states",
+    "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Modric still casts a spell as Croatia win warm-up with England to come",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Top African referee Omar Artan refused access to US and will miss World Cup",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Modric",
-      "Croatia",
-      "England"
+      "Top African",
+      "Omar Artan",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Manchester United think they can beat City to £100m-rated Elliot Anderson",
+    "url": "https://www.theguardian.com/football/2026/jun/08/manchester-united-city-100m-elliot-anderson-transfer-news",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Manchester United think they can beat City to £100m-rated Elliot Anderson",
+    "tactical_financial_impact": "本次转会金额巨大，将对俱乐部的财政健康和 FFP 合规性构成压力。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Manchester United",
+      "City",
+      "Elliot Anderson"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "‘Luckily I play with my feet’: Spence talks up World Cup hopes despite broken jaw",
+    "url": "https://www.theguardian.com/football/2026/jun/08/djed-spence-england-world-cup-broken-jaw",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。‘Luckily I play with my feet’: Spence talks up World Cup hopes despite broken jaw",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Luckily",
+      "Spence",
+      "World Cup"
     ]
   },
   {
@@ -359,97 +355,63 @@
   },
   {
     "source": "The Guardian",
-    "title": "Declan Rice named as England vice-captain by Tuchel for World Cup bid",
-    "url": "https://www.theguardian.com/football/2026/jun/07/declan-rice-named-england-vice-captain-thomas-tuchel-world-cup-2026",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Declan Rice named as England vice-captain by Tuchel for World Cup bid",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Declan Rice",
-      "England",
-      "Tuchel",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Scott Pelley says Bari Weiss wanted 60 Minutes to say Renee Good was ‘driving toward officer’",
-    "url": "https://www.theguardian.com/media/2026/jun/07/scott-pelley-bari-weiss-renee-good-report",
+    "title": "Donald Trump given hostile reception as New York crowd boos and jeers president at NBA finals",
+    "url": "https://www.theguardian.com/sport/2026/jun/08/donald-trump-knicks-spurs-nba-finals-crowd-reaction-boos",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Scott Pelley says Bari Weiss wanted 60 Minutes to say Renee Good was ‘driving toward officer’",
+    "core_event": "来自 The Guardian 的赛事报道。Donald Trump given hostile reception as New York crowd boos and jeers president at NBA finals",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Scott Pelley",
-      "Bari Weiss",
-      "Minutes",
-      "Renee Good"
+      "Donald Trump",
+      "New York"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Missing Melbourne teacher allegedly drugged and murdered by brother in India",
-    "url": "https://www.theguardian.com/australia-news/2026/jun/08/missing-melbourne-teacher-sunil-sharma-allegedly-murdered-by-brother-india-ntwnfb",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Missing Melbourne teacher allegedly drugged and murdered by brother in India",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "title": "Live NBA finals 2026 Game 3: San Antonio Spurs 115-111 New York Knicks – live reaction",
+    "url": "https://www.theguardian.com/sport/live/2026/jun/08/nba-finals-2026-game-3-san-antonio-spurs-v-new-york-knicks-live-buildup",
+    "category": "match_report",
+    "emoji_tag": "⚪",
+    "core_event": "来自 The Guardian 的赛事报道。Live NBA finals 2026 Game 3: San Antonio Spurs 115-111 New York Knicks – live reaction",
+    "tactical_financial_impact": "大比分差距清晰揭示了两队实力分野，失利方需重审战术部署。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Missing Melbourne",
-      "India"
+      "Live",
+      "Game",
+      "San Antonio Spurs",
+      "New York Knicks"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Trump reportedly considers buying Chagos Islands from Mauritius",
-    "url": "https://www.theguardian.com/us-news/2026/jun/07/trump-deal-chagos-islands-mauritius-uk",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Trump reportedly considers buying Chagos Islands from Mauritius",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 1,
-    "gossip_label": "纯属猜测",
-    "key_players": [
-      "Trump",
-      "Chagos Islands",
-      "Mauritius"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Tony awards 2026: full list of winners",
-    "url": "https://www.theguardian.com/stage/2026/jun/07/tony-awards-2026-full-list-of-winners",
+    "title": "Gordon S Wood, Pulitzer-prize winning historian, dies after being struck by a car in Rhode Island",
+    "url": "https://www.theguardian.com/us-news/2026/jun/08/gordon-s-wood-pulitzer-prize-historian-dead",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Tony awards 2026: full list of winners",
+    "core_event": "来自 The Guardian 的赛事报道。Gordon S Wood, Pulitzer-prize winning historian, dies after being struck by a car in Rhode Island",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Tony"
+      "Gordon",
+      "Wood",
+      "Pulitzer",
+      "Rhode Island"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Live Middle East crisis live: Israel says it has struck targets in central and western Iran",
-    "url": "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates",
-    "category": "transfer",
+    "title": "A religious hospital denied her a life-saving drug during an ectopic pregnancy. She lost her fertility",
+    "url": "https://www.theguardian.com/us-news/2026/jun/08/illinois-hospital-ectopic-pregnancy",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Live Middle East crisis live: Israel says it has struck targets in central and western Iran",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Live Middle East",
-      "Israel",
-      "Iran"
-    ]
+    "core_event": "来自 The Guardian 的赛事报道。A religious hospital denied her a life-saving drug during an ectopic pregnancy. She lost her fertility",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": []
   }
 ]
