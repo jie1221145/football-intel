@@ -1,77 +1,65 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Live . Brilliant Irankunda goal gives Australia lead against Turkey at World Cup",
-    "url": "https://www.bbc.com/sport/football/live/cn8kgrx2pl7t",
+    "title": "Japan twice come from behind to draw with Netherlands in World Cup",
+    "url": "https://www.bbc.com/sport/football/live/c30ypmd6g35t",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Live . Brilliant Irankunda goal gives Australia lead against Turkey at World Cup",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "来自 BBC Sport 的赛事报道。Japan twice come from behind to draw with Netherlands in World Cup",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Live",
-      "Brilliant Irankunda",
-      "Australia",
-      "Turkey"
+      "Japan",
+      "Netherlands",
+      "World Cup"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Iran win four staff visa appeals but 11 banned",
-    "url": "https://www.bbc.com/sport/football/articles/czxqkwrr1k6o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Iran win four staff visa appeals but 11 banned",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "title": "Real Madrid agree £51.8m deal for Chelsea's Cucurella",
+    "url": "https://www.bbc.com/sport/football/articles/cx2xp7gv09lo",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Real Madrid agree £51.8m deal for Chelsea's Cucurella",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
     "key_players": [
-      "Iran"
+      "Real Madrid",
+      "Chelsea",
+      "Cucurella"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Premier League target hair pulling and set-piece grappling in rules review",
-    "url": "https://www.bbc.com/sport/football/articles/cvgqrlkr24zo",
+    "title": "The 20-year-old who stole the show on Scotland's World Cup return",
+    "url": "https://www.bbc.com/sport/football/articles/clyrepwp0gno",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。The 20-year-old who stole the show on Scotland's World Cup return",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Scotland",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Arbeloa, Mourinho, Silva trading places - with agent key to swaps",
+    "url": "https://www.bbc.com/sport/football/articles/c7vydyv472go",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Premier League target hair pulling and set-piece grappling in rules review",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Arbeloa, Mourinho, Silva trading places - with agent key to swaps",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Premier League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Is Shankland finally the striker Scotland have been waiting for?",
-    "url": "https://www.bbc.com/sport/football/articles/ckg41k8397lo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Is Shankland finally the striker Scotland have been waiting for?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Is Shankland",
-      "Scotland"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
-    "url": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Sutton",
-      "World Cup"
+      "Arbeloa",
+      "Mourinho",
+      "Silva"
     ]
   },
   {
@@ -85,37 +73,6 @@
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": []
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Vinicius Jr rescues draw for Brazil against Morocco",
-    "url": "https://www.bbc.com/sport/football/live/c20ym4y24ggt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Vinicius Jr rescues draw for Brazil against Morocco",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Vinicius Jr",
-      "Brazil",
-      "Morocco"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "West Ham shareholders address Sullivan allegations and agree ownership deal",
-    "url": "https://www.bbc.com/sport/football/articles/c932ll05592o",
-    "category": "transfer",
-    "emoji_tag": "⚒️",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。West Ham shareholders address Sullivan allegations and agree ownership deal",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
-    "key_players": [
-      "West Ham",
-      "Sullivan"
-    ]
   },
   {
     "source": "BBC Sport",
@@ -134,49 +91,109 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Live . FIFA World Cup 42 minutes 42' Australia Australia 1 Turkey Turkey 0",
-    "url": "https://www.bbc.com/sport/football/live/cn8kgrx2pl7t",
+    "title": "Scotland earn nervy win over Haiti for first World Cup victory in 36 years",
+    "url": "https://www.bbc.com/sport/football/live/c4gy7dxk0xwt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Live . FIFA World Cup 42 minutes 42' Australia Australia 1 Turkey Turkey 0",
+    "core_event": "来自 BBC Sport 的赛事报道。Scotland earn nervy win over Haiti for first World Cup victory in 36 years",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Live",
-      "World Cup",
-      "Australia Australia",
-      "Turkey Turkey"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "USA start World Cup in style - but will they finally join the elite?",
-    "url": "https://www.bbc.com/sport/football/articles/c621z2k51rdo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。USA start World Cup in style - but will they finally join the elite?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
+      "Scotland",
+      "Haiti",
       "World Cup"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Arsenal consider move for Greek forward Tzolis",
-    "url": "https://www.bbc.com/sport/football/articles/c992xz8187jo",
+    "title": "Iran win four staff visa appeals but 11 banned",
+    "url": "https://www.bbc.com/sport/football/articles/czxqkwrr1k6o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Iran win four staff visa appeals but 11 banned",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Iran"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Injured referee Oliver to miss World Cup match",
+    "url": "https://www.bbc.com/sport/football/articles/cx265n1dy58o",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Injured referee Oliver to miss World Cup match",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Injured",
+      "Oliver",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Porro signs new long-term Tottenham contract",
+    "url": "https://www.bbc.com/sport/football/articles/c4gy9g3xjx2o",
     "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Arsenal consider move for Greek forward Tzolis",
+    "emoji_tag": "⚪",
+    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Porro signs new long-term Tottenham contract",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
+    "key_players": [
+      "Porro",
+      "Tottenham"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Fifa to pay Somali referee Artan full World Cup fee",
+    "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Fifa to pay Somali referee Artan full World Cup fee",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Arsenal",
-      "Greek",
-      "Tzolis"
+      "Fifa",
+      "Somali",
+      "Artan",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "How will Scotland approach Morocco game after opening win?",
+    "url": "https://www.bbc.com/sport/football/articles/clyrepz59dgo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。How will Scotland approach Morocco game after opening win?",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Scotland",
+      "Morocco"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "What does 1-0 win mean for Scotland's chances of qualification?",
+    "url": "https://www.bbc.com/sport/football/articles/cvglm8n1nyjo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。What does 1-0 win mean for Scotland's chances of qualification?",
+    "tactical_financial_impact": "紧张的比分说明双方实力接近，细节决定胜负，临场调整至关重要。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Scotland"
     ]
   },
   {
@@ -206,20 +223,6 @@
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "How has world changed since Scotland were last at men's finals?",
-    "url": "https://www.bbc.com/sport/football/articles/cq83ldj2y97o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。How has world changed since Scotland were last at men's finals?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Scotland"
-    ]
-  },
-  {
     "source": "The Guardian",
     "title": "Bracketology Predict a path to World Cup victory",
     "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
@@ -232,35 +235,6 @@
     "key_players": [
       "Bracketology Predict",
       "World Cup"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "As it happened Read Tom Bassam's minute-by-minute report",
-    "url": "https://www.theguardian.com/football/live/2026/jun/14/haiti-v-scotland-world-cup-2026-live",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。As it happened Read Tom Bassam's minute-by-minute report",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Read Tom Bassam"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "In pictures Scotland and their fans return to big stage against Haiti",
-    "url": "https://www.theguardian.com/football/gallery/2026/jun/14/world-cup-2026-scotland-haiti-in-pictures",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。In pictures Scotland and their fans return to big stage against Haiti",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Scotland",
-      "Haiti"
     ]
   },
   {
@@ -279,116 +253,199 @@
   },
   {
     "source": "The Guardian",
-    "title": "Alexander Abnos In a win for the history books, what stood out most was its nature",
-    "url": "https://www.theguardian.com/football/2026/jun/13/in-a-usa-win-for-the-history-books-what-stood-out-most-was-the-fun-and-free-nature-of-it",
+    "title": "England Eze would take penalty despite Arsenal shootout miss",
+    "url": "https://www.theguardian.com/football/2026/jun/14/eberechi-eze-england-penalty-shootout-2026-world-cup",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Alexander Abnos In a win for the history books, what stood out most was its nature",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。England Eze would take penalty despite Arsenal shootout miss",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Alexander Abnos In"
+      "England Eze",
+      "Arsenal"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Transfer news Manchester United lead chase for West Ham’s £80m-rated Fernandes",
-    "url": "https://www.theguardian.com/football/2026/jun/12/manchester-united-west-ham-mateus-fernandes-real-madrid-arsenal-psg",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Transfer news Manchester United lead chase for West Ham’s £80m-rated Fernandes",
-    "tactical_financial_impact": "本次转会金额巨大，将对俱乐部的财政健康和 FFP 合规性构成压力。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Transfer",
-      "Manchester United",
-      "West Ham",
-      "Fernandes"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Vinícius Júnior rescues lacklustre Brazil as Morocco earn deserved World Cup draw",
-    "url": "https://www.theguardian.com/football/2026/jun/14/brazil-morocco-world-cup-match-report",
+    "title": "United States England’s loss is Pochettino's gain with spearhead Balogun",
+    "url": "https://www.theguardian.com/football/2026/jun/14/folarin-balogun-usmnt-paraguay-world-cup",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Vinícius Júnior rescues lacklustre Brazil as Morocco earn deserved World Cup draw",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "core_event": "来自 The Guardian 的赛事报道。United States England’s loss is Pochettino's gain with spearhead Balogun",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Vinícius Júnior",
-      "Brazil",
-      "Morocco",
+      "United States England",
+      "Pochettino",
+      "Balogun"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "No sleep until 5am Socceroos’ focus turns to recovery after tiring travel",
+    "url": "https://www.theguardian.com/football/2026/jun/15/world-cup-socceroos-recovery-connor-metcalfe-no-sleep",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。No sleep until 5am Socceroos’ focus turns to recovery after tiring travel",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Socceroos"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Football Daily Scotland extend unbeaten men’s World Cup run to 27 years, 11 months and 19 days",
+    "url": "https://www.theguardian.com/football/2026/jun/14/scotland-entend-unbeaten-world-cup-run-27-years-11-months-19-days-football-daily",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Football Daily Scotland extend unbeaten men’s World Cup run to 27 years, 11 months and 19 days",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Football Daily Scotland",
       "World Cup"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Scotland victorious on World Cup return after McGinn strike helps clinch win over Haiti",
-    "url": "https://www.theguardian.com/football/2026/jun/14/haiti-scotland-world-cup-match-report",
+    "title": "Joy, relief and a very late night How Scotland celebrated World Cup win",
+    "url": "https://www.theguardian.com/football/2026/jun/14/scotland-celebrates-world-cup-haiti",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Scotland victorious on World Cup return after McGinn strike helps clinch win over Haiti",
+    "core_event": "来自 The Guardian 的赛事报道。Joy, relief and a very late night How Scotland celebrated World Cup win",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Scotland",
-      "World Cup",
-      "Haiti"
+      "How Scotland",
+      "World Cup"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "World Cup 2026: Scotland return to big stage against Haiti – in pictures",
-    "url": "https://www.theguardian.com/football/gallery/2026/jun/14/world-cup-2026-scotland-haiti-in-pictures",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。World Cup 2026: Scotland return to big stage against Haiti – in pictures",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "title": "Interactive Men’s transfer window: all deals from Europe’s top five leagues",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Interactive Men’s transfer window: all deals from Europe’s top five leagues",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "World Cup",
-      "Scotland",
-      "Haiti"
+      "Interactive Men",
+      "Europe"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Muheim’s late own goal gives Qatar dramatic World Cup draw against Switzerland",
-    "url": "https://www.theguardian.com/football/2026/jun/13/qatar-switzerland-world-cup-match-report",
+    "title": "Fortune favours Kamada as Japan rescue World Cup draw with Netherlands",
+    "url": "https://www.theguardian.com/football/2026/jun/14/netherlands-japan-world-cup-match-report",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Muheim’s late own goal gives Qatar dramatic World Cup draw against Switzerland",
+    "core_event": "来自 The Guardian 的赛事报道。Fortune favours Kamada as Japan rescue World Cup draw with Netherlands",
     "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Muheim",
-      "Qatar",
-      "World Cup",
-      "Switzerland"
+      "Fortune",
+      "Kamada",
+      "Japan",
+      "World Cup"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Live NBA finals: Knicks beat Spurs in Game 5 to win first title in 53 years – live reaction",
-    "url": "https://www.theguardian.com/sport/live/2026/jun/13/nba-finals-new-york-knicks-san-antonio-spurs-live",
+    "title": "Amad Diallo scores 90th-minute winner as Côte d’Ivoire leave it late to sink Ecuador",
+    "url": "https://www.theguardian.com/football/2026/jun/15/cote-d-ivoire-ecuador-world-cup-2026-match-report",
     "category": "match_report",
-    "emoji_tag": "⚪",
-    "core_event": "来自 The Guardian 的赛事报道。Live NBA finals: Knicks beat Spurs in Game 5 to win first title in 53 years – live reaction",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Amad Diallo scores 90th-minute winner as Côte d’Ivoire leave it late to sink Ecuador",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Live",
-      "Knicks",
-      "Spurs",
-      "Game"
+      "Amad Diallo",
+      "Ivoire",
+      "Ecuador"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "No sleep until 5am: Socceroos’ focus turns to recovery after tiring World Cup travel",
+    "url": "https://www.theguardian.com/football/2026/jun/15/world-cup-socceroos-recovery-connor-metcalfe-no-sleep",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。No sleep until 5am: Socceroos’ focus turns to recovery after tiring World Cup travel",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Socceroos",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Two-goal Yasin Ayari combines with Sweden stars to sweep aside error-prone Tunisia",
+    "url": "https://www.theguardian.com/football/2026/jun/15/sweden-tunisia-world-cup-match-report",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Two-goal Yasin Ayari combines with Sweden stars to sweep aside error-prone Tunisia",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Yasin Ayari",
+      "Sweden",
+      "Tunisia"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Iran’s footballers arrive in US amid peace deal but admit tension ‘undermines joy’",
+    "url": "https://www.theguardian.com/football/2026/jun/15/iran-world-cup-mehdi-taremi-amir-ghalenoei-fifa-tension-peace-deal",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Iran’s footballers arrive in US amid peace deal but admit tension ‘undermines joy’",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Iran"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "What do we know about the US-Iran peace deal – and what questions remain?",
+    "url": "https://www.theguardian.com/world/2026/jun/15/us-iran-peace-deal-terms-details-conditions-explained-what-do-we-know-hormuz-lebanon-israel-nuclear",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。What do we know about the US-Iran peace deal – and what questions remain?",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Iran"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Pilot and 11 skydiving passengers killed in private plane crash in Missouri",
+    "url": "https://www.theguardian.com/us-news/2026/jun/14/butler-missouri-plane-crash",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Pilot and 11 skydiving passengers killed in private plane crash in Missouri",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Pilot",
+      "Missouri"
     ]
   }
 ]
