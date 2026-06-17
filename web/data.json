@@ -1,6 +1,88 @@
 [
   {
     "source": "BBC Sport",
+    "title": "Live . Watch as Austria score stunner to lead World Cup debutants Jordan",
+    "url": "https://www.bbc.com/sport/football/live/czde4dj23qmt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Live . Watch as Austria score stunner to lead World Cup debutants Jordan",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Live",
+      "Watch",
+      "Austria",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Project Mbappe - the road to becoming France's record scorer",
+    "url": "https://www.bbc.com/sport/football/articles/c62lp6xx6zdo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Project Mbappe - the road to becoming France's record scorer",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Project Mbappe",
+      "France"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Messi equals World Cup goals record with hat-trick in Argentina win",
+    "url": "https://www.bbc.com/sport/football/live/ckg78g6pnyzt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Messi equals World Cup goals record with hat-trick in Argentina win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Messi",
+      "World Cup",
+      "Argentina"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "From tragedy to World Cup history - Iraq scorer Hussein's story",
+    "url": "https://www.bbc.com/sport/football/articles/ckg055dj259o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。From tragedy to World Cup history - Iraq scorer Hussein's story",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "From",
+      "World Cup",
+      "Iraq",
+      "Hussein"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Haaland scores twice on World Cup debut as Norway beat Iraq",
+    "url": "https://www.bbc.com/sport/football/live/cr5j6rn5ng2t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Haaland scores twice on World Cup debut as Norway beat Iraq",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Haaland",
+      "World Cup",
+      "Norway",
+      "Iraq"
+    ]
+  },
+  {
+    "source": "BBC Sport",
     "title": "Iran v Iran in the stands as politics and football intertwine",
     "url": "https://www.bbc.com/sport/football/articles/cvgj1v4pnvyo",
     "category": "match_report",
@@ -15,144 +97,97 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Motherwell's Just scores twice but New Zealand held by Iran",
-    "url": "https://www.bbc.com/sport/football/live/c23yvpljjl9t",
+    "title": "Meet the striker who doesn't score often - but Scotland win when he does",
+    "url": "https://www.bbc.com/sport/football/articles/cvglpml0mgeo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Motherwell's Just scores twice but New Zealand held by Iran",
+    "core_event": "来自 BBC Sport 的赛事报道。Meet the striker who doesn't score often - but Scotland win when he does",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Motherwell",
-      "Just",
-      "New Zealand",
-      "Iran"
+      "Meet",
+      "Scotland"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Belgium come back to draw with Egypt in World Cup",
-    "url": "https://www.bbc.com/sport/football/live/c93275wqzq7t",
+    "title": "Mbappe becomes France's all-time top scorer in win over Senegal",
+    "url": "https://www.bbc.com/sport/football/live/cze9nr5eg2xt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Belgium come back to draw with Egypt in World Cup",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "core_event": "来自 BBC Sport 的赛事报道。Mbappe becomes France's all-time top scorer in win over Senegal",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Belgium",
-      "Egypt",
+      "Mbappe",
+      "France",
+      "Senegal"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Spurs agree £52m Van Hecke deal with Brighton",
+    "url": "https://www.bbc.com/sport/articles/cpwez2pg8x1o",
+    "category": "transfer",
+    "emoji_tag": "⚪",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Spurs agree £52m Van Hecke deal with Brighton",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Spurs",
+      "Van Hecke",
+      "Brighton"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Live . FIFA World Cup 39 minutes 39' Austria Austria 1 Jordan Jordan 0",
+    "url": "https://www.bbc.com/sport/football/live/czde4dj23qmt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Live . FIFA World Cup 39 minutes 39' Austria Austria 1 Jordan Jordan 0",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Live",
+      "World Cup",
+      "Austria Austria",
+      "Jordan Jordan"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Chalobah replaces injured Livramento for World Cup",
+    "url": "https://www.bbc.com/sport/football/articles/c992n95lgrmo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Chalobah replaces injured Livramento for World Cup",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Chalobah",
+      "Livramento",
       "World Cup"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "I'll keep gambling with fitness for England - Saka",
-    "url": "https://www.bbc.com/sport/football/articles/c75y7x9ev9zo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。I'll keep gambling with fitness for England - Saka",
-    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "England",
-      "Saka"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Palace appoint Sage as head coach on three-year deal",
-    "url": "https://www.bbc.com/sport/football/articles/c932k94ggr9o",
+    "title": "Tuchel's England deal includes performance clause",
+    "url": "https://www.bbc.com/sport/football/articles/clye3plyj7xo",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Palace appoint Sage as head coach on three-year deal",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Tuchel's England deal includes performance clause",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Palace",
-      "Sage"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "2,500 passes since Spain's last World Cup goal - key stats as Cape Verde earn point",
-    "url": "https://www.bbc.com/sport/football/articles/czj8egd29y0o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。2,500 passes since Spain's last World Cup goal - key stats as Cape Verde earn point",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Spain",
-      "World Cup",
-      "Cape Verde"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "'Greatest feeling ever': Cape Verdeans tell BBC of joy at holding Spain to draw",
-    "url": "https://www.bbc.com/news/articles/clyer09rd1ro",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。'Greatest feeling ever': Cape Verdeans tell BBC of joy at holding Spain to draw",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Greatest",
-      "Cape Verdeans",
-      "Spain"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Brighton sign defender Costinha from Olympiacos",
-    "url": "https://www.bbc.com/sport/football/articles/c5yzx2kg4dwo",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Brighton sign defender Costinha from Olympiacos",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Brighton",
-      "Costinha",
-      "Olympiacos"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "World Cup debutants Cape Verde earn stunning draw against Spain",
-    "url": "https://www.bbc.com/sport/football/live/cr7xnk3eygxt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。World Cup debutants Cape Verde earn stunning draw against Spain",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "World Cup",
-      "Cape Verde",
-      "Spain"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Amorim agrees to become new AC Milan boss",
-    "url": "https://www.bbc.com/sport/football/articles/cgmd1z1ryv0o",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Amorim agrees to become new AC Milan boss",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
-    "key_players": [
-      "Amorim",
-      "Milan"
+      "Tuchel",
+      "England"
     ]
   },
   {
@@ -169,16 +204,15 @@
   },
   {
     "source": "BBC Sport",
-    "title": "The 20-year-old who stole the show on Scotland's World Cup return",
-    "url": "https://www.bbc.com/sport/football/articles/clyrepwp0gno",
-    "category": "injury",
+    "title": "World Cup hydration breaks - who are the winners and losers?",
+    "url": "https://www.bbc.com/sport/football/articles/c621620wr77o",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。The 20-year-old who stole the show on Scotland's World Cup return",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "core_event": "来自 BBC Sport 的赛事报道。World Cup hydration breaks - who are the winners and losers?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Scotland",
       "World Cup"
     ]
   },
@@ -193,65 +227,6 @@
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "World Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
-    "url": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Sutton",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "What are World Cup's red card suspension rules?",
-    "url": "https://www.bbc.com/sport/football/articles/cd95xz5xndlo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。What are World Cup's red card suspension rules?",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "World Cup"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "In pictures Iran begin disrupted campaign with draw against New Zealand",
-    "url": "https://www.theguardian.com/football/gallery/2026/jun/16/world-cup-2026-iran-new-zealand-in-pictures",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。In pictures Iran begin disrupted campaign with draw against New Zealand",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Iran",
-      "New Zealand"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Bracketology Predict a path to World Cup victory",
-    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Bracketology Predict a path to World Cup victory",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Bracketology Predict",
       "World Cup"
     ]
   },
@@ -271,144 +246,94 @@
   },
   {
     "source": "The Guardian",
-    "title": "Spain 0-0 Cape Verde Debutants hold favourites with historic draw",
-    "url": "https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report",
+    "title": "Bracketology Predict a path to World Cup victory",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Spain 0-0 Cape Verde Debutants hold favourites with historic draw",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Spain",
-      "Cape Verde Debutants"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Duck, duck, goal Bird dressed in Mexico’s World Cup jersey scores on social media",
-    "url": "https://www.theguardian.com/football/2026/jun/15/duck-wearing-mexico-world-cup-jersey-viral",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Duck, duck, goal Bird dressed in Mexico’s World Cup jersey scores on social media",
+    "core_event": "来自 The Guardian 的赛事报道。Bracketology Predict a path to World Cup victory",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Duck",
-      "Bird",
-      "Mexico",
+      "Bracketology Predict",
       "World Cup"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "England Saka says he is gambling on fitness but ‘ready to go’",
-    "url": "https://www.theguardian.com/football/2026/jun/15/bukayo-saka-fitness-gamble-england-world-cup",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。England Saka says he is gambling on fitness but ‘ready to go’",
-    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "England Saka"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Crystal Palace Eagles confirm Sage as head coach and plan to back him on transfers",
-    "url": "https://www.theguardian.com/football/2026/jun/15/crystal-palace-confirm-pierre-sage-head-coach",
+    "title": "Australia Australians can ‘feel and relate’ to Socceroos’ diversity, says Mabil",
+    "url": "https://www.theguardian.com/football/2026/jun/17/australians-relate-to-socceroos-diversity-world-cup-australia-national-team",
     "category": "transfer",
-    "emoji_tag": "💰",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Crystal Palace Eagles confirm Sage as head coach and plan to back him on transfers",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Australia Australians can ‘feel and relate’ to Socceroos’ diversity, says Mabil",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Crystal Palace Eagles",
-      "Sage"
+      "Australia Australians",
+      "Socceroos",
+      "Mabil"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Cape Verde’s Vozinha in tears as cost of visa stopped mother being at Spain draw",
-    "url": "https://www.theguardian.com/football/2026/jun/15/cape-verde-hero-vozinha-in-tears-after-spain-draw-as-cost-of-visa-stopped-his-mother-being-at-game",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Cape Verde’s Vozinha in tears as cost of visa stopped mother being at Spain draw",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Cape Verde",
-      "Vozinha",
-      "Spain"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Iran twice come from behind to claim draw in World Cup opener with New Zealand",
-    "url": "https://www.theguardian.com/football/2026/jun/16/iran-new-zealand-world-cup-2026-group-g-match-report",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Iran twice come from behind to claim draw in World Cup opener with New Zealand",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Iran",
-      "World Cup",
-      "New Zealand"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Cape Verde shock Spain with historic draw on World Cup debut",
-    "url": "https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Cape Verde shock Spain with historic draw on World Cup debut",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Cape Verde",
-      "Spain",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Lukaku makes instant impact to force own goal and rescue draw for Belgium against Egypt",
-    "url": "https://www.theguardian.com/football/2026/jun/15/belgium-egypt-world-cup-2026-group-g-match-report",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Lukaku makes instant impact to force own goal and rescue draw for Belgium against Egypt",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Lukaku",
-      "Belgium",
-      "Egypt"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "World Cup 2026: Fifa urged to remove official over hand gesture; teams hit back at Ceferin; Iran arrive in US – as it happened",
-    "url": "https://www.theguardian.com/football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live",
+    "title": "Iran’s top envoy says peace deal with US dependent on Israel’s withdrawal from Lebanon",
+    "url": "https://www.theguardian.com/world/2026/jun/16/irans-top-envoy-says-peace-deal-with-the-us-dependent-on-israels-withdrawal-from-lebanon",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "【官方】The Guardian 报道此次转会已正式完成。World Cup 2026: Fifa urged to remove official over hand gesture; teams hit back at Ceferin; Iran arrive in US – as it happened",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Iran’s top envoy says peace deal with US dependent on Israel’s withdrawal from Lebanon",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 5,
-    "gossip_label": "官方确认",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "World Cup",
-      "Fifa",
-      "Ceferin",
-      "Iran"
+      "Iran",
+      "Israel",
+      "Lebanon"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "CBS reaches agreement over Stephen Colbert’s use of Peanuts music on The Late Show",
+    "url": "https://www.theguardian.com/us-news/2026/jun/16/cbs-stephen-colbert-peanuts-the-late-show",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。CBS reaches agreement over Stephen Colbert’s use of Peanuts music on The Late Show",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Stephen Colbert",
+      "Peanuts",
+      "The Late Show"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Los Angeles police fatally shoot pet dog of family celebrating Knicks win",
+    "url": "https://www.theguardian.com/us-news/2026/jun/16/los-angeles-police-fatally-shoot-pet-dog-of-family-celebrating-knicks-win",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Los Angeles police fatally shoot pet dog of family celebrating Knicks win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Los Angeles",
+      "Knicks"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Six people injured in New Jersey acid attack involving suspects on a moped",
+    "url": "https://www.theguardian.com/us-news/2026/jun/16/new-jersey-acid-attack",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Six people injured in New Jersey acid attack involving suspects on a moped",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "New Jersey"
     ]
   }
 ]
