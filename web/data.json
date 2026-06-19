@@ -1,226 +1,205 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Diaz helps Colombia beat World Cup debutants Uzbekistan",
-    "url": "https://www.bbc.com/sport/football/live/ced4nx35648t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Diaz helps Colombia beat World Cup debutants Uzbekistan",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "title": "A day of tears, scuffles & history as injury mars Canada's moment",
+    "url": "https://www.bbc.com/sport/football/articles/cly7r1zjmmlo",
+    "category": "injury",
+    "emoji_tag": "🚑",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。A day of tears, scuffles & history as injury mars Canada's moment",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Diaz",
-      "Colombia",
-      "World Cup",
-      "Uzbekistan"
+      "Canada"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Ghana score 95th-minute winner to deny Panama first World Cup point",
-    "url": "https://www.bbc.com/sport/football/live/c9d259zxxn7t",
+    "title": "Sutton's World Cup score predictions - second group games",
+    "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Ghana score 95th-minute winner to deny Panama first World Cup point",
+    "core_event": "来自 BBC Sport 的赛事报道。Sutton's World Cup score predictions - second group games",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Ghana",
-      "Panama",
+      "Sutton",
       "World Cup"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Liverpool trigger winger Munoz's £34.6m release clause",
+    "title": "Hat-trick hero & Swiss wonderkid - World Cup duo set for Premier League?",
+    "url": "https://www.bbc.com/sport/articles/cp8rde9q76do",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Hat-trick hero & Swiss wonderkid - World Cup duo set for Premier League?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Swiss",
+      "World Cup",
+      "Premier League"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Premier League fixtures released at 10:00 BST on Friday",
+    "url": "https://www.bbc.com/sport/football/articles/cde50edgw48o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Premier League fixtures released at 10:00 BST on Friday",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Premier League",
+      "Friday"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Canada thrash nine-man Qatar but Marsch in tears over Kone injury",
+    "url": "https://www.bbc.com/sport/football/live/cgqj0zw4nn9t",
+    "category": "injury",
+    "emoji_tag": "🚑",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Canada thrash nine-man Qatar but Marsch in tears over Kone injury",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Canada",
+      "Qatar",
+      "Marsch",
+      "Kone"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Substitute Manzambi inspires Switzerland to World Cup win over Bosnia",
+    "url": "https://www.bbc.com/sport/football/live/clyxn1d72n7t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Substitute Manzambi inspires Switzerland to World Cup win over Bosnia",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Substitute Manzambi",
+      "Switzerland",
+      "World Cup",
+      "Bosnia"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "South Africa score late from spot to draw with Czech Rep",
+    "url": "https://www.bbc.com/sport/football/live/cp8rk9gwzjnt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。South Africa score late from spot to draw with Czech Rep",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "South Africa",
+      "Czech Rep"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Hydration boos and surprise results - World Cup talking points",
+    "url": "https://www.bbc.com/sport/football/articles/cj6g88ernggo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Hydration boos and surprise results - World Cup talking points",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Hydration",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Working with Postecoglou and following the data - Salford's new boss Cklamovski",
+    "url": "https://www.bbc.com/sport/football/articles/c3dykykz0eno",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Working with Postecoglou and following the data - Salford's new boss Cklamovski",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Working",
+      "Postecoglou",
+      "Salford",
+      "Cklamovski"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Liverpool sign Munoz and offer £86m for Diomande",
     "url": "https://www.bbc.com/sport/football/articles/cdjkl44yrg3o",
     "category": "transfer",
     "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Liverpool trigger winger Munoz's £34.6m release clause",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Liverpool sign Munoz and offer £86m for Diomande",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
       "Liverpool",
-      "Munoz"
+      "Munoz",
+      "Diomande"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Tottenham sign Scotland forward Hanson from Villa",
-    "url": "https://www.bbc.com/sport/football/articles/cvgqrr8wknxo",
+    "title": "Messi's father dealing with 'health-related situation'",
+    "url": "https://www.bbc.com/sport/football/articles/c1wy33x389no",
     "category": "transfer",
-    "emoji_tag": "⚪",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Tottenham sign Scotland forward Hanson from Villa",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Messi's father dealing with 'health-related situation'",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Tottenham",
-      "Scotland",
-      "Hanson",
-      "Villa"
+      "Messi"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Clichy on Mbappe, Henderson and France 2010. Audio, 42 minutes Clichy on Mbappe, Henderson and France 2010",
-    "url": "https://www.bbc.com/sounds/play/p0nsj01f",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Clichy on Mbappe, Henderson and France 2010. Audio, 42 minutes Clichy on Mbappe, Henderson and France 2010",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "title": "Arsenal's first bid for Monga rejected - Friday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/c3ey5155309o",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Arsenal's first bid for Monga rejected - Friday's gossip",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "Clichy",
-      "Mbappe",
-      "Henderson",
-      "France"
+      "Arsenal",
+      "Monga",
+      "Friday"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "From tragedy to World Cup history - Iraq scorer Hussein's story",
-    "url": "https://www.bbc.com/sport/football/articles/ckg055dj259o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。From tragedy to World Cup history - Iraq scorer Hussein's story",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "From",
-      "World Cup",
-      "Iraq",
-      "Hussein"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Meet the striker who doesn't score often - but Scotland win when he does",
-    "url": "https://www.bbc.com/sport/football/articles/cvglpml0mgeo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Meet the striker who doesn't score often - but Scotland win when he does",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Meet",
-      "Scotland"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Messi equals World Cup goals record with hat-trick in Argentina win",
-    "url": "https://www.bbc.com/sport/football/live/ckg78g6pnyzt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Messi equals World Cup goals record with hat-trick in Argentina win",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Messi",
-      "World Cup",
-      "Argentina"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Spurs agree £52m Van Hecke deal with Brighton",
-    "url": "https://www.bbc.com/sport/articles/cpwez2pg8x1o",
+    "title": "Spurs complete £52m Van Hecke signing from Brighton",
+    "url": "https://www.bbc.com/sport/football/articles/cgqj33gq21jo",
     "category": "transfer",
     "emoji_tag": "⚪",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Spurs agree £52m Van Hecke deal with Brighton",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Spurs complete £52m Van Hecke signing from Brighton",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
       "Spurs",
       "Van Hecke",
       "Brighton"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Cape Verde goalkeeper set to be reunited with his mum",
-    "url": "https://www.bbc.com/sport/football/articles/cgjxlpxxp6wo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Cape Verde goalkeeper set to be reunited with his mum",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Cape Verde"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Kane and Bellingham star as England outshine Croatia in thriller",
-    "url": "https://www.bbc.com/sport/football/live/cp36z3qpzrxt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Kane and Bellingham star as England outshine Croatia in thriller",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Kane",
-      "Bellingham",
-      "England",
-      "Croatia"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Man Utd & Spurs move for Summerville - Thursday's gossip",
-    "url": "https://www.bbc.com/sport/football/articles/cwyknx34n7ko",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man Utd & Spurs move for Summerville - Thursday's gossip",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Man Utd",
-      "Spurs",
-      "Summerville",
-      "Thursday"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Real Madrid sign Silva on free after Man City exit",
-    "url": "https://www.bbc.com/sport/football/articles/c2lyzp49q0xo",
-    "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Real Madrid sign Silva on free after Man City exit",
-    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Real Madrid",
-      "Silva",
-      "Man City"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Scottish Premiership fixture release - all you need to know",
-    "url": "https://www.bbc.com/sport/football/articles/cq810gqe708o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Scottish Premiership fixture release - all you need to know",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Scottish Premiership"
     ]
   },
   {
@@ -236,211 +215,187 @@
     "key_players": []
   },
   {
-    "source": "The Guardian",
-    "title": "Jude Bellingham puts England in front for a third time England players celebrate with fans after the game Petar Musa wheels away to celebrate and Croatia make it 2-2 Harry Kane scores his second to put England ahead again Martin Baturina equalises for Croatia and Ivan Perisic leaps over him Harry Kane opens the scoring at the second time of asking from the spot Joy for England and relief for Harry Kane after their early goal England supporters making themselves heard at the game Harry Kane acknowledges the England fans after the win",
-    "url": "https://www.theguardian.com/football/2026/jun/17/england-croatia-world-cup-2026-group-l-match-report",
+    "source": "BBC Sport",
+    "title": "Project Mbappe - the road to becoming France's record scorer",
+    "url": "https://www.bbc.com/sport/football/articles/c62lp6xx6zdo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Jude Bellingham puts England in front for a third time England players celebrate with fans after the game Petar Musa wheels away to celebrate and Croatia make it 2-2 Harry Kane scores his second to put England ahead again Martin Baturina equalises for Croatia and Ivan Perisic leaps over him Harry Kane opens the scoring at the second time of asking from the spot Joy for England and relief for Harry Kane after their early goal England supporters making themselves heard at the game Harry Kane acknowledges the England fans after the win",
+    "core_event": "来自 BBC Sport 的赛事报道。Project Mbappe - the road to becoming France's record scorer",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Jude Bellingham",
-      "England",
-      "Petar Musa",
-      "Croatia"
+      "Project Mbappe",
+      "France"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "'We went full gas' Kane reveals half-time Tuchel speech inspired victory",
-    "url": "https://www.theguardian.com/football/2026/jun/18/harry-kane-england-croatia-inspired-thomas-tuchel-speech",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。'We went full gas' Kane reveals half-time Tuchel speech inspired victory",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Kane",
-      "Tuchel"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Australia As USA barbs fly, Socceroos get motivated to have the final word",
-    "url": "https://www.theguardian.com/football/2026/jun/18/usa-usmnt-barbs-australia-socceroos-world-cup-group-d-match",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Australia As USA barbs fly, Socceroos get motivated to have the final word",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Australia As",
-      "Socceroos"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Canada Marsch bullish before Qatar match as Davies prepares to return",
-    "url": "https://www.theguardian.com/football/2026/jun/17/canada-qatar-world-cup-team-news-alphonso-davies",
+    "title": "‘We have a job to finish for him’ Emotions run high after gruesome Koné injury",
+    "url": "https://www.theguardian.com/football/2026/jun/18/ismael-kone-injury-reaction-canada",
     "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Canada Marsch bullish before Qatar match as Davies prepares to return",
+    "emoji_tag": "🚑",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。‘We have a job to finish for him’ Emotions run high after gruesome Koné injury",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Canada Marsch",
+      "Emotions",
+      "Koné"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Golden Boot Keep up with the tournament top scorers, updated live",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Golden Boot Keep up with the tournament top scorers, updated live",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Golden Boot Keep"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Bracketology Predict a path to World Cup victory",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Bracketology Predict a path to World Cup victory",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Bracketology Predict",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Transfer latest Tottenham complete £52m Van Hecke signing as De Zerbi focuses on defence",
+    "url": "https://www.theguardian.com/football/2026/jun/18/tottenham-52m-van-hecke-de-zerbi-defence",
+    "category": "transfer",
+    "emoji_tag": "⚪",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Transfer latest Tottenham complete £52m Van Hecke signing as De Zerbi focuses on defence",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Transfer",
+      "Tottenham",
+      "Van Hecke",
+      "De Zerbi"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Canada rout nine-man Qatar but Koné injury sours first-ever World Cup win",
+    "url": "https://www.theguardian.com/football/2026/jun/18/canada-qatar-world-cup-2026-group-b-match-report",
+    "category": "match_report",
+    "emoji_tag": "🚑",
+    "core_event": "来自 The Guardian 的赛事报道。Canada rout nine-man Qatar but Koné injury sours first-ever World Cup win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Canada",
       "Qatar",
-      "Davies"
+      "Koné",
+      "World Cup"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Men's transfer interactive All the latest deals from Europe’s top five leagues",
-    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Men's transfer interactive All the latest deals from Europe’s top five leagues",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Europe"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "England surge to thrilling opening win in World Cup cracker with Croatia",
-    "url": "https://www.theguardian.com/football/2026/jun/17/england-croatia-world-cup-2026-group-l-match-report",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。England surge to thrilling opening win in World Cup cracker with Croatia",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "England",
-      "World Cup",
-      "Croatia"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Harry Kane reveals half-time Tuchel pep-talk inspired England to victory over Croatia",
-    "url": "https://www.theguardian.com/football/2026/jun/18/harry-kane-england-croatia-inspired-thomas-tuchel-speech",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Harry Kane reveals half-time Tuchel pep-talk inspired England to victory over Croatia",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Harry Kane",
-      "Tuchel",
-      "England",
-      "Croatia"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Ghana grab vital World Cup victory over Panama after Caleb Yirenkyi’s last-gasp goal",
-    "url": "https://www.theguardian.com/football/2026/jun/18/ghana-panama-world-cup-2026-match-report-group-l",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Ghana grab vital World Cup victory over Panama after Caleb Yirenkyi’s last-gasp goal",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Ghana",
-      "World Cup",
-      "Panama",
-      "Caleb Yirenkyi"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Yoane Wissa gives DR Congo first ever World Cup point in draw with Portugal",
-    "url": "https://www.theguardian.com/football/2026/jun/17/portugal-dr-congo-world-cup-2026-group-k-match-report",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Yoane Wissa gives DR Congo first ever World Cup point in draw with Portugal",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Yoane Wissa",
-      "Congo",
-      "World Cup",
-      "Portugal"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Mississippi officer put on leave after killing baby in car outside Walmart",
-    "url": "https://www.theguardian.com/us-news/2026/jun/17/mississippi-police-walmart-shooting",
+    "title": "Canada’s emotions run high after gruesome Ismaël Koné injury: ‘We have a job to finish for him’",
+    "url": "https://www.theguardian.com/football/2026/jun/18/ismael-kone-injury-reaction-canada",
     "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Mississippi officer put on leave after killing baby in car outside Walmart",
+    "emoji_tag": "🚑",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Canada’s emotions run high after gruesome Ismaël Koné injury: ‘We have a job to finish for him’",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Mississippi",
-      "Walmart"
+      "Canada",
+      "Koné"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "US-Iran deal takeaways: reopening the strait of Hormuz, waived oil sanctions and Lebanon",
-    "url": "https://www.theguardian.com/world/2026/jun/17/us-iran-deal-trump",
+    "title": "South Korea howler gifts Mexico victory as World Cup co-hosts reach knockout phase",
+    "url": "https://www.theguardian.com/football/2026/jun/19/mexico-south-korea-world-cup-2026-group-a-match-report",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。South Korea howler gifts Mexico victory as World Cup co-hosts reach knockout phase",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "South Korea",
+      "Mexico",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "England finally exorcise the Southgate era and unleash fun football",
+    "url": "https://www.theguardian.com/football/2026/jun/18/england-thomas-tuchel-gareth-southgate-2026-world-cup-croatia",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。England finally exorcise the Southgate era and unleash fun football",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "England",
+      "Southgate"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Lionel Messi’s family ask for ‘humanity’ as his father receives medical treatment",
+    "url": "https://www.theguardian.com/football/2026/jun/18/lionel-messi-father-receives-medical-treatment-argentina-world-cup",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。US-Iran deal takeaways: reopening the strait of Hormuz, waived oil sanctions and Lebanon",
+    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。Lionel Messi’s family ask for ‘humanity’ as his father receives medical treatment",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Lionel Messi"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Iran announces plans to bring in maritime fees for strait of Hormuz",
+    "url": "https://www.theguardian.com/world/2026/jun/18/iran-announces-plans-to-bring-in-maritime-fees-for-strait-of-hormuz",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "【官方】The Guardian 报道此次转会已正式完成。Iran announces plans to bring in maritime fees for strait of Hormuz",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
     "key_players": [
       "Iran",
-      "Hormuz",
-      "Lebanon"
+      "Hormuz"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Top Republican decries Trump’s Iran deal: ‘Reagan is rolling over in his grave’",
-    "url": "https://www.theguardian.com/us-news/2026/jun/17/trump-republicans-iran-deal",
+    "title": "Ben Jennings on Trump’s ceasefire deal with Iran – cartoon",
+    "url": "https://www.theguardian.com/commentisfree/picture/2026/jun/18/ben-jennings-donald-trump-ceasefire-deal-iran-cartoon",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Top Republican decries Trump’s Iran deal: ‘Reagan is rolling over in his grave’",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Ben Jennings on Trump’s ceasefire deal with Iran – cartoon",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Top Republican",
+      "Ben Jennings",
       "Trump",
-      "Iran",
-      "Reagan"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Ukraine war briefing: Allies give nod for Kyiv to reproduce their air-defence missiles",
-    "url": "https://www.theguardian.com/world/2026/jun/18/ukraine-war-briefing-allies-give-nod-for-kyiv-to-reproduce-their-air-defence-missiles",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Ukraine war briefing: Allies give nod for Kyiv to reproduce their air-defence missiles",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Ukraine",
-      "Allies",
-      "Kyiv"
+      "Iran"
     ]
   }
 ]
