@@ -1,19 +1,60 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Live . Paraguay beating Turkey but Almiron sent off for covering mouth in confrontation",
-    "url": "https://www.bbc.com/sport/football/live/c2kyg22l2n7t",
+    "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+    "url": "https://www.bbc.com/sport/football/articles/cvglnkw1l93o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Live . Paraguay beating Turkey but Almiron sent off for covering mouth in confrontation",
+    "core_event": "来自 BBC Sport 的赛事报道。Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Live",
-      "Paraguay",
-      "Turkey",
-      "Almiron"
+      "Fastest World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Rice feels like he will get an assist at every corner",
+    "url": "https://www.bbc.com/sport/football/articles/cj6g1dnr12yo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Rice feels like he will get an assist at every corner",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Rice"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Newcastle reject Spurs bid of about £80m for Tonali",
+    "url": "https://www.bbc.com/sport/football/articles/cy4en7q3j77o",
+    "category": "transfer",
+    "emoji_tag": "⚪",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Newcastle reject Spurs bid of about £80m for Tonali",
+    "tactical_financial_impact": "本次转会金额巨大，将对俱乐部的财政健康和 FFP 合规性构成压力。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Newcastle",
+      "Spurs",
+      "Tonali"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "The Super Bowl winner's son stepping into spotlight with USA",
+    "url": "https://www.bbc.com/sport/football/articles/ckg4qvedjkwo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。The Super Bowl winner's son stepping into spotlight with USA",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "The Super Bowl"
     ]
   },
   {
@@ -34,94 +75,134 @@
   },
   {
     "source": "BBC Sport",
-    "title": "The Super Bowl winner's son stepping into spotlight with USA",
-    "url": "https://www.bbc.com/sport/football/articles/ckg4qvedjkwo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。The Super Bowl winner's son stepping into spotlight with USA",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "The Super Bowl"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "England winger Saka unlikely to start against Ghana",
-    "url": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。England winger Saka unlikely to start against Ghana",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "England",
-      "Saka",
-      "Ghana"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Uzbeks to beat DR Congo? The reality of Scotland's qualification mental gymnastics",
-    "url": "https://www.bbc.com/sport/football/articles/cdejzn507ryo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Uzbeks to beat DR Congo? The reality of Scotland's qualification mental gymnastics",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Uzbeks",
-      "Congo",
-      "Scotland"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "More than the Score. World Cup 2026: Why Haiti v Brazil is more than just another game. Audio, 20 minutes More than the Score World Cup 2026: Why Haiti v Brazil is more than just another game",
-    "url": "https://www.bbc.com/sounds/play/p0nsyqhb",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。More than the Score. World Cup 2026: Why Haiti v Brazil is more than just another game. Audio, 20 minutes More than the Score World Cup 2026: Why Haiti v Brazil is more than just another game",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "More",
-      "Score",
-      "World Cup",
-      "Why Haiti"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Burnley target Bellamy in managerial hunt",
-    "url": "https://www.bbc.com/sport/football/articles/c33yz0nxj8do",
+    "title": "Chelsea weigh up Wirtz move - Sunday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/c9924mxedgno",
     "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Burnley target Bellamy in managerial hunt",
+    "emoji_tag": "🔵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Chelsea weigh up Wirtz move - Sunday's gossip",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Burnley",
-      "Bellamy"
+      "Chelsea",
+      "Wirtz",
+      "Sunday"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Fifa bans football club's submarine badge on flag",
-    "url": "https://www.bbc.com/news/articles/cpwe7p7z0p1o",
+    "title": "Doku criticised over plan to return home for birth",
+    "url": "https://www.bbc.com/sport/football/articles/c74ywv08ylpo",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Fifa bans football club's submarine badge on flag",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Doku criticised over plan to return home for birth",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Fifa"
+      "Doku"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Substitute Undav scores twice as Germany reach last 32 with comeback win",
+    "url": "https://www.bbc.com/sport/football/live/cn8q9pp0p94t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Substitute Undav scores twice as Germany reach last 32 with comeback win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Substitute Undav",
+      "Germany"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Referee told McGinn penalty denied as ball going out of play",
+    "url": "https://www.bbc.com/sport/articles/cx26jxl2gyno",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Referee told McGinn penalty denied as ball going out of play",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Referee"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Live . FIFA World Cup 45 minutes plus 1 45'+1 Tunisia Tunisia 0 Japan Japan 2",
+    "url": "https://www.bbc.com/sport/football/live/cy498e713k7t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Live . FIFA World Cup 45 minutes plus 1 45'+1 Tunisia Tunisia 0 Japan Japan 2",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Live",
+      "World Cup",
+      "Tunisia Tunisia",
+      "Japan Japan"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "The summer a golden generation lost its shine",
+    "url": "https://www.bbc.com/sport/extra/60s97qhdbf/the-golden-generation",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。The summer a golden generation lost its shine",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": []
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Sutton's World Cup score predictions - second group games",
+    "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Sutton's World Cup score predictions - second group games",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Sutton",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "What are World Cup's red card suspension rules?",
+    "url": "https://www.bbc.com/sport/football/articles/cd95xz5xndlo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。What are World Cup's red card suspension rules?",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Nearly man McInnes finally has Rangers job he really always wanted",
+    "url": "https://www.bbc.com/sport/football/articles/cdx7gq4wk1qo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Nearly man McInnes finally has Rangers job he really always wanted",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Nearly",
+      "Rangers"
     ]
   },
   {
@@ -141,129 +222,6 @@
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Liverpool sign Munoz and offer £86m for Diomande",
-    "url": "https://www.bbc.com/sport/football/articles/cdjkl44yrg3o",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Liverpool sign Munoz and offer £86m for Diomande",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Liverpool",
-      "Munoz",
-      "Diomande"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "The Wayne Rooney Show. Tim Cahill On The World Cup That Changed Everything. Audio, 30 minutes The Wayne Rooney Show Tim Cahill On The World Cup That Changed Everything",
-    "url": "https://www.bbc.com/sounds/play/p0nsz8dv",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。The Wayne Rooney Show. Tim Cahill On The World Cup That Changed Everything. Audio, 30 minutes The Wayne Rooney Show Tim Cahill On The World Cup That Changed Everything",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "The Wayne Rooney",
-      "Show",
-      "Tim Cahill On",
-      "The World Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Lampard & Coventry hold positive talks over new deal",
-    "url": "https://www.bbc.com/sport/football/articles/cwy06qvwlj2o",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Lampard & Coventry hold positive talks over new deal",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Lampard",
-      "Coventry"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Canada's Kone grateful for support after surgery",
-    "url": "https://www.bbc.com/sport/football/articles/cql12n692rwo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Canada's Kone grateful for support after surgery",
-    "tactical_financial_impact": "长期缺阵将迫使主帅调整主力阵容，考验替补球员的临场发挥。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Canada",
-      "Kone"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Premier League fixtures - find out your club's schedule",
-    "url": "https://www.bbc.com/sport/football/articles/cvg5d793d1no",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Premier League fixtures - find out your club's schedule",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Premier League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Sutton's World Cup score predictions - second group games",
-    "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Sutton's World Cup score predictions - second group games",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Sutton",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "‘Morocco got away with one there’ Scotland rue ‘50/50’ penalty calls in defeat",
-    "url": "https://www.theguardian.com/football/2026/jun/20/scotland-morocco-world-cup-reaction",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。‘Morocco got away with one there’ Scotland rue ‘50/50’ penalty calls in defeat",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Morocco",
-      "Scotland"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Paul MacInnes Defeat offers new US friends quick lesson and tour of the Scottish psyche",
-    "url": "https://www.theguardian.com/football/2026/jun/20/scotland-world-cup-defeat-morocco-us-friends",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Paul MacInnes Defeat offers new US friends quick lesson and tour of the Scottish psyche",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Paul",
-      "Defeat",
-      "Scottish"
-    ]
-  },
-  {
     "source": "The Guardian",
     "title": "Bracketology Predict a path to World Cup victory",
     "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
@@ -276,49 +234,6 @@
     "key_players": [
       "Bracketology Predict",
       "World Cup"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Argentina Argentinian TV host resigns after falsely reporting death of Messi’s father",
-    "url": "https://www.theguardian.com/football/2026/jun/19/argentina-tv-host-resigns-falsely-reporting-death-jorge-messi",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "【官方】The Guardian 报道此次转会已正式完成。Argentina Argentinian TV host resigns after falsely reporting death of Messi’s father",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 5,
-    "gossip_label": "官方确认",
-    "key_players": [
-      "Argentina Argentinian",
-      "Messi"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "As it happened Read John Brewin's MBM report",
-    "url": "https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-brazil-v-haiti-updates-bra-vs-hai-group-c-match-score-latest",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。As it happened Read John Brewin's MBM report",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Read John Brewin"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Reaction Socceroos aggrieved by referee’s ‘stinker’ in defeat to USA",
-    "url": "https://www.theguardian.com/football/2026/jun/20/socceroos-usa-world-cup-group-d-reaction-australia-still-belive",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Reaction Socceroos aggrieved by referee’s ‘stinker’ in defeat to USA",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Reaction Socceroos"
     ]
   },
   {
@@ -337,93 +252,76 @@
   },
   {
     "source": "The Guardian",
-    "title": "Moving the Goalposts Our women's football newsletter",
-    "url": "https://www.theguardian.com/football/series/moving-the-goalposts",
+    "title": "David Raya ‘When you lose a Champions League final it destroys you inside’",
+    "url": "https://www.theguardian.com/football/2026/jun/20/david-raya-when-you-lose-a-champions-league-final-it-destroys-you-inside",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Moving the Goalposts Our women's football newsletter",
+    "core_event": "来自 The Guardian 的赛事报道。David Raya ‘When you lose a Champions League final it destroys you inside’",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Moving",
-      "Goalposts Our"
+      "David Raya",
+      "Champions League"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Interactive Men’s transfer window: all deals from Europe’s top five leagues",
-    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Interactive Men’s transfer window: all deals from Europe’s top five leagues",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Interactive Men",
-      "Europe"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "USA surge into World Cup knockout stage after dominant victory over Socceroos",
-    "url": "https://www.theguardian.com/football/2026/jun/19/usa-australia-world-cup-2026-group-d-match-report",
+    "title": "Deniz Undav’s double earns Germany dramatic late win against Côte d’Ivoire",
+    "url": "https://www.theguardian.com/football/2026/jun/20/germany-cote-divoire-group-e-match-report",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。USA surge into World Cup knockout stage after dominant victory over Socceroos",
+    "core_event": "来自 The Guardian 的赛事报道。Deniz Undav’s double earns Germany dramatic late win against Côte d’Ivoire",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "World Cup",
-      "Socceroos"
+      "Deniz Undav",
+      "Germany",
+      "Ivoire"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Socceroos aggrieved by referee’s ‘stinker’ in World Cup defeat to USA",
-    "url": "https://www.theguardian.com/football/2026/jun/20/socceroos-usa-world-cup-group-d-reaction-australia-still-belive",
+    "title": "No Pulisic, no problem: how the USA learned to win without their star player",
+    "url": "https://www.theguardian.com/football/2026/jun/20/no-pulisic-no-problem-how-the-us-learned-to-win-without-their-star-player",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Socceroos aggrieved by referee’s ‘stinker’ in World Cup defeat to USA",
+    "core_event": "来自 The Guardian 的赛事报道。No Pulisic, no problem: how the USA learned to win without their star player",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Socceroos",
-      "World Cup"
+      "No Pulisic"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "World Cup defeat offers new US friends a quick lesson and tour of the Scottish psyche",
-    "url": "https://www.theguardian.com/football/2026/jun/20/scotland-world-cup-defeat-morocco-us-friends",
-    "category": "match_report",
+    "title": "The moment I knew: At the arrivals hall I was overcome with doubt. Then I saw him waiting, holding a red rose",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/jun/21/moment-i-knew-arrivals-hall-mexico-red-rose",
+    "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。World Cup defeat offers new US friends a quick lesson and tour of the Scottish psyche",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。The moment I knew: At the arrivals hall I was overcome with doubt. Then I saw him waiting, holding a red rose",
+    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "World Cup",
-      "Scottish"
+      "Then"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Trump unveils new Air Force One, a converted Qatari 747",
-    "url": "https://www.theguardian.com/us-news/2026/jun/19/trump-air-force-one-qatar",
+    "title": "Trump loyalist Jim Jordan linked to group that received ‘dark money’ from ICE detention contractor",
+    "url": "https://www.theguardian.com/us-news/2026/jun/20/jim-jordan-super-pac-ice-donation",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Trump unveils new Air Force One, a converted Qatari 747",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Trump loyalist Jim Jordan linked to group that received ‘dark money’ from ICE detention contractor",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
       "Trump",
-      "Air Force One",
-      "Qatari"
+      "Jim Jordan"
     ]
   }
 ]
