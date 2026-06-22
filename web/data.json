@@ -1,30 +1,144 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
-    "url": "https://www.bbc.com/sport/football/articles/cvglnkw1l93o",
+    "title": "Salah's World Cup nightmare ends as he fires Egypt to historic win",
+    "url": "https://www.bbc.com/sport/football/articles/c17yn5y977yo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+    "core_event": "来自 BBC Sport 的赛事报道。Salah's World Cup nightmare ends as he fires Egypt to historic win",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Fastest World Cup"
+      "Salah",
+      "World Cup",
+      "Egypt"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Rice feels like he will get an assist at every corner",
-    "url": "https://www.bbc.com/sport/football/articles/cj6g1dnr12yo",
+    "title": "Salah helps Egypt beat New Zealand to end 92-year wait for World Cup win",
+    "url": "https://www.bbc.com/sport/football/live/cjrg7wz1er7t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Salah helps Egypt beat New Zealand to end 92-year wait for World Cup win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Salah",
+      "Egypt",
+      "New Zealand",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Belgium show further signs of decline in draw with Iran",
+    "url": "https://www.bbc.com/sport/football/live/clyr5n2xqd2t",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Rice feels like he will get an assist at every corner",
+    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Belgium show further signs of decline in draw with Iran",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
+    "key_players": [
+      "Belgium",
+      "Iran"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Cape Verde continue remarkable World Cup story with Uruguay draw",
+    "url": "https://www.bbc.com/sport/football/live/cz9l5yg0885t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Cape Verde continue remarkable World Cup story with Uruguay draw",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Cape Verde",
+      "World Cup",
+      "Uruguay"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Lamine Yamal scores first World Cup goal as Spain thrash Saudi Arabia",
+    "url": "https://www.bbc.com/sport/football/live/c1eyg6lq5wvt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Lamine Yamal scores first World Cup goal as Spain thrash Saudi Arabia",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Lamine Yamal",
+      "World Cup",
+      "Spain",
+      "Saudi Arabia"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Unbeaten Iran will go down in history - Ghalenoei",
+    "url": "https://www.bbc.com/sport/football/articles/cx237pe074go",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Unbeaten Iran will go down in history - Ghalenoei",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Unbeaten Iran",
+      "Ghalenoei"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Liverpool reject £21.7m Inter Milan offer for Jones",
+    "url": "https://www.bbc.com/sport/football/articles/cwy05x9gldyo",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Liverpool reject £21.7m Inter Milan offer for Jones",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Rice"
+      "Liverpool",
+      "Inter Milan",
+      "Jones"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Doku criticised over plan to return home for birth",
+    "url": "https://www.bbc.com/sport/football/articles/c74ywv08ylpo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Doku criticised over plan to return home for birth",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Doku"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Tunisia out of World Cup after thumping defeat by Japan",
+    "url": "https://www.bbc.com/sport/football/live/cy498e713k7t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Tunisia out of World Cup after thumping defeat by Japan",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Tunisia",
+      "World Cup",
+      "Japan"
     ]
   },
   {
@@ -45,6 +159,18 @@
   },
   {
     "source": "BBC Sport",
+    "title": "The summer a golden generation lost its shine",
+    "url": "https://www.bbc.com/sport/extra/60s97qhdbf/the-golden-generation",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。The summer a golden generation lost its shine",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": []
+  },
+  {
+    "source": "BBC Sport",
     "title": "The Super Bowl winner's son stepping into spotlight with USA",
     "url": "https://www.bbc.com/sport/football/articles/ckg4qvedjkwo",
     "category": "match_report",
@@ -56,110 +182,6 @@
     "key_players": [
       "The Super Bowl"
     ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Scotland's World Cup knockout hopes remain alive despite Morocco defeat",
-    "url": "https://www.bbc.com/sport/football/live/crr8dw70x51t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Scotland's World Cup knockout hopes remain alive despite Morocco defeat",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Scotland",
-      "World Cup",
-      "Morocco"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Chelsea weigh up Wirtz move - Sunday's gossip",
-    "url": "https://www.bbc.com/sport/football/articles/c9924mxedgno",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Chelsea weigh up Wirtz move - Sunday's gossip",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Chelsea",
-      "Wirtz",
-      "Sunday"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Doku criticised over plan to return home for birth",
-    "url": "https://www.bbc.com/sport/football/articles/c74ywv08ylpo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Doku criticised over plan to return home for birth",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Doku"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Substitute Undav scores twice as Germany reach last 32 with comeback win",
-    "url": "https://www.bbc.com/sport/football/live/cn8q9pp0p94t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Substitute Undav scores twice as Germany reach last 32 with comeback win",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Substitute Undav",
-      "Germany"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Referee told McGinn penalty denied as ball going out of play",
-    "url": "https://www.bbc.com/sport/articles/cx26jxl2gyno",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Referee told McGinn penalty denied as ball going out of play",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Referee"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Live . FIFA World Cup 45 minutes plus 1 45'+1 Tunisia Tunisia 0 Japan Japan 2",
-    "url": "https://www.bbc.com/sport/football/live/cy498e713k7t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Live . FIFA World Cup 45 minutes plus 1 45'+1 Tunisia Tunisia 0 Japan Japan 2",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Live",
-      "World Cup",
-      "Tunisia Tunisia",
-      "Japan Japan"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "The summer a golden generation lost its shine",
-    "url": "https://www.bbc.com/sport/extra/60s97qhdbf/the-golden-generation",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。The summer a golden generation lost its shine",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": []
   },
   {
     "source": "BBC Sport",
@@ -192,21 +214,6 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Nearly man McInnes finally has Rangers job he really always wanted",
-    "url": "https://www.bbc.com/sport/football/articles/cdx7gq4wk1qo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Nearly man McInnes finally has Rangers job he really always wanted",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Nearly",
-      "Rangers"
-    ]
-  },
-  {
-    "source": "BBC Sport",
     "title": "London City Lionesses sign ex-England keeper Earps",
     "url": "https://www.bbc.com/sport/football/articles/c8x2jjyl5kqo",
     "category": "transfer",
@@ -223,17 +230,33 @@
   },
   {
     "source": "The Guardian",
-    "title": "Bracketology Predict a path to World Cup victory",
-    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
+    "title": "Group H Lamine Yamal and Oyarzabal fire Spain to 4-0 win over Saudi Arabia",
+    "url": "https://www.theguardian.com/football/2026/jun/21/spain-saudi-arabia-world-cup-group-h-match-report",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Bracketology Predict a path to World Cup victory",
+    "core_event": "来自 The Guardian 的赛事报道。Group H Lamine Yamal and Oyarzabal fire Spain to 4-0 win over Saudi Arabia",
+    "tactical_financial_impact": "大比分差距清晰揭示了两队实力分野，失利方需重审战术部署。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Group",
+      "Lamine Yamal",
+      "Oyarzabal",
+      "Spain"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Record-breakers All-time greatest: who is the highest goalscorer in tournament history?",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Record-breakers All-time greatest: who is the highest goalscorer in tournament history?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Bracketology Predict",
-      "World Cup"
+      "Record"
     ]
   },
   {
@@ -252,76 +275,110 @@
   },
   {
     "source": "The Guardian",
-    "title": "David Raya ‘When you lose a Champions League final it destroys you inside’",
-    "url": "https://www.theguardian.com/football/2026/jun/20/david-raya-when-you-lose-a-champions-league-final-it-destroys-you-inside",
+    "title": "Cape Verde produce another World Cup shock as Varela strike seals Uruguay draw",
+    "url": "https://www.theguardian.com/football/2026/jun/22/cape-verde-uruguay-world-cup-group-h-match-report",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。David Raya ‘When you lose a Champions League final it destroys you inside’",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "来自 The Guardian 的赛事报道。Cape Verde produce another World Cup shock as Varela strike seals Uruguay draw",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "David Raya",
-      "Champions League"
+      "Cape Verde",
+      "World Cup",
+      "Varela",
+      "Uruguay"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Deniz Undav’s double earns Germany dramatic late win against Côte d’Ivoire",
-    "url": "https://www.theguardian.com/football/2026/jun/20/germany-cote-divoire-group-e-match-report",
+    "title": "Egypt claim their first World Cup win after roaring from behind to beat New Zealand",
+    "url": "https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Deniz Undav’s double earns Germany dramatic late win against Côte d’Ivoire",
+    "core_event": "来自 The Guardian 的赛事报道。Egypt claim their first World Cup win after roaring from behind to beat New Zealand",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Deniz Undav",
-      "Germany",
-      "Ivoire"
+      "Egypt",
+      "World Cup",
+      "New Zealand"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "No Pulisic, no problem: how the USA learned to win without their star player",
-    "url": "https://www.theguardian.com/football/2026/jun/20/no-pulisic-no-problem-how-the-us-learned-to-win-without-their-star-player",
+    "title": "Iran’s Beiranvand denies 10-man Belgium in World Cup draw as Nathan Ngoy sees red",
+    "url": "https://www.theguardian.com/football/2026/jun/21/belgium-iran-world-cup-group-g-match-report",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。No Pulisic, no problem: how the USA learned to win without their star player",
+    "core_event": "来自 The Guardian 的赛事报道。Iran’s Beiranvand denies 10-man Belgium in World Cup draw as Nathan Ngoy sees red",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Iran",
+      "Beiranvand",
+      "Belgium",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Bracketology: predict a path to World Cup victory",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Bracketology: predict a path to World Cup victory",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "No Pulisic"
+      "Bracketology",
+      "World Cup"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "The moment I knew: At the arrivals hall I was overcome with doubt. Then I saw him waiting, holding a red rose",
-    "url": "https://www.theguardian.com/lifeandstyle/2026/jun/21/moment-i-knew-arrivals-hall-mexico-red-rose",
+    "title": "Declan Rice reveals he has played through hamstring nerve pain for six months",
+    "url": "https://www.theguardian.com/football/2026/jun/21/england-declan-rice-hamstring-nerve-pain-arsenal-schedule-world-cup",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。The moment I knew: At the arrivals hall I was overcome with doubt. Then I saw him waiting, holding a red rose",
-    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Declan Rice reveals he has played through hamstring nerve pain for six months",
+    "tactical_financial_impact": "长期缺阵将迫使主帅调整主力阵容，考验替补球员的临场发挥。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Then"
+      "Declan Rice"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Trump loyalist Jim Jordan linked to group that received ‘dark money’ from ICE detention contractor",
-    "url": "https://www.theguardian.com/us-news/2026/jun/20/jim-jordan-super-pac-ice-donation",
+    "title": "‘We want a new Albania’: protests against Jared Kushner-backed resort turn anger on government",
+    "url": "https://www.theguardian.com/world/2026/jun/22/albania-protests-jared-kushner-ivanka-trump-resort-sazan-island-anger-government",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。‘We want a new Albania’: protests against Jared Kushner-backed resort turn anger on government",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Albania",
+      "Jared Kushner"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Far-right millionaire wins Colombia’s razor-tight presidential election",
+    "url": "https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Trump loyalist Jim Jordan linked to group that received ‘dark money’ from ICE detention contractor",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Far-right millionaire wins Colombia’s razor-tight presidential election",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Trump",
-      "Jim Jordan"
+      "Colombia"
     ]
   }
 ]
