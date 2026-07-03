@@ -1,244 +1,264 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Latest ever winner, comeback and controversy - Senegal's remarkable exit",
-    "url": "https://www.bbc.com/sport/football/articles/ckg8e2ezvzyo",
+    "title": "Live . Watch as Switzerland lead Algeria through Embolo goal in World Cup last 32",
+    "url": "https://www.bbc.com/sport/football/live/cyv05me9d6rt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Latest ever winner, comeback and controversy - Senegal's remarkable exit",
+    "core_event": "来自 BBC Sport 的赛事报道。Live . Watch as Switzerland lead Algeria through Embolo goal in World Cup last 32",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Latest",
-      "Senegal"
+      "Live",
+      "Watch",
+      "Switzerland",
+      "Algeria"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Balogun scores and is sent off as USA reach last 16",
-    "url": "https://www.bbc.com/sport/football/live/cx2j51v3veet",
+    "title": "Portugal beat Croatia in chaotic finish to reach last 16",
+    "url": "https://www.bbc.com/sport/football/live/cvgl19we7v9t",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Balogun scores and is sent off as USA reach last 16",
+    "core_event": "来自 BBC Sport 的赛事报道。Portugal beat Croatia in chaotic finish to reach last 16",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Balogun"
+      "Portugal",
+      "Croatia"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Belgium come from 2-0 down to beat Senegal with last-gasp extra-time penalty",
-    "url": "https://www.bbc.com/sport/football/live/cx2j5p9pwg4t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Belgium come from 2-0 down to beat Senegal with last-gasp extra-time penalty",
-    "tactical_financial_impact": "紧张的比分说明双方实力接近，细节决定胜负，临场调整至关重要。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Belgium",
-      "Senegal"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "'Why not take advantage?' - did hydration breaks spark England comeback?",
-    "url": "https://www.bbc.com/sport/football/articles/c4gy8nrny19o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。'Why not take advantage?' - did hydration breaks spark England comeback?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "England"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Spurs agree deal worth up to £100m for Newcastle's Tonali",
-    "url": "https://www.bbc.com/sport/football/articles/cx2xjlevpjpo",
-    "category": "transfer",
-    "emoji_tag": "⚪",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Spurs agree deal worth up to £100m for Newcastle's Tonali",
-    "tactical_financial_impact": "本次转会金额巨大，将对俱乐部的财政健康和 FFP 合规性构成压力。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
-    "key_players": [
-      "Spurs",
-      "Newcastle",
-      "Tonali"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "England into last 16 - what is their path to the final?",
-    "url": "https://www.bbc.com/sport/football/articles/c5yz0zkzw39o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。England into last 16 - what is their path to the final?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "England"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Should England have had a penalty for challenge on Kane?",
-    "url": "https://www.bbc.com/sport/football/articles/cg53nlder6zo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Should England have had a penalty for challenge on Kane?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Should England",
-      "Kane"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Brighton agree club record £46m Vuskovic deal",
-    "url": "https://www.bbc.com/sport/football/articles/c4gyqve0w5jo",
+    "title": "Secret location & sleep devices: England bid to combat noisy Mexico fans",
+    "url": "https://www.bbc.com/sport/football/articles/c74y7jwj30eo",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Brighton agree club record £46m Vuskovic deal",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
-    "key_players": [
-      "Brighton",
-      "Vuskovic"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Spurs target West Ham's Summerville - Thursday's gossip",
-    "url": "https://www.bbc.com/sport/football/articles/cx2krd2yzwxo",
-    "category": "transfer",
-    "emoji_tag": "⚪",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Spurs target West Ham's Summerville - Thursday's gossip",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Secret location & sleep devices: England bid to combat noisy Mexico fans",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Spurs",
-      "West Ham",
-      "Summerville",
-      "Thursday"
+      "Secret",
+      "England",
+      "Mexico"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "No signings, no sales - what is happening at Manchester United?",
-    "url": "https://www.bbc.com/sport/football/articles/cx2d4drnr70o",
+    "title": "England were 15 minutes from humiliation - the issues Tuchel must solve",
+    "url": "https://www.bbc.com/sport/football/articles/czx59l1knv0o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。England were 15 minutes from humiliation - the issues Tuchel must solve",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "England",
+      "Tuchel"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Why are Man City breaking the bank for Anderson?",
+    "url": "https://www.bbc.com/sport/football/articles/c3dynyg0j1lo",
+    "category": "injury",
+    "emoji_tag": "🩵",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Why are Man City breaking the bank for Anderson?",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Man City",
+      "Anderson"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Man Utd ready for Baleba move - Friday gossip",
+    "url": "https://www.bbc.com/sport/football/articles/cx23644x506o",
     "category": "transfer",
     "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。No signings, no sales - what is happening at Manchester United?",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man Utd ready for Baleba move - Friday gossip",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Manchester United"
+      "Man Utd",
+      "Baleba",
+      "Friday"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Chelsea sign Italy defender Palestra for £47m",
-    "url": "https://www.bbc.com/sport/football/articles/crkvlv6myreo",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Chelsea sign Italy defender Palestra for £47m",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Chelsea",
-      "Italy",
-      "Palestra"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "World Cup: Kane rescues England - 5 Live reaction. Audio, 49 minutes World Cup: Kane rescues England - 5 Live reaction",
-    "url": "https://www.bbc.com/sounds/play/p0nw81yr",
+    "title": "Spain beat Austria for first World Cup knockout win since 2010",
+    "url": "https://www.bbc.com/sport/football/live/c8j2wvnzkvzt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。World Cup: Kane rescues England - 5 Live reaction. Audio, 49 minutes World Cup: Kane rescues England - 5 Live reaction",
+    "core_event": "来自 BBC Sport 的赛事报道。Spain beat Austria for first World Cup knockout win since 2010",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
+      "Spain",
+      "Austria",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Boycott of Israel games would cause 'significant and lasting harm' - FAI",
+    "url": "https://www.bbc.com/sport/football/articles/ce375yel3d5o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Boycott of Israel games would cause 'significant and lasting harm' - FAI",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Boycott",
+      "Israel"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Spurs sign Fernandes for club record £85m",
+    "url": "https://www.bbc.com/sport/football/articles/c862ejqg3leo",
+    "category": "transfer",
+    "emoji_tag": "⚪",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Spurs sign Fernandes for club record £85m",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Spurs",
+      "Fernandes"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Live . FIFA World Cup 42 minutes 42' Switzerland Switzerland 1 Algeria Algeria 0",
+    "url": "https://www.bbc.com/sport/football/live/cyv05me9d6rt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Live . FIFA World Cup 42 minutes 42' Switzerland Switzerland 1 Algeria Algeria 0",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Live",
       "World Cup",
-      "Kane",
-      "England",
-      "Live"
+      "Switzerland Switzerland",
+      "Algeria Algeria"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Could Rangers make Ferguson marquee signing?",
-    "url": "https://www.bbc.com/sport/football/articles/c3vy70r52wko",
+    "title": "The World Cup's free agents looking for their next move",
+    "url": "https://www.bbc.com/sport/football/articles/c5yzleqqvjqo",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Could Rangers make Ferguson marquee signing?",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。The World Cup's free agents looking for their next move",
+    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Could Rangers",
-      "Ferguson"
+      "The World Cup"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Hull avoid points deduction by selling players",
-    "url": "https://www.bbc.com/sport/football/articles/c5yz5dprjq0o",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Hull avoid points deduction by selling players",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Hull"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Fifa explains decision to rule out Germany goal",
-    "url": "https://www.bbc.com/sport/football/articles/c862yvvd2qdo",
+    "title": "16.3m tune in to watch England beat DR Congo",
+    "url": "https://www.bbc.com/sport/football/articles/cvg40883026o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Fifa explains decision to rule out Germany goal",
+    "core_event": "来自 BBC Sport 的赛事报道。16.3m tune in to watch England beat DR Congo",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Fifa",
-      "Germany"
+      "England",
+      "Congo"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Everton sign midfielder Hackney from Middlesbrough",
+    "url": "https://www.bbc.com/sport/football/articles/cvglewzezl7o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Everton sign midfielder Hackney from Middlesbrough",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Everton",
+      "Hackney",
+      "Middlesbrough"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Hull sign goalkeeper Butland from Rangers",
+    "url": "https://www.bbc.com/sport/football/articles/c4gyx2x728eo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Hull sign goalkeeper Butland from Rangers",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Hull",
+      "Butland",
+      "Rangers"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Would Glasner tarnish Palace legacy with move to new enemies Forest?",
+    "url": "https://www.bbc.com/sport/football/articles/cwykxyqgpzno",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Would Glasner tarnish Palace legacy with move to new enemies Forest?",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Would Glasner",
+      "Palace",
+      "Forest"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "England Tuchel delights in ‘shark’ Kane’s predatory goal instinct after vital World Cup double",
-    "url": "https://www.theguardian.com/football/2026/jul/01/thomas-tuchel-delight-harry-kane-goals-world-cup-dr-congo",
+    "title": "Reaction Martínez says there was no ‘lucky call’ as record four goals ruled out",
+    "url": "https://www.theguardian.com/football/2026/jul/03/roberto-martinez-portugal-croatia-record-four-goals-ruled-out-world-cup-2026",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。England Tuchel delights in ‘shark’ Kane’s predatory goal instinct after vital World Cup double",
+    "core_event": "来自 The Guardian 的赛事报道。Reaction Martínez says there was no ‘lucky call’ as record four goals ruled out",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "England Tuchel",
-      "Kane",
-      "World Cup"
+      "Reaction Martínez"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "As it happened Beau Dure's minute-by-minute report on a thrilling match",
+    "url": "https://www.theguardian.com/football/live/2026/jul/02/portugal-v-croatia-world-cup-2026-last-32-live",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。As it happened Beau Dure's minute-by-minute report on a thrilling match",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Beau Dure"
     ]
   },
   {
@@ -258,18 +278,33 @@
   },
   {
     "source": "The Guardian",
-    "title": "David beats Goliath The biggest upsets of the World Cup so far",
-    "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/02/world-cup-2026-biggest-upsets-data",
+    "title": "Ghosts of the Azteca England return to scene of infamous Maradona handball",
+    "url": "https://www.theguardian.com/football/2026/jul/02/azteca-england-diego-maradona-handball-mexico-world-cup",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Ghosts of the Azteca England return to scene of infamous Maradona handball",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Ghosts",
+      "Azteca England",
+      "Maradona"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "England FA reviewing security at hotel in Mexico City before last-16 tie",
+    "url": "https://www.theguardian.com/football/2026/jul/02/fa-reviewing-security-at-england-hotel-in-mexico-city-before-last-16-tie",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。David beats Goliath The biggest upsets of the World Cup so far",
+    "core_event": "来自 The Guardian 的赛事报道。England FA reviewing security at hotel in Mexico City before last-16 tie",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "David",
-      "Goliath The",
-      "World Cup"
+      "England",
+      "Mexico City"
     ]
   },
   {
@@ -288,112 +323,91 @@
   },
   {
     "source": "The Guardian",
-    "title": "Transfer news Brighton agree £50m deal for Vuskovic, Liverpool seal Jacquet signing",
-    "url": "https://www.theguardian.com/football/2026/jul/01/liverpool-sign-jeremy-jacquet-rennes",
+    "title": "The Recap Sign up for our weekly newsletter of editors' picks",
+    "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
     "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。Transfer news Brighton agree £50m deal for Vuskovic, Liverpool seal Jacquet signing",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
-    "key_players": [
-      "Transfer",
-      "Brighton",
-      "Vuskovic",
-      "Liverpool"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Men's transfer interactive All the latest deals from Europe’s top five leagues",
-    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Men's transfer interactive All the latest deals from Europe’s top five leagues",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。The Recap Sign up for our weekly newsletter of editors' picks",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Europe"
+      "The Recap Sign"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Tielemans’ controversial late penalty caps Belgium comeback over Senegal",
-    "url": "https://www.theguardian.com/football/2026/jul/01/belgium-senegal-2026-world-cup-last-32-match-report",
+    "title": "Mikel Oyarzabal at the double as Spain beat Austria and cruise into last 16",
+    "url": "https://www.theguardian.com/football/2026/jul/02/spain-austria-world-cup-2026-last-32-match-report",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Tielemans’ controversial late penalty caps Belgium comeback over Senegal",
+    "core_event": "来自 The Guardian 的赛事报道。Mikel Oyarzabal at the double as Spain beat Austria and cruise into last 16",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Tielemans",
-      "Belgium",
-      "Senegal"
+      "Mikel Oyarzabal",
+      "Spain",
+      "Austria"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Tottenham agree £100m deal to buy Sandro Tonali from Newcastle",
-    "url": "https://www.theguardian.com/football/2026/jul/01/tottenham-sandro-tonali-agree-100m-deal-newcastle",
-    "category": "transfer",
-    "emoji_tag": "⚪",
-    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。Tottenham agree £100m deal to buy Sandro Tonali from Newcastle",
-    "tactical_financial_impact": "本次转会金额巨大，将对俱乐部的财政健康和 FFP 合规性构成压力。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
+    "title": "double quotation mark Postecoglou is exactly what Japan need after fifth-straight World Cup knockout loss",
+    "url": "https://www.theguardian.com/football/blog/2026/jul/03/world-cup-japan-team-samurai-blue-losses-ange-postecoglou-comments",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。double quotation mark Postecoglou is exactly what Japan need after fifth-straight World Cup knockout loss",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Tottenham",
-      "Sandro Tonali",
-      "Newcastle"
+      "Postecoglou",
+      "Japan",
+      "World Cup"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Ukraine war briefing: More than 2 million military casualties caused by Russia’s invasion, study finds",
-    "url": "https://www.theguardian.com/world/2026/jul/02/ukraine-war-briefing-more-than-2-million-military-casualties-caused-by-russias-invasion-study-finds",
+    "title": "USMNT win smashes American record for most-watched soccer broadcast with 33.5 million viewers",
+    "url": "https://www.theguardian.com/football/2026/jul/02/usmnt-world-cup-most-watched-viewership-record",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Ukraine war briefing: More than 2 million military casualties caused by Russia’s invasion, study finds",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。USMNT win smashes American record for most-watched soccer broadcast with 33.5 million viewers",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Ukraine",
-      "More",
-      "Russia"
+      "American"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Albania warned EU accession at risk over Jared Kushner-backed resort plans",
-    "url": "https://www.theguardian.com/world/2026/jul/01/albania-warned-eu-accession-at-risk-jared-kushner-resort-plans",
+    "title": "Nationals’ Cavalli suspended seven games after ‘Sit down, boy’ comment sparks brawl",
+    "url": "https://www.theguardian.com/sport/2026/jul/02/cade-cavalli-willson-contreras-suspension-brawl",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Albania warned EU accession at risk over Jared Kushner-backed resort plans",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Nationals’ Cavalli suspended seven games after ‘Sit down, boy’ comment sparks brawl",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Albania",
-      "Jared Kushner"
+      "Nationals",
+      "Cavalli"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "David beats Goliath: the biggest upsets of the World Cup so far",
-    "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/02/world-cup-2026-biggest-upsets-data",
-    "category": "match_report",
+    "title": "‘Hugging is forbidden’: women jailed for life – in pictures",
+    "url": "https://www.theguardian.com/artanddesign/gallery/2026/jul/02/sara-bennett-looking-inside-women-jailed-for-life-in-pictures",
+    "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。David beats Goliath: the biggest upsets of the World Cup so far",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。‘Hugging is forbidden’: women jailed for life – in pictures",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "David",
-      "Goliath",
-      "World Cup"
+      "Hugging"
     ]
   }
 ]
