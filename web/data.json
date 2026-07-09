@@ -1,369 +1,463 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Switzerland beat Colombia on penalties to reach quarter-finals",
-    "url": "https://www.bbc.com/sport/football/live/cx2vrg8gzr1t",
+    "title": "Starmer hints at bank holiday if England win World Cup",
+    "url": "https://www.bbc.com/news/articles/c20y9g2v2wvo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Switzerland beat Colombia on penalties to reach quarter-finals",
+    "core_event": "来自 BBC Sport 的赛事报道。Starmer hints at bank holiday if England win World Cup",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Switzerland",
-      "Colombia"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "England players to get hoarding warning after freak Henderson injury",
-    "url": "https://www.bbc.com/sport/football/articles/czx5qev7nqno",
-    "category": "injury",
-    "emoji_tag": "🚑",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。England players to get hoarding warning after freak Henderson injury",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
+      "Starmer",
       "England",
-      "Henderson"
+      "World Cup"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Arsenal set to sign Meslier on free transfer after Leeds exit",
-    "url": "https://www.bbc.com/sport/football/articles/cvge7wen5g9o",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Arsenal set to sign Meslier on free transfer after Leeds exit",
-    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
-    "key_players": [
-      "Arsenal",
-      "Meslier",
-      "Leeds"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Argentina reach quarter-finals with extraordinary comeback against Egypt",
-    "url": "https://www.bbc.com/sport/football/live/cdr4m2122lgt",
+    "title": "Chris Sutton's World Cup quarter-final predictions",
+    "url": "https://www.bbc.com/sport/football/articles/c15y1j32jxko",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Argentina reach quarter-finals with extraordinary comeback against Egypt",
+    "core_event": "来自 BBC Sport 的赛事报道。Chris Sutton's World Cup quarter-final predictions",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Argentina",
-      "Egypt"
+      "Chris Sutton",
+      "World Cup"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Rogers is Arsenal's main target - Wednesday's gossip",
-    "url": "https://www.bbc.com/sport/football/articles/c8e2n47j0j5o",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Rogers is Arsenal's main target - Wednesday's gossip",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Rogers",
-      "Arsenal",
-      "Wednesday"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Qarabag's Duran poised for Celtic medical",
-    "url": "https://www.bbc.com/sport/football/articles/c5yzzxv8yw0o",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Qarabag's Duran poised for Celtic medical",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
-    "key_players": [
-      "Qarabag",
-      "Duran",
-      "Celtic"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "England into quarter-finals - what is their path to the final?",
-    "url": "https://www.bbc.com/sport/football/articles/c5yz0zkzw39o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。England into quarter-finals - what is their path to the final?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "England"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "9.1m watch England's epic win over Mexico",
-    "url": "https://www.bbc.com/sport/football/articles/cdejw7xxe23o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。9.1m watch England's epic win over Mexico",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "England",
-      "Mexico"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
-    "url": "https://www.bbc.com/sport/football/articles/c4gyj50450go",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。'Overturn this' - Belgium taunt US and say Trump move fired them up",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Overturn",
-      "Belgium",
-      "Trump"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Brentford sign Burnley forward Anthony",
-    "url": "https://www.bbc.com/sport/football/articles/c77yd4yxzlno",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Brentford sign Burnley forward Anthony",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Brentford",
-      "Burnley",
-      "Anthony"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Chelsea's Bartel closing in on move to Juventus",
-    "url": "https://www.bbc.com/sport/football/articles/c8d2n6mmn6jo",
+    "title": "Chelsea announce £40m Quenda signing",
+    "url": "https://www.bbc.com/sport/football/articles/c3vy0v39qkko",
     "category": "transfer",
     "emoji_tag": "🔵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Chelsea's Bartel closing in on move to Juventus",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Chelsea announce £40m Quenda signing",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
       "Chelsea",
-      "Bartel",
-      "Juventus"
+      "Quenda"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "The summer a golden generation lost its shine",
-    "url": "https://www.bbc.com/sport/extra/60s97qhdbf/the-golden-generation",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。The summer a golden generation lost its shine",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": []
+    "title": "From Barcelona to Bromley: Inside Putellas' move to LCL",
+    "url": "https://www.bbc.com/sport/football/articles/cn75ndvd1y3o",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。From Barcelona to Bromley: Inside Putellas' move to LCL",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "From Barcelona",
+      "Bromley",
+      "Inside Putellas"
+    ]
   },
   {
     "source": "BBC Sport",
-    "title": "How England used five mini games to beat Mexico",
-    "url": "https://www.bbc.com/sport/football/articles/cqx113327eyo",
+    "title": "Arsenal target Guimaraes asks to leave Newcastle",
+    "url": "https://www.bbc.com/sport/football/articles/c77yg781lr8o",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Arsenal target Guimaraes asks to leave Newcastle",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Arsenal",
+      "Guimaraes",
+      "Newcastle"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Man Utd agree deal for Chelsea's Santos",
+    "url": "https://www.bbc.com/sport/football/articles/cr7xkgd8vdko",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Man Utd agree deal for Chelsea's Santos",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Man Utd",
+      "Chelsea",
+      "Santos"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Henderson not ruled out of World Cup despite breaking arm",
+    "url": "https://www.bbc.com/sport/football/articles/c70ygpg95vlo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Henderson not ruled out of World Cup despite breaking arm",
+    "tactical_financial_impact": "长期缺阵将迫使主帅调整主力阵容，考验替补球员的临场发挥。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Henderson",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "London City sign Ballon d'Or winner Putellas",
+    "url": "https://www.bbc.com/sport/football/articles/cvg7wenkklyo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。London City sign Ballon d'Or winner Putellas",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "London City",
+      "Ballon",
+      "Putellas"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Scotland goalkeeper Gunn signs for San Jose Earthquakes",
+    "url": "https://www.bbc.com/sport/football/articles/c982080yd7ro",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Scotland goalkeeper Gunn signs for San Jose Earthquakes",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
+    "key_players": [
+      "Scotland",
+      "Gunn",
+      "San Jose Earthquakes"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Fenerbahce confident of Greenwood deal",
+    "url": "https://www.bbc.com/sport/football/articles/c24yjpggq13o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Fenerbahce confident of Greenwood deal",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Fenerbahce",
+      "Greenwood"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Former Sheffield Utd owners claim they are owed £35m",
+    "url": "https://www.bbc.com/sport/football/articles/cwy0jy14767o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Former Sheffield Utd owners claim they are owed £35m",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Former Sheffield Utd"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Leeds confirm Wilson arrival on free transfer",
+    "url": "https://www.bbc.com/sport/football/articles/c0rydrz49e0o",
+    "category": "transfer",
+    "emoji_tag": "💰",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Leeds confirm Wilson arrival on free transfer",
+    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Leeds",
+      "Wilson"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "'Your boys took a hell of a beating' - England and Norway's football rivalry",
+    "url": "https://www.bbc.com/sport/football/articles/cz9l74k031do",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。How England used five mini games to beat Mexico",
+    "core_event": "来自 BBC Sport 的赛事报道。'Your boys took a hell of a beating' - England and Norway's football rivalry",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "How England",
+      "Your",
+      "England",
+      "Norway"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "England players granted day off after Mexico win",
+    "url": "https://www.bbc.com/sport/football/articles/cx24re32r4lo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。England players granted day off after Mexico win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "England",
       "Mexico"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Where does Mexico win rank among England's best results?",
-    "url": "https://www.bbc.com/sport/football/articles/cgevv1r30w1o",
+    "title": "Meet Sweden's top scorer who hopes to play for Scotland",
+    "url": "https://www.bbc.com/sport/football/articles/cy0472drrlzo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Where does Mexico win rank among England's best results?",
+    "core_event": "来自 BBC Sport 的赛事报道。Meet Sweden's top scorer who hopes to play for Scotland",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Where",
-      "Mexico",
+      "Meet Sweden",
+      "Scotland"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "World Cup 2026 Starmer expected to announce bank holiday if England win trophy",
+    "url": "https://www.theguardian.com/football/2026/jul/08/england-to-get-bank-holiday-if-team-win-world-cup-starmer-expected-to-announce",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。World Cup 2026 Starmer expected to announce bank holiday if England win trophy",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "World Cup",
+      "Starmer",
       "England"
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Newcastle sign Toure for £43m - what will he bring to club?",
-    "url": "https://www.bbc.com/sport/football/articles/cgqjkq3kwdgo",
+    "source": "The Guardian",
+    "title": "Egypt Egyptian FA questions ‘fairness’ of loss to Argentina amid refereeing furore",
+    "url": "https://www.theguardian.com/football/2026/jul/08/egyptian-fa-questions-fairness-of-loss-to-argentina-amid-refereeing-furore",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Egypt Egyptian FA questions ‘fairness’ of loss to Argentina amid refereeing furore",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Egypt Egyptian",
+      "Argentina"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Norway How country made sport fun for kids – and built a team that beat Brazil",
+    "url": "https://www.theguardian.com/football/2026/jul/08/how-norway-made-sport-fun-kids-built-football-team-beat-brazil-world-cup",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Norway How country made sport fun for kids – and built a team that beat Brazil",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Norway How",
+      "Brazil"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "World Cup power rankings England on the rise as the quarter-finals are set",
+    "url": "https://www.theguardian.com/football/2026/jul/08/world-cup-2026-team-rankings-last-16",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。World Cup power rankings England on the rise as the quarter-finals are set",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "World Cup",
+      "England"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Newcastle Club close in on signing Ajax generational talent Steur for £23m",
+    "url": "https://www.theguardian.com/football/2026/jul/07/newcastle-sean-steur-transfers-round-up-football",
     "category": "transfer",
     "emoji_tag": "⚫",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Newcastle sign Toure for £43m - what will he bring to club?",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Newcastle Club close in on signing Ajax generational talent Steur for £23m",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Newcastle",
-      "Toure"
+      "Newcastle Club",
+      "Ajax",
+      "Steur"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Golden Boot Keep up with the tournament top scorers, updated live",
-    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Golden Boot Keep up with the tournament top scorers, updated live",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Golden Boot Keep"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "USA 1-4 Belgium Ragged co-hosts crash out of World Cup with last-16 defeat",
-    "url": "https://www.theguardian.com/football/2026/jul/06/usa-belgium-world-cup-2026-match-report",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。USA 1-4 Belgium Ragged co-hosts crash out of World Cup with last-16 defeat",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Belgium Ragged",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Tottenham Tonali seals £92.5m move on back of ‘magic’ De Zerbi sales pitch",
-    "url": "https://www.theguardian.com/football/2026/jul/06/sandro-tonali-seals-move-to-tottenham-newcastle-transfer-window",
-    "category": "transfer",
-    "emoji_tag": "⚪",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Tottenham Tonali seals £92.5m move on back of ‘magic’ De Zerbi sales pitch",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Tottenham Tonali",
-      "De Zerbi"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Interactive Men’s transfer window: all deals from Europe’s top five leagues",
+    "title": "Men's transfer interactive All the latest deals from Europe’s top five leagues",
     "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
     "category": "transfer",
     "emoji_tag": "🔵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Interactive Men’s transfer window: all deals from Europe’s top five leagues",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Men's transfer interactive All the latest deals from Europe’s top five leagues",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Interactive Men",
       "Europe"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Tearful Messi inspires Argentina’s great escape in World Cup thriller with Egypt",
-    "url": "https://www.theguardian.com/football/2026/jul/07/argentina-egypt-world-cup-2026-last-16-match-report",
+    "title": "Football Daily Argentina, VAR machinations and the greatest goal that never was",
+    "url": "https://www.theguardian.com/football/2026/jul/08/football-daily-email-gwc-argentina-egypt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Tearful Messi inspires Argentina’s great escape in World Cup thriller with Egypt",
+    "core_event": "来自 The Guardian 的赛事报道。Football Daily Argentina, VAR machinations and the greatest goal that never was",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Tearful Messi",
-      "Argentina",
+      "Football Daily Argentina"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Free agent XI Summer bargains and top targets among clubless players",
+    "url": "https://www.theguardian.com/football/2026/jul/08/world-cup-free-agent-xi-vozinha-salah-clubless-players",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Free agent XI Summer bargains and top targets among clubless players",
+    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Free",
+      "Summer"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "USA Fifa suspended two US staff members for match against Belgium",
+    "url": "https://www.theguardian.com/football/2026/jul/08/fifa-suspended-two-us-staff-members-for-world-cup-defeat-to-belgium",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。USA Fifa suspended two US staff members for match against Belgium",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Fifa",
+      "Belgium"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup",
+    "url": "https://www.theguardian.com/football/2026/jul/08/kylian-mbappe-france-world-cup-2026",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Statesman",
+      "Kylian Mbappé",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "No league tables, no trophies: how Norway made sport fun for kids – and built a football team that beat Brazil",
+    "url": "https://www.theguardian.com/football/2026/jul/08/how-norway-made-sport-fun-kids-built-football-team-beat-brazil-world-cup",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。No league tables, no trophies: how Norway made sport fun for kids – and built a football team that beat Brazil",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Norway",
+      "Brazil"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Fifa suspended two US staff members for World Cup match against Belgium",
+    "url": "https://www.theguardian.com/football/2026/jul/08/fifa-suspended-two-us-staff-members-for-world-cup-defeat-to-belgium",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Fifa suspended two US staff members for World Cup match against Belgium",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Fifa",
       "World Cup",
-      "Egypt"
+      "Belgium"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Switzerland knock out Colombia on penalties to reach World Cup quarter-finals",
-    "url": "https://www.theguardian.com/football/2026/jul/08/switzerland-colombia-world-cup-2026-last-16-match-report",
+    "title": "France’s Deschamps unruffled by Argentinian officials helming Morocco quarter-final",
+    "url": "https://www.theguardian.com/football/2026/jul/08/france-deschamps-unruffled-argentinian-officials-morocco-world-cup-quarter-final",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Switzerland knock out Colombia on penalties to reach World Cup quarter-finals",
+    "core_event": "来自 The Guardian 的赛事报道。France’s Deschamps unruffled by Argentinian officials helming Morocco quarter-final",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Switzerland",
-      "Colombia",
-      "World Cup"
+      "France",
+      "Deschamps",
+      "Argentinian",
+      "Morocco"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "double quotation mark All the presidents’ meddling: the Balogun scandal shows how Fifa can break football",
-    "url": "https://www.theguardian.com/football/2026/jul/07/donald-trump-gianni-infantino-folarin-balogun-fifa-world-cup-2026",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。double quotation mark All the presidents’ meddling: the Balogun scandal shows how Fifa can break football",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Balogun",
-      "Fifa"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Switzerland beat Colombia on penalties: World Cup 2026 last 16 – as it happened",
-    "url": "https://www.theguardian.com/football/live/2026/jul/07/switzerland-v-colombia-world-cup-2026-last-16-live",
+    "title": "Egyptian FA questions ‘fairness’ of loss to Argentina amid refereeing furore",
+    "url": "https://www.theguardian.com/football/2026/jul/08/egyptian-fa-questions-fairness-of-loss-to-argentina-amid-refereeing-furore",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Switzerland beat Colombia on penalties: World Cup 2026 last 16 – as it happened",
+    "core_event": "来自 The Guardian 的赛事报道。Egyptian FA questions ‘fairness’ of loss to Argentina amid refereeing furore",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Switzerland",
-      "Colombia",
-      "World Cup"
+      "Egyptian",
+      "Argentina"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Body of missing 18-year-old Nolan Wells found on Mississippi island",
-    "url": "https://www.theguardian.com/us-news/2026/jul/07/nolan-wells-body-found-mississippi-island",
+    "title": "Reece James remains injury doubt as England’s World Cup right-back woes go on",
+    "url": "https://www.theguardian.com/football/2026/jul/08/reece-james-remains-injury-doubt-england-right-back-woes-norway-world-cup-quarter-final",
     "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Body of missing 18-year-old Nolan Wells found on Mississippi island",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "emoji_tag": "🚑",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Reece James remains injury doubt as England’s World Cup right-back woes go on",
+    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Body",
-      "Nolan Wells",
-      "Mississippi"
+      "Reece James",
+      "England",
+      "World Cup"
     ]
   }
 ]
