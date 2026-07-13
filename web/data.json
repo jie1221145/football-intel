@@ -1,51 +1,30 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
-    "url": "https://www.bbc.com/sport/football/articles/cd95335dp10o",
+    "title": "Tuchel unhappy with England display - so why do they keep winning?",
+    "url": "https://www.bbc.com/sport/football/articles/c7vy25lqll6o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
+    "core_event": "来自 BBC Sport 的赛事报道。Tuchel unhappy with England display - so why do they keep winning?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "England",
-      "Snicko",
-      "Norway"
+      "Tuchel",
+      "England"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "BBC to show England's World Cup semi-final",
-    "url": "https://www.bbc.com/sport/football/articles/cx268mlg3lgo",
+    "title": "Top four ranked teams make semi-finals for first time",
+    "url": "https://www.bbc.com/sport/football/articles/c2ey9l3yl4vo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。BBC to show England's World Cup semi-final",
+    "core_event": "来自 BBC Sport 的赛事报道。Top four ranked teams make semi-finals for first time",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
-    "key_players": [
-      "England",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Bellingham inspires England to beat Norway and reach World Cup semi-finals",
-    "url": "https://www.bbc.com/sport/football/live/cgl33l55100t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Bellingham inspires England to beat Norway and reach World Cup semi-finals",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Bellingham",
-      "England",
-      "Norway",
-      "World Cup"
-    ]
+    "key_players": []
   },
   {
     "source": "BBC Sport",
@@ -65,6 +44,113 @@
   },
   {
     "source": "BBC Sport",
+    "title": "BBC to show England's World Cup semi-final",
+    "url": "https://www.bbc.com/sport/football/articles/cx268mlg3lgo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。BBC to show England's World Cup semi-final",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "England",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
+    "url": "https://www.bbc.com/sport/football/articles/cd95335dp10o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "England",
+      "Snicko",
+      "Norway"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Lamine Yamal? Mbappe? Kane? Pick your World Cup semi-final XI",
+    "url": "https://www.bbc.com/sport/football/articles/ckg4l37nm0do",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Lamine Yamal? Mbappe? Kane? Pick your World Cup semi-final XI",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Lamine Yamal",
+      "Mbappe",
+      "Kane",
+      "Pick"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Big stars and old rivals - what to expect in semi-finals",
+    "url": "https://www.bbc.com/sport/football/articles/cd6ed5x95ygo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Big stars and old rivals - what to expect in semi-finals",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": []
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Embolo sent off as result of mistaken identity rule",
+    "url": "https://www.bbc.com/sport/football/articles/ckg0k5gdr79o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Embolo sent off as result of mistaken identity rule",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Embolo"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Football Daily. World Cup: England Through & Miami Melts Lloyd. Audio, 33 minutes Football Daily World Cup: England Through & Miami Melts Lloyd",
+    "url": "https://www.bbc.com/sounds/play/p0ns8gfc",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Football Daily. World Cup: England Through & Miami Melts Lloyd. Audio, 33 minutes Football Daily World Cup: England Through & Miami Melts Lloyd",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Football Daily",
+      "World Cup",
+      "England Through",
+      "Miami Melts Lloyd"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Argentina beat 10-man Switzerland in extra time to set up England tie",
+    "url": "https://www.bbc.com/sport/football/live/c4gyj35k3n3t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Argentina beat 10-man Switzerland in extra time to set up England tie",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Argentina",
+      "Switzerland",
+      "England"
+    ]
+  },
+  {
+    "source": "BBC Sport",
     "title": "Fifa official refuses to answer BBC's Balogun ban questions",
     "url": "https://www.bbc.com/sport/football/articles/c4gy1j87e1yo",
     "category": "injury",
@@ -80,336 +166,189 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Replay England's victory over Norway in 3D",
-    "url": "https://www.3d-bbc.co.uk/?matchId=151706",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Replay England's victory over Norway in 3D",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Replay England",
-      "Norway"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "England into semi-finals - what is their path to the final?",
+    "title": "What England must do to win the World Cup from here",
     "url": "https://www.bbc.com/sport/football/articles/c5yz0zkzw39o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。England into semi-finals - what is their path to the final?",
+    "core_event": "来自 BBC Sport 的赛事报道。What England must do to win the World Cup from here",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "England"
+      "What England",
+      "World Cup"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Klopp agrees to replace Nagelsmann as Germany coach",
-    "url": "https://www.bbc.com/sport/football/articles/ced44061g8qo",
+    "title": "Man City sign Monga - how good is the 17-year-old?",
+    "url": "https://www.bbc.com/sport/football/articles/cdr4vvlp7d0o",
     "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Klopp agrees to replace Nagelsmann as Germany coach",
+    "emoji_tag": "🩵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man City sign Monga - how good is the 17-year-old?",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
-    "key_players": [
-      "Klopp",
-      "Nagelsmann",
-      "Germany"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Bournemouth's Jimenez set for Fiorentina loan amid investigation",
-    "url": "https://www.bbc.com/sport/football/articles/cvgd7z5xjvno",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Bournemouth's Jimenez set for Fiorentina loan amid investigation",
-    "tactical_financial_impact": "租借操作灵活，不占永久薪资配额，是一种低风险补强策略。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Bournemouth",
-      "Jimenez",
-      "Fiorentina"
+      "Man City",
+      "Monga"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Live . FIFA World Cup FT 104 minutes extra time 104' ET Argentina Argentina 1 1 Full time score 1 Switzerland Switzerland 1 1 Full time score 1",
-    "url": "https://www.bbc.com/sport/football/live/c4gyj35k3n3t",
-    "category": "match_report",
+    "title": "More than the Score. World Cup 2026: Who’s put themselves in the shop window? Audio, 20 minutes More than the Score World Cup 2026: Who’s put themselves in the shop window?",
+    "url": "https://www.bbc.com/sounds/play/p0ny0prm",
+    "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Live . FIFA World Cup FT 104 minutes extra time 104' ET Argentina Argentina 1 1 Full time score 1 Switzerland Switzerland 1 1 Full time score 1",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。More than the Score. World Cup 2026: Who’s put themselves in the shop window? Audio, 20 minutes More than the Score World Cup 2026: Who’s put themselves in the shop window?",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "Live",
+      "More",
+      "Score",
       "World Cup",
-      "Argentina Argentina",
-      "Full"
+      "Audio"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Colourful, controversial and significant - ex-Chelsea and Leeds owner Bates dies",
-    "url": "https://www.bbc.com/sport/football/articles/c4gy1ve57d5o",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Colourful, controversial and significant - ex-Chelsea and Leeds owner Bates dies",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Colourful",
-      "Chelsea",
-      "Leeds",
-      "Bates"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Holders St Mirren start with win as Linlithgow cause shock",
-    "url": "https://www.bbc.com/sport/football/articles/cpv3g810wzno",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Holders St Mirren start with win as Linlithgow cause shock",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Holders St Mirren",
-      "Linlithgow"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Spain beat Germany to win U19 Euros in Wrexham",
-    "url": "https://www.bbc.com/sport/football/articles/cze94gegx61o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Spain beat Germany to win U19 Euros in Wrexham",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Spain",
-      "Germany",
-      "Euros",
-      "Wrexham"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Coventry City sign winger Tchaouna from Burnley",
-    "url": "https://www.bbc.com/sport/football/articles/cpv3gxer241o",
+    "title": "Wales defender Lockyer signs for Melbourne Victory",
+    "url": "https://www.bbc.com/sport/football/articles/c78yp36pg4do",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Coventry City sign winger Tchaouna from Burnley",
+    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Wales defender Lockyer signs for Melbourne Victory",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
     "key_players": [
-      "Coventry City",
-      "Tchaouna",
-      "Burnley"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Man Utd's Ederson move in doubt",
-    "url": "https://www.bbc.com/sport/football/articles/c9d2z59596eo",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man Utd's Ederson move in doubt",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Man Utd",
-      "Ederson"
+      "Wales",
+      "Lockyer",
+      "Melbourne Victory"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Jude Bellingham (centre) celebrates with Elliot Anderson and Djed Spence Bellingham fires in England's winner early in extra time Harry Kane, Dan Burn and Jordan Pickford celebrate victory in Miami Bellingham wheels away after levelling just before the break Andreas Schjelderup's effort beats Jordan Pickford to put Norway ahead England fans celebrate on the streets of west London",
+    "title": "Match report Bellingham's superb double downs Norway and sends England into semi-finals",
     "url": "https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Jude Bellingham (centre) celebrates with Elliot Anderson and Djed Spence Bellingham fires in England's winner early in extra time Harry Kane, Dan Burn and Jordan Pickford celebrate victory in Miami Bellingham wheels away after levelling just before the break Andreas Schjelderup's effort beats Jordan Pickford to put Norway ahead England fans celebrate on the streets of west London",
+    "core_event": "来自 The Guardian 的赛事报道。Match report Bellingham's superb double downs Norway and sends England into semi-finals",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Jude Bellingham",
-      "Elliot Anderson",
-      "Djed Spence Bellingham",
+      "Match",
+      "Bellingham",
+      "Norway",
       "England"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "England Bellingham unimpressed after Tuchel criticises ‘lucky’ win",
-    "url": "https://www.theguardian.com/football/2026/jul/12/jude-bellingham-thomas-tuchel-criticises-lucky-england-performance",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。England Bellingham unimpressed after Tuchel criticises ‘lucky’ win",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "England Bellingham",
-      "Tuchel"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Golden Boot Keep up with the tournament top scorers, updated live",
+    "title": "Golden Boot Who is leading the race to be top scorer?",
     "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Golden Boot Keep up with the tournament top scorers, updated live",
+    "core_event": "来自 The Guardian 的赛事报道。Golden Boot Who is leading the race to be top scorer?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Golden Boot Keep"
+      "Golden Boot Who"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Belgium Garcia faces backlash for taking Courtois off in defeat to Spain",
-    "url": "https://www.theguardian.com/football/2026/jul/11/rudi-garcia-belgium-world-cup-thibaut-courtois-spain",
+    "title": "Barney Ronay Bellingham excels in parallel World Cup but cannot win trophy alone",
+    "url": "https://www.theguardian.com/football/2026/jul/12/jude-bellingham-parallel-world-cup-norway-england",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Belgium Garcia faces backlash for taking Courtois off in defeat to Spain",
+    "core_event": "来自 The Guardian 的赛事报道。Barney Ronay Bellingham excels in parallel World Cup but cannot win trophy alone",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Belgium Garcia",
-      "Courtois",
-      "Spain"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Live Argentina v Switzerland: World Cup 2026 quarter-final – live",
-    "url": "https://www.theguardian.com/football/live/2026/jul/11/argentina-v-switzerland-world-cup-2026-quarter-final-live",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Live Argentina v Switzerland: World Cup 2026 quarter-final – live",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Live Argentina",
-      "Switzerland",
+      "Barney Ronay Bellingham",
       "World Cup"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Bellingham’s extra-time winner sinks Norway and sends England into World Cup semi-finals",
-    "url": "https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report",
+    "title": "Norway Solbakken claims ball hit cable before England equaliser",
+    "url": "https://www.theguardian.com/football/2026/jul/12/norway-ball-struck-cable-england-equaliser-stale-solbakken",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Bellingham’s extra-time winner sinks Norway and sends England into World Cup semi-finals",
+    "core_event": "来自 The Guardian 的赛事报道。Norway Solbakken claims ball hit cable before England equaliser",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Bellingham",
-      "Norway",
-      "England",
-      "World Cup"
+      "Norway Solbakken",
+      "England"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Norway 1-2 England (aet): World Cup 2026 quarter-final – as it happened",
-    "url": "https://www.theguardian.com/football/live/2026/jul/11/norway-v-england-world-cup-2026-quarter-final-live",
+    "title": "Cablegate: should Jude Bellingham’s first goal against Norway have been disallowed?",
+    "url": "https://www.theguardian.com/football/2026/jul/12/cablegate-should-jude-bellingham-first-goal-against-norway-have-been-disallowed-england-world-cup-2026",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Norway 1-2 England (aet): World Cup 2026 quarter-final – as it happened",
+    "core_event": "来自 The Guardian 的赛事报道。Cablegate: should Jude Bellingham’s first goal against Norway have been disallowed?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Norway",
-      "England",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Norway 1-2 England: World Cup quarter-final player ratings from Miami",
-    "url": "https://www.theguardian.com/football/2026/jul/12/norway-1-2-england-world-cup-quarter-final-player-ratings-from-miami",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Norway 1-2 England: World Cup quarter-final player ratings from Miami",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Norway",
-      "England",
-      "World Cup",
-      "Miami"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "World Cup 2026: England edge Norway in quarter-final – in pictures",
-    "url": "https://www.theguardian.com/football/gallery/2026/jul/11/world-cup-2026-norway-v-england-in-pictures",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。World Cup 2026: England edge Norway in quarter-final – in pictures",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "World Cup",
-      "England",
+      "Cablegate",
+      "Jude Bellingham",
       "Norway"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Hunter Biden wins $1.7m in suit over Iran bribery claim by ex-CEO of Overstock.com",
-    "url": "https://www.theguardian.com/us-news/2026/jul/11/hunter-biden-defamation-suit",
-    "category": "transfer",
+    "title": "World Cup 2026 power rankings: who leads the pack as semi-finals loom?",
+    "url": "https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Hunter Biden wins $1.7m in suit over Iran bribery claim by ex-CEO of Overstock.com",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "core_event": "来自 The Guardian 的赛事报道。World Cup 2026 power rankings: who leads the pack as semi-finals loom?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Hunter Biden",
-      "Iran",
-      "Overstock"
+      "World Cup"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Trump rushed Kennedy Center renovations for Fifa peace prize ceremony, whistleblowers say",
-    "url": "https://www.theguardian.com/us-news/2026/jul/11/trump-kennedy-center-renovations-whistleblowers",
-    "category": "injury",
+    "title": "England on collision course with Messi and Argentina in World Cup semi-final grudge match",
+    "url": "https://www.theguardian.com/football/2026/jul/12/england-lionel-messi-argentina-world-cup-2026-semi-final-norway",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Trump rushed Kennedy Center renovations for Fifa peace prize ceremony, whistleblowers say",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "core_event": "来自 The Guardian 的赛事报道。England on collision course with Messi and Argentina in World Cup semi-final grudge match",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Trump",
-      "Kennedy Center",
-      "Fifa"
+      "England",
+      "Messi",
+      "Argentina",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Norway’s Ståle Solbakken claims ball struck cable before England equaliser",
+    "url": "https://www.theguardian.com/football/2026/jul/12/norway-ball-struck-cable-england-equaliser-stale-solbakken",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Norway’s Ståle Solbakken claims ball struck cable before England equaliser",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Norway",
+      "Solbakken",
+      "England"
     ]
   }
 ]
