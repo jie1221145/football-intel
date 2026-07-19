@@ -1,89 +1,178 @@
 [
   {
     "source": "BBC Sport",
-    "title": "'They made him a defensive player' - Trump questions Kane role in loss",
-    "url": "https://www.bbc.com/sport/football/articles/cjej3y1jgdpo",
+    "title": "One of World Cup's all-time classics - England stun France in thriller",
+    "url": "https://www.bbc.com/sport/football/live/cly5lj1nqdxt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。'They made him a defensive player' - Trump questions Kane role in loss",
+    "core_event": "来自 BBC Sport 的赛事报道。One of World Cup's all-time classics - England stun France in thriller",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "They",
-      "Trump",
-      "Kane"
+      "World Cup",
+      "England",
+      "France"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "White House defends Argentina team over Falklands banner",
-    "url": "https://www.bbc.com/news/articles/cx2rmjk0740o",
-    "category": "injury",
+    "title": "Chelsea agree record £117m deal for Villa's Rogers",
+    "url": "https://www.bbc.com/sport/football/articles/c0ej1jyy8yyo",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Chelsea agree record £117m deal for Villa's Rogers",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Chelsea",
+      "Villa",
+      "Rogers"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Bellingham breaks England World Cup goals record",
+    "url": "https://www.bbc.com/sport/football/articles/c0qvzqlp4pdo",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。White House defends Argentina team over Falklands banner",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "core_event": "来自 BBC Sport 的赛事报道。Bellingham breaks England World Cup goals record",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "White House",
-      "Argentina",
-      "Falklands"
+      "Bellingham",
+      "England World Cup"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Villa complete club record Manzambi signing",
-    "url": "https://www.bbc.com/sport/football/articles/cj365336l52o",
-    "category": "transfer",
+    "title": "Spain's final training session before World Cup final cancelled",
+    "url": "https://www.bbc.com/sport/football/articles/cly878gpgrlo",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Villa complete club record Manzambi signing",
+    "core_event": "来自 BBC Sport 的赛事报道。Spain's final training session before World Cup final cancelled",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Spain",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "The classroom moment that bonds finalists De la Fuente & Scaloni forever",
+    "url": "https://www.bbc.com/sport/football/articles/c98v13rgyrmo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。The classroom moment that bonds finalists De la Fuente & Scaloni forever",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Fuente",
+      "Scaloni"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Tottenham confident of Savinho signing - Sunday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/cn8nypvz22no",
+    "category": "transfer",
+    "emoji_tag": "⚪",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Tottenham confident of Savinho signing - Sunday's gossip",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Villa",
-      "Manzambi"
+      "Tottenham",
+      "Savinho",
+      "Sunday"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Ederson extends Atalanta contract after Man Utd move collapses",
-    "url": "https://www.bbc.com/sport/football/articles/c629dxeye0lo",
+    "title": "The harrowing dark side of England's World Cup exit",
+    "url": "https://www.bbc.com/sport/football/articles/cwymljn8y10o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。The harrowing dark side of England's World Cup exit",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "England",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "A bit 'blah' or a worthy host? Is MetLife right World Cup final choice?",
+    "url": "https://www.bbc.com/sport/football/articles/cvgj5dlr45zo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。A bit 'blah' or a worthy host? Is MetLife right World Cup final choice?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "How did Man Utd's £50m arrival fare on pre-season bow?",
+    "url": "https://www.bbc.com/sport/football/live/c15y5dg0e5et",
     "category": "transfer",
     "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Ederson extends Atalanta contract after Man Utd move collapses",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。How did Man Utd's £50m arrival fare on pre-season bow?",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Ederson",
-      "Atalanta",
       "Man Utd"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Leeds sign £34.1m defender Muharemovic",
-    "url": "https://www.bbc.com/sport/football/articles/c9w0kl9rjpno",
-    "category": "transfer",
+    "title": "World Cup winner Capdevila appeals to Trump after US travel permit denied",
+    "url": "https://www.bbc.com/sport/football/articles/cx2l5jn17yjo",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Leeds sign £34.1m defender Muharemovic",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "core_event": "来自 BBC Sport 的赛事报道。World Cup winner Capdevila appeals to Trump after US travel permit denied",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Leeds",
-      "Muharemovic"
+      "World Cup",
+      "Capdevila",
+      "Trump"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "'Chaos v calm' - Sutton's World Cup final and third-place predictions",
+    "title": "How Villa's record signing Manzambi can spearhead new era",
+    "url": "https://www.bbc.com/sport/football/articles/c5yzyg028gxo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。How Villa's record signing Manzambi can spearhead new era",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "How Villa",
+      "Manzambi"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "'Chaos v calm' - Sutton's World Cup final prediction",
     "url": "https://www.bbc.com/sport/football/articles/c4g3zrgxkzdo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。'Chaos v calm' - Sutton's World Cup final and third-place predictions",
+    "core_event": "来自 BBC Sport 的赛事报道。'Chaos v calm' - Sutton's World Cup final prediction",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
@@ -91,21 +180,6 @@
       "Chaos",
       "Sutton",
       "World Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Liverpool midfielder Szoboszlai signs new five-year deal",
-    "url": "https://www.bbc.com/sport/football/articles/cx2rn4llxxno",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Liverpool midfielder Szoboszlai signs new five-year deal",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 5,
-    "gossip_label": "官方确认",
-    "key_players": [
-      "Liverpool",
-      "Szoboszlai"
     ]
   },
   {
@@ -127,169 +201,106 @@
   },
   {
     "source": "BBC Sport",
-    "title": "How World Cup final could be pivotal in Ballon d'Or race",
-    "url": "https://www.bbc.com/sport/football/articles/c87ngl370p4o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。How World Cup final could be pivotal in Ballon d'Or race",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "How World Cup",
-      "Ballon"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "World Cup rings for winners as Trump attendance confirmed",
-    "url": "https://www.bbc.com/sport/football/articles/cgmk7mnnyjeo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。World Cup rings for winners as Trump attendance confirmed",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "World Cup",
-      "Trump"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "England missing final piece of jigsaw - Kane",
-    "url": "https://www.bbc.com/sport/football/articles/cvgv52dne1mo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。England missing final piece of jigsaw - Kane",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "England",
-      "Kane"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "What happened at Man City's loans exhibition day?",
-    "url": "https://www.bbc.com/sport/football/articles/cpw981n4v19o",
+    "title": "Ederson extends Atalanta contract after Man Utd move collapses",
+    "url": "https://www.bbc.com/sport/football/articles/c629dxeye0lo",
     "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。What happened at Man City's loans exhibition day?",
-    "tactical_financial_impact": "租借操作灵活，不占永久薪资配额，是一种低风险补强策略。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Man City"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "West Ham sign forward Gago and defender Cascarino",
-    "url": "https://www.bbc.com/sport/football/articles/c5yzye502vko",
-    "category": "transfer",
-    "emoji_tag": "⚒️",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。West Ham sign forward Gago and defender Cascarino",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Ederson extends Atalanta contract after Man Utd move collapses",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "West Ham",
-      "Gago",
-      "Cascarino"
+      "Ederson",
+      "Atalanta",
+      "Man Utd"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "New York issues air quality alert days before World Cup final",
-    "url": "https://www.bbc.com/sport/football/articles/c9w0jen8x90o",
+    "title": "The summer a golden generation lost its shine",
+    "url": "https://www.bbc.com/sport/extra/60s97qhdbf/the-golden-generation",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。New York issues air quality alert days before World Cup final",
+    "core_event": "来自 BBC Sport 的赛事报道。The summer a golden generation lost its shine",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
-    "key_players": [
-      "New York",
-      "World Cup"
-    ]
+    "key_players": []
   },
   {
-    "source": "BBC Sport",
-    "title": "Sheffield United manager Wilder extends contract",
-    "url": "https://www.bbc.com/sport/football/articles/ckgd2g7kzxeo",
+    "source": "The Guardian",
+    "title": "Bukayo Saka completes his hat-trick with a penalty Kylian Mbappé scores his 10th goal of the tournament to make it 4-3 Bradley Barcola scores France's second goal to narrow the deficit Bukayo Saka celebrates giving England a 4-0 lead Bukayo Saka slots in for England's third goal Ezri Konsa heads in to double England's lead Declan Rice celebrates opening the scoring in the third minute",
+    "url": "https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Sheffield United manager Wilder extends contract",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Bukayo Saka completes his hat-trick with a penalty Kylian Mbappé scores his 10th goal of the tournament to make it 4-3 Bradley Barcola scores France's second goal to narrow the deficit Bukayo Saka celebrates giving England a 4-0 lead Bukayo Saka slots in for England's third goal Ezri Konsa heads in to double England's lead Declan Rice celebrates opening the scoring in the third minute",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Sheffield United",
-      "Wilder"
+      "Bukayo Saka",
+      "Kylian Mbappé",
+      "Bradley Barcola",
+      "France"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Unbeatables v untouchables? Spain’s run faces ultimate test against Argentina in final",
-    "url": "https://www.theguardian.com/football/2026/jul/17/unbeatables-v-untouchables-spains-run-faces-ultimate-test-in-world-cup-final",
+    "title": "As it happened John Brewin's minute-by-minute report",
+    "url": "https://www.theguardian.com/football/live/2026/jul/18/france-v-england-world-cup-third-place-playoff-live",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Unbeatables v untouchables? Spain’s run faces ultimate test against Argentina in final",
+    "core_event": "来自 The Guardian 的赛事报道。As it happened John Brewin's minute-by-minute report",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Unbeatables",
+      "John Brewin"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Golden Boot Keep up with the tournament top scorers, updated live",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Golden Boot Keep up with the tournament top scorers, updated live",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Golden Boot Keep"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "‘Rifts began to appear’ Why many Latin Americans want Spain to beat Argentina in the final",
+    "url": "https://www.theguardian.com/football/2026/jul/18/argentina-spain-latin-america-support-world-cup-final",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。‘Rifts began to appear’ Why many Latin Americans want Spain to beat Argentina in the final",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Rifts",
+      "Latin Americans",
       "Spain",
       "Argentina"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Ed Aarons England need fearless passers – three Tuchel omissions may point the way",
-    "url": "https://www.theguardian.com/football/2026/jul/17/england-passing-world-cup-thomas-tuchel",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Ed Aarons England need fearless passers – three Tuchel omissions may point the way",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Ed Aarons England",
-      "Tuchel"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Smoke, travel and Trump threaten New York’s grand World Cup finale",
-    "url": "https://www.theguardian.com/football/2026/jul/17/smoke-travel-trump-new-york-world-cup-final",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Smoke, travel and Trump threaten New York’s grand World Cup finale",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Smoke",
-      "Trump",
-      "New York",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "More than 200 Fifa members endorse Infantino for fourth term despite Balogun scandal",
+    "title": "Exclusive More than 200 Fifa members endorse Infantino for fourth term despite Balogun scandal",
     "url": "https://www.theguardian.com/football/2026/jul/17/gianni-infantino-fifa-reelection-more-than-200-countries-endorse-despite-balogun-scandal",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。More than 200 Fifa members endorse Infantino for fourth term despite Balogun scandal",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Exclusive More than 200 Fifa members endorse Infantino for fourth term despite Balogun scandal",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "More",
+      "Exclusive More",
       "Fifa",
       "Infantino",
       "Balogun"
@@ -297,33 +308,165 @@
   },
   {
     "source": "The Guardian",
-    "title": "World Cup 2026: Spain v Argentina countdown, Trump to attend final, England news – as it happened",
-    "url": "https://www.theguardian.com/football/live/2026/jul/17/world-cup-2026-spain-v-argentina-countdown-trump-to-attend-final-england-news-live",
+    "title": "News Smoke, travel and Trump threaten New York’s grand World Cup finale",
+    "url": "https://www.theguardian.com/football/2026/jul/17/smoke-travel-trump-new-york-world-cup-final",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。World Cup 2026: Spain v Argentina countdown, Trump to attend final, England news – as it happened",
+    "core_event": "来自 The Guardian 的赛事报道。News Smoke, travel and Trump threaten New York’s grand World Cup finale",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "News Smoke",
+      "Trump",
+      "New York",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "News White House backs Argentina players over Falklands banner in World Cup semi-final",
+    "url": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。News White House backs Argentina players over Falklands banner in World Cup semi-final",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "News White House",
+      "Argentina",
+      "Falklands",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Interactive Men’s transfer window: all deals from Europe’s top five leagues",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Interactive Men’s transfer window: all deals from Europe’s top five leagues",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Interactive Men",
+      "Europe"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Interactive Women’s transfer window: all deals from world’s top six leagues",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Interactive Women’s transfer window: all deals from world’s top six leagues",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Interactive Women"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff",
+    "url": "https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Saka",
+      "England",
+      "France",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "‘Rifts began to appear’: Why many Latin Americans want Spain to beat Argentina in the World Cup final",
+    "url": "https://www.theguardian.com/football/2026/jul/18/argentina-spain-latin-america-support-world-cup-final",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。‘Rifts began to appear’: Why many Latin Americans want Spain to beat Argentina in the World Cup final",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Rifts",
+      "Latin Americans",
+      "Spain",
+      "Argentina"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "White House backs Argentina players over Falklands banner in World Cup semi-final",
+    "url": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。White House backs Argentina players over Falklands banner in World Cup semi-final",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "White House",
+      "Argentina",
+      "Falklands",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "‘Where did they go?’: homeless people feel force of America’s brutality in World Cup clean-up",
+    "url": "https://www.theguardian.com/football/2026/jul/18/where-did-they-go-homeless-people-feel-force-of-americas-brutality-in-world-cup-clean-up",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。‘Where did they go?’: homeless people feel force of America’s brutality in World Cup clean-up",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Where",
+      "America",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "World Cup 2026 latest: Trump criticises Tuchel, buildup to France v England and Spain v Argentina final – as it happened",
+    "url": "https://www.theguardian.com/football/live/2026/jul/18/world-cup-latest-buildup-france-england-third-place-spain-argentina",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。World Cup 2026 latest: Trump criticises Tuchel, buildup to France v England and Spain v Argentina final – as it happened",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
       "World Cup",
-      "Spain",
-      "Argentina",
-      "Trump"
+      "Trump",
+      "Tuchel",
+      "France"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "‘Adversarial clothing’: are garments designed to confuse facial recognition systems about to go mainstream?",
-    "url": "https://www.theguardian.com/fashion/2026/jul/17/adversarial-clothing-are-garments-designed-to-confuse-facial-recognition-systems-about-to-go-mainstream",
+    "title": "Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking £117m deal",
+    "url": "https://www.theguardian.com/football/2026/jul/18/chelsea-morgan-rogers-aston-villa-117m",
     "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。‘Adversarial clothing’: are garments designed to confuse facial recognition systems about to go mainstream?",
+    "emoji_tag": "🔵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking £117m deal",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Adversarial"
+      "Chelsea",
+      "Morgan Rogers",
+      "Aston Villa"
     ]
   }
 ]
