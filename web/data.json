@@ -1,65 +1,95 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Rodri to have back surgery but Maresca brushes off transfer speculation",
-    "url": "https://www.bbc.com/sport/football/articles/c36dw0nwexxo",
-    "category": "transfer",
-    "emoji_tag": "💰",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Rodri to have back surgery but Maresca brushes off transfer speculation",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 1,
-    "gossip_label": "纯属猜测",
-    "key_players": [
-      "Rodri",
-      "Maresca"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "West Ham winger Summerville joins Al-Hilal",
-    "url": "https://www.bbc.com/sport/football/articles/cevmx0y88vwo",
+    "title": "Could Mount be final piece in Man Utd midfield jigsaw?",
+    "url": "https://www.bbc.com/sport/football/articles/cpd7e8jw9qqo",
     "category": "match_report",
-    "emoji_tag": "⚒️",
-    "core_event": "来自 BBC Sport 的赛事报道。West Ham winger Summerville joins Al-Hilal",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Could Mount be final piece in Man Utd midfield jigsaw?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "West Ham",
-      "Summerville",
-      "Hilal"
+      "Could Mount",
+      "Man Utd"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Messiah or papering over cracks? Klopp must sway doubters in Germany rebuild",
-    "url": "https://www.bbc.com/sport/football/articles/cn8k8llpz2mo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Messiah or papering over cracks? Klopp must sway doubters in Germany rebuild",
-    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Messiah",
-      "Klopp",
-      "Germany"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Chelsea agree deal to sign Palace defender Lacroix",
-    "url": "https://www.bbc.com/sport/football/articles/cp9eyz14y7jo",
+    "title": "Ipswich sign Japan forward Maeda from Celtic",
+    "url": "https://www.bbc.com/sport/football/articles/cx2dgkg5rq0o",
     "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Chelsea agree deal to sign Palace defender Lacroix",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Ipswich sign Japan forward Maeda from Celtic",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Ipswich",
+      "Japan",
+      "Maeda",
+      "Celtic"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "On the move - football's youngest journeymen",
+    "url": "https://www.bbc.com/sport/football/articles/c39e1789j8po",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。On the move - football's youngest journeymen",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": []
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Arsenal explore Vinicius Jr move - Sunday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/c5yw2wqxvjwo",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Arsenal explore Vinicius Jr move - Sunday's gossip",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Arsenal",
+      "Vinicius Jr",
+      "Sunday"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Bodo/Glimt's Hogh to have Celtic medical within 24 hours",
+    "url": "https://www.bbc.com/sport/football/articles/cwymjrm0xlwo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Bodo/Glimt's Hogh to have Celtic medical within 24 hours",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 4,
     "gossip_label": "接近官宣",
     "key_players": [
-      "Chelsea",
-      "Palace",
-      "Lacroix"
+      "Bodo",
+      "Glimt",
+      "Hogh",
+      "Celtic"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Growing concerns before Defoe exit - Woking director",
+    "url": "https://www.bbc.com/sport/football/articles/c9v4y3dr9w0o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Growing concerns before Defoe exit - Woking director",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Growing",
+      "Defoe",
+      "Woking"
     ]
   },
   {
@@ -95,6 +125,38 @@
   },
   {
     "source": "BBC Sport",
+    "title": "Messiah or papering over cracks? Klopp must sway doubters in Germany rebuild",
+    "url": "https://www.bbc.com/sport/football/articles/cn8k8llpz2mo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Messiah or papering over cracks? Klopp must sway doubters in Germany rebuild",
+    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Messiah",
+      "Klopp",
+      "Germany"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "West Ham winger Summerville joins Al-Hilal",
+    "url": "https://www.bbc.com/sport/football/articles/cevmx0y88vwo",
+    "category": "match_report",
+    "emoji_tag": "⚒️",
+    "core_event": "来自 BBC Sport 的赛事报道。West Ham winger Summerville joins Al-Hilal",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "West Ham",
+      "Summerville",
+      "Hilal"
+    ]
+  },
+  {
+    "source": "BBC Sport",
     "title": "Senegal appeal date set after Afcon win overturned",
     "url": "https://www.bbc.com/sport/football/articles/ce9788dmyndo",
     "category": "match_report",
@@ -106,38 +168,6 @@
     "key_players": [
       "Senegal",
       "Afcon"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Real Madrid confident of signing Rodri - Saturday's gossip",
-    "url": "https://www.bbc.com/sport/football/articles/cdx7qq6nkddo",
-    "category": "transfer",
-    "emoji_tag": "⚪",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Real Madrid confident of signing Rodri - Saturday's gossip",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Real Madrid",
-      "Rodri",
-      "Saturday"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Scotland's Gunn concedes four in San Jose debut defeat",
-    "url": "https://www.bbc.com/sport/football/articles/cqlxyvq7n93o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Scotland's Gunn concedes four in San Jose debut defeat",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Scotland",
-      "Gunn",
-      "San Jose"
     ]
   },
   {
@@ -158,121 +188,49 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Norway consider complaint over Balogun World Cup ban suspension",
-    "url": "https://www.bbc.com/sport/football/articles/c1l1vz4n484o",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Norway consider complaint over Balogun World Cup ban suspension",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Norway",
-      "Balogun World Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Leeds in talks to sign Man City keeper Trafford",
-    "url": "https://www.bbc.com/sport/football/articles/clyl7eve9ddo",
+    "title": "Anderson's journey to England star and Man City record signing",
+    "url": "https://www.bbc.com/sport/football/articles/c1eyjvzeg8qo",
     "category": "transfer",
     "emoji_tag": "🩵",
-    "core_event": "BBC Sport 报道，转会谈判正在进行中，细节尚待确认。Leeds in talks to sign Man City keeper Trafford",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 3,
-    "gossip_label": "可靠消息",
-    "key_players": [
-      "Leeds",
-      "Man City",
-      "Trafford"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Hull City owner 'disturbed' by transfer claims",
-    "url": "https://www.bbc.com/sport/football/articles/c79gdrwx4veo",
-    "category": "transfer",
-    "emoji_tag": "💰",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Hull City owner 'disturbed' by transfer claims",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Anderson's journey to England star and Man City record signing",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Hull City"
+      "Anderson",
+      "England",
+      "Man City"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Garnacho joins Villa on loan from Chelsea",
-    "url": "https://www.bbc.com/sport/football/articles/c1d1g6k51l7o",
+    "title": "Modric, 40, signs new AC Milan deal",
+    "url": "https://www.bbc.com/sport/football/articles/cn0nypykzr7o",
     "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Garnacho joins Villa on loan from Chelsea",
-    "tactical_financial_impact": "租借操作灵活，不占永久薪资配额，是一种低风险补强策略。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "emoji_tag": "🔴",
+    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Modric, 40, signs new AC Milan deal",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
     "key_players": [
-      "Garnacho",
-      "Villa",
-      "Chelsea"
+      "Modric",
+      "Milan"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "The summer a golden generation lost its shine",
-    "url": "https://www.bbc.com/sport/extra/60s97qhdbf/the-golden-generation",
+    "title": "Man Utd bring in Leicester goalkeeper Leitzig",
+    "url": "https://www.bbc.com/sport/football/articles/czjle91ry39o",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。The summer a golden generation lost its shine",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": []
-  },
-  {
-    "source": "The Guardian",
-    "title": "Manchester City Maresca accepts 'privilege' of managing club and challenge of following Guardiola",
-    "url": "https://www.theguardian.com/football/2026/jul/24/enzo-maresca-unveiled-new-manchester-city",
-    "category": "match_report",
-    "emoji_tag": "🩵",
-    "core_event": "来自 The Guardian 的赛事报道。Manchester City Maresca accepts 'privilege' of managing club and challenge of following Guardiola",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Man Utd bring in Leicester goalkeeper Leitzig",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Manchester City Maresca",
-      "Guardiola"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Manchester City Anderson lauds City as ‘kings of Manchester’ after £116m Forest transfer",
-    "url": "https://www.theguardian.com/football/2026/jul/23/elliot-anderson-manchester-city-116m-nottingham-forest-transfer-premier-league",
-    "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Manchester City Anderson lauds City as ‘kings of Manchester’ after £116m Forest transfer",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Manchester City Anderson",
-      "City",
-      "Manchester",
-      "Forest"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Manchester City Rodri out for extended period due to back injury",
-    "url": "https://www.theguardian.com/football/2026/jul/23/blow-for-manchester-city-with-rodri-out-for-extended-period-due-to-back-injury",
-    "category": "injury",
-    "emoji_tag": "🩵",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Manchester City Rodri out for extended period due to back injury",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Manchester City Rodri"
+      "Man Utd",
+      "Leicester",
+      "Leitzig"
     ]
   },
   {
@@ -288,6 +246,56 @@
     "key_players": [
       "World Cup",
       "The Guardian"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Spain Argentina behaviour after World Cup final ‘intolerable’, says De la Fuente",
+    "url": "https://www.theguardian.com/football/2026/jul/24/argentina-behaviour-world-cup-final-intolerable-de-la-fuente",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Spain Argentina behaviour after World Cup final ‘intolerable’, says De la Fuente",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Spain Argentina",
+      "World Cup",
+      "Fuente"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Transfer news Arsenal sign Greece forward Tzolis from Club Brugge for £34m",
+    "url": "https://www.theguardian.com/football/2026/jul/23/arsenal-sign-greece-forward-christos-tzolis-from-club-brugge-for-34m",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Transfer news Arsenal sign Greece forward Tzolis from Club Brugge for £34m",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Transfer",
+      "Arsenal",
+      "Greece",
+      "Tzolis"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Transfer window Newcastle sign Monaco’s Bamba, Summerville joins Al-Hilal",
+    "url": "https://www.theguardian.com/football/2026/jul/24/transfers-newcastle-sign-aladji-bamba-monaco",
+    "category": "transfer",
+    "emoji_tag": "⚫",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Transfer window Newcastle sign Monaco’s Bamba, Summerville joins Al-Hilal",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Transfer",
+      "Newcastle",
+      "Monaco",
+      "Bamba"
     ]
   },
   {
@@ -320,19 +328,50 @@
   },
   {
     "source": "The Guardian",
-    "title": "Transfer window Arsenal sign Greece forward Tzolis from Club Brugge for £34m",
-    "url": "https://www.theguardian.com/football/2026/jul/23/arsenal-sign-greece-forward-christos-tzolis-from-club-brugge-for-34m",
+    "title": "Manchester City Maresca accepts 'privilege' and challenge of following Guardiola",
+    "url": "https://www.theguardian.com/football/2026/jul/24/enzo-maresca-unveiled-new-manchester-city",
+    "category": "match_report",
+    "emoji_tag": "🩵",
+    "core_event": "来自 The Guardian 的赛事报道。Manchester City Maresca accepts 'privilege' and challenge of following Guardiola",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Manchester City Maresca",
+      "Guardiola"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Liverpool start Iraola era in style to beat Sunderland but Gomez injury deepens defensive worries",
+    "url": "https://www.theguardian.com/football/2026/jul/26/liverpool-start-iraola-era-in-style-to-beat-sunderland-but-gomez-injury-puts-spotlight-on-defence",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Liverpool start Iraola era in style to beat Sunderland but Gomez injury deepens defensive worries",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Liverpool",
+      "Iraola",
+      "Sunderland",
+      "Gomez"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Arsenal make shock approach to sign Vinícius Júnior from Real Madrid",
+    "url": "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid",
     "category": "transfer",
     "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Transfer window Arsenal sign Greece forward Tzolis from Club Brugge for £34m",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Arsenal make shock approach to sign Vinícius Júnior from Real Madrid",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Transfer",
       "Arsenal",
-      "Greece",
-      "Tzolis"
+      "Vinícius Júnior",
+      "Real Madrid"
     ]
   },
   {
@@ -353,78 +392,74 @@
   },
   {
     "source": "The Guardian",
-    "title": "Transfer news: Newcastle sign Monaco’s Bamba, Summerville joins Al-Hilal",
-    "url": "https://www.theguardian.com/football/2026/jul/24/transfers-newcastle-sign-aladji-bamba-monaco",
+    "title": "Premier League: club-by-club guide to transfer business so far – and what they still need",
+    "url": "https://www.theguardian.com/football/2026/jul/25/premier-league-club-by-club-guide-to-transfer-business-so-far-and-what-they-still-need",
     "category": "transfer",
-    "emoji_tag": "⚫",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Transfer news: Newcastle sign Monaco’s Bamba, Summerville joins Al-Hilal",
+    "emoji_tag": "💰",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Premier League: club-by-club guide to transfer business so far – and what they still need",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Transfer",
-      "Newcastle",
-      "Monaco",
-      "Bamba"
+      "Premier League"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Feeling lost without the World Cup? Six ways to survive the weekend",
-    "url": "https://www.theguardian.com/football/2026/jul/24/feeling-lost-without-the-world-cup-six-ways-to-survive-the-weekend",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Feeling lost without the World Cup? Six ways to survive the weekend",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Feeling",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Trump escalates Smithsonian attack with order for signs outside history museum",
-    "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-smithsonian-history-museum",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "【官方】The Guardian 报道此次转会已正式完成。Trump escalates Smithsonian attack with order for signs outside history museum",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 5,
-    "gossip_label": "官方确认",
-    "key_players": [
-      "Trump",
-      "Smithsonian"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Police say alcohol withdrawal caused woman’s death in California backcountry",
-    "url": "https://www.theguardian.com/us-news/2026/jul/24/joanna-ruth-shields-big-sur-alcohol-withdrawal-cause-of-death",
+    "title": "Defoe’s shock Woking exit came after ‘growing concerns’, says club",
+    "url": "https://www.theguardian.com/football/2026/jul/25/jermain-defoe-woking-exit",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Police say alcohol withdrawal caused woman’s death in California backcountry",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "core_event": "来自 The Guardian 的赛事报道。Defoe’s shock Woking exit came after ‘growing concerns’, says club",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Police",
-      "California"
+      "Defoe",
+      "Woking"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "double quotation mark Trump says he will dismantle the ICC ‘brick by brick’. It could be his most chilling move of all",
-    "url": "https://www.theguardian.com/commentisfree/2026/jul/24/icc-international-criminal-court-trump-putin-netanyahu",
+    "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
     "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。double quotation mark Trump says he will dismantle the ICC ‘brick by brick’. It could be his most chilling move of all",
+    "emoji_tag": "💰",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Trump"
+      "Europe"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "World Cup 2026 awards: the Guardian team give their final tournament verdicts",
+    "url": "https://www.theguardian.com/football/2026/jul/22/world-cup-awards-guardian-team-2026-tournament-verdicts",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。World Cup 2026 awards: the Guardian team give their final tournament verdicts",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "World Cup",
+      "Guardian"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "One killed and 16 injured after van crashes into crowd at Berlin Pride",
+    "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。One killed and 16 injured after van crashes into crowd at Berlin Pride",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Berlin Pride"
     ]
   }
 ]
