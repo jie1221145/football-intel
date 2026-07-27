@@ -1,62 +1,78 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Could Mount be final piece in Man Utd midfield jigsaw?",
-    "url": "https://www.bbc.com/sport/football/articles/cpd7e8jw9qqo",
+    "title": "Gomez injury overshadows winning start for Iraola",
+    "url": "https://www.bbc.com/sport/football/articles/cm2genrg72do",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Could Mount be final piece in Man Utd midfield jigsaw?",
+    "emoji_tag": "🚑",
+    "core_event": "来自 BBC Sport 的赛事报道。Gomez injury overshadows winning start for Iraola",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Could Mount",
-      "Man Utd"
+      "Gomez",
+      "Iraola"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Ipswich sign Japan forward Maeda from Celtic",
-    "url": "https://www.bbc.com/sport/football/articles/cx2dgkg5rq0o",
-    "category": "transfer",
+    "title": "Japan legend Miura, 59, scores first goal since 2022",
+    "url": "https://www.bbc.com/sport/football/articles/c3r087181ndo",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Ipswich sign Japan forward Maeda from Celtic",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "core_event": "来自 BBC Sport 的赛事报道。Japan legend Miura, 59, scores first goal since 2022",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Ipswich",
       "Japan",
-      "Maeda",
-      "Celtic"
+      "Miura"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "On the move - football's youngest journeymen",
-    "url": "https://www.bbc.com/sport/football/articles/c39e1789j8po",
+    "title": "PSG want £145m for Barcola - Monday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/cly5189yjgdo",
     "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。On the move - football's youngest journeymen",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": []
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Arsenal explore Vinicius Jr move - Sunday's gossip",
-    "url": "https://www.bbc.com/sport/football/articles/c5yw2wqxvjwo",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Arsenal explore Vinicius Jr move - Sunday's gossip",
+    "emoji_tag": "🔵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。PSG want £145m for Barcola - Monday's gossip",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Arsenal",
-      "Vinicius Jr",
-      "Sunday"
+      "Barcola",
+      "Monday"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "McInnes teases Rangers signing within 48 hours",
+    "url": "https://www.bbc.com/sport/football/articles/cly9w1eez14o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。McInnes teases Rangers signing within 48 hours",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Rangers"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Richarlison scores as Spurs beat Auckland at Eden Park",
+    "url": "https://www.bbc.com/sport/football/live/ckg4xpg8rkgt",
+    "category": "match_report",
+    "emoji_tag": "⚪",
+    "core_event": "来自 BBC Sport 的赛事报道。Richarlison scores as Spurs beat Auckland at Eden Park",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Richarlison",
+      "Spurs",
+      "Auckland",
+      "Eden Park"
     ]
   },
   {
@@ -78,6 +94,95 @@
   },
   {
     "source": "BBC Sport",
+    "title": "Maynard loses York job three months after title win",
+    "url": "https://www.bbc.com/sport/football/articles/cp87v9ddqvvo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Maynard loses York job three months after title win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Maynard",
+      "York"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Female referee injured in melee during friendly",
+    "url": "https://www.bbc.com/sport/football/articles/cm2gemrn7jdo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Female referee injured in melee during friendly",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Female"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "On the move - football's youngest journeymen",
+    "url": "https://www.bbc.com/sport/football/articles/c39e1789j8po",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。On the move - football's youngest journeymen",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": []
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Could Mount be final piece in Man Utd midfield jigsaw?",
+    "url": "https://www.bbc.com/sport/football/articles/cpd7e8jw9qqo",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Could Mount be final piece in Man Utd midfield jigsaw?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Could Mount",
+      "Man Utd"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Wilson makes Leeds debut in defeat by Wrexham",
+    "url": "https://www.bbc.com/sport/football/articles/cy9wvln2234o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Wilson makes Leeds debut in defeat by Wrexham",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Wilson",
+      "Leeds",
+      "Wrexham"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Ipswich sign Japan forward Maeda from Celtic",
+    "url": "https://www.bbc.com/sport/football/articles/cx2dgkg5rq0o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Ipswich sign Japan forward Maeda from Celtic",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Ipswich",
+      "Japan",
+      "Maeda",
+      "Celtic"
+    ]
+  },
+  {
+    "source": "BBC Sport",
     "title": "Growing concerns before Defoe exit - Woking director",
     "url": "https://www.bbc.com/sport/football/articles/c9v4y3dr9w0o",
     "category": "match_report",
@@ -90,22 +195,6 @@
       "Growing",
       "Defoe",
       "Woking"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Newcastle seal £34m move for Monaco's Bamba",
-    "url": "https://www.bbc.com/sport/football/articles/cr593z81lqno",
-    "category": "transfer",
-    "emoji_tag": "⚫",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Newcastle seal £34m move for Monaco's Bamba",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Newcastle",
-      "Monaco",
-      "Bamba"
     ]
   },
   {
@@ -125,220 +214,155 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Messiah or papering over cracks? Klopp must sway doubters in Germany rebuild",
-    "url": "https://www.bbc.com/sport/football/articles/cn8k8llpz2mo",
+    "title": "Rodri set to undergo back surgery",
+    "url": "https://www.bbc.com/sport/football/articles/c36dw0nwexxo",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Messiah or papering over cracks? Klopp must sway doubters in Germany rebuild",
-    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Rodri set to undergo back surgery",
+    "tactical_financial_impact": "长期缺阵将迫使主帅调整主力阵容，考验替补球员的临场发挥。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Messiah",
-      "Klopp",
-      "Germany"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "West Ham winger Summerville joins Al-Hilal",
-    "url": "https://www.bbc.com/sport/football/articles/cevmx0y88vwo",
-    "category": "match_report",
-    "emoji_tag": "⚒️",
-    "core_event": "来自 BBC Sport 的赛事报道。West Ham winger Summerville joins Al-Hilal",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "West Ham",
-      "Summerville",
-      "Hilal"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Senegal appeal date set after Afcon win overturned",
-    "url": "https://www.bbc.com/sport/football/articles/ce9788dmyndo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Senegal appeal date set after Afcon win overturned",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Senegal",
-      "Afcon"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Hearts sign Mendy for potential Forest Green record fee",
-    "url": "https://www.bbc.com/sport/football/articles/cy8m33l3kk3o",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Hearts sign Mendy for potential Forest Green record fee",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Hearts",
-      "Mendy",
-      "Forest Green"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Anderson's journey to England star and Man City record signing",
-    "url": "https://www.bbc.com/sport/football/articles/c1eyjvzeg8qo",
-    "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Anderson's journey to England star and Man City record signing",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Anderson",
-      "England",
-      "Man City"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Modric, 40, signs new AC Milan deal",
-    "url": "https://www.bbc.com/sport/football/articles/cn0nypykzr7o",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Modric, 40, signs new AC Milan deal",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 5,
-    "gossip_label": "官方确认",
-    "key_players": [
-      "Modric",
-      "Milan"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Man Utd bring in Leicester goalkeeper Leitzig",
-    "url": "https://www.bbc.com/sport/football/articles/czjle91ry39o",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Man Utd bring in Leicester goalkeeper Leitzig",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Man Utd",
-      "Leicester",
-      "Leitzig"
+      "Rodri"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "World Cup awards The Guardian team give their final tournament verdicts",
-    "url": "https://www.theguardian.com/football/2026/jul/22/world-cup-awards-guardian-team-2026-tournament-verdicts",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。World Cup awards The Guardian team give their final tournament verdicts",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "World Cup",
-      "The Guardian"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Spain Argentina behaviour after World Cup final ‘intolerable’, says De la Fuente",
-    "url": "https://www.theguardian.com/football/2026/jul/24/argentina-behaviour-world-cup-final-intolerable-de-la-fuente",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Spain Argentina behaviour after World Cup final ‘intolerable’, says De la Fuente",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Spain Argentina",
-      "World Cup",
-      "Fuente"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Transfer news Arsenal sign Greece forward Tzolis from Club Brugge for £34m",
-    "url": "https://www.theguardian.com/football/2026/jul/23/arsenal-sign-greece-forward-christos-tzolis-from-club-brugge-for-34m",
+    "title": "Transfer window Arsenal make shock approach to sign Vinícius from Real Madrid",
+    "url": "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid",
     "category": "transfer",
     "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Transfer news Arsenal sign Greece forward Tzolis from Club Brugge for £34m",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Transfer window Arsenal make shock approach to sign Vinícius from Real Madrid",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
       "Transfer",
       "Arsenal",
-      "Greece",
-      "Tzolis"
+      "Vinícius",
+      "Real Madrid"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Transfer window Newcastle sign Monaco’s Bamba, Summerville joins Al-Hilal",
-    "url": "https://www.theguardian.com/football/2026/jul/24/transfers-newcastle-sign-aladji-bamba-monaco",
-    "category": "transfer",
-    "emoji_tag": "⚫",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Transfer window Newcastle sign Monaco’s Bamba, Summerville joins Al-Hilal",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "title": "Liverpool Iraola era starts in style but Gomez injury deepens defensive worries",
+    "url": "https://www.theguardian.com/football/2026/jul/26/liverpool-start-iraola-era-in-style-to-beat-sunderland-but-gomez-injury-puts-spotlight-on-defence",
+    "category": "injury",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Liverpool Iraola era starts in style but Gomez injury deepens defensive worries",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Transfer",
-      "Newcastle",
-      "Monaco",
-      "Bamba"
+      "Liverpool Iraola",
+      "Gomez"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Men's transfer interactive All the latest deals from Europe’s top five leagues",
+    "title": "Interactive Men’s transfer window: all deals from Europe’s top five leagues",
     "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
     "category": "transfer",
     "emoji_tag": "🔵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Men's transfer interactive All the latest deals from Europe’s top five leagues",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Interactive Men’s transfer window: all deals from Europe’s top five leagues",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
+      "Interactive Men",
       "Europe"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "World Cup Feeling lost now the party's over? Six ways to survive the weekend",
-    "url": "https://www.theguardian.com/football/2026/jul/24/feeling-lost-without-the-world-cup-six-ways-to-survive-the-weekend",
+    "title": "Real Madrid ready to seal deal for Yan Diomande after PSG pull out of move",
+    "url": "https://www.theguardian.com/football/2026/jul/26/real-madrid-ready-to-seal-deal-for-yan-diomande-after-psg-pull-out-of-move",
     "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。World Cup Feeling lost now the party's over? Six ways to survive the weekend",
+    "emoji_tag": "⚪",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Real Madrid ready to seal deal for Yan Diomande after PSG pull out of move",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "World Cup Feeling"
+      "Real Madrid",
+      "Yan Diomande"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Manchester City Maresca accepts 'privilege' and challenge of following Guardiola",
-    "url": "https://www.theguardian.com/football/2026/jul/24/enzo-maresca-unveiled-new-manchester-city",
+    "title": "Tottenham begin tour with victory over Auckland FC in front of record crowd",
+    "url": "https://www.theguardian.com/football/2026/jul/26/tottenham-begin-tour-with-victory-over-auckland-fc-in-front-of-record-crowd",
     "category": "match_report",
-    "emoji_tag": "🩵",
-    "core_event": "来自 The Guardian 的赛事报道。Manchester City Maresca accepts 'privilege' and challenge of following Guardiola",
+    "emoji_tag": "⚪",
+    "core_event": "来自 The Guardian 的赛事报道。Tottenham begin tour with victory over Auckland FC in front of record crowd",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Manchester City Maresca",
-      "Guardiola"
+      "Tottenham",
+      "Auckland"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Inter enter talks with Tottenham over signing captain Cristian Romero",
+    "url": "https://www.theguardian.com/football/2026/jul/26/inter-enter-talks-with-tottenham-over-signing-captain-cristian-romero-transfer-window",
+    "category": "transfer",
+    "emoji_tag": "⚪",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Inter enter talks with Tottenham over signing captain Cristian Romero",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Inter",
+      "Tottenham",
+      "Cristian Romero"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Arsenal make shock approach to sign Vinícius Júnior from Real Madrid",
+    "url": "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Arsenal make shock approach to sign Vinícius Júnior from Real Madrid",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Arsenal",
+      "Vinícius Júnior",
+      "Real Madrid"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Japan football great ‘King Kazu’ Miura, 59, scores first competitive goal in four years",
+    "url": "https://www.theguardian.com/football/2026/jul/26/japan-football-great-king-kazuyoshi-miura-59-scores-first-competitive-goal-for-four-years",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Japan football great ‘King Kazu’ Miura, 59, scores first competitive goal in four years",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Japan",
+      "King Kazu",
+      "Miura"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+    "category": "transfer",
+    "emoji_tag": "💰",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Europe"
     ]
   },
   {
@@ -360,106 +384,30 @@
   },
   {
     "source": "The Guardian",
-    "title": "Arsenal make shock approach to sign Vinícius Júnior from Real Madrid",
-    "url": "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Arsenal make shock approach to sign Vinícius Júnior from Real Madrid",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Arsenal",
-      "Vinícius Júnior",
-      "Real Madrid"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Argentina behaviour after World Cup final was ‘intolerable’, says De la Fuente",
-    "url": "https://www.theguardian.com/football/2026/jul/24/argentina-behaviour-world-cup-final-intolerable-de-la-fuente",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Argentina behaviour after World Cup final was ‘intolerable’, says De la Fuente",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Argentina",
-      "World Cup",
-      "Fuente"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Premier League: club-by-club guide to transfer business so far – and what they still need",
-    "url": "https://www.theguardian.com/football/2026/jul/25/premier-league-club-by-club-guide-to-transfer-business-so-far-and-what-they-still-need",
-    "category": "transfer",
-    "emoji_tag": "💰",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Premier League: club-by-club guide to transfer business so far – and what they still need",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Premier League"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Defoe’s shock Woking exit came after ‘growing concerns’, says club",
-    "url": "https://www.theguardian.com/football/2026/jul/25/jermain-defoe-woking-exit",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Defoe’s shock Woking exit came after ‘growing concerns’, says club",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Defoe",
-      "Woking"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
-    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-    "category": "transfer",
-    "emoji_tag": "💰",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Europe"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "World Cup 2026 awards: the Guardian team give their final tournament verdicts",
-    "url": "https://www.theguardian.com/football/2026/jul/22/world-cup-awards-guardian-team-2026-tournament-verdicts",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。World Cup 2026 awards: the Guardian team give their final tournament verdicts",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "World Cup",
-      "Guardian"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "One killed and 16 injured after van crashes into crowd at Berlin Pride",
-    "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
+    "title": "Oklahoma influencer killed in apparent murder-suicide by husband, police say",
+    "url": "https://www.theguardian.com/us-news/2026/jul/26/oklahoma-influencer-killed-apparent-murder-suicide",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。One killed and 16 injured after van crashes into crowd at Berlin Pride",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Oklahoma influencer killed in apparent murder-suicide by husband, police say",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Berlin Pride"
+      "Oklahoma"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Why does everything feel so joyless? Welcome to the age of decadence without pleasure",
+    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/age-of-decadence-pleasure-ai",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Why does everything feel so joyless? Welcome to the age of decadence without pleasure",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Welcome"
     ]
   }
 ]
