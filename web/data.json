@@ -1,196 +1,199 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Who could Arsenal sign after missing out on Vinicius Jr?",
-    "url": "https://www.bbc.com/sport/football/articles/c9d84pxqdgno",
+    "title": "A coup for Bezos and a windfall for FSG - where does deal leave Liverpool?",
+    "url": "https://www.bbc.com/sport/football/articles/cvgx311g1zko",
     "category": "transfer",
     "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Who could Arsenal sign after missing out on Vinicius Jr?",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。A coup for Bezos and a windfall for FSG - where does deal leave Liverpool?",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Arsenal",
-      "Vinicius Jr"
+      "Bezos",
+      "Liverpool"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Forest to host Leeds in EFL Cup - second-round draw in full",
-    "url": "https://www.bbc.com/sport/football/articles/c98vm4rz7m7o",
-    "category": "match_report",
+    "title": "Hamer rejoins Coventry City on 'long-term' deal",
+    "url": "https://www.bbc.com/sport/football/articles/c629lp48ykwo",
+    "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Forest to host Leeds in EFL Cup - second-round draw in full",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Hamer rejoins Coventry City on 'long-term' deal",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Hamer",
+      "Coventry City"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Sheff Utd re-sign Man City's Phillips on loan",
+    "url": "https://www.bbc.com/sport/football/articles/c0m7j79j873o",
+    "category": "transfer",
+    "emoji_tag": "🩵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Sheff Utd re-sign Man City's Phillips on loan",
+    "tactical_financial_impact": "租借操作灵活，不占永久薪资配额，是一种低风险补强策略。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Sheff Utd",
+      "Man City",
+      "Phillips"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Palace co-owner Parish spoke to McNeil's partner before move",
+    "url": "https://www.bbc.com/sport/football/articles/cwyjxxg5ze5o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Palace co-owner Parish spoke to McNeil's partner before move",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Palace",
+      "Parish"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Striker snubbed by Scotland for World Cup signs for Sevilla",
+    "url": "https://www.bbc.com/sport/football/articles/c7vgj826nnjo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Striker snubbed by Scotland for World Cup signs for Sevilla",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
+    "key_players": [
+      "Striker",
+      "Scotland",
+      "World Cup",
+      "Sevilla"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Coventry eye Mudryk on loan - Wednesday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/cy5d127gv0go",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Coventry eye Mudryk on loan - Wednesday's gossip",
+    "tactical_financial_impact": "租借操作灵活，不占永久薪资配额，是一种低风险补强策略。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Coventry",
+      "Mudryk",
+      "Wednesday"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Mount set to miss Man Utd's Dublin game with Leeds",
+    "url": "https://www.bbc.com/sport/football/articles/c5y3v4ldlllo",
+    "category": "injury",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Mount set to miss Man Utd's Dublin game with Leeds",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Forest",
+      "Mount",
+      "Man Utd",
+      "Dublin",
       "Leeds"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Villa in talks to sign Bayern's Palhinha",
-    "url": "https://www.bbc.com/sport/football/articles/c1m1krdjk4no",
+    "title": "How £30m Charles became Northern Ireland's most expensive footballer",
+    "url": "https://www.bbc.com/sport/football/articles/cn5n3rl0p0ko",
     "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 报道，转会谈判正在进行中，细节尚待确认。Villa in talks to sign Bayern's Palhinha",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 3,
-    "gossip_label": "可靠消息",
-    "key_players": [
-      "Villa",
-      "Bayern",
-      "Palhinha"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Van de Ven signs new long-term deal with Spurs",
-    "url": "https://www.bbc.com/sport/football/articles/c4g362n1e28o",
-    "category": "transfer",
-    "emoji_tag": "⚪",
-    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Van de Ven signs new long-term deal with Spurs",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 5,
-    "gossip_label": "官方确认",
-    "key_players": [
-      "Spurs"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Forest owner Marinakis sues Palace over gun banner",
-    "url": "https://www.bbc.com/sport/football/articles/czjlwe90py7o",
-    "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Forest owner Marinakis sues Palace over gun banner",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。How £30m Charles became Northern Ireland's most expensive footballer",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Charles",
+      "Northern Ireland"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Pogba expected to have Monaco contract terminated",
+    "url": "https://www.bbc.com/sport/football/articles/c74gvp29jyxo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Pogba expected to have Monaco contract terminated",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Pogba",
+      "Monaco"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Forest sign Sporting's Ivory Coast defender Diomande",
+    "url": "https://www.bbc.com/sport/football/articles/c70g5539dygo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Forest sign Sporting's Ivory Coast defender Diomande",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
       "Forest",
-      "Marinakis",
-      "Palace"
+      "Sporting",
+      "Ivory Coast",
+      "Diomande"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Late Plymouth double beats Exeter in Carabao Cup",
-    "url": "https://www.bbc.com/sport/football/live/cwp9ek70rp3dt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Late Plymouth double beats Exeter in Carabao Cup",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Late Plymouth",
-      "Exeter",
-      "Carabao Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Should Liverpool fans be worried about Iraola's fitness comments?",
-    "url": "https://www.bbc.com/sport/football/articles/cy071ngvnzzo",
-    "category": "injury",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Should Liverpool fans be worried about Iraola's fitness comments?",
-    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Should Liverpool",
-      "Iraola"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "West Ham sign winger Solomon from Tottenham",
-    "url": "https://www.bbc.com/sport/football/articles/cpq8x2ggdnno",
+    "title": "Rangers' Chermiti out for 'significant period' with knee injury",
+    "url": "https://www.bbc.com/sport/football/articles/cwyrkkk1kzqo",
     "category": "transfer",
-    "emoji_tag": "⚪",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。West Ham sign winger Solomon from Tottenham",
+    "emoji_tag": "🚑",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Rangers' Chermiti out for 'significant period' with knee injury",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "West Ham",
-      "Solomon",
-      "Tottenham"
+      "Rangers",
+      "Chermiti"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Championship all-stars to global gamble - will Ipswich's approach work?",
-    "url": "https://www.bbc.com/sport/football/articles/cx2lexp9qjxo",
+    "title": "Does Johnson deal impact Grealish's future?",
+    "url": "https://www.bbc.com/sport/football/teams/everton",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Championship all-stars to global gamble - will Ipswich's approach work?",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Does Johnson deal impact Grealish's future?",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Championship",
-      "Ipswich"
+      "Does Johnson",
+      "Grealish"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Liverpool sign Araujo on loan from Barcelona",
-    "url": "https://www.bbc.com/sport/football/articles/c70gk0ry07ko",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Liverpool sign Araujo on loan from Barcelona",
-    "tactical_financial_impact": "租借操作灵活，不占永久薪资配额，是一种低风险补强策略。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Liverpool",
-      "Araujo",
-      "Barcelona"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Derby 'off market' as takeover deal collapses",
-    "url": "https://www.bbc.com/sport/football/articles/cm2gk7l7yl7o",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Derby 'off market' as takeover deal collapses",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Derby"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "MNC: Iraola’s fitness conundrum, can Rashford succeed at United? Audio, 53 minutes MNC: Iraola’s fitness conundrum, can Rashford succeed at United?",
-    "url": "https://www.bbc.com/sounds/play/p0p3sdmr",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。MNC: Iraola’s fitness conundrum, can Rashford succeed at United? Audio, 53 minutes MNC: Iraola’s fitness conundrum, can Rashford succeed at United?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Iraola",
-      "Rashford",
-      "United",
-      "Audio"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "What are the rules on transfer window player swaps?",
-    "url": "https://www.bbc.com/sport/football/articles/cvgwklkvq7qo",
+    "title": "Why do teams choose not to disclose transfer fees?",
+    "url": "https://www.bbc.com/sport/football/articles/cy0j1284e47o",
     "category": "transfer",
     "emoji_tag": "💰",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。What are the rules on transfer window player swaps?",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Why do teams choose not to disclose transfer fees?",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
@@ -198,183 +201,92 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Parkinson withdraws from England Under-20 camp",
-    "url": "https://www.bbc.com/sport/football/articles/cd0xk2n23ymo",
-    "category": "match_report",
+    "title": "Crystal Palace in talks to re-sign Guessand on loan",
+    "url": "https://www.bbc.com/sport/football/articles/czrjee6gzkxo",
+    "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Parkinson withdraws from England Under-20 camp",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "core_event": "BBC Sport 报道，转会谈判正在进行中，细节尚待确认。Crystal Palace in talks to re-sign Guessand on loan",
+    "tactical_financial_impact": "租借操作灵活，不占永久薪资配额，是一种低风险补强策略。",
+    "gossip_rating": 3,
+    "gossip_label": "可靠消息",
     "key_players": [
-      "Parkinson",
-      "England Under"
+      "Crystal Palace",
+      "Guessand"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Brazilian player falls down tunnel during goal celebration",
-    "url": "https://www.bbc.com/sport/football/articles/cd9wg9x3n55o",
+    "title": "Destination unknown - goalkeeper's 2,000-mile van trip to find new club",
+    "url": "https://www.bbc.com/sport/football/articles/c3ek50x4jkqo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Brazilian player falls down tunnel during goal celebration",
+    "core_event": "来自 BBC Sport 的赛事报道。Destination unknown - goalkeeper's 2,000-mile van trip to find new club",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Brazilian"
+      "Destination"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Premier League Preview No 2: Aston Villa need their big signings to shine",
-    "url": "https://www.theguardian.com/football/2026/aug/10/premier-league-2026-27-preview-no-2-aston-villa",
+    "title": "Djed Spence nears Tottenham exit with Inter in talks over £25.6m move",
+    "url": "https://www.theguardian.com/football/2026/aug/11/djed-spence-nears-tottenham-exit-inter-in-talks-over-move",
     "category": "transfer",
-    "emoji_tag": "🟣",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Premier League Preview No 2: Aston Villa need their big signings to shine",
+    "emoji_tag": "⚪",
+    "core_event": "The Guardian 报道，转会谈判正在进行中，细节尚待确认。Djed Spence nears Tottenham exit with Inter in talks over £25.6m move",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "gossip_rating": 3,
+    "gossip_label": "可靠消息",
     "key_players": [
-      "Premier League Preview",
-      "Aston Villa"
+      "Djed Spence",
+      "Tottenham",
+      "Inter"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Liverpool Araújo joins on loan and Van Dijk hopes for more arrivals before new season",
-    "url": "https://www.theguardian.com/football/2026/aug/10/virgil-van-dijk-ronald-araujo-liverpool",
-    "category": "transfer",
+    "title": "Liverpool, Jeff Bezos and mission creep off the field at Anfield",
+    "url": "https://www.theguardian.com/football/2026/aug/11/football-daily-email-liverpool-jeff-bezos-and-co",
+    "category": "injury",
     "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Liverpool Araújo joins on loan and Van Dijk hopes for more arrivals before new season",
-    "tactical_financial_impact": "租借操作灵活，不占永久薪资配额，是一种低风险补强策略。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Liverpool Araújo",
-      "Van Dijk"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Liverpool owners close to £1.35bn sale of 30% stake to consortium including Jeff Bezos",
-    "url": "https://www.theguardian.com/football/2026/aug/10/liverpool-sale-stake-consortium-jeff-bezos-amazon-fenway-sports-group",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。Liverpool owners close to £1.35bn sale of 30% stake to consortium including Jeff Bezos",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Liverpool, Jeff Bezos and mission creep off the field at Anfield",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
       "Liverpool",
-      "Jeff Bezos"
+      "Jeff Bezos",
+      "Anfield"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Brazilian footballer falls down hole celebrating goal that was then disallowed",
-    "url": "https://www.theguardian.com/football/2026/aug/10/brazilian-footballer-falls-down-hole-celebrating-goal-that-was-then-disallowed",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Brazilian footballer falls down hole celebrating goal that was then disallowed",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Brazilian"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Nottingham Forest owner Marinakis sues Crystal Palace over fan banner",
-    "url": "https://www.theguardian.com/football/2026/aug/10/nottingham-forest-owner-marinakis-sues-crystal-palace-over-fan-banner",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Nottingham Forest owner Marinakis sues Crystal Palace over fan banner",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Nottingham Forest",
-      "Marinakis",
-      "Crystal Palace"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Manchester City closing in on £85m Bouaddi to soften blow of Rodri’s expected exit",
-    "url": "https://www.theguardian.com/football/2026/aug/10/manchester-city-85m-ayyoub-bouaddi-rodri-barcelona-transfer",
+    "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
     "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Manchester City closing in on £85m Bouaddi to soften blow of Rodri’s expected exit",
+    "emoji_tag": "💰",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Manchester City",
-      "Bouaddi",
-      "Rodri"
+      "Europe"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Are Manchester United about to return to relevance under Michael Carrick?",
-    "url": "https://www.theguardian.com/football/2026/aug/10/are-manchester-united-returning-to-relevance",
+    "title": "Dethroned Miss North Carolina USA threatens legal action over title removal",
+    "url": "https://www.theguardian.com/us-news/2026/aug/11/miss-north-carolina-title-brittany-boltinhouse",
     "category": "injury",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Are Manchester United about to return to relevance under Michael Carrick?",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Dethroned Miss North Carolina USA threatens legal action over title removal",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Are Manchester United",
-      "Michael Carrick"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Carabao Cup second-round draw: Chelsea host Luton, Forest at home to Leeds",
-    "url": "https://www.theguardian.com/football/2026/aug/10/carabao-cup-second-round-draw-chelsea-luton-nottingham-forest-leeds",
-    "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 The Guardian 的赛事报道。Carabao Cup second-round draw: Chelsea host Luton, Forest at home to Leeds",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Carabao Cup",
-      "Chelsea",
-      "Luton",
-      "Forest"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
-    "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Scores dead in Colombia after powerful earthquake strikes west of country",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Scores",
-      "Colombia"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Trump signs order attempting to override CDC vaccine schedule and break up MMR shots",
-    "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-vaccines-executive-order-measles",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "【官方】The Guardian 报道此次转会已正式完成。Trump signs order attempting to override CDC vaccine schedule and break up MMR shots",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 5,
-    "gossip_label": "官方确认",
-    "key_players": [
-      "Trump"
+      "Dethroned Miss North",
+      "Carolina"
     ]
   }
 ]
