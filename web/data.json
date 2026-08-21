@@ -1,475 +1,467 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Duran scores twice as Celtic beat LASK to take big step towards Champions League",
-    "url": "https://www.bbc.com/sport/football/live/cm36dyyeyg5jt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Duran scores twice as Celtic beat LASK to take big step towards Champions League",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Duran",
-      "Celtic",
-      "Champions League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Arsenal agree £50m-plus deal to sign Villa's Konsa",
-    "url": "https://www.bbc.com/sport/football/articles/c98vz9jvg0vo",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Arsenal agree £50m-plus deal to sign Villa's Konsa",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
-    "key_players": [
-      "Arsenal",
-      "Villa",
-      "Konsa"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Reijnders leaves Man City for Al-Qadsiah in £52m deal",
-    "url": "https://www.bbc.com/sport/football/articles/c0m7el3zr2eo",
-    "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Reijnders leaves Man City for Al-Qadsiah in £52m deal",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Reijnders",
-      "Man City",
-      "Qadsiah"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Kane plays down returning to Premier League in future",
-    "url": "https://www.bbc.com/sport/football/articles/clylkxekeleo",
+    "title": "McInnes' Rangers serve up stodgy 12-course banquet of huff and puff",
+    "url": "https://www.bbc.com/sport/football/articles/c98v73n24j2o",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Kane plays down returning to Premier League in future",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。McInnes' Rangers serve up stodgy 12-course banquet of huff and puff",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Kane",
-      "Premier League"
+      "Rangers"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Inter close in on £30m deal for Liverpool's Jones",
-    "url": "https://www.bbc.com/sport/football/articles/clye43vge5jo",
+    "title": "Villa £18m bid for Harwood-Bellis rejected by Southampton",
+    "url": "https://www.bbc.com/sport/football/articles/cx27w8kv9lvo",
     "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Inter close in on £30m deal for Liverpool's Jones",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Villa £18m bid for Harwood-Bellis rejected by Southampton",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Inter",
+      "Villa",
+      "Harwood",
+      "Bellis",
+      "Southampton"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Hearts draw with Rapid Vienna in thriller",
+    "url": "https://www.bbc.com/sport/football/live/cvgljje86xpxt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Hearts draw with Rapid Vienna in thriller",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Hearts",
+      "Rapid Vienna"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Liverpool have £50m bid rejected for Brighton's Minteh",
+    "url": "https://www.bbc.com/sport/football/articles/c4gknq7d8d5o",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Liverpool have £50m bid rejected for Brighton's Minteh",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
       "Liverpool",
-      "Jones"
+      "Brighton",
+      "Minteh"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Bidding to beat drop - how Coventry, Ipswich & Hull are shaping up",
-    "url": "https://www.bbc.com/sport/football/articles/ckgvl3qnv29o",
+    "title": "Arsenal exploring Yildiz move - Friday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/czxqvllyg72o",
     "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Bidding to beat drop - how Coventry, Ipswich & Hull are shaping up",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Arsenal exploring Yildiz move - Friday's gossip",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Bidding",
-      "Coventry",
-      "Ipswich",
-      "Hull"
+      "Arsenal",
+      "Yildiz",
+      "Friday"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Questions remain over Vieira deal amid Senegal uncertainty",
-    "url": "https://www.bbc.com/sport/football/articles/cddjvjqd5mro",
-    "category": "transfer",
+    "title": "Hibs eye league phase despite missed penalty in draw with Gent",
+    "url": "https://www.bbc.com/sport/football/live/cqx2rrjp5855t",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Questions remain over Vieira deal amid Senegal uncertainty",
+    "core_event": "来自 BBC Sport 的赛事报道。Hibs eye league phase despite missed penalty in draw with Gent",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Hibs",
+      "Gent"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Joao Pedro set to extend Chelsea deal to 2034",
+    "url": "https://www.bbc.com/sport/football/articles/c79g2z11r81o",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Joao Pedro set to extend Chelsea deal to 2034",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Questions",
-      "Vieira",
-      "Senegal"
+      "Joao Pedro",
+      "Chelsea"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "UEFA Europa League Agg Kairat Kairat (0) Aggregate score 0 plays Anderlecht Anderlecht (0) Aggregate score 0 at 16:00 16:00 on Thu the 20 of Aug",
-    "url": "https://www.bbc.com/sport/football/live/c6kgeeqyz2g3t",
+    "title": "These eight players will help you win FPL",
+    "url": "https://www.bbc.com/sport/football/articles/c4g305xwdr4o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg Kairat Kairat (0) Aggregate score 0 plays Anderlecht Anderlecht (0) Aggregate score 0 at 16:00 16:00 on Thu the 20 of Aug",
+    "core_event": "来自 BBC Sport 的赛事报道。These eight players will help you win FPL",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Europa League Agg",
-      "Kairat Kairat",
-      "Aggregate",
-      "Anderlecht Anderlecht"
+      "These"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "UEFA Europa League Agg Jagiellonia Jagiellonia Białystok (0) Aggregate score 0 plays Iberia Iberia 1999 (0) Aggregate score 0 at 17:00 17:00 on Thu the 20 of Aug",
-    "url": "https://www.bbc.com/sport/football/live/cmkgeeqyzqqnt",
+    "title": "Ronaldinho seeks 300th goal with comeback aged 46",
+    "url": "https://www.bbc.com/sport/football/articles/c2lq5dk0gneo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg Jagiellonia Jagiellonia Białystok (0) Aggregate score 0 plays Iberia Iberia 1999 (0) Aggregate score 0 at 17:00 17:00 on Thu the 20 of Aug",
+    "core_event": "来自 BBC Sport 的赛事报道。Ronaldinho seeks 300th goal with comeback aged 46",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Europa League Agg",
-      "Jagiellonia Jagiellonia",
-      "Aggregate",
-      "Iberia Iberia"
+      "Ronaldinho"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "UEFA Europa League Agg Mjällby Mjällby (0) Aggregate score 0 plays RB Salzburg Red Bull Salzburg (0) Aggregate score 0 at 17:00 17:00 on Thu the 20 of Aug",
-    "url": "https://www.bbc.com/sport/football/live/c6x277eg3ekvt",
+    "title": "Naderi goal gives 10-man Rangers narrow win over Jablonec",
+    "url": "https://www.bbc.com/sport/football/live/ck5y0062qv6et",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg Mjällby Mjällby (0) Aggregate score 0 plays RB Salzburg Red Bull Salzburg (0) Aggregate score 0 at 17:00 17:00 on Thu the 20 of Aug",
+    "core_event": "来自 BBC Sport 的赛事报道。Naderi goal gives 10-man Rangers narrow win over Jablonec",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Europa League Agg",
-      "Aggregate",
-      "Salzburg Red Bull",
-      "Salzburg"
+      "Naderi",
+      "Rangers",
+      "Jablonec"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "UEFA Europa League Agg Beşiktaş Beşiktaş (0) Aggregate score 0 plays Kauno Žalgiris Kauno Žalgiris (0) Aggregate score 0 at 18:00 18:00 on Thu the 20 of Aug",
-    "url": "https://www.bbc.com/sport/football/live/cv8enn65967xt",
+    "title": "Bradford earn Yorkshire derby win over Sheff Wed",
+    "url": "https://www.bbc.com/sport/football/live/cq5y33kdpnv5t",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg Beşiktaş Beşiktaş (0) Aggregate score 0 plays Kauno Žalgiris Kauno Žalgiris (0) Aggregate score 0 at 18:00 18:00 on Thu the 20 of Aug",
+    "core_event": "来自 BBC Sport 的赛事报道。Bradford earn Yorkshire derby win over Sheff Wed",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Europa League Agg",
-      "Aggregate",
-      "Kauno"
+      "Bradford",
+      "Yorkshire",
+      "Sheff Wed"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "UEFA Europa League Agg Egnatia Egnatia Rrogozhinë (0) Aggregate score 0 plays Lillestrøm Lillestrøm (0) Aggregate score 0 at 18:00 18:00 on Thu the 20 of Aug",
-    "url": "https://www.bbc.com/sport/football/live/cmd6992wxg9wt",
+    "title": "Euro Leagues: Serie A season preview & Ronaldinho's Back! Audio, 54 minutes Euro Leagues: Serie A season preview & Ronaldinho's Back!",
+    "url": "https://www.bbc.com/sounds/play/p0p5lkpz",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg Egnatia Egnatia Rrogozhinë (0) Aggregate score 0 plays Lillestrøm Lillestrøm (0) Aggregate score 0 at 18:00 18:00 on Thu the 20 of Aug",
+    "core_event": "来自 BBC Sport 的赛事报道。Euro Leagues: Serie A season preview & Ronaldinho's Back! Audio, 54 minutes Euro Leagues: Serie A season preview & Ronaldinho's Back!",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Europa League Agg",
-      "Egnatia Egnatia",
-      "Aggregate"
+      "Euro Leagues",
+      "Serie",
+      "Ronaldinho",
+      "Back"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "UEFA Europa League Agg Lech Lech Poznań (0) Aggregate score 0 plays Thun Thun (0) Aggregate score 0 at 18:00 18:00 on Thu the 20 of Aug",
-    "url": "https://www.bbc.com/sport/football/live/cr0qvvg4ppzwt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg Lech Lech Poznań (0) Aggregate score 0 plays Thun Thun (0) Aggregate score 0 at 18:00 18:00 on Thu the 20 of Aug",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "title": "Spurs in talks to sign Man City's Savinho and Marmoush",
+    "url": "https://www.bbc.com/sport/football/articles/cz645z0w3ypo",
+    "category": "transfer",
+    "emoji_tag": "🩵",
+    "core_event": "BBC Sport 报道，转会谈判正在进行中，细节尚待确认。Spurs in talks to sign Man City's Savinho and Marmoush",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 3,
+    "gossip_label": "可靠消息",
     "key_players": [
-      "Europa League Agg",
-      "Lech Lech",
-      "Aggregate",
-      "Thun Thun"
+      "Spurs",
+      "Man City",
+      "Savinho",
+      "Marmoush"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "UEFA Europa League Agg Trabzonspor Trabzonspor (0) Aggregate score 0 plays Ferencváros Ferencváros (0) Aggregate score 0 at 18:00 18:00 on Thu the 20 of Aug",
-    "url": "https://www.bbc.com/sport/football/live/c5x277egp13pt",
+    "title": "West Brom's Heggebo banned for 'handball goal'",
+    "url": "https://www.bbc.com/sport/football/articles/c7vg26r2yd1o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg Trabzonspor Trabzonspor (0) Aggregate score 0 plays Ferencváros Ferencváros (0) Aggregate score 0 at 18:00 18:00 on Thu the 20 of Aug",
+    "core_event": "来自 BBC Sport 的赛事报道。West Brom's Heggebo banned for 'handball goal'",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Europa League Agg",
-      "Trabzonspor Trabzonspor",
-      "Aggregate",
-      "Ferencváros Ferencváros"
+      "West Brom",
+      "Heggebo"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "UEFA Europa League Agg U Craiova Universitatea Craiova (0) Aggregate score 0 plays Ararat-Armenia Ararat-Armenia (0) Aggregate score 0 at 18:00 18:00 on Thu the 20 of Aug",
-    "url": "https://www.bbc.com/sport/football/live/crlyllve2pket",
-    "category": "match_report",
+    "title": "Cancelo makes 'dream' Barca move after Al-Hilal exit",
+    "url": "https://www.bbc.com/sport/football/articles/c20j30vnxkmo",
+    "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Agg U Craiova Universitatea Craiova (0) Aggregate score 0 plays Ararat-Armenia Ararat-Armenia (0) Aggregate score 0 at 18:00 18:00 on Thu the 20 of Aug",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Cancelo makes 'dream' Barca move after Al-Hilal exit",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "Europa League Agg",
-      "Craiova Universitatea Craiova",
-      "Aggregate",
-      "Ararat"
+      "Cancelo",
+      "Barca",
+      "Hilal"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Liverpool Jones set to leave as Inter submit £30m offer for midfielder",
-    "url": "https://www.theguardian.com/football/2026/aug/19/inter-liverpool-30m-curtis-jones-transfer-window-premier-league",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Liverpool Jones set to leave as Inter submit £30m offer for midfielder",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "title": "Coventry Lampard wants Sky Blues to play without fear on top-flight return",
+    "url": "https://www.theguardian.com/football/2026/aug/20/frank-lampard-coventry-play-without-fear-premier-league",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Coventry Lampard wants Sky Blues to play without fear on top-flight return",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Liverpool Jones",
-      "Inter"
+      "Coventry Lampard",
+      "Sky Blues"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Transfer news Manchester United make £65m offer for Brighton’s Baleba",
-    "url": "https://www.theguardian.com/football/2026/aug/19/manchester-united-brighton-carlos-baleba",
+    "title": "Transfer news Liverpool see £50m bid for Minteh rejected by Brighton",
+    "url": "https://www.theguardian.com/football/2026/aug/20/liverpool-see-50m-bid-for-yankuba-minteh-rejected-by-brighton",
     "category": "transfer",
     "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Transfer news Manchester United make £65m offer for Brighton’s Baleba",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Transfer news Liverpool see £50m bid for Minteh rejected by Brighton",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
       "Transfer",
-      "Manchester United",
-      "Brighton",
-      "Baleba"
+      "Liverpool",
+      "Minteh",
+      "Brighton"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Football Daily Sensible soccer: are clubs actually signing the players they need?",
-    "url": "https://www.theguardian.com/football/2026/aug/19/sensible-soccer-clubs-signing-players-transfers-football-daily",
+    "title": "Fifa ‘He must resign’: Fans’ petition calls for Infantino to quit as president",
+    "url": "https://www.theguardian.com/football/2026/aug/20/fans-petition-infantino-resignation-fifa-president",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Football Daily Sensible soccer: are clubs actually signing the players they need?",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Fifa ‘He must resign’: Fans’ petition calls for Infantino to quit as president",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Football Daily Sensible"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Fifth Fifa vice-president turns against Infantino, saying he has ‘lost confidence’ in him",
-    "url": "https://www.theguardian.com/football/2026/aug/19/fifth-fifa-vice-president-turns-against-infantino-saying-he-has-lost-confidence-in-him",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Fifth Fifa vice-president turns against Infantino, saying he has ‘lost confidence’ in him",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Fifth Fifa",
+      "Fifa",
+      "Fans",
       "Infantino"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Manchester City target Roma’s Manu Koné as Spurs talk over Savinho and Marmoush deal",
-    "url": "https://www.theguardian.com/football/2026/aug/19/manchester-city-target-romas-manu-kone-as-spurs-talk-over-savinho-and-marmoush-deal",
-    "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Manchester City target Roma’s Manu Koné as Spurs talk over Savinho and Marmoush deal",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Manchester City",
-      "Roma",
-      "Manu Koné",
-      "Spurs"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa",
-    "url": "https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
-    "key_players": [
-      "Arsenal",
-      "Ezri Konsa",
-      "Aston Villa"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "‘Believe your eyes’: Masters says Premier League’s integrity cannot be doubted",
-    "url": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。‘Believe your eyes’: Masters says Premier League’s integrity cannot be doubted",
-    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Believe",
-      "Masters",
-      "Premier League"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "‘He doubted’: Mourinho says Real Madrid did not want Rodri after hesitation over move",
-    "url": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer",
-    "category": "transfer",
-    "emoji_tag": "⚪",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。‘He doubted’: Mourinho says Real Madrid did not want Rodri after hesitation over move",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Mourinho",
-      "Real Madrid",
-      "Rodri"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Curtis Jones set to leave Liverpool as Inter submit £30m offer for midfielder",
-    "url": "https://www.theguardian.com/football/2026/aug/19/inter-liverpool-30m-curtis-jones-transfer-window-premier-league",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Curtis Jones set to leave Liverpool as Inter submit £30m offer for midfielder",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Curtis Jones",
-      "Liverpool",
-      "Inter"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Manchester United make £65m offer for Brighton’s Carlos Baleba",
-    "url": "https://www.theguardian.com/football/2026/aug/19/manchester-united-brighton-carlos-baleba",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Manchester United make £65m offer for Brighton’s Carlos Baleba",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Manchester United",
-      "Brighton",
-      "Carlos Baleba"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "My Edinburgh fringe odyssey: ‘The nudity is expressive, shocking – sometimes harrowing’",
-    "url": "https://www.theguardian.com/stage/2026/aug/19/my-edinburgh-fringe-odyssey-the-nudity-is-expressive-shocking-sometimes-harrowing",
+    "title": "West Ham Hammers condemn ‘offensive and divisive’ chant about Israel winger Solomon",
+    "url": "https://www.theguardian.com/football/2026/aug/20/west-ham-condemn-offensive-divisive-chant-about-israel-winger-manor-solomon",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。My Edinburgh fringe odyssey: ‘The nudity is expressive, shocking – sometimes harrowing’",
+    "emoji_tag": "⚒️",
+    "core_event": "来自 The Guardian 的赛事报道。West Ham Hammers condemn ‘offensive and divisive’ chant about Israel winger Solomon",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "My Edinburgh"
+      "West Ham Hammers",
+      "Israel",
+      "Solomon"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "A moment that changed me: my husband died – and birds began behaving strangely towards me",
-    "url": "https://www.theguardian.com/lifeandstyle/2026/aug/19/a-moment-that-changed-me-my-husband-died-and-birds-began-behaving-strangely-towards-me",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。A moment that changed me: my husband died – and birds began behaving strangely towards me",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": []
-  },
-  {
-    "source": "The Guardian",
-    "title": "Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
-    "url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Zuckerberg",
-      "Meta"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "The men I see in therapy did everything right. So why do they feel so empty?",
-    "url": "https://www.theguardian.com/society/ng-interactive/2026/aug/19/men-therapy-achievement-grief",
+    "title": "The Recap Sign up for our free email of editors' highlights",
+    "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。The men I see in therapy did everything right. So why do they feel so empty?",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。The Recap Sign up for our free email of editors' highlights",
+    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "The Recap Sign"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Manchester United Frugal or foolish? Board may regret not backing Carrick in transfer window",
+    "url": "https://www.theguardian.com/football/2026/aug/20/manchester-united-may-regret-not-backing-michael-carrick",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Manchester United Frugal or foolish? Board may regret not backing Carrick in transfer window",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
-    "key_players": []
+    "key_players": [
+      "Manchester United Frugal",
+      "Board",
+      "Carrick"
+    ]
   },
   {
     "source": "The Guardian",
-    "title": "Christian metal band sues Netflix over KPop Demon Hunters name",
-    "url": "https://www.theguardian.com/film/2026/aug/19/kpop-demon-hunters-netflix-lawsuit",
+    "title": "Ligue 1 PSG’s home opener moved to Rennes after pitch damaged by extreme heat",
+    "url": "https://www.theguardian.com/football/2026/aug/20/psgs-ligue-1-home-opener-moved-to-rennes-after-paris-pitch-damaged-by-heat",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Ligue 1 PSG’s home opener moved to Rennes after pitch damaged by extreme heat",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Ligue",
+      "Rennes"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Premier League returns and Arsenal sense opportunity with rivals in flux",
+    "url": "https://www.theguardian.com/football/2026/aug/20/premier-league-returns-arsenal-sense-opportunity",
     "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Christian metal band sues Netflix over KPop Demon Hunters name",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Premier League returns and Arsenal sense opportunity with rivals in flux",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Christian",
-      "Netflix",
-      "Demon Hunters"
+      "Premier League",
+      "Arsenal"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Ronaldinho, 46, on mission of love and happiness – and maybe goals – at Serie C’s Ravenna",
+    "url": "https://www.theguardian.com/football/2026/aug/20/ronaldinho-46-serie-c-ravenna-unveiling-comeback",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Ronaldinho, 46, on mission of love and happiness – and maybe goals – at Serie C’s Ravenna",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Ronaldinho",
+      "Serie",
+      "Ravenna"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Liverpool see £50m bid for Yankuba Minteh rejected by Brighton",
+    "url": "https://www.theguardian.com/football/2026/aug/20/liverpool-see-50m-bid-for-yankuba-minteh-rejected-by-brighton",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Liverpool see £50m bid for Yankuba Minteh rejected by Brighton",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Liverpool",
+      "Yankuba Minteh",
+      "Brighton"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "European playoffs: Rangers scrape first-leg win as Brighton draw in Norway",
+    "url": "https://www.theguardian.com/football/2026/aug/20/european-playoffs-rangers-scrape-first-leg-win-as-brighton-draw-in-norway",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。European playoffs: Rangers scrape first-leg win as Brighton draw in Norway",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "European",
+      "Rangers",
+      "Brighton",
+      "Norway"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Academic who accused Jason Arday of plagiarism suspended by his university",
+    "url": "https://www.theguardian.com/uk-news/2026/aug/20/academic-who-accused-jason-arday-of-plagiarism-suspended-by-his-university",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Academic who accused Jason Arday of plagiarism suspended by his university",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Academic",
+      "Jason Arday"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "double quotation mark Fat people cannot win, regardless of what we do. And I’ve had enough",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/20/john-goodman-weight-loss-drugs-ozempic-fat-people-cannot-win",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。double quotation mark Fat people cannot win, regardless of what we do. And I’ve had enough",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": []
+  },
+  {
+    "source": "The Guardian",
+    "title": "Mark Zuckerberg buys 440-acre Strancally castle estate in Ireland",
+    "url": "https://www.theguardian.com/world/2026/aug/20/mark-zuckerberg-buys-440-acre-strancally-castle-estate-in-ireland",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Mark Zuckerberg buys 440-acre Strancally castle estate in Ireland",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Mark Zuckerberg",
+      "Strancally",
+      "Ireland"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Progressive Aisha Wahab wins California special election to fill Eric Swalwell seat",
+    "url": "https://www.theguardian.com/us-news/2026/aug/20/california-special-election-results-eric-swalwell",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Progressive Aisha Wahab wins California special election to fill Eric Swalwell seat",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Progressive Aisha Wahab",
+      "California",
+      "Eric Swalwell"
     ]
   }
 ]
