@@ -1,283 +1,279 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Why Chelsea need more than a new goalkeeper to be title challengers",
-    "url": "https://www.bbc.com/sport/football/articles/cwyzpez3x3go",
-    "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 BBC Sport 的赛事报道。Why Chelsea need more than a new goalkeeper to be title challengers",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Why Chelsea"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "How did Rashford do on return to Man Utd XI? Player ratings",
-    "url": "https://www.bbc.com/sport/football/articles/cx2z6kkqdxqo",
-    "category": "injury",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。How did Rashford do on return to Man Utd XI? Player ratings",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Rashford",
-      "Man Utd",
-      "Player"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Watkins completes £51m move to Saudi side Al-Hilal",
-    "url": "https://www.bbc.com/sport/football/articles/c70le5gllyeo",
+    "title": "Man City open talks with Chelsea over Fernandez move",
+    "url": "https://www.bbc.com/sport/football/articles/ckgvrlme148o",
     "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Watkins completes £51m move to Saudi side Al-Hilal",
+    "emoji_tag": "🔵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man City open talks with Chelsea over Fernandez move",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Watkins",
-      "Saudi",
-      "Hilal"
+      "Man City",
+      "Chelsea",
+      "Fernandez"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Why Man Utd goal was allowed to stand - despite Maguire 'handball'",
-    "url": "https://www.bbc.com/sport/football/articles/c62ewy19w2ro",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Why Man Utd goal was allowed to stand - despite Maguire 'handball'",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Why Man Utd",
-      "Maguire"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Is 'bitty' Pittodrie win turning point for McInnes and Rangers?",
-    "url": "https://www.bbc.com/sport/football/articles/ckgwz6g45lpo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Is 'bitty' Pittodrie win turning point for McInnes and Rangers?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Pittodrie",
-      "Rangers"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Bellingham scores as Mourinho's Real win again",
-    "url": "https://www.bbc.com/sport/football/live/cmvgyx9y35n8t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Bellingham scores as Mourinho's Real win again",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Bellingham",
-      "Mourinho",
-      "Real"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Arbeloa angry with Fulham after loss to Sunderland",
-    "url": "https://www.bbc.com/sport/football/live/cq8e3lw3rk3pt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Arbeloa angry with Fulham after loss to Sunderland",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Arbeloa",
-      "Fulham",
-      "Sunderland"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Fernandes hat-trick helps Man Utd recover to beat Ipswich",
-    "url": "https://www.bbc.com/sport/football/live/cmkg8vx8wxept",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Fernandes hat-trick helps Man Utd recover to beat Ipswich",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Fernandes",
-      "Man Utd",
-      "Ipswich"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Calvert-Lewin earns Leeds draw against Brentford",
-    "url": "https://www.bbc.com/sport/football/live/cmq8jxqj2vpet",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Calvert-Lewin earns Leeds draw against Brentford",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Calvert",
-      "Lewin",
-      "Leeds",
-      "Brentford"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Barcelona close to deal for Arsenal's Jesus",
-    "url": "https://www.bbc.com/sport/football/articles/c9qr79jr1qqo",
+    "title": "Man City's £80m move for Gakpo close to collapse",
+    "url": "https://www.bbc.com/sport/football/articles/crm97epp2l4o",
     "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Barcelona close to deal for Arsenal's Jesus",
+    "emoji_tag": "🩵",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Man City's £80m move for Gakpo close to collapse",
+    "tactical_financial_impact": "本次转会金额巨大，将对俱乐部的财政健康和 FFP 合规性构成压力。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Man City",
+      "Gakpo"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Man City agree £65m deal for Everton's Ndiaye",
+    "url": "https://www.bbc.com/sport/football/articles/c80453nj9gno",
+    "category": "transfer",
+    "emoji_tag": "🩵",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Man City agree £65m deal for Everton's Ndiaye",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 4,
     "gossip_label": "接近官宣",
     "key_players": [
-      "Barcelona",
-      "Arsenal",
-      "Jesus"
+      "Man City",
+      "Everton",
+      "Ndiaye"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Abdulmalik breaks Vardy's non-league transfer record",
-    "url": "https://www.bbc.com/sport/football/articles/cx2zvw14e8zo",
+    "title": "The transfers to watch before window closes",
+    "url": "https://www.bbc.com/sport/football/articles/c7v433lejveo",
     "category": "transfer",
     "emoji_tag": "💰",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Abdulmalik breaks Vardy's non-league transfer record",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。The transfers to watch before window closes",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
-    "key_players": [
-      "Abdulmalik",
-      "Vardy"
-    ]
+    "key_players": []
   },
   {
     "source": "BBC Sport",
-    "title": "Kanga makes instant Motherwell impact in epic draw at St Mirren",
-    "url": "https://www.bbc.com/sport/football/live/cm89jlxjwy7zt",
+    "title": "How did match-winner Saka do? Aston Villa v Arsenal ratings",
+    "url": "https://www.bbc.com/sport/football/articles/cpwlxkynjvno",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Kanga makes instant Motherwell impact in epic draw at St Mirren",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Kanga",
-      "Motherwell",
-      "St Mirren"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Barcola - the 'grasshopper' who has overcome setbacks",
-    "url": "https://www.bbc.com/sport/football/articles/ceqewejnpr3o",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Barcola - the 'grasshopper' who has overcome setbacks",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Barcola"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Chelsea beat Brighton in seven-goal thriller to maintain perfect start",
-    "url": "https://www.bbc.com/sport/football/live/ck86x9wxl3x8t",
-    "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 BBC Sport 的赛事报道。Chelsea beat Brighton in seven-goal thriller to maintain perfect start",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。How did match-winner Saka do? Aston Villa v Arsenal ratings",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Chelsea",
-      "Brighton"
+      "Saka",
+      "Aston Villa",
+      "Arsenal"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Tottenham make Ndiaye move with Richarlison set for Everton",
-    "url": "https://www.bbc.com/sport/football/articles/crl631pgxj7o",
+    "title": "Arsenal explore move for winger Fofana - Tuesday gossip",
+    "url": "https://www.bbc.com/sport/football/articles/cwyz130nxkro",
     "category": "transfer",
-    "emoji_tag": "⚪",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Tottenham make Ndiaye move with Richarlison set for Everton",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Arsenal explore move for winger Fofana - Tuesday gossip",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Tottenham",
-      "Ndiaye",
-      "Richarlison",
-      "Everton"
+      "Arsenal",
+      "Fofana",
+      "Tuesday"
     ]
   },
   {
-    "source": "The Guardian",
-    "title": "Report Carrick hails Man Utd’s grit after five-goal rout of Ipswich",
-    "url": "https://www.theguardian.com/football/2026/aug/30/michael-carrick-manchester-united-ipswich-premier-league",
+    "source": "BBC Sport",
+    "title": "Saka scores again as Arsenal beat Aston Villa",
+    "url": "https://www.bbc.com/sport/football/live/cr93ep2n2ppdt",
     "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Report Carrick hails Man Utd’s grit after five-goal rout of Ipswich",
+    "core_event": "来自 BBC Sport 的赛事报道。Saka scores again as Arsenal beat Aston Villa",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Report Carrick",
-      "Man Utd",
-      "Ipswich"
+      "Saka",
+      "Arsenal",
+      "Aston Villa"
     ]
   },
   {
-    "source": "The Guardian",
-    "title": "Report Fernandes fires hat-trick as Manchester United fight back to thrash Ipswich",
-    "url": "https://www.theguardian.com/football/2026/aug/30/manchester-united-ipswich-premier-league-match-report",
-    "category": "match_report",
+    "source": "BBC Sport",
+    "title": "Barcola joins Liverpool from PSG in £123m move",
+    "url": "https://www.bbc.com/sport/football/articles/c9qrj4p58j4o",
+    "category": "transfer",
     "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Report Fernandes fires hat-trick as Manchester United fight back to thrash Ipswich",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Barcola joins Liverpool from PSG in £123m move",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "Report Fernandes",
-      "Manchester United",
-      "Ipswich"
+      "Barcola",
+      "Liverpool"
     ]
   },
   {
-    "source": "The Guardian",
-    "title": "No 8 Everton's new-look attack chasing goals at Goodison",
-    "url": "https://www.theguardian.com/football/2026/aug/29/womens-super-league-2026-27-preview-no-8-everton",
+    "source": "BBC Sport",
+    "title": "Goals, records, tears ... Messi's most iconic moments",
+    "url": "https://www.bbc.com/sport/football/articles/c74x9zd83vlo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。No 8 Everton's new-look attack chasing goals at Goodison",
+    "core_event": "来自 BBC Sport 的赛事报道。Goals, records, tears ... Messi's most iconic moments",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
+    "key_players": [
+      "Goals",
+      "Messi"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Raphinha & Lamine Yamal score twice in Barca win",
+    "url": "https://www.bbc.com/sport/football/live/cq3d7vy8ye01t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Raphinha & Lamine Yamal score twice in Barca win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Raphinha",
+      "Lamine Yamal",
+      "Barca"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Everton agree £40m fee for Monaco striker Balogun",
+    "url": "https://www.bbc.com/sport/football/articles/c780wzlzl45o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Everton agree £40m fee for Monaco striker Balogun",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
     "key_players": [
       "Everton",
-      "Goodison"
+      "Monaco",
+      "Balogun"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Kushner states regret over World Cup sell-off plan",
+    "url": "https://www.bbc.com/sport/football/articles/c780w17lw02o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Kushner states regret over World Cup sell-off plan",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Kushner",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Man City sign Palmeiras winger Allan for £34m",
+    "url": "https://www.bbc.com/sport/football/articles/crer89qjgydo",
+    "category": "transfer",
+    "emoji_tag": "🩵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man City sign Palmeiras winger Allan for £34m",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Man City",
+      "Palmeiras",
+      "Allan"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Forest complete £22m Munoz signing from Palace",
+    "url": "https://www.bbc.com/sport/football/articles/cn5d7k4nkyvo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Forest complete £22m Munoz signing from Palace",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Forest",
+      "Munoz",
+      "Palace"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Hull agree £22m fee for Everton's Iroegbunam",
+    "url": "https://www.bbc.com/sport/football/articles/ce9eny2r9j0o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Hull agree £22m fee for Everton's Iroegbunam",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Hull",
+      "Everton",
+      "Iroegbunam"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "How they stand Premier League table after two rounds of fixtures",
+    "url": "https://www.theguardian.com/football/premierleague/table",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。How they stand Premier League table after two rounds of fixtures",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Premier League"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Men's transfer interactive All the latest deals from Europe’s top five leagues",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Men's transfer interactive All the latest deals from Europe’s top five leagues",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Europe"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Transfer window Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
+    "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun",
+    "category": "transfer",
+    "emoji_tag": "⚫",
+    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。Transfer window Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
+    "tactical_financial_impact": "租借操作灵活，不占永久薪资配额，是一种低风险补强策略。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Transfer",
+      "Juventus",
+      "Woltemade",
+      "Everton"
     ]
   },
   {
@@ -297,109 +293,145 @@
   },
   {
     "source": "The Guardian",
-    "title": "Marcus Rashford’s Manchester United return feels like a marriage of convenience",
-    "url": "https://www.theguardian.com/football/2026/aug/30/marcus-rashford-manchester-united-return-old-trafford",
+    "title": "Serie A Fiorentina’s renaissance feels a way off after chastening centenary",
+    "url": "https://www.theguardian.com/football/2026/aug/31/fiorentina-serie-a-renaissance-chastening-centenary-frosinone",
     "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Marcus Rashford’s Manchester United return feels like a marriage of convenience",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Serie A Fiorentina’s renaissance feels a way off after chastening centenary",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Marcus Rashford",
-      "Manchester United"
+      "Serie",
+      "Fiorentina"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Aston Villa and Chelsea still enemies despite transfer pipeline, insists Emery",
-    "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-chelsea-still-enemies-transfer-pipeline-unai-emery",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Aston Villa and Chelsea still enemies despite transfer pipeline, insists Emery",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Aston Villa",
-      "Chelsea",
-      "Emery"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Chelsea hold off Brighton in 4-3 win but remain chaotic under Xabi Alonso",
-    "url": "https://www.theguardian.com/football/2026/aug/30/chelsea-brighton-premier-league-match-report",
+    "title": "Saka settles gruelling battle with Aston Villa to extend Arsenal’s winning start",
+    "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-arsenal-premier-league-match-report",
     "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 The Guardian 的赛事报道。Chelsea hold off Brighton in 4-3 win but remain chaotic under Xabi Alonso",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Saka settles gruelling battle with Aston Villa to extend Arsenal’s winning start",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Chelsea",
-      "Brighton",
-      "Xabi Alonso"
+      "Saka",
+      "Aston Villa",
+      "Arsenal"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Transfer roundup: Ollie Watkins completes move to Al-Hilal from Aston Villa",
-    "url": "https://www.theguardian.com/football/2026/aug/30/transfer-roundup-ollie-watkins-al-hilal-aston-villa",
+    "title": "Manchester City gazump Spurs over Iliman Ndiaye and eye Enzo Fernández deal",
+    "url": "https://www.theguardian.com/football/2026/aug/31/manchester-city-spurs-iliman-ndiaye-enzo-fernandez-deal-richarlison-mudryk",
     "category": "transfer",
-    "emoji_tag": "🟣",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Transfer roundup: Ollie Watkins completes move to Al-Hilal from Aston Villa",
+    "emoji_tag": "🩵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Manchester City gazump Spurs over Iliman Ndiaye and eye Enzo Fernández deal",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
+    "key_players": [
+      "Manchester City",
+      "Spurs",
+      "Iliman Ndiaye",
+      "Enzo Fernández"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Arsenal trying to lure Julián Álvarez after agreeing deals to sell Martinelli and Jesus",
+    "url": "https://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfers",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。Arsenal trying to lure Julián Álvarez after agreeing deals to sell Martinelli and Jesus",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Arsenal",
+      "Julián",
+      "Martinelli",
+      "Jesus"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Liverpool sign Barcola in £123m deal and expect Gakpo to stay after City offer £80m",
+    "url": "https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Liverpool sign Barcola in £123m deal and expect Gakpo to stay after City offer £80m",
+    "tactical_financial_impact": "本次转会金额巨大，将对俱乐部的财政健康和 FFP 合规性构成压力。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Liverpool",
+      "Barcola",
+      "Gakpo",
+      "City"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+    "category": "transfer",
+    "emoji_tag": "💰",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Europe"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Transfer latest: Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
+    "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun",
+    "category": "transfer",
+    "emoji_tag": "⚫",
+    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。Transfer latest: Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
+    "tactical_financial_impact": "租借操作灵活，不占永久薪资配额，是一种低风险补强策略。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
     "key_players": [
       "Transfer",
-      "Ollie Watkins",
-      "Hilal",
-      "Aston Villa"
+      "Juventus",
+      "Woltemade",
+      "Everton"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Fernandes fires hat-trick as Manchester United fight back to thrash Ipswich",
-    "url": "https://www.theguardian.com/football/2026/aug/30/manchester-united-ipswich-premier-league-match-report",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Fernandes fires hat-trick as Manchester United fight back to thrash Ipswich",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Fernandes",
-      "Manchester United",
-      "Ipswich"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "The sadistic online groomers targeting victims around the world – and a mother’s struggle to keep her daughter safe",
-    "url": "https://www.theguardian.com/society/ng-interactive/2026/aug/31/online-extortion-grooming-764-social-media-apps-ntwnfb",
+    "title": "Hiker, 91, becomes oldest person to complete grueling Appalachian Trail",
+    "url": "https://www.theguardian.com/us-news/2026/aug/31/oldest-hiker-appalachian-trail",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。The sadistic online groomers targeting victims around the world – and a mother’s struggle to keep her daughter safe",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Hiker, 91, becomes oldest person to complete grueling Appalachian Trail",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
-    "key_players": []
+    "key_players": [
+      "Hiker",
+      "Appalachian Trail"
+    ]
   },
   {
     "source": "The Guardian",
-    "title": "At least 15 people may be missing after flash flood in Arizona’s Grand Canyon",
-    "url": "https://www.theguardian.com/us-news/2026/aug/30/grand-canyon-flash-flood-arizona-people-missing-evacuated",
-    "category": "injury",
+    "title": "US army secretary Dan Driscoll resigns over reported friction with Pete Hegseth",
+    "url": "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns",
+    "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。At least 15 people may be missing after flash flood in Arizona’s Grand Canyon",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "core_event": "【官方】The Guardian 报道此次转会已正式完成。US army secretary Dan Driscoll resigns over reported friction with Pete Hegseth",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
     "key_players": [
-      "Arizona",
-      "Grand Canyon"
+      "Dan Driscoll",
+      "Pete Hegseth"
     ]
   }
 ]
