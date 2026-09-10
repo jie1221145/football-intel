@@ -1,17 +1,182 @@
 [
   {
     "source": "BBC Sport",
-    "title": "From shot-shy to shoot on sight - Villa find a way to win",
-    "url": "https://www.bbc.com/sport/football/articles/c62j655pe81o",
+    "title": "Mac Allister scores winner as Liverpool beat Atletico Madrid - report and ratings",
+    "url": "https://www.bbc.com/sport/football/live/c670lnjz8n42t",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。From shot-shy to shoot on sight - Villa find a way to win",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Mac Allister scores winner as Liverpool beat Atletico Madrid - report and ratings",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "From",
-      "Villa"
+      "Mac Allister",
+      "Liverpool",
+      "Atletico Madrid"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Odegaard hits Arsenal winner to sink Napoli - report & ratings",
+    "url": "https://www.bbc.com/sport/football/live/c6z9zywpj3l5t",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Odegaard hits Arsenal winner to sink Napoli - report & ratings",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Odegaard",
+      "Arsenal",
+      "Napoli"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Miovski sparks wild celebrations as Rangers scrape past St Mirren",
+    "url": "https://www.bbc.com/sport/football/live/c539mxklrv0vt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Miovski sparks wild celebrations as Rangers scrape past St Mirren",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Miovski",
+      "Rangers",
+      "St Mirren"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Ruthless Raphinha inspires Barcelona to Feyenoord win",
+    "url": "https://www.bbc.com/sport/football/live/cq20v1lmez51t",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。Ruthless Raphinha inspires Barcelona to Feyenoord win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Ruthless Raphinha",
+      "Barcelona",
+      "Feyenoord"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Baur goal earns much-changed leaders Celtic win at St Johnstone",
+    "url": "https://www.bbc.com/sport/football/live/c699d10vgmkyt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Baur goal earns much-changed leaders Celtic win at St Johnstone",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Baur",
+      "Celtic",
+      "St Johnstone"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Torres hat-trick gets holders PSG off to winning start",
+    "url": "https://www.bbc.com/sport/football/live/cwdr75lj633yt",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。Torres hat-trick gets holders PSG off to winning start",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Torres"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Charlton and QPR miss chance to go top with draw",
+    "url": "https://www.bbc.com/sport/football/live/cke872d10y05t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Charlton and QPR miss chance to go top with draw",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Charlton"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Sporting put three past Galatasaray to claim opening win",
+    "url": "https://www.bbc.com/sport/football/live/c6n4kg7zlg44t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Sporting put three past Galatasaray to claim opening win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Sporting",
+      "Galatasaray"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Messi agrees to buy second Spanish club",
+    "url": "https://www.bbc.com/sport/football/articles/c99dmky78d3o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Messi agrees to buy second Spanish club",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 4,
+    "gossip_label": "接近官宣",
+    "key_players": [
+      "Messi",
+      "Spanish"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "'Spoke brilliantly' but Liverpool fans torn on Mac Allister contract comments",
+    "url": "https://www.bbc.com/sport/football/articles/c3v4379d4ylo",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。'Spoke brilliantly' but Liverpool fans torn on Mac Allister contract comments",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Spoke",
+      "Liverpool",
+      "Mac Allister"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "After 717 days and nine 'career over' diagnoses, player makes 'surreal' return",
+    "url": "https://www.bbc.com/sport/football/articles/c93e9vn9vgvo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。After 717 days and nine 'career over' diagnoses, player makes 'surreal' return",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": []
+  },
+  {
+    "source": "BBC Sport",
+    "title": "'This Is Anfield' sign fetches £115k at auction",
+    "url": "https://www.bbc.com/news/articles/c87ve5vw953o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。'This Is Anfield' sign fetches £115k at auction",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "This Is Anfield"
     ]
   },
   {
@@ -32,65 +197,16 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Parrott scores again as Betis beat 10-man Lille",
-    "url": "https://www.bbc.com/sport/football/live/cvp8djz1pyylt",
+    "title": "Who are the record Champions League goalscorers?",
+    "url": "https://www.bbc.com/sport/football/articles/cgk0yyepkxjo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Parrott scores again as Betis beat 10-man Lille",
+    "core_event": "来自 BBC Sport 的赛事报道。Who are the record Champions League goalscorers?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Parrott",
-      "Betis",
-      "Lille"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "London amateur goalkeeper could be next in line for Ugandan throne",
-    "url": "https://www.bbc.com/sport/football/articles/c86x0q008e5o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。London amateur goalkeeper could be next in line for Ugandan throne",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "London",
-      "Ugandan"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Haaland nets double as Man City begin Champions League with win at Porto - report and ratings",
-    "url": "https://www.bbc.com/sport/football/live/cr86xj0yd7y2t",
-    "category": "match_report",
-    "emoji_tag": "🩵",
-    "core_event": "来自 BBC Sport 的赛事报道。Haaland nets double as Man City begin Champions League with win at Porto - report and ratings",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Haaland",
-      "Man City",
-      "Champions League",
-      "Porto"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Karetsas leaves pitch with 'circulatory problems' in Dortmund win",
-    "url": "https://www.bbc.com/sport/football/live/cwdr7gk2pzxrt",
-    "category": "match_report",
-    "emoji_tag": "🟡",
-    "core_event": "来自 BBC Sport 的赛事报道。Karetsas leaves pitch with 'circulatory problems' in Dortmund win",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Karetsas",
-      "Dortmund"
+      "Champions League"
     ]
   },
   {
@@ -110,283 +226,173 @@
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Bowen double helps West Ham beat Bolton to go top",
-    "url": "https://www.bbc.com/sport/football/live/cv4g58j208lrt",
-    "category": "match_report",
-    "emoji_tag": "⚒️",
-    "core_event": "来自 BBC Sport 的赛事报道。Bowen double helps West Ham beat Bolton to go top",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Bowen",
-      "West Ham",
-      "Bolton"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Villa end winless start with Champions League victory in Brugge - report and ratings",
-    "url": "https://www.bbc.com/sport/football/live/cq62jg67rl35t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Villa end winless start with Champions League victory in Brugge - report and ratings",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Villa",
-      "Champions League",
-      "Brugge"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Strand Larsen scores twice as Palace beat Boro in EFL Cup",
-    "url": "https://www.bbc.com/sport/football/live/ck209x1j2xjlt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Strand Larsen scores twice as Palace beat Boro in EFL Cup",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Strand Larsen",
-      "Palace",
-      "Boro"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Humphrys stars as Bradford win at Orient in EFL Cup",
-    "url": "https://www.bbc.com/sport/football/live/cwy7z0yj208dt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Humphrys stars as Bradford win at Orient in EFL Cup",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Humphrys",
-      "Bradford",
-      "Orient"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Talbi scores as Sunderland beat Hull in EFL Cup",
-    "url": "https://www.bbc.com/sport/football/live/c6ge4nr8pn8yt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Talbi scores as Sunderland beat Hull in EFL Cup",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Talbi",
-      "Sunderland",
-      "Hull"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Impressive Southampton end Swansea's unbeaten start",
-    "url": "https://www.bbc.com/sport/football/live/ck5ylger74ylt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Impressive Southampton end Swansea's unbeaten start",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Impressive Southampton",
-      "Swansea"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Wrexham come back to deny Burnley a first win",
-    "url": "https://www.bbc.com/sport/football/live/c6y4z80w27m3t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Wrexham come back to deny Burnley a first win",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Wrexham",
-      "Burnley"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Watford fight back to beat wasteful Preston",
-    "url": "https://www.bbc.com/sport/football/live/ck7903l54d75t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Watford fight back to beat wasteful Preston",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Watford",
-      "Preston"
-    ]
-  },
-  {
     "source": "The Guardian",
-    "title": "Premier League Clubs face losing lucrative sponsors if unlicensed gambling firms banned",
-    "url": "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government",
+    "title": "Football Weekly Haaland at the double as Champions League returns",
+    "url": "https://www.theguardian.com/football/video/2026/sep/09/haaland-at-the-double-as-champions-league-returns-football-weekly-video-podcast",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Premier League Clubs face losing lucrative sponsors if unlicensed gambling firms banned",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Football Weekly Haaland at the double as Champions League returns",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Premier League Clubs"
+      "Football Weekly Haaland",
+      "Champions League"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Liverpool Liverpool agree £60m-a-year shirt sponsorship deal with Turkish Airlines",
-    "url": "https://www.theguardian.com/football/2026/sep/08/liverpool-agree-shirt-sponsorship-deal-turkish-airlines",
+    "title": "Moving the Goalposts Sign up for our free women’s football email",
+    "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
     "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "据 The Guardian，双方谈判进入最终阶段，签约进展顺利。Liverpool Liverpool agree £60m-a-year shirt sponsorship deal with Turkish Airlines",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Moving the Goalposts Sign up for our free women’s football email",
+    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "Liverpool Liverpool",
-      "Turkish Airlines"
+      "Moving",
+      "Goalposts Sign"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Real Madrid somehow cling on to beat Inter on José Mourinho’s big night",
-    "url": "https://www.theguardian.com/football/2026/sep/08/real-madrid-inter-champions-league-match-report",
+    "title": "Alexis Mac Allister makes his point as Liverpool fight back to defeat Atlético",
+    "url": "https://www.theguardian.com/football/2026/sep/09/liverpool-atletico-madrid-champions-league-match-report",
     "category": "match_report",
-    "emoji_tag": "⚪",
-    "core_event": "来自 The Guardian 的赛事报道。Real Madrid somehow cling on to beat Inter on José Mourinho’s big night",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Alexis Mac Allister makes his point as Liverpool fight back to defeat Atlético",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
-    "key_players": [
-      "Real Madrid",
-      "Inter",
-      "José Mourinho"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Haaland double gives Manchester City ideal Champions League start in Porto",
-    "url": "https://www.theguardian.com/football/2026/sep/08/porto-manchester-city-champions-league-match-report",
-    "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Haaland double gives Manchester City ideal Champions League start in Porto",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Haaland",
-      "Manchester City",
-      "Champions League",
-      "Porto"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Alexis Mac Allister ‘very sad’ Liverpool have not offered him a new contract",
-    "url": "https://www.theguardian.com/football/2026/sep/08/alexis-mac-allister-sad-liverpool-did-not-offer-new-contract",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Alexis Mac Allister ‘very sad’ Liverpool have not offered him a new contract",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
     "key_players": [
       "Alexis Mac Allister",
-      "Liverpool"
+      "Liverpool",
+      "Atlético"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "First-half treble powers Aston Villa to Champions League win at Club Brugge",
-    "url": "https://www.theguardian.com/football/2026/sep/08/club-brugge-aston-villa-champions-league-match-report",
+    "title": "Ødegaard ‘edge’ delights Arteta as Arsenal secure narrow win at Napoli",
+    "url": "https://www.theguardian.com/football/2026/sep/09/napoli-arsenal-champions-league-match-report",
     "category": "match_report",
-    "emoji_tag": "🟣",
-    "core_event": "来自 The Guardian 的赛事报道。First-half treble powers Aston Villa to Champions League win at Club Brugge",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Ødegaard ‘edge’ delights Arteta as Arsenal secure narrow win at Napoli",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "First",
-      "Aston Villa",
-      "Champions League",
-      "Club Brugge"
+      "Arteta",
+      "Arsenal",
+      "Napoli"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Ex-60 Minutes managing editor says fired staffers ‘refused to be accomplices’ in show’s ‘destruction’",
-    "url": "https://www.theguardian.com/media/2026/sep/08/60-minutes-managing-editor-facebook-post",
+    "title": "Cole Palmer powers Chelsea to comeback win over Leeds in nine-goal epic",
+    "url": "https://www.theguardian.com/football/2026/sep/09/chelsea-leeds-carabao-cup-third-round-match-report",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 The Guardian 的赛事报道。Cole Palmer powers Chelsea to comeback win over Leeds in nine-goal epic",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Cole Palmer",
+      "Chelsea",
+      "Leeds"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Rosario ‘grabbed my bottom’ during Manchester City’s win at Porto, claims Haaland",
+    "url": "https://www.theguardian.com/football/2026/sep/09/erling-haaland-pablo-rosario-manchester-city-porto-champions-league",
+    "category": "match_report",
+    "emoji_tag": "🩵",
+    "core_event": "来自 The Guardian 的赛事报道。Rosario ‘grabbed my bottom’ during Manchester City’s win at Porto, claims Haaland",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Rosario",
+      "Manchester City",
+      "Porto",
+      "Haaland"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years?",
+    "url": "https://www.theguardian.com/football/2026/sep/09/mens-ballon-d-or-2026-winner-harry-kane-rodri-kylian-mbappe",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Ex-60 Minutes managing editor says fired staffers ‘refused to be accomplices’ in show’s ‘destruction’",
+    "core_event": "来自 The Guardian 的赛事报道。Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Minutes"
+      "Ballon",
+      "English"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Tiafoe completes epic comeback to break Michelsen’s heart at US Open",
-    "url": "https://www.theguardian.com/sport/2026/sep/08/frances-tiafoe-alex-michelsen-us-open-quarter-final",
+    "title": "Carrick up for ‘magical’ Champions League but derby timing ‘not ideal’",
+    "url": "https://www.theguardian.com/football/2026/sep/09/michael-carrick-manchester-united-sabah-champions-league-old-trafford",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Tiafoe completes epic comeback to break Michelsen’s heart at US Open",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Carrick up for ‘magical’ Champions League but derby timing ‘not ideal’",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Tiafoe",
-      "Michelsen",
-      "Open"
+      "Carrick",
+      "Champions League"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Last Seen review – this gripping Apple TV thriller is one of the standout shows of the year",
-    "url": "https://www.theguardian.com/tv-and-radio/2026/sep/09/last-seen-review-gripping-apple-tv-thriller-standout-shows-2026",
+    "title": "Live Trump claims he will give $5,000 to every American if Republicans win the midterms as he defends Iran war and tariffs– live",
+    "url": "https://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Last Seen review – this gripping Apple TV thriller is one of the standout shows of the year",
+    "core_event": "来自 The Guardian 的赛事报道。Live Trump claims he will give $5,000 to every American if Republicans win the midterms as he defends Iran war and tariffs– live",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Last Seen",
-      "Apple"
+      "Live Trump",
+      "American",
+      "Republicans",
+      "Iran"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Ukraine war briefing: Kyiv books in 1,000 Patriots as UK and EU open up missile aid",
-    "url": "https://www.theguardian.com/world/2026/sep/09/ukraine-war-briefing-kyiv-books-in-1000-patriots-as-uk-and-eu-open-up-missile-aid",
-    "category": "injury",
+    "title": "I climbed into the car with three friends. I woke in hospital to find I’d lost them all – and my legs",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/sep/09/i-lost-everything-lost-my-friends-lost-my-legs-rob-pike-accident-changed-life",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Ukraine war briefing: Kyiv books in 1,000 Patriots as UK and EU open up missile aid",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "core_event": "来自 The Guardian 的赛事报道。I climbed into the car with three friends. I woke in hospital to find I’d lost them all – and my legs",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": []
+  },
+  {
+    "source": "The Guardian",
+    "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
+    "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Ukraine",
-      "Kyiv",
-      "Patriots"
+      "Uganda",
+      "Invictus Games",
+      "King Charles"
     ]
   }
 ]
