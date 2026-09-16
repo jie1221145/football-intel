@@ -1,6 +1,209 @@
 [
   {
     "source": "BBC Sport",
+    "title": "Szoboszlai stunner helps Liverpool knock out Spurs",
+    "url": "https://www.bbc.com/sport/football/live/cx980d6p7l20t",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Szoboszlai stunner helps Liverpool knock out Spurs",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Szoboszlai",
+      "Liverpool",
+      "Spurs"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Watch Sportscene highlights of wins for Aberdeen, Falkirk & Kilmarnock",
+    "url": "https://www.bbc.com/sport/football/live/cwzrzk6xvkk0t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Watch Sportscene highlights of wins for Aberdeen, Falkirk & Kilmarnock",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Watch Sportscene",
+      "Aberdeen",
+      "Falkirk",
+      "Kilmarnock"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Gray 'will continue until told otherwise' - but has Hibs boss lost the fans?",
+    "url": "https://www.bbc.com/sport/football/articles/cvwyzwr5g76go",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Gray 'will continue until told otherwise' - but has Hibs boss lost the fans?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Gray",
+      "Hibs"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Dowman scores twice as Arsenal beat Ipswich",
+    "url": "https://www.bbc.com/sport/football/live/cwm2q8eym8vjt",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Dowman scores twice as Arsenal beat Ipswich",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Dowman",
+      "Arsenal",
+      "Ipswich"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Bobb's first Fulham goal seals win at West Ham",
+    "url": "https://www.bbc.com/sport/football/live/cwm2rdlj5d17t",
+    "category": "match_report",
+    "emoji_tag": "⚒️",
+    "core_event": "来自 BBC Sport 的赛事报道。Bobb's first Fulham goal seals win at West Ham",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Bobb",
+      "Fulham",
+      "West Ham"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Falkirk stun Hearts to earn first win of season",
+    "url": "https://www.bbc.com/sport/football/live/c9gk5nz8ln84t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Falkirk stun Hearts to earn first win of season",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Falkirk",
+      "Hearts"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Carvalho returns with winner as Brentford beat Reading",
+    "url": "https://www.bbc.com/sport/football/live/cqevwz1nr23nt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Carvalho returns with winner as Brentford beat Reading",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Carvalho",
+      "Brentford",
+      "Reading"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Boro come from two down to draw with Millwall",
+    "url": "https://www.bbc.com/sport/football/live/c8kg7q4xk074t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Boro come from two down to draw with Millwall",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Boro",
+      "Millwall"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Struggling Kilmarnock condemn Hibs to sixth home loss in row",
+    "url": "https://www.bbc.com/sport/football/live/c6pq051yr5p7t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Struggling Kilmarnock condemn Hibs to sixth home loss in row",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Struggling Kilmarnock",
+      "Hibs"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Lincoln beat ex-boss Skubala's Bristol City",
+    "url": "https://www.bbc.com/sport/football/live/c6n9w57z033lt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Lincoln beat ex-boss Skubala's Bristol City",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Lincoln",
+      "Skubala",
+      "Bristol City"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Peterborough beat Barnsley on penalties in EFL Cup",
+    "url": "https://www.bbc.com/sport/football/live/c5x2zjpgwxlgt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Peterborough beat Barnsley on penalties in EFL Cup",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Peterborough",
+      "Barnsley"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Tuchel regrets not eating Azteca turf after win over Mexico",
+    "url": "https://www.bbc.com/sport/football/articles/cq4g5r8kwx9zo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Tuchel regrets not eating Azteca turf after win over Mexico",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Tuchel",
+      "Azteca",
+      "Mexico"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Cardiff to host 2029 women's Champions League final",
+    "url": "https://www.bbc.com/sport/football/articles/cmrer2j8lnr2o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Cardiff to host 2029 women's Champions League final",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Cardiff",
+      "Champions League"
+    ]
+  },
+  {
+    "source": "BBC Sport",
     "title": "'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?",
     "url": "https://www.bbc.com/sport/football/articles/cv1j49220j93o",
     "category": "match_report",
@@ -14,54 +217,6 @@
       "Calvert",
       "Lewin",
       "England"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Leeds move third as they hit four against Newcastle",
-    "url": "https://www.bbc.com/sport/football/live/ckz7z14eelwjt",
-    "category": "transfer",
-    "emoji_tag": "⚫",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Leeds move third as they hit four against Newcastle",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Leeds",
-      "Newcastle"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Madueke a target for Euro loans - Tuesday's gossip",
-    "url": "https://www.bbc.com/sport/football/articles/c6kg0dvv4drko",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Madueke a target for Euro loans - Tuesday's gossip",
-    "tactical_financial_impact": "租借操作灵活，不占永久薪资配额，是一种低风险补强策略。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Madueke",
-      "Euro",
-      "Tuesday"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Calvert-Lewin stars but Botman struggles - player ratings for Leeds v Newcastle",
-    "url": "https://www.bbc.com/sport/football/articles/c6790xr3wvr7o",
-    "category": "match_report",
-    "emoji_tag": "⚫",
-    "core_event": "来自 BBC Sport 的赛事报道。Calvert-Lewin stars but Botman struggles - player ratings for Leeds v Newcastle",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Calvert",
-      "Lewin",
-      "Botman",
-      "Leeds"
     ]
   },
   {
@@ -81,282 +236,66 @@
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Intelligence & resilience key in statement win for Maresca's Man City - Murphy",
-    "url": "https://www.bbc.com/sport/football/articles/cq6384g0pqyo",
+    "source": "The Guardian",
+    "title": "As it happened Read Scott Murray's minute-by-minute report from Anfield",
+    "url": "https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live",
     "category": "match_report",
-    "emoji_tag": "🩵",
-    "core_event": "来自 BBC Sport 的赛事报道。Intelligence & resilience key in statement win for Maresca's Man City - Murphy",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。As it happened Read Scott Murray's minute-by-minute report from Anfield",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Intelligence",
-      "Maresca",
-      "Man City",
-      "Murphy"
+      "Read Scott Murray",
+      "Anfield"
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "MNC: VAR controversy in the Manchester derby & Rangers dominate Old Firm. Audio, 52 minutes MNC: VAR controversy in the Manchester derby & Rangers dominate Old Firm",
-    "url": "https://www.bbc.com/sounds/play/p0p9mkw3",
+    "source": "The Guardian",
+    "title": "Football Weekly Kane on target, Barcelona stay perfect and Ballon d’Or debate",
+    "url": "https://www.theguardian.com/football/video/2026/sep/15/kane-on-target-barcelona-stay-perfect-and-ballon-dor-debate-football-weekly-video",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Football Weekly Kane on target, Barcelona stay perfect and Ballon d’Or debate",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Football Weekly Kane",
+      "Barcelona",
+      "Ballon"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Max Dowman doubles up for Arsenal’s back-ups to beat Ipswich in Carabao Cup",
+    "url": "https://www.theguardian.com/football/2026/sep/15/ipswich-arsenal-carabao-cup-third-round-match-report",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。MNC: VAR controversy in the Manchester derby & Rangers dominate Old Firm. Audio, 52 minutes MNC: VAR controversy in the Manchester derby & Rangers dominate Old Firm",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Max Dowman doubles up for Arsenal’s back-ups to beat Ipswich in Carabao Cup",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Manchester",
-      "Rangers",
-      "Old Firm",
-      "Audio"
+      "Max Dowman",
+      "Arsenal",
+      "Ipswich",
+      "Carabao Cup"
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "How many times has a Premier League gameweek had no home wins?",
-    "url": "https://www.bbc.com/sport/football/articles/cqlwkzde10qo",
+    "source": "The Guardian",
+    "title": "All supporting acts withdraw from Ed Sheeran’s tour in solidarity with Macklemore",
+    "url": "https://www.theguardian.com/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。How many times has a Premier League gameweek had no home wins?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Premier League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Derry City pegged back for a draw in Waterford",
-    "url": "https://www.bbc.com/sport/football/live/c933k6g44z5jt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Derry City pegged back for a draw in Waterford",
+    "core_event": "来自 The Guardian 的赛事报道。All supporting acts withdraw from Ed Sheeran’s tour in solidarity with Macklemore",
     "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Derry City",
-      "Waterford"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Twenty-five years in the waiting - Coventry's nightmare top-flight return",
-    "url": "https://www.bbc.com/sport/football/articles/c4g7pezw1mjo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Twenty-five years in the waiting - Coventry's nightmare top-flight return",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Twenty",
-      "Coventry"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Arsenal drop points, Ballon d'Or nominations & new fertility support funds. Audio, 49 minutes Arsenal drop points, Ballon d'Or nominations & new fertility support funds",
-    "url": "https://www.bbc.com/sounds/play/p0p9lrc6",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Arsenal drop points, Ballon d'Or nominations & new fertility support funds. Audio, 49 minutes Arsenal drop points, Ballon d'Or nominations & new fertility support funds",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Arsenal",
-      "Ballon",
-      "Audio"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Maldini driving licence suspended after car crash",
-    "url": "https://www.bbc.com/sport/football/articles/c9gk5ezz5l4ko",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Maldini driving licence suspended after car crash",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Maldini"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Two games, two defeats - are Olid's Man Utd in trouble?",
-    "url": "https://www.bbc.com/sport/football/articles/cvgykg48nxdo",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Two games, two defeats - are Olid's Man Utd in trouble?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Olid",
-      "Man Utd"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Kane scores 150th Bayern goal in win over Elversberg",
-    "url": "https://www.bbc.com/sport/football/live/cq804dk2glj0t",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Kane scores 150th Bayern goal in win over Elversberg",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Kane",
-      "Bayern",
-      "Elversberg"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Ronaldo demands lifetime bans over Jota chants",
-    "url": "https://www.bbc.com/sport/football/articles/cgjqd3n9ppeo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Ronaldo demands lifetime bans over Jota chants",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Ronaldo",
-      "Jota"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Top scorers Who is leading race for the Premier League's golden boot?",
-    "url": "https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Top scorers Who is leading race for the Premier League's golden boot?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Premier League"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Pro Ref Arsenal demand meeting over penalty decision at Sunderland",
-    "url": "https://www.theguardian.com/football/2026/sep/14/arsenal-pro-ref-sunderland-penalty-meeting-explanation",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Pro Ref Arsenal demand meeting over penalty decision at Sunderland",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Pro Ref Arsenal",
-      "Sunderland"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "WSL roundup Arsenal rue misses in Palace draw, City sweep Villa aside",
-    "url": "https://www.theguardian.com/football/2026/sep/13/wsl-roundup-arsenal-crystal-palace-aston-villa-manchester-city",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。WSL roundup Arsenal rue misses in Palace draw, City sweep Villa aside",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Arsenal",
-      "Palace",
-      "City",
-      "Villa"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "VARs who wrongly confirmed Haaland’s goal at Manchester United are stood down",
-    "url": "https://www.theguardian.com/football/2026/sep/14/vars-erling-haaland-goal-manchester-united-stood-down-wrongly-allowed",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。VARs who wrongly confirmed Haaland’s goal at Manchester United are stood down",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Haaland",
-      "Manchester United"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Cristiano Ronaldo calls for lifetime bans in Saudi Pro League after Diogo Jota chants",
-    "url": "https://www.theguardian.com/football/2026/sep/13/cristiano-ronaldo-diogo-jota-ruben-neves-chants-saudi-pro-league",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Cristiano Ronaldo calls for lifetime bans in Saudi Pro League after Diogo Jota chants",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Cristiano Ronaldo",
-      "Saudi Pro League",
-      "Diogo Jota"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Calvert-Lewin shows the way as Leeds thrash limp Newcastle and rise to third",
-    "url": "https://www.theguardian.com/football/2026/sep/14/leeds-newcastle-premier-league-match-report",
-    "category": "match_report",
-    "emoji_tag": "⚫",
-    "core_event": "来自 The Guardian 的赛事报道。Calvert-Lewin shows the way as Leeds thrash limp Newcastle and rise to third",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Calvert",
-      "Lewin",
-      "Leeds",
-      "Newcastle"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Haaland goal should not have stood but VAR made the right call with Sunderland penalty",
-    "url": "https://www.theguardian.com/football/2026/sep/14/var-referee-matt-donohue-erling-haaland-goal-manchester-derby",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Haaland goal should not have stood but VAR made the right call with Sunderland penalty",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Haaland",
-      "Sunderland"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Arsenal demand meeting with Pro Ref over penalty decision at Sunderland",
-    "url": "https://www.theguardian.com/football/2026/sep/14/arsenal-pro-ref-sunderland-penalty-meeting-explanation",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Arsenal demand meeting with Pro Ref over penalty decision at Sunderland",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Arsenal",
-      "Pro Ref",
-      "Sunderland"
+      "Ed Sheeran",
+      "Macklemore"
     ]
   },
   {
@@ -372,51 +311,6 @@
     "key_players": [
       "Hyrox",
       "Australian"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Emmys 2026: the full list of winners",
-    "url": "https://www.theguardian.com/tv-and-radio/2026/sep/15/emmy-winners-2026-full-list-emmys-awards-who-won",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Emmys 2026: the full list of winners",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Emmys"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Mitch McConnell returns to Senate after months-long absence",
-    "url": "https://www.theguardian.com/us-news/2026/sep/14/mitch-mcconnell-return-senate",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Mitch McConnell returns to Senate after months-long absence",
-    "tactical_financial_impact": "长期缺阵将迫使主帅调整主力阵容，考验替补球员的临场发挥。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Mitch",
-      "Senate"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Duke and Duchess of Sussex granted security review after return to UK",
-    "url": "https://www.theguardian.com/uk-news/2026/sep/14/duke-and-duchess-of-sussex-granted-security-review-after-return-to-uk",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Duke and Duchess of Sussex granted security review after return to UK",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Duke",
-      "Duchess",
-      "Sussex"
     ]
   }
 ]
