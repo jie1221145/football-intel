@@ -1,66 +1,210 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Szoboszlai stunner helps Liverpool knock out Spurs",
-    "url": "https://www.bbc.com/sport/football/live/cx980d6p7l20t",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Szoboszlai stunner helps Liverpool knock out Spurs",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "title": "Boehly and Walter sell Chelsea stakes to Clearlake",
+    "url": "https://www.bbc.com/sport/football/articles/cvrl6egl1254o",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Boehly and Walter sell Chelsea stakes to Clearlake",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "Szoboszlai",
-      "Liverpool",
-      "Spurs"
+      "Boehly",
+      "Walter",
+      "Chelsea",
+      "Clearlake"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Watch Sportscene highlights of wins for Aberdeen, Falkirk & Kilmarnock",
-    "url": "https://www.bbc.com/sport/football/live/cwzrzk6xvkk0t",
+    "title": "Sunderland mark European return with win over AZ Alkmaar",
+    "url": "https://www.bbc.com/sport/football/live/ckz7zpw38n59t",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Watch Sportscene highlights of wins for Aberdeen, Falkirk & Kilmarnock",
+    "core_event": "来自 BBC Sport 的赛事报道。Sunderland mark European return with win over AZ Alkmaar",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Watch Sportscene",
-      "Aberdeen",
-      "Falkirk",
-      "Kilmarnock"
+      "Sunderland",
+      "European",
+      "Alkmaar"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Gray 'will continue until told otherwise' - but has Hibs boss lost the fans?",
-    "url": "https://www.bbc.com/sport/football/articles/cvwyzwr5g76go",
+    "title": "Saudi club given stadium ban over Jota chants towards Neves",
+    "url": "https://www.bbc.com/sport/football/articles/cwp842plmyymo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Saudi club given stadium ban over Jota chants towards Neves",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Saudi",
+      "Jota",
+      "Neves"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "De la Fuente extends Spain contract to 2032",
+    "url": "https://www.bbc.com/sport/football/articles/c6eq8z9wjjqlo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。De la Fuente extends Spain contract to 2032",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Fuente",
+      "Spain"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Alcaraz hits late winner as Everton edge past Wolves",
+    "url": "https://www.bbc.com/sport/football/live/cwvgyk7439pxt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Gray 'will continue until told otherwise' - but has Hibs boss lost the fans?",
+    "core_event": "来自 BBC Sport 的赛事报道。Alcaraz hits late winner as Everton edge past Wolves",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Gray",
-      "Hibs"
+      "Alcaraz",
+      "Everton",
+      "Wolves"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Dowman scores twice as Arsenal beat Ipswich",
-    "url": "https://www.bbc.com/sport/football/live/cwm2q8eym8vjt",
-    "category": "match_report",
+    "title": "Arsenal rejected Dowman loan offers - Thursday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/c617jz28nkvgo",
+    "category": "transfer",
     "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Dowman scores twice as Arsenal beat Ipswich",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Arsenal rejected Dowman loan offers - Thursday's gossip",
+    "tactical_financial_impact": "租借操作灵活，不占永久薪资配额，是一种低风险补强策略。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "Dowman",
       "Arsenal",
-      "Ipswich"
+      "Dowman",
+      "Thursday"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "League Two Fleetwood beat Sheff Utd to reach fourth round",
+    "url": "https://www.bbc.com/sport/football/live/c6x2znl84qkgt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。League Two Fleetwood beat Sheff Utd to reach fourth round",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "League Two Fleetwood",
+      "Sheff Utd"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Manchester United’s latest nightmare & Sunderland shine in Europe. Audio, 30 minutes Manchester United’s latest nightmare & Sunderland shine in Europe",
+    "url": "https://www.bbc.com/sounds/play/p0p9zfpn",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Manchester United’s latest nightmare & Sunderland shine in Europe. Audio, 30 minutes Manchester United’s latest nightmare & Sunderland shine in Europe",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Manchester United",
+      "Sunderland",
+      "Europe",
+      "Audio"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Ex-Spurs midfielder Bissouma completes Ajax move",
+    "url": "https://www.bbc.com/sport/football/articles/cw4gr5pm7eg9o",
+    "category": "transfer",
+    "emoji_tag": "⚪",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Ex-Spurs midfielder Bissouma completes Ajax move",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Spurs",
+      "Bissouma",
+      "Ajax"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Does Bellamy need to win back Wales fans?",
+    "url": "https://www.bbc.com/sport/football/articles/c9gk58j0vy0eo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Does Bellamy need to win back Wales fans?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Does Bellamy",
+      "Wales"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "UEFA Europa League Levski Sofia Levski Sofia plays RB Salzburg Red Bull Salzburg at 17:45 17:45 on Thu the 17 of Sep",
+    "url": "https://www.bbc.com/sport/football/live/cvy0zy148871t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。UEFA Europa League Levski Sofia Levski Sofia plays RB Salzburg Red Bull Salzburg at 17:45 17:45 on Thu the 17 of Sep",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Europa League Levski",
+      "Sofia Levski Sofia",
+      "Salzburg Red Bull",
+      "Salzburg"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Preston sack Heckingbottom & Millwall face West Ham. Audio, 47 minutes Preston sack Heckingbottom & Millwall face West Ham",
+    "url": "https://www.bbc.com/sounds/play/p0p9wygl",
+    "category": "match_report",
+    "emoji_tag": "⚒️",
+    "core_event": "来自 BBC Sport 的赛事报道。Preston sack Heckingbottom & Millwall face West Ham. Audio, 47 minutes Preston sack Heckingbottom & Millwall face West Ham",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Preston",
+      "Heckingbottom",
+      "Millwall",
+      "West Ham"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Fernandez signs new London City contract",
+    "url": "https://www.bbc.com/sport/football/articles/cq39m44d8ypvo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Fernandez signs new London City contract",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
+    "key_players": [
+      "Fernandez",
+      "London City"
     ]
   },
   {
@@ -81,114 +225,6 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Falkirk stun Hearts to earn first win of season",
-    "url": "https://www.bbc.com/sport/football/live/c9gk5nz8ln84t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Falkirk stun Hearts to earn first win of season",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Falkirk",
-      "Hearts"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Carvalho returns with winner as Brentford beat Reading",
-    "url": "https://www.bbc.com/sport/football/live/cqevwz1nr23nt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Carvalho returns with winner as Brentford beat Reading",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Carvalho",
-      "Brentford",
-      "Reading"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Boro come from two down to draw with Millwall",
-    "url": "https://www.bbc.com/sport/football/live/c8kg7q4xk074t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Boro come from two down to draw with Millwall",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Boro",
-      "Millwall"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Struggling Kilmarnock condemn Hibs to sixth home loss in row",
-    "url": "https://www.bbc.com/sport/football/live/c6pq051yr5p7t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Struggling Kilmarnock condemn Hibs to sixth home loss in row",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Struggling Kilmarnock",
-      "Hibs"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Lincoln beat ex-boss Skubala's Bristol City",
-    "url": "https://www.bbc.com/sport/football/live/c6n9w57z033lt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Lincoln beat ex-boss Skubala's Bristol City",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Lincoln",
-      "Skubala",
-      "Bristol City"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Peterborough beat Barnsley on penalties in EFL Cup",
-    "url": "https://www.bbc.com/sport/football/live/c5x2zjpgwxlgt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Peterborough beat Barnsley on penalties in EFL Cup",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Peterborough",
-      "Barnsley"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Tuchel regrets not eating Azteca turf after win over Mexico",
-    "url": "https://www.bbc.com/sport/football/articles/cq4g5r8kwx9zo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Tuchel regrets not eating Azteca turf after win over Mexico",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Tuchel",
-      "Azteca",
-      "Mexico"
-    ]
-  },
-  {
-    "source": "BBC Sport",
     "title": "Cardiff to host 2029 women's Champions League final",
     "url": "https://www.bbc.com/sport/football/articles/cmrer2j8lnr2o",
     "category": "match_report",
@@ -203,114 +239,193 @@
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?",
-    "url": "https://www.bbc.com/sport/football/articles/cv1j49220j93o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。'Unplayable' & 'almost perfect' - Calvert-Lewin set for England recall?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Unplayable",
-      "Calvert",
-      "Lewin",
-      "England"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Arsenal to contact Pro Ref over Konsa penalty",
-    "url": "https://www.bbc.com/sport/football/articles/cmg49n3g7exlo",
+    "source": "The Guardian",
+    "title": "Carabao Cup fourth-round draw Arsenal head to Fleetwood; Alonso back at Anfield to face Liverpool",
+    "url": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
     "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Arsenal to contact Pro Ref over Konsa penalty",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Arsenal",
-      "Pro Ref",
-      "Konsa"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "As it happened Read Scott Murray's minute-by-minute report from Anfield",
-    "url": "https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。As it happened Read Scott Murray's minute-by-minute report from Anfield",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Read Scott Murray",
-      "Anfield"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Football Weekly Kane on target, Barcelona stay perfect and Ballon d’Or debate",
-    "url": "https://www.theguardian.com/football/video/2026/sep/15/kane-on-target-barcelona-stay-perfect-and-ballon-dor-debate-football-weekly-video",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Football Weekly Kane on target, Barcelona stay perfect and Ballon d’Or debate",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Football Weekly Kane",
-      "Barcelona",
-      "Ballon"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Max Dowman doubles up for Arsenal’s back-ups to beat Ipswich in Carabao Cup",
-    "url": "https://www.theguardian.com/football/2026/sep/15/ipswich-arsenal-carabao-cup-third-round-match-report",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Max Dowman doubles up for Arsenal’s back-ups to beat Ipswich in Carabao Cup",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Max Dowman",
-      "Arsenal",
-      "Ipswich",
-      "Carabao Cup"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "All supporting acts withdraw from Ed Sheeran’s tour in solidarity with Macklemore",
-    "url": "https://www.theguardian.com/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。All supporting acts withdraw from Ed Sheeran’s tour in solidarity with Macklemore",
+    "core_event": "来自 The Guardian 的赛事报道。Carabao Cup fourth-round draw Arsenal head to Fleetwood; Alonso back at Anfield to face Liverpool",
     "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Ed Sheeran",
-      "Macklemore"
+      "Carabao Cup",
+      "Arsenal",
+      "Fleetwood",
+      "Alonso"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Hyrox changes rules and apologises for allowing Australian athlete who soiled herself to continue",
-    "url": "https://www.theguardian.com/sport/2026/sep/15/hyrox-changes-rules-apology-australian-woman-joanna-wietrzyk-soils-herself-mid-race-beijing",
+    "title": "Manchester City Maresca says City still waiting for apology after disputed 2023 derby goal",
+    "url": "https://www.theguardian.com/football/2026/sep/16/enzo-maresca-manchester-city-apology-2023-derby-goal",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Hyrox changes rules and apologises for allowing Australian athlete who soiled herself to continue",
+    "emoji_tag": "🩵",
+    "core_event": "来自 The Guardian 的赛事报道。Manchester City Maresca says City still waiting for apology after disputed 2023 derby goal",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Hyrox",
-      "Australian"
+      "Manchester City Maresca",
+      "City"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "News ‘World’s most profitable football business’: Abramovich’s frozen Chelsea cash earns £175m",
+    "url": "https://www.theguardian.com/world/2026/sep/11/roman-abramovich-frozen-chelsea-sale-proceeds-earnings",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。News ‘World’s most profitable football business’: Abramovich’s frozen Chelsea cash earns £175m",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "News",
+      "World",
+      "Abramovich",
+      "Chelsea"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Football Koumas on playing ‘the Liverpool way’, showing hunger and hopes for the future",
+    "url": "https://www.theguardian.com/football/2026/sep/16/lewis-koumas-on-playing-the-liverpool-way-showing-hunger-and-hopes-for-the-future",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Football Koumas on playing ‘the Liverpool way’, showing hunger and hopes for the future",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Football Koumas",
+      "Liverpool"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "De Cuyper and Brighton pile on pain for Manchester United with comeback",
+    "url": "https://www.theguardian.com/football/2026/sep/16/manchester-united-brighton-carabao-cup-third-round-match-report",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。De Cuyper and Brighton pile on pain for Manchester United with comeback",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "De Cuyper",
+      "Brighton",
+      "Manchester United"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Boehly and Walter sell Chelsea shares as Clearlake Capital takes full control of club",
+    "url": "https://www.theguardian.com/football/2026/sep/17/boehly-and-walter-sell-chelsea-shares-as-clearlake-capital-takes-full-control-of-club",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Boehly and Walter sell Chelsea shares as Clearlake Capital takes full control of club",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Boehly",
+      "Walter",
+      "Chelsea",
+      "Clearlake Capital"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "‘My scar, not your scar’: Tuchel stands by England semi-final subs but admits wrong timing",
+    "url": "https://www.theguardian.com/football/2026/sep/16/tuchel-stands-england-semi-final-subs-wrong-timing-argentina-world-cup-2026",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。‘My scar, not your scar’: Tuchel stands by England semi-final subs but admits wrong timing",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Tuchel",
+      "England"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Raphinha cashes in against Santander with hat-trick as Barça hit seven",
+    "url": "https://www.theguardian.com/football/2026/sep/16/raphinha-hat-trick-santander-barcelona-hit-seven-atletico-madrid",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Raphinha cashes in against Santander with hat-trick as Barça hit seven",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Raphinha",
+      "Santander"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Tammy Abraham’s double powers Aston Villa to Carabao Cup win at Coventry",
+    "url": "https://www.theguardian.com/football/2026/sep/16/coventry-aston-villa-carabao-cup-third-round-match-report",
+    "category": "match_report",
+    "emoji_tag": "🟣",
+    "core_event": "来自 The Guardian 的赛事报道。Tammy Abraham’s double powers Aston Villa to Carabao Cup win at Coventry",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Tammy Abraham",
+      "Aston Villa",
+      "Carabao Cup",
+      "Coventry"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Saudi Pro League club Al-Taawoun handed stadium ban over Diogo Jota chants",
+    "url": "https://www.theguardian.com/football/2026/sep/16/saudi-pro-league-club-al-taawoun-handed-stadium-ban-over-diogo-jota-chants",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Saudi Pro League club Al-Taawoun handed stadium ban over Diogo Jota chants",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Saudi Pro League",
+      "Taawoun",
+      "Diogo Jota"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Ukraine war briefing: Drone kills Russian commander just decorated after fake victory claim",
+    "url": "https://www.theguardian.com/world/2026/sep/17/ukraine-war-briefing-drone-kills-russian-commander-just-decorated-after-fake-victory-claim",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Ukraine war briefing: Drone kills Russian commander just decorated after fake victory claim",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Ukraine",
+      "Drone",
+      "Russian"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "The girl with a will to live: the love, hope and pain of raising Elsie – my one in 163 million daughter",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/sep/16/love-hope-pain-raising-elsie-rare-genetic-disorder",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。The girl with a will to live: the love, hope and pain of raising Elsie – my one in 163 million daughter",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Elsie"
     ]
   }
 ]
