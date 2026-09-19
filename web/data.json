@@ -1,33 +1,139 @@
 [
   {
     "source": "BBC Sport",
-    "title": "MK Dons remain winless after Wimbledon stalemate",
-    "url": "https://www.bbc.com/sport/football/live/c370l9d87n0rt",
+    "title": "Chelsea miss Joao Pedro... and can't stop conceding goals",
+    "url": "https://www.bbc.com/sport/football/articles/cm0qx3yv8z42o",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。MK Dons remain winless after Wimbledon stalemate",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。Chelsea miss Joao Pedro... and can't stop conceding goals",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Dons",
-      "Wimbledon"
+      "Chelsea",
+      "Joao Pedro"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Bournemouth hold on to win at Sociedad on European bow",
-    "url": "https://www.bbc.com/sport/football/live/cwm2qe98vpdyt",
+    "title": "Superb Brentford beat Chelsea to maintain unbeaten start",
+    "url": "https://www.bbc.com/sport/football/live/cmrl69xy3lyyt",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Bournemouth hold on to win at Sociedad on European bow",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。Superb Brentford beat Chelsea to maintain unbeaten start",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Bournemouth",
-      "Sociedad",
-      "European"
+      "Superb Brentford",
+      "Chelsea"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Arsenal open to Dowman loan in right circumstances",
+    "url": "https://www.bbc.com/sport/football/articles/crp3k23nkl8go",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Arsenal open to Dowman loan in right circumstances",
+    "tactical_financial_impact": "租借操作灵活，不占永久薪资配额，是一种低风险补强策略。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Arsenal",
+      "Dowman"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Ballard heads winner as Bristol City beat Watford",
+    "url": "https://www.bbc.com/sport/football/live/crgjqn596325t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Ballard heads winner as Bristol City beat Watford",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Ballard",
+      "Bristol City",
+      "Watford"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Liverpool watch £51.5m-rated Smit - Saturday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/cwd083944eeko",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Liverpool watch £51.5m-rated Smit - Saturday's gossip",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Liverpool",
+      "Smit",
+      "Saturday"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "'Not a catastrophe' - Carrick dismisses Man Utd job fears",
+    "url": "https://www.bbc.com/sport/football/articles/c5n4k89j1zpeo",
+    "category": "injury",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。'Not a catastrophe' - Carrick dismisses Man Utd job fears",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Carrick",
+      "Man Utd"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "From depression after Chelsea injury to playing non-league at 37",
+    "url": "https://www.bbc.com/sport/football/articles/cm89jqxpvy3xo",
+    "category": "injury",
+    "emoji_tag": "🔵",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。From depression after Chelsea injury to playing non-league at 37",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "From",
+      "Chelsea"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Goodwin in 'good health' but needs 'simple procedure'",
+    "url": "https://www.bbc.com/sport/football/articles/c54g7jnjj2mxo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Goodwin in 'good health' but needs 'simple procedure'",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Goodwin"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Wilson major Wales injury concern for Nations League",
+    "url": "https://www.bbc.com/sport/football/articles/cq62j7yrler2o",
+    "category": "injury",
+    "emoji_tag": "🚑",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Wilson major Wales injury concern for Nations League",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Wilson",
+      "Wales",
+      "Nations League"
     ]
   },
   {
@@ -58,105 +164,6 @@
     "key_players": [
       "Aston Villa",
       "Europe"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Why dealing with defeat is key for Lampard at Coventry",
-    "url": "https://www.bbc.com/sport/football/articles/c3eqpz5zlzzo",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Why dealing with defeat is key for Lampard at Coventry",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Lampard",
-      "Coventry"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Boehly and Walter sell Chelsea stakes to Clearlake",
-    "url": "https://www.bbc.com/sport/football/articles/cvrl6egl1254o",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Boehly and Walter sell Chelsea stakes to Clearlake",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Boehly",
-      "Walter",
-      "Chelsea",
-      "Clearlake"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "JJ Gabriel to Real Madrid? And Auba's on fire! Audio, 54 minutes JJ Gabriel to Real Madrid? And Auba's on fire!",
-    "url": "https://www.bbc.com/sounds/play/p0pb3ytn",
-    "category": "match_report",
-    "emoji_tag": "⚪",
-    "core_event": "来自 BBC Sport 的赛事报道。JJ Gabriel to Real Madrid? And Auba's on fire! Audio, 54 minutes JJ Gabriel to Real Madrid? And Auba's on fire!",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Gabriel",
-      "Real Madrid",
-      "And Auba",
-      "Audio"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Beckham backs Messi for Ballon d'Or after 100th Miami goal",
-    "url": "https://www.bbc.com/sport/football/live/c64gr3v2m2jkt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Beckham backs Messi for Ballon d'Or after 100th Miami goal",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Beckham",
-      "Messi",
-      "Ballon",
-      "Miami"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Alcaraz hits late winner as Everton edge past Wolves",
-    "url": "https://www.bbc.com/sport/football/live/cwvgyk7439pxt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Alcaraz hits late winner as Everton edge past Wolves",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Alcaraz",
-      "Everton",
-      "Wolves"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Manchester United’s latest nightmare & Sunderland shine in Europe. Audio, 30 minutes Manchester United’s latest nightmare & Sunderland shine in Europe",
-    "url": "https://www.bbc.com/sounds/play/p0p9zfpn",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Manchester United’s latest nightmare & Sunderland shine in Europe. Audio, 30 minutes Manchester United’s latest nightmare & Sunderland shine in Europe",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Manchester United",
-      "Sunderland",
-      "Europe",
-      "Audio"
     ]
   },
   {
@@ -203,125 +210,120 @@
   },
   {
     "source": "BBC Sport",
-    "title": "What are the Premier League rules on yellow card suspensions?",
-    "url": "https://www.bbc.com/sport/articles/cr3wj7wg35pxo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。What are the Premier League rules on yellow card suspensions?",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Premier League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Why have the Premier League announced Christmas fixtures early?",
-    "url": "https://www.bbc.com/sport/football/articles/cvgy4wg703go",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Why have the Premier League announced Christmas fixtures early?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Premier League",
-      "Christmas"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Manchester United Real Madrid leading race to sign youngster Gabriel",
-    "url": "https://www.theguardian.com/football/2026/sep/17/real-madrid-leading-race-sign-jj-gabriel-manchester-united",
+    "title": "Why dealing with defeat is key for Lampard at Coventry",
+    "url": "https://www.bbc.com/sport/football/articles/c3eqpz5zlzzo",
     "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Manchester United Real Madrid leading race to sign youngster Gabriel",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Why dealing with defeat is key for Lampard at Coventry",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Manchester United Real",
-      "Madrid",
-      "Gabriel"
+      "Lampard",
+      "Coventry"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Floyd Samba’s debut double lifts Manchester City to Carabao Cup win over Norwich",
-    "url": "https://www.theguardian.com/football/2026/sep/17/manchester-city-norwich-carabao-cup-third-round-match-report",
-    "category": "match_report",
-    "emoji_tag": "🩵",
-    "core_event": "来自 The Guardian 的赛事报道。Floyd Samba’s debut double lifts Manchester City to Carabao Cup win over Norwich",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Floyd Samba",
-      "Manchester City",
-      "Carabao Cup",
-      "Norwich"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Kluivert and Rayan rock Real Sociedad as Bournemouth win on European bow",
-    "url": "https://www.theguardian.com/football/2026/sep/17/real-sociedad-bournemouth-europa-league-match-report",
+    "title": "Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game",
+    "url": "https://www.theguardian.com/football/2026/sep/18/harry-kane-smashes-record-for-fastest-to-100-bundesliga-goals-in-98th-game",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Kluivert and Rayan rock Real Sociedad as Bournemouth win on European bow",
+    "core_event": "来自 The Guardian 的赛事报道。Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Kluivert",
-      "Rayan",
-      "Real Sociedad",
-      "Bournemouth"
+      "Harry Kane",
+      "Bundesliga"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Real Madrid leading race to sign JJ Gabriel from Manchester United",
-    "url": "https://www.theguardian.com/football/2026/sep/17/real-madrid-leading-race-sign-jj-gabriel-manchester-united",
+    "title": "Kylian Mbappé leaves Nike after 20 years to sign boot deal with Swiss brand On",
+    "url": "https://www.theguardian.com/football/2026/sep/18/kylian-mbappe-leaves-nike-20-years-boot-deal-swiss-brand-on",
     "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Real Madrid leading race to sign JJ Gabriel from Manchester United",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Kylian Mbappé leaves Nike after 20 years to sign boot deal with Swiss brand On",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Real Madrid",
-      "Gabriel",
-      "Manchester United"
+      "Kylian Mbappé",
+      "Nike",
+      "Swiss"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "double quotation mark Bad news this week for Trump – but Fox viewers might have missed it",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/17/fox-news-trump",
+    "title": "‘It’s difficult to imagine a more blatant violation of the First Amendment’: criticism mounts over Trump’s media ban - as it happened",
+    "url": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。double quotation mark Bad news this week for Trump – but Fox viewers might have missed it",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。‘It’s difficult to imagine a more blatant violation of the First Amendment’: criticism mounts over Trump’s media ban - as it happened",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
+      "First Amendment",
       "Trump"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Record-breaking ultrarunner has 500ml of pus drained from leg: ‘I just didn’t quite feel right’",
-    "url": "https://www.theguardian.com/sport/2026/sep/18/ultrarunner-phil-gore-pus-drained-leg-surgery",
+    "title": "US woman falsely charged with bank theft sues for $10m over AI facial recognition",
+    "url": "https://www.theguardian.com/us-news/2026/sep/18/tennessee-woman-falsely-charged-bank-theft-lawsuit",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。US woman falsely charged with bank theft sues for $10m over AI facial recognition",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": []
+  },
+  {
+    "source": "The Guardian",
+    "title": "Sikh truck driver survives harrowing stabbing attack at Wyoming rest stop",
+    "url": "https://www.theguardian.com/us-news/2026/sep/18/wyoming-truck-driver-stabbing-attack",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Sikh truck driver survives harrowing stabbing attack at Wyoming rest stop",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Sikh",
+      "Wyoming"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "No more book bans: how Florida students are pushing rightwingers out of school boards",
+    "url": "https://www.theguardian.com/us-news/2026/sep/18/florida-activists-rightwing-school-boards",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。No more book bans: how Florida students are pushing rightwingers out of school boards",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Florida"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
+    "url": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Record-breaking ultrarunner has 500ml of pus drained from leg: ‘I just didn’t quite feel right’",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。US and Denmark reach security deal after Trump’s threats to take over Greenland",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Record"
+      "Denmark",
+      "Trump",
+      "Greenland"
     ]
   }
 ]
