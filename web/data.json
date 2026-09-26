@@ -1,298 +1,420 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Bellamy wants more from Wales after loss to Portugal",
-    "url": "https://www.bbc.com/sport/football/articles/c63eqkdnvkq8o",
+    "title": "Palmer misses too many opportunities to play for England - Tuchel",
+    "url": "https://www.bbc.com/sport/football/articles/cm9dww15527lo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Palmer misses too many opportunities to play for England - Tuchel",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Palmer",
+      "England",
+      "Tuchel"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "NI win in Georgia after Kvaratskhelia penalty miss",
+    "url": "https://www.bbc.com/sport/football/live/c6y4z2kzd133t",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Bellamy wants more from Wales after loss to Portugal",
+    "core_event": "来自 BBC Sport 的赛事报道。NI win in Georgia after Kvaratskhelia penalty miss",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Bellamy",
-      "Wales",
-      "Portugal"
+      "Georgia",
+      "Kvaratskhelia"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Havertz and Brobbey injured as Netherlands and Germany draw",
-    "url": "https://www.bbc.com/sport/football/live/ckm2q9dv9ljdt",
+    "title": "Mbappe picks up injury while scoring France winner in Turkey",
+    "url": "https://www.bbc.com/sport/football/live/crlyqpvqjgqet",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Havertz and Brobbey injured as Netherlands and Germany draw",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Havertz",
-      "Brobbey",
-      "Netherlands",
-      "Germany"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Haaland scores twice as Norway beat Denmark",
-    "url": "https://www.bbc.com/sport/football/live/cm4g54yj48gwt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Haaland scores twice as Norway beat Denmark",
+    "emoji_tag": "🚑",
+    "core_event": "来自 BBC Sport 的赛事报道。Mbappe picks up injury while scoring France winner in Turkey",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Haaland",
-      "Norway",
-      "Denmark"
+      "Mbappe",
+      "France",
+      "Turkey"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Republic of Ireland deservedly beaten by Kosovo",
-    "url": "https://www.bbc.com/sport/football/live/ck790jyljq4vt",
+    "title": "Isak and Gyokeres score as Sweden beat Romania",
+    "url": "https://www.bbc.com/sport/football/live/crgqdp3dngqqt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Republic of Ireland deservedly beaten by Kosovo",
+    "core_event": "来自 BBC Sport 的赛事报道。Isak and Gyokeres score as Sweden beat Romania",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Republic",
-      "Ireland",
-      "Kosovo"
+      "Isak",
+      "Gyokeres",
+      "Sweden",
+      "Romania"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Man Utd borrow another £90m as debt tops £1.1bn",
-    "url": "https://www.bbc.com/sport/football/articles/cmx2zv4e320do",
+    "title": "Belgium spoil Mancini's Italy return as Van Bommel starts with win",
+    "url": "https://www.bbc.com/sport/football/live/c6g7kp1kjyvzt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Belgium spoil Mancini's Italy return as Van Bommel starts with win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Belgium",
+      "Mancini",
+      "Italy",
+      "Van Bommel"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "England Under-21s beat Kazakhstan to close in on Euros",
+    "url": "https://www.bbc.com/sport/football/live/cqvgyz7y6j5gt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。England Under-21s beat Kazakhstan to close in on Euros",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "England Under",
+      "Kazakhstan",
+      "Euros"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "O'Neill left baffled by refereeing in late NI win",
+    "url": "https://www.bbc.com/sport/football/articles/c6qxvvw15p0lo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。O'Neill left baffled by refereeing in late NI win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Neill"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "No relegation clause in Haaland's City deal - Saturday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/c84gkkepxxl4o",
     "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man Utd borrow another £90m as debt tops £1.1bn",
-    "tactical_financial_impact": "本次转会金额巨大，将对俱乐部的财政健康和 FFP 合规性构成压力。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Man Utd"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Uefa fears impact of Premier League spending on transfer market",
-    "url": "https://www.bbc.com/sport/football/articles/c639merx84jno",
-    "category": "transfer",
-    "emoji_tag": "💰",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Uefa fears impact of Premier League spending on transfer market",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。No relegation clause in Haaland's City deal - Saturday's gossip",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Uefa",
-      "Premier League"
+      "Haaland",
+      "City",
+      "Saturday"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Felix strike earns Portugal narrow win over Wales",
-    "url": "https://www.bbc.com/sport/football/live/cqrk31vz1xjxt",
+    "title": "From shaky start to statement wins - 100 days of McInnes at Rangers",
+    "url": "https://www.bbc.com/sport/football/articles/cqd08xkm22reo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Felix strike earns Portugal narrow win over Wales",
+    "core_event": "来自 BBC Sport 的赛事报道。From shaky start to statement wins - 100 days of McInnes at Rangers",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Felix",
-      "Portugal",
+      "From",
+      "Rangers"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "'Workhorse' Koumas growing with Wales",
+    "url": "https://www.bbc.com/sport/football/articles/cmed7jqjnz66o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。'Workhorse' Koumas growing with Wales",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Workhorse",
+      "Koumas",
       "Wales"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Debbie Beard and Amanda Thorpe lost their husbands - this is their story",
-    "url": "https://www.bbc.com/sport/football/articles/c6kgxj9j7jmyo",
+    "title": "Man City guilty of majority of 115 charges - 5 Live reaction. Audio, 84 minutes Man City guilty of majority of 115 charges - 5 Live reaction",
+    "url": "https://www.bbc.com/sounds/play/p0pckjx7",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Debbie Beard and Amanda Thorpe lost their husbands - this is their story",
+    "emoji_tag": "🩵",
+    "core_event": "来自 BBC Sport 的赛事报道。Man City guilty of majority of 115 charges - 5 Live reaction. Audio, 84 minutes Man City guilty of majority of 115 charges - 5 Live reaction",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Debbie Beard",
-      "Amanda Thorpe"
+      "Man City",
+      "Live",
+      "Audio"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Man Utd selling Old Trafford turf cubes for £125",
-    "url": "https://www.bbc.com/sport/football/articles/cmwyzjedq51lo",
+    "title": "JJ Gabriel and why schoolboys are now a huge part of transfer market",
+    "url": "https://www.bbc.com/sport/football/articles/ckeq8vq7rwe7o",
     "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man Utd selling Old Trafford turf cubes for £125",
+    "emoji_tag": "💰",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。JJ Gabriel and why schoolboys are now a huge part of transfer market",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Man Utd",
-      "Old Trafford"
+      "Gabriel"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Unanswered questions for English teams after Women's Champions League returns",
-    "url": "https://www.bbc.com/sport/football/articles/cm1e516z2y8qo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Unanswered questions for English teams after Women's Champions League returns",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Unanswered",
-      "English",
-      "Women",
-      "Champions League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "'Eternally grateful' McBurnie ready to show what Scotland have missed",
-    "url": "https://www.bbc.com/sport/football/articles/c6qjk1122e9jo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。'Eternally grateful' McBurnie ready to show what Scotland have missed",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Eternally",
-      "Scotland"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Fox makes 'easy decision' to sign three-year Arsenal deal",
-    "url": "https://www.bbc.com/sport/football/articles/c046lgw20nno",
+    "title": "Wycombe sign ex-England striker Ings",
+    "url": "https://www.bbc.com/sport/football/articles/cmj6436g4w03o",
     "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Fox makes 'easy decision' to sign three-year Arsenal deal",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Wycombe sign ex-England striker Ings",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Arsenal"
+      "Wycombe",
+      "England",
+      "Ings"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Burnham says ban on alcohol for football fans in stands is 'discrimination'",
-    "url": "https://www.bbc.com/news/articles/c933ky0nknxko",
+    "title": "UEFA Nations League Albania Albania plays Belarus Belarus at 19:45 19:45 on Sat the 26 of Sep",
+    "url": "https://www.bbc.com/sport/football/live/cm5yw814dplpt",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Burnham says ban on alcohol for football fans in stands is 'discrimination'",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。UEFA Nations League Albania Albania plays Belarus Belarus at 19:45 19:45 on Sat the 26 of Sep",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Burnham"
+      "Nations League Albania",
+      "Albania",
+      "Belarus Belarus"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Can Klopp unlock Wirtz? Salah's Trabzon triple & José wants justice! Audio, 54 minutes Can Klopp unlock Wirtz? Salah's Trabzon triple & José wants justice!",
-    "url": "https://www.bbc.com/sounds/play/p0pc83kj",
+    "title": "Nigeria recover to beat Madagascar in Afcon qualifier",
+    "url": "https://www.bbc.com/sport/football/live/cmj4jp2jwywjt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Can Klopp unlock Wirtz? Salah's Trabzon triple & José wants justice! Audio, 54 minutes Can Klopp unlock Wirtz? Salah's Trabzon triple & José wants justice!",
+    "core_event": "来自 BBC Sport 的赛事报道。Nigeria recover to beat Madagascar in Afcon qualifier",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Can Klopp",
-      "Wirtz",
-      "Salah",
-      "Trabzon"
+      "Nigeria",
+      "Madagascar",
+      "Afcon"
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
-    "url": "https://www.bbc.com/sport/football/articles/cz7z09v9pp1o",
+    "source": "The Guardian",
+    "title": "Football Leaks City's guilty verdict ‘a historic decision’, says whistleblower Pinto",
+    "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-guilty-verdict-a-historic-decision-says-whistleblower-rui-pinto",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Football Leaks City's guilty verdict ‘a historic decision’, says whistleblower Pinto",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Football Leaks City",
+      "Pinto"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Timeline Manchester City's trophies, transfers and conflict with authorities",
+    "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-abu-dhabi-era-trophies-transfers-and-charges",
+    "category": "transfer",
+    "emoji_tag": "🩵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Timeline Manchester City's trophies, transfers and conflict with authorities",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Timeline Manchester City"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "David Hytner England aim to win over Wembley and revive Wonderwall in Spain showdown",
+    "url": "https://www.theguardian.com/football/2026/sep/25/england-spain-thomas-tuchel-nations-league-wonderwall",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Arsenal had more than 20 players on shortlist to capitalise on title win",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。David Hytner England aim to win over Wembley and revive Wonderwall in Spain showdown",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Arsenal"
+      "David Hytner England",
+      "Wembley",
+      "Wonderwall",
+      "Spain"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Nations League Gakpo denies Klopp perfect start as Dutch rescue draw with Germany",
-    "url": "https://www.theguardian.com/football/2026/sep/24/netherlands-germany-nations-league-match-report",
+    "title": "Spain De la Fuente brings insatiable team to England knowing World Cup is not enough",
+    "url": "https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Nations League Gakpo denies Klopp perfect start as Dutch rescue draw with Germany",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "core_event": "来自 The Guardian 的赛事报道。Spain De la Fuente brings insatiable team to England knowing World Cup is not enough",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Nations League Gakpo",
-      "Klopp",
-      "Dutch",
-      "Germany"
+      "Spain De",
+      "Fuente",
+      "England",
+      "World Cup"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Nations League Israel player sent off for gun gesture celebration in defeat by Austria",
+    "title": "France Zidane’s next move may reveal wizard behind the curtain",
+    "url": "https://www.theguardian.com/football/2026/sep/19/zinedine-zidane-france-coach-wizard-behind-curtain",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。France Zidane’s next move may reveal wizard behind the curtain",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "France Zidane"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Israel Abu Farchi sent off for goal celebration in defeat by Austria",
     "url": "https://www.theguardian.com/football/2026/sep/24/israel-saied-abu-farchi-sent-off-gun-gesture-celebration-austria-nations-league",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Nations League Israel player sent off for gun gesture celebration in defeat by Austria",
+    "core_event": "来自 The Guardian 的赛事报道。Israel Abu Farchi sent off for goal celebration in defeat by Austria",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Nations League Israel",
+      "Israel Abu Farchi",
       "Austria"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Israel’s Saied Abu Farchi sent off for gun gesture celebration in defeat by Austria",
-    "url": "https://www.theguardian.com/football/2026/sep/24/israel-saied-abu-farchi-sent-off-gun-gesture-celebration-austria-nations-league",
-    "category": "match_report",
+    "title": "Football Daily Sign up for our free and (sometimes) funny newsletter",
+    "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+    "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Israel’s Saied Abu Farchi sent off for gun gesture celebration in defeat by Austria",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Football Daily Sign up for our free and (sometimes) funny newsletter",
+    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "Israel",
-      "Saied Abu Farchi",
-      "Austria"
+      "Football Daily Sign"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Gakpo denies Klopp perfect start as Xavi’s Netherlands rescue draw against Germany",
-    "url": "https://www.theguardian.com/football/2026/sep/24/netherlands-germany-nations-league-match-report",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Gakpo denies Klopp perfect start as Xavi’s Netherlands rescue draw against Germany",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "title": "double quotation mark We Manchester City fans fear relegation and losing trophies … but club are bang to rights",
+    "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-fans-fear-relegation-losing-trophies",
+    "category": "injury",
+    "emoji_tag": "🩵",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。double quotation mark We Manchester City fans fear relegation and losing trophies … but club are bang to rights",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Gakpo",
-      "Klopp",
-      "Xavi",
-      "Netherlands"
+      "We Manchester City"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Manchester City guilty verdict ‘a historic decision’, says whistleblower Rui Pinto",
+    "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-guilty-verdict-a-historic-decision-says-whistleblower-rui-pinto",
+    "category": "injury",
+    "emoji_tag": "🩵",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Manchester City guilty verdict ‘a historic decision’, says whistleblower Rui Pinto",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Manchester City",
+      "Rui Pinto"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Thomas Tuchel warns Cole Palmer about ‘missing way too many’ England camps",
+    "url": "https://www.theguardian.com/football/2026/sep/25/thomas-tuchel-cole-palmer-england-spain-nations-league",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Thomas Tuchel warns Cole Palmer about ‘missing way too many’ England camps",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Thomas Tuchel",
+      "Cole Palmer",
+      "England"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Nations League: Kylian Mbappé injured after scoring France winner in Turkey",
+    "url": "https://www.theguardian.com/football/2026/sep/25/nations-league-roundup-turkey-france-kylian-mbappe-italy-belgium",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Nations League: Kylian Mbappé injured after scoring France winner in Turkey",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Nations League",
+      "Kylian Mbappé",
+      "France",
+      "Turkey"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Manchester City timeline: trophies, transfers and more than 100 charges",
+    "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-abu-dhabi-era-trophies-transfers-and-charges",
+    "category": "transfer",
+    "emoji_tag": "🩵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Manchester City timeline: trophies, transfers and more than 100 charges",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Manchester City"
     ]
   },
   {
@@ -307,21 +429,6 @@
     "gossip_label": null,
     "key_players": [
       "Japan"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Theranos founder Elizabeth Holmes reportedly to be transferred to halfway home next year",
-    "url": "https://www.theguardian.com/us-news/2026/sep/24/theranos-elizabeth-holmes-transfer-halfway-home",
-    "category": "transfer",
-    "emoji_tag": "💰",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Theranos founder Elizabeth Holmes reportedly to be transferred to halfway home next year",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 1,
-    "gossip_label": "纯属猜测",
-    "key_players": [
-      "Theranos",
-      "Elizabeth Holmes"
     ]
   }
 ]
