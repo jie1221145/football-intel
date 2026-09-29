@@ -1,51 +1,111 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Republic of Ireland defeat Israel in Debrecen",
-    "url": "https://www.bbc.com/sport/football/live/cqy8zdv1lpert",
+    "title": "Mancini enjoys first win since return as Italy boss",
+    "url": "https://www.bbc.com/sport/football/live/crx2zvddekqpt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Republic of Ireland defeat Israel in Debrecen",
+    "core_event": "来自 BBC Sport 的赛事报道。Mancini enjoys first win since return as Italy boss",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Republic",
-      "Ireland",
-      "Israel",
-      "Debrecen"
+      "Mancini",
+      "Italy"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Ronaldo left on bench as Portugal beat Norway",
-    "url": "https://www.bbc.com/sport/football/live/cw1mvy3k479et",
+    "title": "Late Olise goal gives France win over Belgium",
+    "url": "https://www.bbc.com/sport/football/live/cmzxzevvrd6nt",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Ronaldo left on bench as Portugal beat Norway",
+    "core_event": "来自 BBC Sport 的赛事报道。Late Olise goal gives France win over Belgium",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Ronaldo",
-      "Portugal",
-      "Norway"
+      "Late Olise",
+      "France",
+      "Belgium"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Germany still winless under Klopp after loss to Greece",
-    "url": "https://www.bbc.com/sport/football/live/cqpve31xg1rxt",
+    "title": "Award winner to fourth choice - what has gone wrong for Ramsdale?",
+    "url": "https://www.bbc.com/sport/football/articles/cvgy802y2n9o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Germany still winless under Klopp after loss to Greece",
+    "core_event": "来自 BBC Sport 的赛事报道。Award winner to fourth choice - what has gone wrong for Ramsdale?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Germany",
-      "Klopp",
-      "Greece"
+      "Award",
+      "Ramsdale"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Konsa and O'Reilly doubts to face Czech Republic",
+    "url": "https://www.bbc.com/sport/football/articles/cj62eyx9grzxo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Konsa and O'Reilly doubts to face Czech Republic",
+    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Konsa",
+      "Reilly",
+      "Czech Republic"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Pocognoli has no concern over Scotland's lack of goals",
+    "url": "https://www.bbc.com/sport/football/live/cky9zw158eznt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Pocognoli has no concern over Scotland's lack of goals",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Pocognoli",
+      "Scotland"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Chelsea’s statement win, growing Arsenal concerns & the rise of Lexi Potter. Audio, 44 minutes Chelsea’s statement win, growing Arsenal concerns & the rise of Lexi Potter",
+    "url": "https://www.bbc.com/sounds/play/p0pcwtmc",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Chelsea’s statement win, growing Arsenal concerns & the rise of Lexi Potter. Audio, 44 minutes Chelsea’s statement win, growing Arsenal concerns & the rise of Lexi Potter",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Chelsea",
+      "Arsenal",
+      "Lexi Potter",
+      "Audio"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Man City? I feel cheated - when do Stoke City get our FA Cup?",
+    "url": "https://www.bbc.com/sport/football/articles/c60m33473zxpo",
+    "category": "transfer",
+    "emoji_tag": "🩵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man City? I feel cheated - when do Stoke City get our FA Cup?",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Man City",
+      "Stoke City"
     ]
   },
   {
@@ -66,63 +126,65 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Man City? I feel cheated - when do Stoke City get our FA Cup?",
-    "url": "https://www.bbc.com/sport/football/articles/c60m33473zxpo",
-    "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man City? I feel cheated - when do Stoke City get our FA Cup?",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Man City",
-      "Stoke City"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Pelova strikes twice as Tottenham extend unbeaten run",
-    "url": "https://www.bbc.com/sport/football/live/ck209y5dwg26t",
-    "category": "match_report",
-    "emoji_tag": "⚪",
-    "core_event": "来自 BBC Sport 的赛事报道。Pelova strikes twice as Tottenham extend unbeaten run",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "title": "UEFA Nations League San Marino San Marino plays Albania Albania at 19:45 19:45 on Tue the 29 of Sep",
+    "url": "https://www.bbc.com/sport/football/live/ck3054rj70v4t",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。UEFA Nations League San Marino San Marino plays Albania Albania at 19:45 19:45 on Tue the 29 of Sep",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Pelova",
-      "Tottenham"
+      "Nations League San",
+      "Marino San Marino",
+      "Albania Albania"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "England embrace the chaos - but control also needed to win big prizes",
-    "url": "https://www.bbc.com/sport/football/articles/cqx2zz6d5716o",
+    "title": "'I've lost my peace' - Cape Verde hero Vozinha on newfound fame",
+    "url": "https://www.bbc.com/sport/football/articles/cw4gr1vj845vo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。England embrace the chaos - but control also needed to win big prizes",
+    "core_event": "来自 BBC Sport 的赛事报道。'I've lost my peace' - Cape Verde hero Vozinha on newfound fame",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "England"
+      "Cape Verde",
+      "Vozinha"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Olsson & Kapocs help Liverpool win Merseyside derby",
-    "url": "https://www.bbc.com/sport/football/live/c6pwlevjgnqvt",
+    "title": "Germany still winless under Klopp after loss to Greece",
+    "url": "https://www.bbc.com/sport/football/live/cqpve31xg1rxt",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Olsson & Kapocs help Liverpool win Merseyside derby",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Germany still winless under Klopp after loss to Greece",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Olsson",
-      "Kapocs",
-      "Liverpool",
-      "Merseyside"
+      "Germany",
+      "Klopp",
+      "Greece"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Ronaldo left on bench as Portugal beat Norway",
+    "url": "https://www.bbc.com/sport/football/live/cw1mvy3k479et",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Ronaldo left on bench as Portugal beat Norway",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Ronaldo",
+      "Portugal",
+      "Norway"
     ]
   },
   {
@@ -143,21 +205,6 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Leaders Rangers hit five past Celtic for SWPL win",
-    "url": "https://www.bbc.com/sport/football/live/ck1wxyl4v91zt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Leaders Rangers hit five past Celtic for SWPL win",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Leaders Rangers",
-      "Celtic"
-    ]
-  },
-  {
-    "source": "BBC Sport",
     "title": "Birmingham snatch Palace draw in six-goal thriller",
     "url": "https://www.bbc.com/sport/football/live/cm046ygx015nt",
     "category": "match_report",
@@ -173,219 +220,123 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Denmark loss leaves Wales winless in 2026",
-    "url": "https://www.bbc.com/sport/football/live/cmx2z3y68erjt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Denmark loss leaves Wales winless in 2026",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Denmark",
-      "Wales"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Thompson hits Chelsea winner against Arsenal in feisty derby",
-    "url": "https://www.bbc.com/sport/football/live/c6zjz8pwxeynt",
+    "title": "Why are Arsenal struggling to score in WSL?",
+    "url": "https://www.bbc.com/sport/football/articles/cv5yjx90r4yeo",
     "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Thompson hits Chelsea winner against Arsenal in feisty derby",
+    "core_event": "来自 BBC Sport 的赛事报道。Why are Arsenal struggling to score in WSL?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Thompson",
-      "Chelsea",
       "Arsenal"
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Khvicha Kvaratskhelia - The Football Interview. Audio, 8 minutes Khvicha Kvaratskhelia - The Football Interview",
-    "url": "https://www.bbc.com/sounds/play/p0pcgdv6",
-    "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 BBC Sport 的赛事报道。Khvicha Kvaratskhelia - The Football Interview. Audio, 8 minutes Khvicha Kvaratskhelia - The Football Interview",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Khvicha Kvaratskhelia",
-      "The Football Interview",
-      "Audio"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Putellas scores first WSL goal in London City win",
-    "url": "https://www.bbc.com/sport/football/live/crp3kpe4jwk4t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Putellas scores first WSL goal in London City win",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Putellas",
-      "London City"
-    ]
-  },
-  {
     "source": "The Guardian",
-    "title": "Jonathan Wilson Ever feel you’ve been cheated? Consequences could be profound",
-    "url": "https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict",
+    "title": "Roberto Mancini Former City manager refers to ‘double contract' which ‘isn’t my problem’",
+    "url": "https://www.theguardian.com/football/2026/sep/28/roberto-mancini-double-contract-manchester-city",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Jonathan Wilson Ever feel you’ve been cheated? Consequences could be profound",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Roberto Mancini Former City manager refers to ‘double contract' which ‘isn’t my problem’",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Jonathan Wilson Ever",
-      "Consequences"
+      "Roberto Mancini Former",
+      "City"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Barney Ronay England falter at 55 minutes again but with cause for optimism",
-    "url": "https://www.theguardian.com/football/2026/sep/27/england-spain-nations-league-meet-new-55-minute-collapse-not-same-as-old",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Barney Ronay England falter at 55 minutes again but with cause for optimism",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Barney Ronay England"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Republic of Ireland put controversy aside to earn impressive win over Israel",
-    "url": "https://www.theguardian.com/football/2026/sep/27/israel-republic-ireland-nations-league-group-3-match-report",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Republic of Ireland put controversy aside to earn impressive win over Israel",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Republic",
-      "Ireland",
-      "Israel"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Tony Pulis says he and Stoke were ‘cheated’ in 2011 FA Cup final after Manchester City verdict",
-    "url": "https://www.theguardian.com/football/2026/sep/27/tony-pulis-says-he-and-stoke-were-cheated-in-2011-fa-cup-final-after-manchester-city-verdict",
+    "title": "Football Daily Manchester City come out swinging haymakers after charges galore",
+    "url": "https://www.theguardian.com/football/2026/sep/28/manchester-city-charges-football-daily",
     "category": "match_report",
     "emoji_tag": "🩵",
-    "core_event": "来自 The Guardian 的赛事报道。Tony Pulis says he and Stoke were ‘cheated’ in 2011 FA Cup final after Manchester City verdict",
+    "core_event": "来自 The Guardian 的赛事报道。Football Daily Manchester City come out swinging haymakers after charges galore",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Tony Pulis",
-      "Stoke",
+      "Football Daily Manchester",
+      "City"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey",
+    "url": "https://www.theguardian.com/football/2026/sep/28/nations-league-belgium-france-turkey-italy-northern-ireland-hungary",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Nations League",
+      "Olise",
+      "France",
+      "Belgium"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Mancini refers to ‘double’ Manchester City contract and says it ‘isn’t my problem’",
+    "url": "https://www.theguardian.com/football/2026/sep/28/roberto-mancini-double-contract-manchester-city",
+    "category": "transfer",
+    "emoji_tag": "🩵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Mancini refers to ‘double’ Manchester City contract and says it ‘isn’t my problem’",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Mancini",
       "Manchester City"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict",
-    "url": "https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict",
-    "category": "transfer",
+    "title": "Manchester City come out swinging haymakers after charges galore",
+    "url": "https://www.theguardian.com/football/2026/sep/28/manchester-city-charges-football-daily",
+    "category": "match_report",
     "emoji_tag": "🩵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "core_event": "来自 The Guardian 的赛事报道。Manchester City come out swinging haymakers after charges galore",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Ever",
-      "Consequences",
       "Manchester City"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Thomas Tuchel resists ‘madness’ of calls to rest England players despite longer window",
-    "url": "https://www.theguardian.com/football/2026/sep/27/thomas-tuchel-england-players-longer-international-window-nations-league",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Thomas Tuchel resists ‘madness’ of calls to rest England players despite longer window",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Thomas Tuchel",
-      "England"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "James Trafford’s England dream burns with No 1 spot finally up for grabs again",
-    "url": "https://www.theguardian.com/football/2026/sep/27/james-trafford-england-no-1-nations-league",
+    "title": "Base jumper dies in Utah after wingsuit fails in remote mountainous region",
+    "url": "https://www.theguardian.com/us-news/2026/sep/28/base-jumper-dies-utah",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。James Trafford’s England dream burns with No 1 spot finally up for grabs again",
+    "core_event": "来自 The Guardian 的赛事报道。Base jumper dies in Utah after wingsuit fails in remote mountainous region",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "James Trafford",
-      "England"
+      "Base",
+      "Utah"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says",
-    "url": "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons",
-    "category": "transfer",
+    "title": "Judge sets $5m bond for third suspect in killing of Black woman hung from tree in Mississippi",
+    "url": "https://www.theguardian.com/us-news/2026/sep/28/judge-sets-bond-third-suspect-woman-hung-mississippi",
+    "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Trump",
-      "Xi Jinping",
-      "China",
-      "American"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Republican says Trump’s support of Ken Paxton in Texas primary was ‘colossal mistake’",
-    "url": "https://www.theguardian.com/us-news/2026/sep/27/republican-tillis-trump-paxton",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Republican says Trump’s support of Ken Paxton in Texas primary was ‘colossal mistake’",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Judge sets $5m bond for third suspect in killing of Black woman hung from tree in Mississippi",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Republican",
-      "Trump",
-      "Ken Paxton",
-      "Texas"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Trump allies could use midterms ‘counting window’ to disrupt results, experts warn",
-    "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-midterms-counting-window",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Trump allies could use midterms ‘counting window’ to disrupt results, experts warn",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Trump"
+      "Judge",
+      "Black",
+      "Mississippi"
     ]
   }
 ]
