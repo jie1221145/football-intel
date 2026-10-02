@@ -1,167 +1,188 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Burnham 'really concerned' if Man City owners sell up after rule breaches",
-    "url": "https://www.bbc.com/news/articles/crkgwvv8xvw0o",
-    "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Burnham 'really concerned' if Man City owners sell up after rule breaches",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Burnham",
-      "Man City"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Chelsea hold off Lyon for Champions League draw",
-    "url": "https://www.bbc.com/sport/football/live/cqz0zz30mk1rt",
-    "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 BBC Sport 的赛事报道。Chelsea hold off Lyon for Champions League draw",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Chelsea",
-      "Lyon",
-      "Champions League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Late Arsenal mix-up gifts Paris draw in Europe",
-    "url": "https://www.bbc.com/sport/football/live/cw770087jl6xt",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Late Arsenal mix-up gifts Paris draw in Europe",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Late Arsenal",
-      "Paris",
-      "Europe"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "£1.2bn on transfers with £830m inflated in sponsorships - Man City's 'asterisk era'",
-    "url": "https://www.bbc.com/sport/football/articles/c9lyk46gekkeo",
-    "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。£1.2bn on transfers with £830m inflated in sponsorships - Man City's 'asterisk era'",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Man City"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "The part-timers who won three Wembley finals in a row",
-    "url": "https://www.bbc.com/sport/football/articles/c6y4z21xelk4o",
+    "title": "Bellamy says Wales 'stick' hurt as Norway win lifts mood",
+    "url": "https://www.bbc.com/sport/football/articles/c6zxzx1d484zo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。The part-timers who won three Wembley finals in a row",
+    "core_event": "来自 BBC Sport 的赛事报道。Bellamy says Wales 'stick' hurt as Norway win lifts mood",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Wembley"
+      "Bellamy",
+      "Wales",
+      "Norway"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Haaland 'no different' following Man City verdict",
-    "url": "https://www.bbc.com/sport/football/articles/ckge43e8nqdwo",
-    "category": "match_report",
-    "emoji_tag": "🩵",
-    "core_event": "来自 BBC Sport 的赛事报道。Haaland 'no different' following Man City verdict",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Haaland",
-      "Man City"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Will Pocognoli change keeper after loss to Switzerland?",
-    "url": "https://www.bbc.com/sport/football/articles/c58jd4wvrz4jo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Will Pocognoli change keeper after loss to Switzerland?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Will Pocognoli",
-      "Switzerland"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Man City Q&A with Kieran Maguire & Dale Johnson. Audio, 22 minutes Man City Q&A with Kieran Maguire & Dale Johnson",
-    "url": "https://www.bbc.com/sounds/play/p0pd5x19",
-    "category": "match_report",
-    "emoji_tag": "🩵",
-    "core_event": "来自 BBC Sport 的赛事报道。Man City Q&A with Kieran Maguire & Dale Johnson. Audio, 22 minutes Man City Q&A with Kieran Maguire & Dale Johnson",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Man City",
-      "Kieran Maguire",
-      "Dale Johnson",
-      "Audio"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Drawing of lots sends Oman through to Gulf Cup semis",
-    "url": "https://www.bbc.com/sport/football/articles/ck3reg044xzwo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Drawing of lots sends Oman through to Gulf Cup semis",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Drawing",
-      "Oman",
-      "Gulf Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "How do teams deal with longer international window?",
-    "url": "https://www.bbc.com/sport/football/articles/ckwyz97v042vo",
-    "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。How do teams deal with longer international window?",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": []
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Preston return 'surreal' and 'special' - Alexander",
-    "url": "https://www.bbc.com/sport/football/articles/c6grve2r0dr5o",
+    "title": "Is this the end for Ronaldo - and would Portugal miss him?",
+    "url": "https://www.bbc.com/sport/football/live/cvrl6660y8w3t",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Preston return 'surreal' and 'special' - Alexander",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Is this the end for Ronaldo - and would Portugal miss him?",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Preston",
-      "Alexander"
+      "Ronaldo",
+      "Portugal"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Shaw strikes for Man City before ref riles Real Madrid in draw",
+    "url": "https://www.bbc.com/sport/football/live/cmde000z89x5t",
+    "category": "match_report",
+    "emoji_tag": "🩵",
+    "core_event": "来自 BBC Sport 的赛事报道。Shaw strikes for Man City before ref riles Real Madrid in draw",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Shaw",
+      "Man City",
+      "Real Madrid"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Republic of Ireland and Austria draw in game briefly halted by protests",
+    "url": "https://www.bbc.com/sport/football/live/c6qxvvv2nj12t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Republic of Ireland and Austria draw in game briefly halted by protests",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Republic",
+      "Ireland",
+      "Austria"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Wirtz scores as Klopp clinches first Germany win",
+    "url": "https://www.bbc.com/sport/football/live/c914ddded4ket",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Wirtz scores as Klopp clinches first Germany win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Wirtz",
+      "Klopp",
+      "Germany"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Wales beat 10-man Norway to end winless run",
+    "url": "https://www.bbc.com/sport/football/live/c6wyzzzkr917t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Wales beat 10-man Norway to end winless run",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Wales",
+      "Norway"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Messi completes purchase of second Spanish club",
+    "url": "https://www.bbc.com/sport/football/articles/c82070lr6xrro",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Messi completes purchase of second Spanish club",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Messi",
+      "Spanish"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Injured O'Reilly withdraws from England squad",
+    "url": "https://www.bbc.com/sport/football/articles/c6kg0gkjngzmo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Injured O'Reilly withdraws from England squad",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Injured",
+      "Reilly",
+      "England"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Tzolis injured as Greece draw with Netherlands",
+    "url": "https://www.bbc.com/sport/football/live/cmp8ddd2dgpwt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Tzolis injured as Greece draw with Netherlands",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Tzolis",
+      "Greece",
+      "Netherlands"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Why penalty for Williamson handball was correct call",
+    "url": "https://www.bbc.com/sport/football/articles/cw07l7pk2gp4o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Why penalty for Williamson handball was correct call",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Williamson"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Troubled Gateshead fail to pay September wages",
+    "url": "https://www.bbc.com/sport/football/articles/ck86x60nv5z0o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Troubled Gateshead fail to pay September wages",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Troubled Gateshead",
+      "September"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Jack Wilshere - The Football Interview. Audio, 21 minutes Jack Wilshere - The Football Interview",
+    "url": "https://www.bbc.com/sounds/play/p0pdctn1",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。Jack Wilshere - The Football Interview. Audio, 21 minutes Jack Wilshere - The Football Interview",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Jack Wilshere",
+      "The Football Interview",
+      "Audio"
     ]
   },
   {
@@ -207,97 +228,161 @@
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Who has scored against the most Premier League teams?",
-    "url": "https://www.bbc.com/sport/football/articles/cmwyzk1jq35go",
+    "source": "The Guardian",
+    "title": "Criminal or saviour? Pinto abandoned by Portuguese authorities after City leaks",
+    "url": "https://www.theguardian.com/football/2026/oct/01/fears-manchester-city-whistleblower-rui-pinto-loses-protected-witness-status",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Criminal or saviour? Pinto abandoned by Portuguese authorities after City leaks",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Criminal",
+      "Pinto",
+      "Portuguese",
+      "City"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Will Unwin Fans are right to feel angry – now they need to direct it at the owners",
+    "url": "https://www.theguardian.com/football/2026/oct/01/manchester-city-premier-league-financial-rule-breaches-fans-anger-owners",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Will Unwin Fans are right to feel angry – now they need to direct it at the owners",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Will Unwin Fans"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Moving the Goalposts Women’s Ballon d’Or 2026 power rankings: will a new winner be crowned?",
+    "url": "https://www.theguardian.com/football/2026/oct/01/womens-ballon-dor-2026-power-rankings-will-a-new-winner-be-crowned",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Who has scored against the most Premier League teams?",
+    "core_event": "来自 The Guardian 的赛事报道。Moving the Goalposts Women’s Ballon d’Or 2026 power rankings: will a new winner be crowned?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Premier League"
+      "Moving",
+      "Goalposts Women",
+      "Ballon"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Rui Pinto Manchester City whistleblower no longer a protected witness in Portugal",
-    "url": "https://www.theguardian.com/football/2026/sep/30/manchester-city-whistleblower-rui-pinto-no-longer-protected-witness-premier-league-portuguese-police",
+    "title": "WCL Williamson blunder gifts Paris FC a point as Arsenal blow lead",
+    "url": "https://www.theguardian.com/football/2026/sep/30/paris-fc-arsenal-womens-champions-league-match-report",
     "category": "injury",
-    "emoji_tag": "🩵",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Rui Pinto Manchester City whistleblower no longer a protected witness in Portugal",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。WCL Williamson blunder gifts Paris FC a point as Arsenal blow lead",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Rui Pinto Manchester",
-      "City",
-      "Portugal"
+      "Williamson",
+      "Paris",
+      "Arsenal"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Manchester City Club could be forced to pay Premier League up to £50m in legal costs",
-    "url": "https://www.theguardian.com/football/2026/sep/30/manchester-city-premier-league-legal-costs",
-    "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Manchester City Club could be forced to pay Premier League up to £50m in legal costs",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "title": "Next Generation 2021 Why slow and steady sometimes wins the race",
+    "url": "https://www.theguardian.com/football/2026/sep/30/next-generation-2021-why-slow-and-steady-sometimes-wins-the-race",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Next Generation 2021 Why slow and steady sometimes wins the race",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Manchester City Club",
-      "Premier League"
+      "Next Generation"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Nations League Tuchel praises Alexander-Arnold for ‘decisive’ display on England return",
-    "url": "https://www.theguardian.com/football/2026/sep/29/thomas-tuchel-trent-alexander-arnold-czechia-england-nations-league-match",
+    "title": "Nations League: Ronaldo-less Portugal prosper while Klopp gets first win as Germany coach",
+    "url": "https://www.theguardian.com/football/2026/oct/01/nations-league-portugal-denmark-germany-serbia",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Nations League: Ronaldo-less Portugal prosper while Klopp gets first win as Germany coach",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Nations League",
+      "Ronaldo",
+      "Portugal",
+      "Klopp"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Criminal or saviour? Rui Pinto abandoned by Portuguese authorities after Manchester City leaks",
+    "url": "https://www.theguardian.com/football/2026/oct/01/fears-manchester-city-whistleblower-rui-pinto-loses-protected-witness-status",
+    "category": "injury",
+    "emoji_tag": "🩵",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Criminal or saviour? Rui Pinto abandoned by Portuguese authorities after Manchester City leaks",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Criminal",
+      "Rui Pinto",
+      "Portuguese",
+      "Manchester City"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Pro-Palestine protests interrupt game as Ireland pass up 2-0 lead in draw against Austria",
+    "url": "https://www.theguardian.com/football/2026/oct/01/pro-palestine-protests-interrupt-game-ireland-draw-austria-nations-league",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 The Guardian 的赛事报道。Pro-Palestine protests interrupt game as Ireland pass up 2-0 lead in draw against Austria",
+    "tactical_financial_impact": "紧张的比分说明双方实力接近，细节决定胜负，临场调整至关重要。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Palestine",
+      "Ireland",
+      "Austria"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Neco Williams fires revitalised Wales to fightback win against 10-man Norway",
+    "url": "https://www.theguardian.com/football/2026/oct/01/wales-norway-nations-league-league-a-group-4-match-report",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Neco Williams fires revitalised Wales to fightback win against 10-man Norway",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Neco Williams",
+      "Wales",
+      "Norway"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "double quotation mark Margot Robbie changing her name to her husband’s hurts my beautiful lesbian brain. Here’s why",
+    "url": "https://www.theguardian.com/commentisfree/2026/oct/02/margot-robbie-changing-her-name-to-her-husbands-hurts-my-beautiful-lesbian-brain",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Nations League Tuchel praises Alexander-Arnold for ‘decisive’ display on England return",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。double quotation mark Margot Robbie changing her name to her husband’s hurts my beautiful lesbian brain. Here’s why",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Nations League Tuchel",
-      "Alexander",
-      "Arnold",
-      "England"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Manchester City whistleblower Rui Pinto no longer a protected witness in Portugal",
-    "url": "https://www.theguardian.com/football/2026/sep/30/manchester-city-whistleblower-rui-pinto-no-longer-protected-witness-premier-league-portuguese-police",
-    "category": "injury",
-    "emoji_tag": "🩵",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Manchester City whistleblower Rui Pinto no longer a protected witness in Portugal",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Manchester City",
-      "Rui Pinto",
-      "Portugal"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Rival clubs feel relegating Manchester City to Championship would not be enough",
-    "url": "https://www.theguardian.com/football/2026/sep/30/rival-clubs-feel-relegating-manchester-city-championship-not-enough-premier-league",
-    "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Rival clubs feel relegating Manchester City to Championship would not be enough",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Rival",
-      "Manchester City",
-      "Championship"
+      "Margot Robbie",
+      "Here"
     ]
   }
 ]
