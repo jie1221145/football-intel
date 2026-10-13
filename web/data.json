@@ -1,6 +1,80 @@
 [
   {
     "source": "BBC Sport",
+    "title": "Coventry thrash Newcastle for first top-flight home win in 25 years",
+    "url": "https://www.bbc.com/sport/football/live/cwm23l547e4pt",
+    "category": "match_report",
+    "emoji_tag": "⚫",
+    "core_event": "来自 BBC Sport 的赛事报道。Coventry thrash Newcastle for first top-flight home win in 25 years",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Coventry",
+      "Newcastle"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Wales given play-off history lesson before Albania second leg",
+    "url": "https://www.bbc.com/sport/football/articles/c83vqw003kdko",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Wales given play-off history lesson before Albania second leg",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Wales",
+      "Albania"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Hincapie and Zubimendi injured in post-match training session",
+    "url": "https://www.bbc.com/sport/football/articles/cmq5nzn8ww98o",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Hincapie and Zubimendi injured in post-match training session",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Hincapie",
+      "Zubimendi"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Do Lionesses lack ruthlessness in front of goal?",
+    "url": "https://www.bbc.com/sport/football/articles/cwe8rvm8yl93o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Do Lionesses lack ruthlessness in front of goal?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Do Lionesses"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Man City bananas 'brought fun back', says Varadi",
+    "url": "https://www.bbc.com/sport/football/articles/cmvgx7e5y5gxo",
+    "category": "injury",
+    "emoji_tag": "🩵",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Man City bananas 'brought fun back', says Varadi",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Man City",
+      "Varadi"
+    ]
+  },
+  {
+    "source": "BBC Sport",
     "title": "Man City's statement win has feeling of irrelevance with season in limbo",
     "url": "https://www.bbc.com/sport/football/articles/cmy0rd4pex7no",
     "category": "transfer",
@@ -11,6 +85,53 @@
     "gossip_label": "野史流言",
     "key_players": [
       "Man City"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Peterborough deny making illegal approach for Savage",
+    "url": "https://www.bbc.com/sport/football/articles/cr93zn4kq0wjo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Peterborough deny making illegal approach for Savage",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Peterborough",
+      "Savage"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Northern Ireland will have 'one last swing' at World Cup place",
+    "url": "https://www.bbc.com/sport/football/articles/ckpqg2r4ewgqo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Northern Ireland will have 'one last swing' at World Cup place",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Northern Ireland",
+      "World Cup"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "MNC: Manchester City defiant, Fulham struggling and Seedorf in Brazil. Audio, 61 minutes MNC: Manchester City defiant, Fulham struggling and Seedorf in Brazil",
+    "url": "https://www.bbc.com/sounds/play/p0pgc622",
+    "category": "match_report",
+    "emoji_tag": "🩵",
+    "core_event": "来自 BBC Sport 的赛事报道。MNC: Manchester City defiant, Fulham struggling and Seedorf in Brazil. Audio, 61 minutes MNC: Manchester City defiant, Fulham struggling and Seedorf in Brazil",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Manchester City",
+      "Fulham",
+      "Seedorf",
+      "Brazil"
     ]
   },
   {
@@ -30,94 +151,34 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Glasner loses on Eagles return - but should Palace goal have been ruled out?",
-    "url": "https://www.bbc.com/sport/football/live/c63el8xwn529t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Glasner loses on Eagles return - but should Palace goal have been ruled out?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Glasner",
-      "Eagles",
-      "Palace"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Aston Villa planning Endrick move - Monday's gossip",
-    "url": "https://www.bbc.com/sport/football/articles/c5gm01j87jl7o",
+    "title": "Wales wary but eye record run in World Cup bid",
+    "url": "https://www.bbc.com/sport/football/articles/cmd6d5980jz3o",
     "category": "transfer",
-    "emoji_tag": "🟣",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Aston Villa planning Endrick move - Monday's gossip",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Wales wary but eye record run in World Cup bid",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Aston Villa",
-      "Endrick",
-      "Monday"
+      "Wales",
+      "World Cup"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Hull and Everton play out entertaining draw",
-    "url": "https://www.bbc.com/sport/football/live/cky83n1lgd21t",
+    "title": "Lionesses on track, Cuthbert returns and Kirby on Brighton's start. Audio, 52 minutes Lionesses on track, Cuthbert returns and Kirby on Brighton's start",
+    "url": "https://www.bbc.com/sounds/play/p0pgbr8n",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Hull and Everton play out entertaining draw",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Hull",
-      "Everton"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Jota comeback helps Celtic lift gloom in strong response",
-    "url": "https://www.bbc.com/sport/football/articles/cqwy7nr5lry0o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Jota comeback helps Celtic lift gloom in strong response",
+    "core_event": "来自 BBC Sport 的赛事报道。Lionesses on track, Cuthbert returns and Kirby on Brighton's start. Audio, 52 minutes Lionesses on track, Cuthbert returns and Kirby on Brighton's start",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Jota",
-      "Celtic"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "St Johnstone defeat blunt Aberdeen to reach top six",
-    "url": "https://www.bbc.com/sport/football/live/c8vgxk03wqprt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。St Johnstone defeat blunt Aberdeen to reach top six",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "St Johnstone",
-      "Aberdeen"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Man City cruise to statement win over 10-man Liverpool",
-    "url": "https://www.bbc.com/sport/football/live/cr3el8xwnnxkt",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Man City cruise to statement win over 10-man Liverpool",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Man City",
-      "Liverpool"
+      "Lionesses",
+      "Cuthbert",
+      "Kirby",
+      "Brighton"
     ]
   },
   {
@@ -137,135 +198,42 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Hughes focused on Albania before World Cup dream",
-    "url": "https://www.bbc.com/sport/football/articles/cq1m4ngv99mvo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Hughes focused on Albania before World Cup dream",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Hughes",
-      "Albania",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Celtic back on top as win at Motherwell halts losing run",
-    "url": "https://www.bbc.com/sport/football/live/cqdjv37mx21mt",
+    "title": "Jota comeback helps Celtic lift gloom in strong response",
+    "url": "https://www.bbc.com/sport/football/articles/cqwy7nr5lry0o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Celtic back on top as win at Motherwell halts losing run",
+    "core_event": "来自 BBC Sport 的赛事报道。Jota comeback helps Celtic lift gloom in strong response",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Celtic",
-      "Motherwell"
+      "Jota",
+      "Celtic"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Ronaldo provisionally suspended by Portuguese FA",
-    "url": "https://www.bbc.com/sport/football/articles/cm4g13909lp7o",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Ronaldo provisionally suspended by Portuguese FA",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Ronaldo",
-      "Portuguese"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Vinicius Jr sent off for hair pull as Mourinho misses news conference",
-    "url": "https://www.bbc.com/sport/football/live/cx30eppd991et",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Vinicius Jr sent off for hair pull as Mourinho misses news conference",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Vinicius Jr",
-      "Mourinho"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Gordon opens goal account as Barca equal best start",
-    "url": "https://www.bbc.com/sport/football/live/cm87zxxd55r3t",
+    "title": "Glasner loses on Eagles return - but should Palace goal have been ruled out?",
+    "url": "https://www.bbc.com/sport/football/live/c63el8xwn529t",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Gordon opens goal account as Barca equal best start",
+    "core_event": "来自 BBC Sport 的赛事报道。Glasner loses on Eagles return - but should Palace goal have been ruled out?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Gordon",
-      "Barca"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Hincapie injury adds to Arsenal issues after Guimaraes rescue act",
-    "url": "https://www.bbc.com/sport/football/articles/c63r5w20ez3do",
-    "category": "injury",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Hincapie injury adds to Arsenal issues after Guimaraes rescue act",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Hincapie",
-      "Arsenal",
-      "Guimaraes"
+      "Glasner",
+      "Eagles",
+      "Palace"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Rayan Cherki is mobbed by his teammates after City's third goal Jérémy Doku (right) wheels away after making it 2-0 to City Erling Haaland soaks up the acclaim for his opener as City fans wave inflatable bananas Liverpool fans carry a banner referencing the guilty verdict over City's Premier League charges Liverpool supporters hold up balloons with 'cheats' written on them Ryan Gravenberch trudges off after seeing red A disappointed Andoni Iraola applauds the home fans at full time",
-    "url": "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Rayan Cherki is mobbed by his teammates after City's third goal Jérémy Doku (right) wheels away after making it 2-0 to City Erling Haaland soaks up the acclaim for his opener as City fans wave inflatable bananas Liverpool fans carry a banner referencing the guilty verdict over City's Premier League charges Liverpool supporters hold up balloons with 'cheats' written on them Ryan Gravenberch trudges off after seeing red A disappointed Andoni Iraola applauds the home fans at full time",
-    "tactical_financial_impact": "紧张的比分说明双方实力接近，细节决定胜负，临场调整至关重要。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Rayan Cherki",
-      "City",
-      "Jérémy Doku",
-      "City Erling Haaland"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "City’s welcome to Anfield Tension, ‘cheat’ banners and inflatable bananas",
-    "url": "https://www.theguardian.com/football/2026/oct/11/tension-banners-and-inflatable-bananas-manchester-citys-welcome-to-anfield",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。City’s welcome to Anfield Tension, ‘cheat’ banners and inflatable bananas",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "City",
-      "Anfield Tension"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Top scorers Who is leading race for the Premier League's golden boot?",
+    "title": "Premier League top scorers Who is leading the race for the golden boot?",
     "url": "https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Top scorers Who is leading race for the Premier League's golden boot?",
+    "core_event": "来自 The Guardian 的赛事报道。Premier League top scorers Who is leading the race for the golden boot?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
@@ -275,132 +243,110 @@
   },
   {
     "source": "The Guardian",
-    "title": "News Burnham to publish all details of his dealings with Manchester City",
-    "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-publish-details-dealings-manchester-city",
+    "title": "Asian Champions League Ronaldo’s Al-Nassr match delayed by missile alert in Riyadh",
+    "url": "https://www.theguardian.com/football/2026/oct/12/al-nassr-asian-champions-league-delay-missile-fired-cristiano-ronaldo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Asian Champions League Ronaldo’s Al-Nassr match delayed by missile alert in Riyadh",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Asian Champions League",
+      "Ronaldo",
+      "Nassr",
+      "Riyadh"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "The Hotspot Sign up for our newsletter on the intersection of sport and climate",
+    "url": "https://www.theguardian.com/global/2026/apr/02/sign-up-to-the-hotspot",
     "category": "transfer",
-    "emoji_tag": "🩵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。News Burnham to publish all details of his dealings with Manchester City",
+    "emoji_tag": "🔵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。The Hotspot Sign up for our newsletter on the intersection of sport and climate",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "News Burnham",
+      "The Hotspot Sign"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Football Police officer injured as 10 arrests made at Liverpool v Manchester City",
+    "url": "https://www.theguardian.com/football/2026/oct/12/police-officer-injured-as-10-arrests-made-at-tense-liverpool-v-manchester-city-match",
+    "category": "injury",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Football Police officer injured as 10 arrests made at Liverpool v Manchester City",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Football Police",
+      "Liverpool",
       "Manchester City"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts",
-    "url": "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report",
+    "title": "Coventry land long-awaited home win as Mfuni seals rout of Newcastle",
+    "url": "https://www.theguardian.com/football/2026/oct/12/coventry-newcastle-premier-league-match-report",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts",
+    "emoji_tag": "⚫",
+    "core_event": "来自 The Guardian 的赛事报道。Coventry land long-awaited home win as Mfuni seals rout of Newcastle",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Cherki",
-      "Manchester City",
-      "Liverpool",
-      "Anfield"
+      "Coventry",
+      "Mfuni",
+      "Newcastle"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Spectre of ghost football hangs over Manchester City win of unknown significance",
-    "url": "https://www.theguardian.com/football/2026/oct/11/premier-league-returns-in-shadow-of-manchester-citys-judgment-day",
+    "title": "Winning is not enough for Manchester City to move on from this crisis",
+    "url": "https://www.theguardian.com/football/2026/oct/12/man-citys-crisis-pushes-the-limits-of-language",
     "category": "transfer",
     "emoji_tag": "🩵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Spectre of ghost football hangs over Manchester City win of unknown significance",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Winning is not enough for Manchester City to move on from this crisis",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Spectre",
+      "Winning",
       "Manchester City"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Tension, ‘cheat’ banners and inflatable bananas: Manchester City’s welcome to Anfield",
-    "url": "https://www.theguardian.com/football/2026/oct/11/tension-banners-and-inflatable-bananas-manchester-citys-welcome-to-anfield",
+    "title": "Ronaldo’s Asian Champions League match delayed by missile alert in Riyadh",
+    "url": "https://www.theguardian.com/football/2026/oct/12/al-nassr-asian-champions-league-delay-missile-fired-cristiano-ronaldo",
     "category": "injury",
-    "emoji_tag": "🩵",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Tension, ‘cheat’ banners and inflatable bananas: Manchester City’s welcome to Anfield",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Ronaldo’s Asian Champions League match delayed by missile alert in Riyadh",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Tension",
-      "Manchester City",
-      "Anfield"
+      "Ronaldo",
+      "Asian Champions League",
+      "Riyadh"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "European football: Freiburg move top of Bundesliga while Isco keeps Betis flying high",
-    "url": "https://www.theguardian.com/football/2026/oct/11/european-football-lazio-maintain-strong-start-with-win-over-monza",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。European football: Freiburg move top of Bundesliga while Isco keeps Betis flying high",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "European",
-      "Freiburg",
-      "Bundesliga",
-      "Isco"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return",
-    "url": "https://www.theguardian.com/football/2026/oct/11/crystal-palace-nottingham-forest-premier-league-match-report",
+    "title": "David Squires on … the endless growth of football vodcasts and banal digital banter",
+    "url": "https://www.theguardian.com/football/picture/2026/oct/13/david-squires-on-endless-growth-football-podcasts-vodcasts-banal-digital-banter",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。David Squires on … the endless growth of football vodcasts and banal digital banter",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Pino",
-      "Nottingham Forest",
-      "Glasner",
-      "Crystal Palace"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Thousands without power in Florida and Alabama as Isaias moves north",
-    "url": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Thousands without power in Florida and Alabama as Isaias moves north",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Thousands",
-      "Florida",
-      "Alabama",
-      "Isaias"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Pete Songi on Donald Trump’s plan to buy diesel from Russia – cartoon",
-    "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/11/pete-songi-donald-trump-plan-to-buy-diesel-from-russia-cartoon",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Pete Songi on Donald Trump’s plan to buy diesel from Russia – cartoon",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Pete Songi",
-      "Donald Trump",
-      "Russia"
+      "David Squires"
     ]
   }
 ]
