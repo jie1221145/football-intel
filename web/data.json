@@ -1,6 +1,82 @@
 [
   {
     "source": "BBC Sport",
+    "title": "Forest out of drop zone with draw at Ipswich but rue missed chances",
+    "url": "https://www.bbc.com/sport/football/live/cmn0628p5rkyt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Forest out of drop zone with draw at Ipswich but rue missed chances",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Forest",
+      "Ipswich"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Villa could reconsider Garnacho deal - Saturday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/cwn73kzzr8veo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Villa could reconsider Garnacho deal - Saturday's gossip",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Villa",
+      "Garnacho",
+      "Saturday"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "PSG v Lyon moved as Paris prepares for more protests",
+    "url": "https://www.bbc.com/sport/football/articles/cw8rz3eyn26po",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。PSG v Lyon moved as Paris prepares for more protests",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Lyon",
+      "Paris"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Linfield move top with comeback win over Ports - report & highlights",
+    "url": "https://www.bbc.com/sport/football/live/cmglwndpe1dgt",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Linfield move top with comeback win over Ports - report & highlights",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Linfield",
+      "Ports"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Derry City defeat Dundalk in final home league game",
+    "url": "https://www.bbc.com/sport/football/live/c6p9g4vp22zrt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Derry City defeat Dundalk in final home league game",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Derry City",
+      "Dundalk"
+    ]
+  },
+  {
+    "source": "BBC Sport",
     "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
     "url": "https://www.bbc.com/sport/football/articles/c6z981p24q1eo",
     "category": "transfer",
@@ -34,21 +110,6 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Brighton winning run ends with dull draw against Jablonec",
-    "url": "https://www.bbc.com/sport/football/live/c52e9n7394jyt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Brighton winning run ends with dull draw against Jablonec",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Brighton",
-      "Jablonec"
-    ]
-  },
-  {
-    "source": "BBC Sport",
     "title": "Salah scores and assists as Trabzonspor beat depleted Hearts",
     "url": "https://www.bbc.com/sport/football/live/cmgqwny3w5z9t",
     "category": "match_report",
@@ -65,80 +126,58 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Wasteful Sunderland held to draw at Lech Poznan",
-    "url": "https://www.bbc.com/sport/football/live/cqz0vym1pk55t",
+    "title": "The part-timers who won three Wembley finals in a row",
+    "url": "https://www.bbc.com/sport/football/articles/c6y4z21xelk4o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Wasteful Sunderland held to draw at Lech Poznan",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Wasteful Sunderland",
-      "Lech Poznan"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Celtic lose third Europa League game in row after Celta Vigo comeback",
-    "url": "https://www.bbc.com/sport/football/live/c85ynlg65n9zt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Celtic lose third Europa League game in row after Celta Vigo comeback",
+    "core_event": "来自 BBC Sport 的赛事报道。The part-timers who won three Wembley finals in a row",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Celtic",
-      "Europa League",
-      "Celta Vigo"
+      "Wembley"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "What are Real's attacking options during Vinicius Jr ban?",
-    "url": "https://www.bbc.com/sport/football/articles/cq70pj7p0ep6o",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。What are Real's attacking options during Vinicius Jr ban?",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Real",
-      "Vinicius Jr"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Can Michael Carrick survive as Man Utd boss? Audio, 37 minutes Can Michael Carrick survive as Man Utd boss?",
-    "url": "https://www.bbc.com/sounds/play/m0033tlq",
+    "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
+    "url": "https://www.bbc.com/sport/football/articles/cz7z09v9pp1o",
     "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Can Michael Carrick survive as Man Utd boss? Audio, 37 minutes Can Michael Carrick survive as Man Utd boss?",
+    "core_event": "来自 BBC Sport 的赛事报道。Arsenal had more than 20 players on shortlist to capitalise on title win",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Can Michael Carrick",
-      "Man Utd",
-      "Audio"
+      "Arsenal"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Ex-England defender Bertrand eyes £87m AFC Wimbledon deal",
-    "url": "https://www.bbc.com/sport/football/articles/cwdr8zxp884mo",
-    "category": "transfer",
+    "title": "73 goals from dropping deep - we ask Kane to break down how he did it",
+    "url": "https://www.bbc.com/sport/articles/cx2z7rjn2p2o",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Ex-England defender Bertrand eyes £87m AFC Wimbledon deal",
+    "core_event": "来自 BBC Sport 的赛事报道。73 goals from dropping deep - we ask Kane to break down how he did it",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Kane"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Life as a Wag in the transfer window",
+    "url": "https://www.bbc.com/sport/football/articles/cx2jpgj24vlo",
+    "category": "transfer",
+    "emoji_tag": "💰",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Life as a Wag in the transfer window",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "England",
-      "Bertrand",
-      "Wimbledon"
+      "Life"
     ]
   },
   {
@@ -159,160 +198,73 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Superman at Como & is Conte right for Man Utd? Audio, 50 minutes Superman at Como & is Conte right for Man Utd?",
-    "url": "https://www.bbc.com/sounds/play/p0pj4zqk",
+    "title": "The keeper doing 'Premier League' things for EFL's last unbeaten side",
+    "url": "https://www.bbc.com/sport/football/articles/c98rz0d0l40vo",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Superman at Como & is Conte right for Man Utd? Audio, 50 minutes Superman at Como & is Conte right for Man Utd?",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。The keeper doing 'Premier League' things for EFL's last unbeaten side",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Superman",
-      "Como",
-      "Conte",
-      "Man Utd"
+      "Premier League"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Saka injury 'does not look good' - how will Arsenal cope?",
-    "url": "https://www.bbc.com/sport/football/articles/ckg5j1zdn4m3o",
-    "category": "injury",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Saka injury 'does not look good' - how will Arsenal cope?",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Saka",
-      "Arsenal"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Who is close to a yellow card suspension in Champions League?",
-    "url": "https://www.bbc.com/sport/football/articles/c54g1vpypgw3o",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Who is close to a yellow card suspension in Champions League?",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Champions League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Real beat RB Leipzig to maintain 100% start",
-    "url": "https://www.bbc.com/sport/football/live/c5vgjnkyyxr7t",
+    "title": "Do Manchester City have any grounds to win their appeal?",
+    "url": "https://www.bbc.com/sport/football/articles/c6je5lwxk5l0o",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Real beat RB Leipzig to maintain 100% start",
+    "emoji_tag": "🩵",
+    "core_event": "来自 BBC Sport 的赛事报道。Do Manchester City have any grounds to win their appeal?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Real",
-      "Leipzig"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Rice scores late as Arsenal draw with Bayern",
-    "url": "https://www.bbc.com/sport/football/live/c98rzp066dd8t",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Rice scores late as Arsenal draw with Bayern",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Rice",
-      "Arsenal",
-      "Bayern"
+      "Do Manchester City"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Football Weekly Manchester United bin-fire keeps blazing and Arsenal draw at Bayern",
-    "url": "https://www.theguardian.com/football/video/2026/oct/22/manchester-united-bin-fire-keeps-blazing-and-arsenal-draw-at-bayern-football-weekly-extra-video",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Football Weekly Manchester United bin-fire keeps blazing and Arsenal draw at Bayern",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Football Weekly Manchester",
-      "United",
-      "Arsenal",
-      "Bayern"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Emery and Nagelsmann are top targets if Manchester United sack Carrick",
-    "url": "https://www.theguardian.com/football/2026/oct/22/unai-emery-julian-nagelsmann-manchester-united-michael-carrick",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Emery and Nagelsmann are top targets if Manchester United sack Carrick",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Emery",
-      "Nagelsmann",
-      "Manchester United",
-      "Carrick"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Europa League: Celtic lose to Celta after leading, Mateta returns in Palace draw",
-    "url": "https://www.theguardian.com/football/2026/oct/22/europa-league-sunderland-held-in-poznan-as-juventus-denied-comeback-win",
+    "title": "Premier League top scorers Who is leading race for the golden boot?",
+    "url": "https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Europa League: Celtic lose to Celta after leading, Mateta returns in Palace draw",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Europa League",
-      "Celtic",
-      "Celta",
-      "Mateta"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "James Bond finalists to screen-test for role this week – reports",
-    "url": "https://www.theguardian.com/film/2026/oct/22/final-james-bond-screen-tests-callum-turner-jack-lowden",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。James Bond finalists to screen-test for role this week – reports",
+    "core_event": "来自 The Guardian 的赛事报道。Premier League top scorers Who is leading race for the golden boot?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "James Bond"
+      "Premier League"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Rebel Wilson secures another Australian court win as co-producers of The Deb awarded just $10",
-    "url": "https://www.theguardian.com/film/2026/oct/23/rebel-wilson-australian-court-win-co-producers-the-deb-film-ntwnfb",
+    "title": "The young Americans choosing Y2K cars over shiny new SUVs: ‘I get so much crap from people’",
+    "url": "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Rebel Wilson secures another Australian court win as co-producers of The Deb awarded just $10",
+    "core_event": "来自 The Guardian 的赛事报道。The young Americans choosing Y2K cars over shiny new SUVs: ‘I get so much crap from people’",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Rebel Wilson",
-      "Australian",
-      "The Deb"
+      "Americans"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Trump says he ordered DoJ to file lawsuit to block Alaska Senate results certification",
+    "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-doj-lawsuit-alaska-senate-dan-sullivan",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Trump says he ordered DoJ to file lawsuit to block Alaska Senate results certification",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Trump",
+      "Alaska Senate"
     ]
   }
 ]
