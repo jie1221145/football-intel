@@ -1,6 +1,205 @@
 [
   {
     "source": "BBC Sport",
+    "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
+    "url": "https://www.bbc.com/sport/football/articles/cq62y7yzjdmzo",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Where",
+      "Fleetwood",
+      "Arsenal"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Bradford beat Peterborough to reach EFL Cup quarter-finals",
+    "url": "https://www.bbc.com/sport/football/live/cm5yn23l6rxkt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Bradford beat Peterborough to reach EFL Cup quarter-finals",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Bradford",
+      "Peterborough"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
+    "url": "https://www.bbc.com/sport/football/articles/cmqlngxw6lv3o",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Fleetwood-Arsenal halted for eight minutes because of drone",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Fleetwood",
+      "Arsenal"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "How 'anti-superstar' Kane defied doubters to become world's best",
+    "url": "https://www.bbc.com/sport/football/articles/cqvg01jyy84xo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。How 'anti-superstar' Kane defied doubters to become world's best",
+    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Kane"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Barcelona fined £503 over approach for Alvarez",
+    "url": "https://www.bbc.com/sport/football/articles/cmpwg0lqxkd4o",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Barcelona fined £503 over approach for Alvarez",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Barcelona",
+      "Alvarez"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Ranking England's Ballon d'Or winners - how does Kane compare?",
+    "url": "https://www.bbc.com/sport/football/articles/ckx2qdxgzzz7o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Ranking England's Ballon d'Or winners - how does Kane compare?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Ranking England",
+      "Ballon",
+      "Kane"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "How have 'best team north or south of border' last season lost six in a row?",
+    "url": "https://www.bbc.com/sport/football/articles/c6lylnkzp772o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。How have 'best team north or south of border' last season lost six in a row?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": []
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Riis leads Leicester to emotional win over Wigan",
+    "url": "https://www.bbc.com/sport/football/live/cqj9kylweprjt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Riis leads Leicester to emotional win over Wigan",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Riis",
+      "Leicester",
+      "Wigan"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "How Kane's Ballon d'Or win could boost the Bundesliga",
+    "url": "https://www.bbc.com/sport/football/articles/crgqwge88z84o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。How Kane's Ballon d'Or win could boost the Bundesliga",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "How Kane",
+      "Ballon",
+      "Bundesliga"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "McInnes admits feeling 'guilt' over leaving Hearts for Rangers",
+    "url": "https://www.bbc.com/sport/football/articles/cjr4y51g6zvvo",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。McInnes admits feeling 'guilt' over leaving Hearts for Rangers",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Hearts",
+      "Rangers"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Oxford up to third after win over Stockport",
+    "url": "https://www.bbc.com/sport/football/live/ck98zn5lglp4t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Oxford up to third after win over Stockport",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Oxford",
+      "Stockport"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Blackpool beat Villa and Vale thrash Man City in Trophy",
+    "url": "https://www.bbc.com/sport/football/articles/cmly0zyd15jqo",
+    "category": "match_report",
+    "emoji_tag": "🩵",
+    "core_event": "来自 BBC Sport 的赛事报道。Blackpool beat Villa and Vale thrash Man City in Trophy",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Blackpool",
+      "Villa",
+      "Vale",
+      "Man City"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Carrick stays at Man Utd & Kane wins Ballon d’Or. Audio, 31 minutes Carrick stays at Man Utd & Kane wins Ballon d’Or",
+    "url": "https://www.bbc.com/sounds/play/p0pjy46g",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Carrick stays at Man Utd & Kane wins Ballon d’Or. Audio, 31 minutes Carrick stays at Man Utd & Kane wins Ballon d’Or",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Carrick",
+      "Man Utd",
+      "Kane",
+      "Ballon"
+    ]
+  },
+  {
+    "source": "BBC Sport",
     "title": "Putellas wins record-equalling third Ballon d'Or to extend Spanish dominance",
     "url": "https://www.bbc.com/sport/football/articles/cqp9gky38lj3o",
     "category": "match_report",
@@ -17,343 +216,140 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Kane and Putellas lift Ballon d'Or - plus all other award winners",
-    "url": "https://www.bbc.com/sport/football/live/cmd7qz7xrwe3t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Kane and Putellas lift Ballon d'Or - plus all other award winners",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "title": "Milne out for season as Hearts' injury woes continue",
+    "url": "https://www.bbc.com/sport/football/articles/c6gr8zzewz5ko",
+    "category": "injury",
+    "emoji_tag": "🚑",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Milne out for season as Hearts' injury woes continue",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Kane",
-      "Putellas",
-      "Ballon"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
-    "url": "https://www.bbc.com/sport/football/articles/cmly0g2y7q2zo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Kane",
-      "Ballon"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Leaders Salford beat Walsall to go six points clear",
-    "url": "https://www.bbc.com/sport/football/live/cq98zn7893x8t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Leaders Salford beat Walsall to go six points clear",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Leaders Salford",
-      "Walsall"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "MNC: No smiles for the cameras at Manchester United. Audio, 61 minutes MNC: No smiles for the cameras at Manchester United",
-    "url": "https://www.bbc.com/sounds/play/p0pjqwyh",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。MNC: No smiles for the cameras at Manchester United. Audio, 61 minutes MNC: No smiles for the cameras at Manchester United",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Manchester United",
-      "Audio"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
-    "url": "https://www.bbc.com/sport/football/articles/cwm24jk9743yo",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。End approaching for Carrick but Man Utd fans make clear who they blame",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Carrick",
-      "Man Utd"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Derby day battles, Man United make progress & European nights return! Audio, 46 minutes Derby day battles, Man United make progress & European nights return!",
-    "url": "https://www.bbc.com/sounds/play/p0pjq3nz",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Derby day battles, Man United make progress & European nights return! Audio, 46 minutes Derby day battles, Man United make progress & European nights return!",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Derby",
-      "Man United",
-      "European",
-      "Audio"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Isak finally living up to price tag as Liverpool patience rewarded",
-    "url": "https://www.bbc.com/sport/football/articles/cmj47lq7e5e7o",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Isak finally living up to price tag as Liverpool patience rewarded",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Isak",
-      "Liverpool"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Celtic restore four-point lead with narrow win at Hibs",
-    "url": "https://www.bbc.com/sport/football/live/cm93z0vn52x3t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Celtic restore four-point lead with narrow win at Hibs",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Celtic",
-      "Hibs"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Fernandes left on bench for Man Utd defeat - a failed gamble?",
-    "url": "https://www.bbc.com/sport/football/articles/cmrlye5w3p79o",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Fernandes left on bench for Man Utd defeat - a failed gamble?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Fernandes",
-      "Man Utd"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Can anyone manage Manchester United? Audio, 41 minutes Can anyone manage Manchester United?",
-    "url": "https://www.bbc.com/sounds/play/p0phzkpn",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Can anyone manage Manchester United? Audio, 41 minutes Can anyone manage Manchester United?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Manchester United",
-      "Audio"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Hull and Brentford draw as unbeaten runs continue",
-    "url": "https://www.bbc.com/sport/football/live/cxly4950egynt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Hull and Brentford draw as unbeaten runs continue",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Hull",
-      "Brentford"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Late own goal earns Liverpool draw against London City",
-    "url": "https://www.bbc.com/sport/football/live/cwkg5yxmd87gt",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Late own goal earns Liverpool draw against London City",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Late",
-      "Liverpool",
-      "London City"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Hearts enjoy rare away win as Motherwell gloom lingers",
-    "url": "https://www.bbc.com/sport/football/live/c6y93nz5w2llt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Hearts enjoy rare away win as Motherwell gloom lingers",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Hearts",
-      "Motherwell"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Malard scores twice as Chelsea maintain unbeaten run",
-    "url": "https://www.bbc.com/sport/football/live/cw0k0nldmy54t",
-    "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 BBC Sport 的赛事报道。Malard scores twice as Chelsea maintain unbeaten run",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Malard",
-      "Chelsea"
+      "Milne",
+      "Hearts"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Alexia Putellas and Harry Kane with their awards. Barcelona's Vicky López with the women's young talent award. Bukayo Saka delivers a speech after winning Sócrates award for social action and humanitarianism. Lamine Yamal accepts men's young talent prize. Cata Coll and Unai Simón with their goalkeeping trophies. Rafael Benítez presents men's coach award to Spain's Luis de la Fuente.",
-    "url": "https://www.theguardian.com/football/2026/oct/26/harry-kane-ends-englands-25-year-wait-for-a-mens-ballon-dor",
+    "title": "‘That was what you live for’ Fleetwood revel in ‘unbelievably special’ Arsenal win",
+    "url": "https://www.theguardian.com/football/2026/oct/27/that-was-what-you-live-for-fleetwood-revel-in-unbelievably-special-arsenal-win",
     "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。‘That was what you live for’ Fleetwood revel in ‘unbelievably special’ Arsenal win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "That",
+      "Fleetwood",
+      "Arsenal"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Football Daily Kane completes his arc from Orient loanee to Ballon d’Or winner",
+    "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-football-daily-newsletter",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Football Daily Kane completes his arc from Orient loanee to Ballon d’Or winner",
+    "tactical_financial_impact": "租借操作灵活，不占永久薪资配额，是一种低风险补强策略。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Football Daily Kane",
+      "Orient",
+      "Ballon"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "‘That was what you live for’: Fleetwood revel in ‘unbelievably special’ Arsenal win",
+    "url": "https://www.theguardian.com/football/2026/oct/27/that-was-what-you-live-for-fleetwood-revel-in-unbelievably-special-arsenal-win",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。‘That was what you live for’: Fleetwood revel in ‘unbelievably special’ Arsenal win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "That",
+      "Fleetwood",
+      "Arsenal"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Barcelona fined £503 over their approach for Atlético Madrid star Álvarez",
+    "url": "https://www.theguardian.com/football/2026/oct/27/barcelona-fined-503-over-their-approach-for-atletico-madrid-star-alvarez",
+    "category": "transfer",
     "emoji_tag": "🔵",
-    "core_event": "来自 The Guardian 的赛事报道。Alexia Putellas and Harry Kane with their awards. Barcelona's Vicky López with the women's young talent award. Bukayo Saka delivers a speech after winning Sócrates award for social action and humanitarianism. Lamine Yamal accepts men's young talent prize. Cata Coll and Unai Simón with their goalkeeping trophies. Rafael Benítez presents men's coach award to Spain's Luis de la Fuente.",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Barcelona fined £503 over their approach for Atlético Madrid star Álvarez",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Barcelona",
+      "Atlético Madrid"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Alexia Putellas a worthy Ballon d’Or winner but the limited shortlist illustrates flaws",
+    "url": "https://www.theguardian.com/football/2026/oct/27/alexia-putellas-ballon-dor-winner-awards-long-way-before-being-equal-moving-the-goalposts",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Alexia Putellas a worthy Ballon d’Or winner but the limited shortlist illustrates flaws",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
       "Alexia Putellas",
-      "Harry Kane",
-      "Barcelona",
-      "Vicky López"
+      "Ballon"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Match report Mbappé double secures late victory at Barcelona",
-    "url": "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report",
-    "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 The Guardian 的赛事报道。Match report Mbappé double secures late victory at Barcelona",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Match",
-      "Mbappé",
-      "Barcelona"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Harry Kane claims men’s Ballon d’Or to end England’s 25-year wait for winner",
-    "url": "https://www.theguardian.com/football/2026/oct/26/harry-kane-ends-englands-25-year-wait-for-a-mens-ballon-dor",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Harry Kane claims men’s Ballon d’Or to end England’s 25-year wait for winner",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Harry Kane",
-      "Ballon",
-      "England"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Ballon d’Or 2026: Harry Kane crowned in London ceremony as Putellas wins award for third time – as it happened",
-    "url": "https://www.theguardian.com/football/live/2026/oct/26/ballon-dor-2026-updates-from-70th-edition-in-london-live",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Ballon d’Or 2026: Harry Kane crowned in London ceremony as Putellas wins award for third time – as it happened",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Ballon",
-      "Harry Kane",
-      "London",
-      "Putellas"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "McTominay stars in Napoli draw that leaves Allegri ‘not lucid enough’ to talk",
-    "url": "https://www.theguardian.com/football/2026/oct/26/scott-mctominay-napoli-roma-serie-a-massimiliano-allegri-not-lucid-enough",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。McTominay stars in Napoli draw that leaves Allegri ‘not lucid enough’ to talk",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Napoli",
-      "Allegri"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
-    "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Brazil",
-      "Flávio Bolsonaro"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Trump continues midterm campaign blitz in Mississippi amid outcry over racist, Islamophobic attacks – as it happened",
-    "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
+    "title": "Woman’s world ‘tilted on axis’ on learning husband invited men to sexually assault her, court told",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/27/woman-husband-invited-men-to-sexually-assault-her-court-told",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Trump continues midterm campaign blitz in Mississippi amid outcry over racist, Islamophobic attacks – as it happened",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Woman’s world ‘tilted on axis’ on learning husband invited men to sexually assault her, court told",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Trump",
-      "Mississippi",
-      "Islamophobic"
+      "Woman"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Sunlight at night: US startup’s demonstration of lighting Earth from space draws criticism",
-    "url": "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
-    "category": "match_report",
+    "title": "Body of missing California hiker covered in snow retrieved on Mount Whitney",
+    "url": "https://www.theguardian.com/us-news/2026/oct/27/california-missing-hiker-mount-whitney",
+    "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Sunlight at night: US startup’s demonstration of lighting Earth from space draws criticism",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Body of missing California hiker covered in snow retrieved on Mount Whitney",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Sunlight",
-      "Earth"
+      "Body",
+      "California",
+      "Mount Whitney"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+    "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Flávio Bolsonaro",
+      "Brazil"
     ]
   }
 ]
