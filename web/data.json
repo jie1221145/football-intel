@@ -1,233 +1,312 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Britain's first £100m man facing defining moment",
-    "url": "https://www.bbc.com/sport/football/articles/cmzxj2e2e5p2o",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Britain's first £100m man facing defining moment",
-    "tactical_financial_impact": "本次转会金额巨大，将对俱乐部的财政健康和 FFP 合规性构成压力。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Britain"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Sheff Utd beat Wrexham to extend unbeaten run",
-    "url": "https://www.bbc.com/sport/football/live/cxj0lngv1z1lt",
+    "title": "Suzuki own goal costs Villa as Fulham snatch point",
+    "url": "https://www.bbc.com/sport/football/live/cq0ldj4pnz10t",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Sheff Utd beat Wrexham to extend unbeaten run",
+    "core_event": "来自 BBC Sport 的赛事报道。Suzuki own goal costs Villa as Fulham snatch point",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Sheff Utd",
-      "Wrexham"
+      "Suzuki",
+      "Villa",
+      "Fulham"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Why has Caf abandoned plans to hold Afcon every four years?",
-    "url": "https://www.bbc.com/sport/football/articles/cm3el25ez88yo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Why has Caf abandoned plans to hold Afcon every four years?",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Afcon"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "O'Neill agrees with McGregor about Celtic issues",
-    "url": "https://www.bbc.com/sport/football/articles/cwrkypzzp6xeo",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。O'Neill agrees with McGregor about Celtic issues",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
-    "key_players": [
-      "Neill",
-      "Celtic"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Ronaldo closes in on 1,000th goal with hat-trick",
-    "url": "https://www.bbc.com/sport/football/articles/cmkgqprr44gzo",
+    "title": "Verbruggen spreads belief as impressive Brighton beat Man City",
+    "url": "https://www.bbc.com/sport/football/articles/c6d7qwnz1jnjo",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Ronaldo closes in on 1,000th goal with hat-trick",
+    "emoji_tag": "🩵",
+    "core_event": "来自 BBC Sport 的赛事报道。Verbruggen spreads belief as impressive Brighton beat Man City",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Ronaldo"
+      "Verbruggen",
+      "Brighton",
+      "Man City"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Man Utd target Barcelona's Lopez - Saturday's gossip",
-    "url": "https://www.bbc.com/sport/football/articles/ck3r52vn758xo",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man Utd target Barcelona's Lopez - Saturday's gossip",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Man Utd",
-      "Barcelona",
-      "Lopez",
-      "Saturday"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Calvert-Lewin set for new Leeds deal",
-    "url": "https://www.bbc.com/sport/football/articles/c6x2w1epxx8yo",
-    "category": "transfer",
+    "title": "Glasner fears he will be next Forest sacking if wins don't follow",
+    "url": "https://www.bbc.com/sport/football/articles/cvn067174knjo",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Calvert-Lewin set for new Leeds deal",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "core_event": "来自 BBC Sport 的赛事报道。Glasner fears he will be next Forest sacking if wins don't follow",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Calvert",
-      "Lewin",
+      "Glasner",
+      "Forest"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Naderi goal puts Rangers into League Cup final at expense of Aberdeen",
+    "url": "https://www.bbc.com/sport/football/live/cmx23ln75zk0t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Naderi goal puts Rangers into League Cup final at expense of Aberdeen",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Naderi",
+      "Rangers",
+      "League Cup",
+      "Aberdeen"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "In-form Evanilson scores again as Bournemouth beat Leeds",
+    "url": "https://www.bbc.com/sport/football/live/cq5ynj2r87rpt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。In-form Evanilson scores again as Bournemouth beat Leeds",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Evanilson",
+      "Bournemouth",
       "Leeds"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Ferguson's Glentoran reign starts with draw at Coleraine",
-    "url": "https://www.bbc.com/sport/football/live/c6jdmjg8r310t",
+    "title": "Moreira stars as AC Milan beat Inter in thrilling derby",
+    "url": "https://www.bbc.com/sport/football/live/cw99zj4rpd4dt",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Ferguson's Glentoran reign starts with draw at Coleraine",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Ferguson",
-      "Glentoran",
-      "Coleraine"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Forest Green launch £2m lawsuit over Savage approach",
-    "url": "https://www.bbc.com/sport/football/articles/cq4g148z2xp2o",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Forest Green launch £2m lawsuit over Savage approach",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Forest Green",
-      "Savage"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Afcon to return to two-year cycle after Caf U-turn",
-    "url": "https://www.bbc.com/sport/football/articles/cqn73pxx8vr5o",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Afcon to return to two-year cycle after Caf U-turn",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Afcon"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Dowman to miss three matches after appeal rejected",
-    "url": "https://www.bbc.com/sport/football/articles/c6kgq9qg28dno",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Dowman to miss three matches after appeal rejected",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Dowman"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Late PSG goal condemns Man City to third Champions League draw",
-    "url": "https://www.bbc.com/sport/football/live/c65yn370dgl1t",
-    "category": "match_report",
-    "emoji_tag": "🩵",
-    "core_event": "来自 BBC Sport 的赛事报道。Late PSG goal condemns Man City to third Champions League draw",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Late",
-      "Man City",
-      "Champions League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "The part-timers who won three Wembley finals in a row",
-    "url": "https://www.bbc.com/sport/football/articles/c6y4z21xelk4o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。The part-timers who won three Wembley finals in a row",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。Moreira stars as AC Milan beat Inter in thrilling derby",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Wembley"
+      "Moreira",
+      "Milan",
+      "Inter"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
-    "url": "https://www.bbc.com/sport/football/articles/cz7z09v9pp1o",
+    "title": "Returning Estevao brings X-factor to strikerless Chelsea",
+    "url": "https://www.bbc.com/sport/football/articles/cwnv0p143qzyo",
+    "category": "injury",
+    "emoji_tag": "🔵",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Returning Estevao brings X-factor to strikerless Chelsea",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Returning Estevao",
+      "Chelsea"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Spurs pile pressure on Sage as 10-man Palace are beaten",
+    "url": "https://www.bbc.com/sport/football/live/c9gkv231djj2t",
+    "category": "match_report",
+    "emoji_tag": "⚪",
+    "core_event": "来自 BBC Sport 的赛事报道。Spurs pile pressure on Sage as 10-man Palace are beaten",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Spurs",
+      "Sage",
+      "Palace"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Thiago scores as Brentford beat Forest to go sixth",
+    "url": "https://www.bbc.com/sport/football/live/cwzd68v5yl4zt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Thiago scores as Brentford beat Forest to go sixth",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Thiago",
+      "Brentford",
+      "Forest"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Kane misses penalty as Dortmund get last-gasp draw at Bayern",
+    "url": "https://www.bbc.com/sport/football/live/cke8rnzy49m7t",
     "category": "match_report",
     "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Arsenal had more than 20 players on shortlist to capitalise on title win",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "来自 BBC Sport 的赛事报道。Kane misses penalty as Dortmund get last-gasp draw at Bayern",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Arsenal"
+      "Kane",
+      "Dortmund",
+      "Bayern"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "73 goals from dropping deep - we ask Kane to break down how he did it",
-    "url": "https://www.bbc.com/sport/articles/cx2z7rjn2p2o",
+    "title": "More goals for Lankshear, home woes for Hammers - Aaron McLean's EFL Takeaways",
+    "url": "https://www.bbc.com/sport/football/articles/cv369yp2451lo",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。73 goals from dropping deep - we ask Kane to break down how he did it",
+    "core_event": "来自 BBC Sport 的赛事报道。More goals for Lankshear, home woes for Hammers - Aaron McLean's EFL Takeaways",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Kane"
+      "More",
+      "Lankshear",
+      "Hammers",
+      "Aaron"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Enciso stunner earns Ipswich a point at Hull",
+    "url": "https://www.bbc.com/sport/football/live/cxq6nqml97e0t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Enciso stunner earns Ipswich a point at Hull",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Enciso",
+      "Ipswich",
+      "Hull"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Ruthless Coventry condemn sorry Sunderland to sixth defeat",
+    "url": "https://www.bbc.com/sport/football/live/ck7vpjr37devt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Ruthless Coventry condemn sorry Sunderland to sixth defeat",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Ruthless Coventry",
+      "Sunderland"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Stylish Swansea romp to victory over Blackburn",
+    "url": "https://www.bbc.com/sport/football/live/cq74p3w8z0jrt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Stylish Swansea romp to victory over Blackburn",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Stylish Swansea",
+      "Blackburn"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Fadinger penalty gives Motherwell first win in two months against St Mirren",
+    "url": "https://www.bbc.com/sport/football/live/cqn06ez154nnt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Fadinger penalty gives Motherwell first win in two months against St Mirren",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Fadinger",
+      "Motherwell",
+      "St Mirren"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Premier League top scorers Who is leading the race for the golden boot?",
+    "title": "Brentford 2-0 Nottm Forest Glasner defiant after Thiago seals win for hosts",
+    "url": "https://www.theguardian.com/football/2026/oct/31/brentford-nottingham-forest-premier-league-match-report",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Brentford 2-0 Nottm Forest Glasner defiant after Thiago seals win for hosts",
+    "tactical_financial_impact": "紧张的比分说明双方实力接近，细节决定胜负，临场调整至关重要。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Brentford",
+      "Nottm Forest Glasner",
+      "Thiago"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Coventry 3-1 Sunderland Sakamoto sparks win to keep 10-man visitors bottom",
+    "url": "https://www.theguardian.com/football/2026/oct/31/coventry-sunderland-premier-league-match-report",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Coventry 3-1 Sunderland Sakamoto sparks win to keep 10-man visitors bottom",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Coventry",
+      "Sunderland Sakamoto"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Championship Pressure grows on Nuno as West Ham beaten at home by West Brom",
+    "url": "https://www.theguardian.com/football/2026/oct/31/championship-roundup-birmingham-burnley-middlesbrough-southampton-wolves",
+    "category": "match_report",
+    "emoji_tag": "⚒️",
+    "core_event": "来自 The Guardian 的赛事报道。Championship Pressure grows on Nuno as West Ham beaten at home by West Brom",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Championship Pressure",
+      "Nuno",
+      "West Ham",
+      "West Brom"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Man City 0-1 Brighton Ayari on target to stun hosts and close gap on leaders",
+    "url": "https://www.theguardian.com/football/2026/oct/31/manchester-city-brighton-premier-league-match-report",
+    "category": "transfer",
+    "emoji_tag": "🩵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Man City 0-1 Brighton Ayari on target to stun hosts and close gap on leaders",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Man City",
+      "Brighton Ayari"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Premier League top scorers Who is leading race for the 2026-27 golden boot?",
     "url": "https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Premier League top scorers Who is leading the race for the golden boot?",
+    "core_event": "来自 The Guardian 的赛事报道。Premier League top scorers Who is leading race for the 2026-27 golden boot?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
@@ -237,34 +316,165 @@
   },
   {
     "source": "The Guardian",
-    "title": "Women's World Cup Fifa to miss equal Women’s World Cup prize money ambition set by Infantino",
-    "url": "https://www.theguardian.com/football/2026/oct/30/fifa-miss-equal-womens-world-cup-prize-money-ambition-gianni-infantino",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Women's World Cup Fifa to miss equal Women’s World Cup prize money ambition set by Infantino",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Women",
-      "World Cup Fifa",
-      "World Cup",
-      "Infantino"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Suspicious bets returning £149,000 for predicting Ballon d’Or under investigation",
-    "url": "https://www.theguardian.com/football/2026/oct/30/ballon-dor-betting-suspicious-cryptocurrency-investigation",
+    "title": "Ballon d'Or Putellas provides mindset change as London City bid to upstage WSL champions",
+    "url": "https://www.theguardian.com/football/2026/oct/30/alexia-putellas-london-city-lionesses-manchester-city-womens-super-league",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Suspicious bets returning £149,000 for predicting Ballon d’Or under investigation",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Ballon d'Or Putellas provides mindset change as London City bid to upstage WSL champions",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Suspicious",
-      "Ballon"
+      "Ballon",
+      "Or Putellas",
+      "London City"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Liverpool How Mac Allister shook off contract doubts to fire Reds revival",
+    "url": "https://www.theguardian.com/football/2026/oct/31/how-alexis-mac-allister-shook-off-contract-doubts-liverpool-revival",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Liverpool How Mac Allister shook off contract doubts to fire Reds revival",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Liverpool How Mac",
+      "Allister",
+      "Reds"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Zion Suzuki horror own goal haunts Aston Villa to hand Fulham a point",
+    "url": "https://www.theguardian.com/football/2026/oct/31/aston-villa-fulham-premier-league-match-report",
+    "category": "match_report",
+    "emoji_tag": "🟣",
+    "core_event": "来自 The Guardian 的赛事报道。Zion Suzuki horror own goal haunts Aston Villa to hand Fulham a point",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Zion Suzuki",
+      "Aston Villa",
+      "Fulham"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Manchester United crisis deepens with Chelsea defeat and Martínez red card",
+    "url": "https://www.theguardian.com/football/2026/oct/31/chelsea-manchester-united-premier-league-match-report",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 The Guardian 的赛事报道。Manchester United crisis deepens with Chelsea defeat and Martínez red card",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Manchester United",
+      "Chelsea",
+      "Martínez"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Enzo Maresca rues ‘silly’ errors after Manchester City defeat against Brighton",
+    "url": "https://www.theguardian.com/football/2026/oct/31/enzo-maresca-manchester-city-brighton-premier-league",
+    "category": "match_report",
+    "emoji_tag": "🩵",
+    "core_event": "来自 The Guardian 的赛事报道。Enzo Maresca rues ‘silly’ errors after Manchester City defeat against Brighton",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Enzo Maresca",
+      "Manchester City",
+      "Brighton"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Ayari on target as Brighton stun Manchester City to close gap on leaders",
+    "url": "https://www.theguardian.com/football/2026/oct/31/manchester-city-brighton-premier-league-match-report",
+    "category": "transfer",
+    "emoji_tag": "🩵",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Ayari on target as Brighton stun Manchester City to close gap on leaders",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Ayari",
+      "Brighton",
+      "Manchester City"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "European football: Kane misses penalty as Dortmund share spoils in Der Klassiker",
+    "url": "https://www.theguardian.com/football/2026/oct/31/european-football-harry-kane-bayern-munich-borussia-dortmund-milan-inter-barcelona",
+    "category": "match_report",
+    "emoji_tag": "🟡",
+    "core_event": "来自 The Guardian 的赛事报道。European football: Kane misses penalty as Dortmund share spoils in Der Klassiker",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "European",
+      "Kane",
+      "Dortmund",
+      "Der Klassiker"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Championship roundup: Pressure grows on Nuno as West Ham beaten at home",
+    "url": "https://www.theguardian.com/football/2026/oct/31/championship-roundup-birmingham-burnley-middlesbrough-southampton-wolves",
+    "category": "match_report",
+    "emoji_tag": "⚒️",
+    "core_event": "来自 The Guardian 的赛事报道。Championship roundup: Pressure grows on Nuno as West Ham beaten at home",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Championship",
+      "Pressure",
+      "Nuno",
+      "West Ham"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Atlanta Dream 63-68 Golden State Valkyries: WNBA finals 2026 Game 7 – as it happened",
+    "url": "https://www.theguardian.com/sport/live/2026/oct/31/atlanta-dream-v-golden-state-valkyries-wnba-finals-2026-game-7-live-buildup",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Atlanta Dream 63-68 Golden State Valkyries: WNBA finals 2026 Game 7 – as it happened",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Atlanta Dream",
+      "Golden State Valkyries",
+      "Game"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter",
+    "url": "https://www.theguardian.com/us-news/2026/oct/31/judge-dismisses-trump-lawsuit-wall-street-journal-epstein",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Judge",
+      "Trump",
+      "Wall Street Journal",
+      "Epstein"
     ]
   }
 ]
