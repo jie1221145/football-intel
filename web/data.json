@@ -1,152 +1,186 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Is Pochettino the right man for United? Audio, 39 minutes Is Pochettino the right man for United?",
-    "url": "https://www.bbc.com/sounds/play/p0pmhwp1",
+    "title": "Record-breaker Kane scores winner as England qualify for quarters",
+    "url": "https://www.bbc.com/sport/football/live/cr5yn1g2qe6et",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Is Pochettino the right man for United? Audio, 39 minutes Is Pochettino the right man for United?",
+    "core_event": "来自 BBC Sport 的赛事报道。Record-breaker Kane scores winner as England qualify for quarters",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Is Pochettino",
-      "United",
-      "Audio"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Does Pickford finally face serious competition for his England place?",
-    "url": "https://www.bbc.com/sport/football/articles/crvg9y27n45wo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Does Pickford finally face serious competition for his England place?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Does Pickford",
+      "Record",
+      "Kane",
       "England"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Shirt pull on Isak should have been penalty - panel",
-    "url": "https://www.bbc.com/sport/football/articles/c6n8d8kl125vo",
+    "title": "Gritty Arsenal show different side in Barcelona draw",
+    "url": "https://www.bbc.com/sport/football/articles/cqe85vym242jo",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Gritty Arsenal show different side in Barcelona draw",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Gritty Arsenal",
+      "Barcelona"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Kane scores winner but who else made an impression? England player ratings",
+    "url": "https://www.bbc.com/sport/football/articles/c64gnd7vd912o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Shirt pull on Isak should have been penalty - panel",
+    "core_event": "来自 BBC Sport 的赛事报道。Kane scores winner but who else made an impression? England player ratings",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Shirt",
-      "Isak"
+      "Kane",
+      "England"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Referee observer banned for discriminatory comments",
-    "url": "https://www.bbc.com/sport/football/articles/ckedq15wq0dlo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Referee observer banned for discriminatory comments",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Referee"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "NI can draw on strong club form in key window",
-    "url": "https://www.bbc.com/sport/football/articles/c3x2wz2kg0lno",
+    "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
+    "url": "https://www.bbc.com/sport/football/articles/cm0rl4kwn8vqo",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。NI can draw on strong club form in key window",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。The chaos that took Carrick from two-year deal to sacked within 15 games",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
-    "key_players": []
+    "key_players": [
+      "Carrick"
+    ]
   },
   {
     "source": "BBC Sport",
-    "title": "Is Harry Kane England’s GOAT? Audio, 22 minutes Is Harry Kane England’s GOAT?",
-    "url": "https://www.bbc.com/sounds/play/p0pmh9w1",
+    "title": "Italy come from behind to beat Zidane's France",
+    "url": "https://www.bbc.com/sport/football/live/c3rrygq0z2y2t",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Is Harry Kane England’s GOAT? Audio, 22 minutes Is Harry Kane England’s GOAT?",
+    "core_event": "来自 BBC Sport 的赛事报道。Italy come from behind to beat Zidane's France",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Is Harry Kane",
+      "Italy",
+      "Zidane",
+      "France"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Spain beat 10-man Czech Republic to extend winning run",
+    "url": "https://www.bbc.com/sport/football/live/cwg5jrzyqzdnt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Spain beat 10-man Czech Republic to extend winning run",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Spain",
+      "Czech Republic"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Owono undecided over future following De Miguel death",
+    "url": "https://www.bbc.com/sport/football/articles/ckedq01zve04o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Owono undecided over future following De Miguel death",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Owono",
+      "De Miguel"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "History for Kane but what would England do without him? Audio, 33 minutes History for Kane but what would England do without him?",
+    "url": "https://www.bbc.com/sounds/play/p0pmqwrn",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。History for Kane but what would England do without him? Audio, 33 minutes History for Kane but what would England do without him?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "History",
+      "Kane",
       "England",
       "Audio"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "UEFA Nations League Albania Albania plays Finland Finland at 19:45 19:45 on Thu the 12 of Nov",
-    "url": "https://www.bbc.com/sport/football/live/ck86z8g3j1yzt",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。UEFA Nations League Albania Albania plays Finland Finland at 19:45 19:45 on Thu the 12 of Nov",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "title": "Arsenal secure gutsy Champions League draw at Barcelona",
+    "url": "https://www.bbc.com/sport/football/live/cqx29e0k8je5t",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Arsenal secure gutsy Champions League draw at Barcelona",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Nations League Albania",
-      "Albania",
-      "Finland Finland"
+      "Arsenal",
+      "Champions League",
+      "Barcelona"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "How Germany's greatest goalscorer is guiding the next generation",
-    "url": "https://www.bbc.com/sport/football/articles/cmq8nnddpllqo",
+    "title": "Carrick sacked, but was he treated unfairly? Audio, 36 minutes Carrick sacked, but was he treated unfairly?",
+    "url": "https://www.bbc.com/sounds/play/m0034dz1",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。How Germany's greatest goalscorer is guiding the next generation",
+    "core_event": "来自 BBC Sport 的赛事报道。Carrick sacked, but was he treated unfairly? Audio, 36 minutes Carrick sacked, but was he treated unfairly?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "How Germany"
+      "Carrick",
+      "Audio"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Bromley signings 'not good enough' - ex-boss Woodman",
-    "url": "https://www.bbc.com/sport/football/articles/c5x2wle9nnvzo",
+    "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
+    "url": "https://www.bbc.com/sport/football/articles/c61md0mldvdgo",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Bromley signings 'not good enough' - ex-boss Woodman",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Bromley",
-      "Woodman"
+      "Ghana",
+      "Afcon",
+      "Ayew"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Why did Pochettino fail at PSG & could Sage return to Lens? Audio, 51 minutes Why did Pochettino fail at PSG & could Sage return to Lens?",
-    "url": "https://www.bbc.com/sounds/play/p0pmj6yk",
+    "title": "USA withdraw from U17 World Cup",
+    "url": "https://www.bbc.com/sport/football/articles/c6y49yz77pppo",
     "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 BBC Sport 的赛事报道。Why did Pochettino fail at PSG & could Sage return to Lens? Audio, 51 minutes Why did Pochettino fail at PSG & could Sage return to Lens?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。USA withdraw from U17 World Cup",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Pochettino",
-      "Sage",
-      "Lens",
-      "Audio"
+      "World Cup"
     ]
   },
   {
@@ -192,155 +226,52 @@
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Life as a Wag in the transfer window",
-    "url": "https://www.bbc.com/sport/football/articles/cx2jpgj24vlo",
-    "category": "transfer",
-    "emoji_tag": "💰",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Life as a Wag in the transfer window",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Life"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Which Premier League players are set for yellow card suspensions?",
-    "url": "https://www.bbc.com/sport/articles/cr3wj7wg35pxo",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Which Premier League players are set for yellow card suspensions?",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Which Premier League"
-    ]
-  },
-  {
     "source": "The Guardian",
-    "title": "Man Utd Framework deal reached with Pochettino before settling Carrick’s fate",
-    "url": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Man Utd Framework deal reached with Pochettino before settling Carrick’s fate",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Man Utd Framework",
-      "Pochettino",
-      "Carrick"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Harry Kane Bone broth, sweets ban and acupuncture: the road to record England cap",
-    "url": "https://www.theguardian.com/football/2026/nov/11/harry-kane-record-england-cap-bone-broth-sweets-ban-acupuncture",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Harry Kane Bone broth, sweets ban and acupuncture: the road to record England cap",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Harry Kane Bone",
-      "England"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Meeting of two lost souls: can Pochettino make it work at Manchester United?",
-    "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-old-trafford-manager",
+    "title": "News Kane wins record 126th England cap, pulling clear of Shilton",
+    "url": "https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap",
     "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Meeting of two lost souls: can Pochettino make it work at Manchester United?",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。News Kane wins record 126th England cap, pulling clear of Shilton",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Meeting",
-      "Pochettino",
-      "Manchester United"
+      "News Kane",
+      "England",
+      "Shilton"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Manchester United reach framework deal with Pochettino before settling Carrick’s fate",
-    "url": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Manchester United reach framework deal with Pochettino before settling Carrick’s fate",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Manchester United",
-      "Pochettino",
-      "Carrick"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
-    "url": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
+    "title": "Harry Kane spot on to seal England win over Croatia on his record-breaking night",
+    "url": "https://www.theguardian.com/football/2026/nov/12/england-croatia-nations-league-match-report",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。US withdraw from U-17 World Cup in Qatar due to safety concerns",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "core_event": "来自 The Guardian 的赛事报道。Harry Kane spot on to seal England win over Croatia on his record-breaking night",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "World Cup",
-      "Qatar"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Bone broth, sweets ban and acupuncture: Harry Kane’s road to record England cap",
-    "url": "https://www.theguardian.com/football/2026/nov/11/harry-kane-record-england-cap-bone-broth-sweets-ban-acupuncture",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Bone broth, sweets ban and acupuncture: Harry Kane’s road to record England cap",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Bone",
       "Harry Kane",
-      "England"
+      "England",
+      "Croatia"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "‘He is never leaving the house again’: mother reunites with son missing for six days in Victorian bushland",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。‘He is never leaving the house again’: mother reunites with son missing for six days in Victorian bushland",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Victorian"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Female Perversions review – Tilda Swinton searches for erotic adventures in rework of Madame Bovary",
-    "url": "https://www.theguardian.com/film/2026/nov/11/female-perversions-review-tilda-swinton-searches-for-erotic-adventures-in-rework-of-madame-bovary",
+    "title": "Nations League: Italy roar back to beat France despite Donnarumma’s early howler",
+    "url": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Female Perversions review – Tilda Swinton searches for erotic adventures in rework of Madame Bovary",
+    "core_event": "来自 The Guardian 的赛事报道。Nations League: Italy roar back to beat France despite Donnarumma’s early howler",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Female Perversions",
-      "Tilda Swinton",
-      "Madame Bovary"
+      "Nations League",
+      "Italy",
+      "France",
+      "Donnarumma"
     ]
   }
 ]
