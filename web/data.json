@@ -1,6 +1,161 @@
 [
   {
     "source": "BBC Sport",
+    "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+    "url": "https://www.bbc.com/sport/football/articles/c85y13pv69xwo",
+    "category": "injury",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+    "tactical_financial_impact": "球员伤势尚未明朗，主帅需在赛前做好两手准备，保持战术弹性。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Fitness",
+      "Man Utd",
+      "Pochettino"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+    "url": "https://www.bbc.com/sport/football/articles/cm98xy2j8k1ko",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Goalkeeper involved in fatal collision gets 12-game ban",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Goalkeeper"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Reijnders scores hat-trick in Dutch rout",
+    "url": "https://www.bbc.com/sport/football/live/cmqjn559ld2jt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Reijnders scores hat-trick in Dutch rout",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Reijnders",
+      "Dutch"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Wirtz scores as Germany beat nine-man Serbia",
+    "url": "https://www.bbc.com/sport/football/live/cq62ypp785rmt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Wirtz scores as Germany beat nine-man Serbia",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Wirtz",
+      "Germany",
+      "Serbia"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Fernandes rejects second Man Utd contract offer",
+    "url": "https://www.bbc.com/sport/football/articles/cm782d4pz9jyo",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Fernandes rejects second Man Utd contract offer",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Fernandes",
+      "Man Utd"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/cq39glw42xkjo",
+    "category": "transfer",
+    "emoji_tag": "🔵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Man Utd",
+      "Chelsea",
+      "Kounde",
+      "Saturday"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "McGinn double gives drab Scotland win over North Macedonia",
+    "url": "https://www.bbc.com/sport/football/live/cv2d6991g4w2t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。McGinn double gives drab Scotland win over North Macedonia",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Scotland",
+      "North Macedonia"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Ferguson 'made up' with first win as Glentoran boss",
+    "url": "https://www.bbc.com/sport/football/articles/c95y10z6rpj8o",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Ferguson 'made up' with first win as Glentoran boss",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Ferguson",
+      "Glentoran"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
+    "url": "https://www.bbc.com/sport/football/articles/cw1md9jx2r3po",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Salah",
+      "Egypt",
+      "Nigeria",
+      "Afcon"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Missing Israel games 'stressful' for captain Collins",
+    "url": "https://www.bbc.com/sport/football/articles/cq7821vdgrevo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Missing Israel games 'stressful' for captain Collins",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Missing Israel",
+      "Collins"
+    ]
+  },
+  {
+    "source": "BBC Sport",
     "title": "Record-breaker Kane scores winner as England qualify for quarters",
     "url": "https://www.bbc.com/sport/football/live/cr5yn1g2qe6et",
     "category": "match_report",
@@ -11,36 +166,6 @@
     "gossip_label": null,
     "key_players": [
       "Record",
-      "Kane",
-      "England"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Gritty Arsenal show different side in Barcelona draw",
-    "url": "https://www.bbc.com/sport/football/articles/cqe85vym242jo",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Gritty Arsenal show different side in Barcelona draw",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Gritty Arsenal",
-      "Barcelona"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Kane scores winner but who else made an impression? England player ratings",
-    "url": "https://www.bbc.com/sport/football/articles/c64gnd7vd912o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Kane scores winner but who else made an impression? England player ratings",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
       "Kane",
       "England"
     ]
@@ -61,62 +186,16 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Italy come from behind to beat Zidane's France",
-    "url": "https://www.bbc.com/sport/football/live/c3rrygq0z2y2t",
+    "title": "TCV: Commentating in the fog and can Kane be England's greatest? Audio, 56 minutes TCV: Commentating in the fog and can Kane be England's greatest?",
+    "url": "https://www.bbc.com/sounds/play/p0pmwxf4",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Italy come from behind to beat Zidane's France",
+    "core_event": "来自 BBC Sport 的赛事报道。TCV: Commentating in the fog and can Kane be England's greatest? Audio, 56 minutes TCV: Commentating in the fog and can Kane be England's greatest?",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Italy",
-      "Zidane",
-      "France"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Spain beat 10-man Czech Republic to extend winning run",
-    "url": "https://www.bbc.com/sport/football/live/cwg5jrzyqzdnt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Spain beat 10-man Czech Republic to extend winning run",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Spain",
-      "Czech Republic"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Owono undecided over future following De Miguel death",
-    "url": "https://www.bbc.com/sport/football/articles/ckedq01zve04o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Owono undecided over future following De Miguel death",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Owono",
-      "De Miguel"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "History for Kane but what would England do without him? Audio, 33 minutes History for Kane but what would England do without him?",
-    "url": "https://www.bbc.com/sounds/play/p0pmqwrn",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。History for Kane but what would England do without him? Audio, 33 minutes History for Kane but what would England do without him?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "History",
+      "Commentating",
       "Kane",
       "England",
       "Audio"
@@ -124,63 +203,18 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Arsenal secure gutsy Champions League draw at Barcelona",
-    "url": "https://www.bbc.com/sport/football/live/cqx29e0k8je5t",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Arsenal secure gutsy Champions League draw at Barcelona",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Arsenal",
-      "Champions League",
-      "Barcelona"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Carrick sacked, but was he treated unfairly? Audio, 36 minutes Carrick sacked, but was he treated unfairly?",
-    "url": "https://www.bbc.com/sounds/play/m0034dz1",
+    "title": "Odegaard backing Norway to avenge Wales defeat",
+    "url": "https://www.bbc.com/sport/football/articles/cmq8lx38zwn4o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Carrick sacked, but was he treated unfairly? Audio, 36 minutes Carrick sacked, but was he treated unfairly?",
+    "core_event": "来自 BBC Sport 的赛事报道。Odegaard backing Norway to avenge Wales defeat",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Carrick",
-      "Audio"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
-    "url": "https://www.bbc.com/sport/football/articles/c61md0mldvdgo",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Ghana",
-      "Afcon",
-      "Ayew"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "USA withdraw from U17 World Cup",
-    "url": "https://www.bbc.com/sport/football/articles/c6y49yz77pppo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。USA withdraw from U17 World Cup",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "World Cup"
+      "Odegaard",
+      "Norway",
+      "Wales"
     ]
   },
   {
@@ -198,80 +232,131 @@
     ]
   },
   {
-    "source": "BBC Sport",
-    "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
-    "url": "https://www.bbc.com/sport/football/articles/cz7z09v9pp1o",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Arsenal had more than 20 players on shortlist to capitalise on title win",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Arsenal"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "73 goals from dropping deep - we ask Kane to break down how he did it",
-    "url": "https://www.bbc.com/sport/articles/cx2z7rjn2p2o",
+    "source": "The Guardian",
+    "title": "Nations League Germany set up Netherlands clash after beating Serbia",
+    "url": "https://www.theguardian.com/football/2026/nov/13/nations-league-germany-set-up-netherlands-clash-serbia-greece",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。73 goals from dropping deep - we ask Kane to break down how he did it",
+    "core_event": "来自 The Guardian 的赛事报道。Nations League Germany set up Netherlands clash after beating Serbia",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Kane"
+      "Nations League Germany",
+      "Netherlands",
+      "Serbia"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "News Kane wins record 126th England cap, pulling clear of Shilton",
-    "url": "https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap",
+    "title": "‘No one is unbeatable’ Tuchel eager for England to impose style on Spain",
+    "url": "https://www.theguardian.com/football/2026/nov/13/no-one-is-unbeatable-tuchel-eager-for-england-to-impose-style-on-spain",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。News Kane wins record 126th England cap, pulling clear of Shilton",
+    "core_event": "来自 The Guardian 的赛事报道。‘No one is unbeatable’ Tuchel eager for England to impose style on Spain",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "News Kane",
+      "Tuchel",
       "England",
-      "Shilton"
+      "Spain"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Harry Kane spot on to seal England win over Croatia on his record-breaking night",
+    "title": "England 2-1 Croatia Kane spot on to seal victory on his record-breaking night",
     "url": "https://www.theguardian.com/football/2026/nov/12/england-croatia-nations-league-match-report",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Harry Kane spot on to seal England win over Croatia on his record-breaking night",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "来自 The Guardian 的赛事报道。England 2-1 Croatia Kane spot on to seal victory on his record-breaking night",
+    "tactical_financial_impact": "紧张的比分说明双方实力接近，细节决定胜负，临场调整至关重要。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Harry Kane",
       "England",
-      "Croatia"
+      "Croatia Kane"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Nations League: Italy roar back to beat France despite Donnarumma’s early howler",
-    "url": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
+    "title": "Jesús Owono given 12-match ban for tackle that resulted in Jesús de Miguel’s death",
+    "url": "https://www.theguardian.com/football/2026/nov/13/jesus-owono-given-12-match-ban-for-tackle-that-resulted-in-jesus-de-miguels-death",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Nations League: Italy roar back to beat France despite Donnarumma’s early howler",
+    "core_event": "来自 The Guardian 的赛事报道。Jesús Owono given 12-match ban for tackle that resulted in Jesús de Miguel’s death",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Jesús Owono",
+      "Jesús",
+      "Miguel"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Nations League: Germany set up Netherlands clash after beating Serbia",
+    "url": "https://www.theguardian.com/football/2026/nov/13/nations-league-germany-set-up-netherlands-clash-serbia-greece",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Nations League: Germany set up Netherlands clash after beating Serbia",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
       "Nations League",
-      "Italy",
-      "France",
-      "Donnarumma"
+      "Germany",
+      "Netherlands",
+      "Serbia"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "‘No one is unbeatable’: Tuchel eager for England to impose style on Spain",
+    "url": "https://www.theguardian.com/football/2026/nov/13/no-one-is-unbeatable-tuchel-eager-for-england-to-impose-style-on-spain",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。‘No one is unbeatable’: Tuchel eager for England to impose style on Spain",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Tuchel",
+      "England",
+      "Spain"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race",
+    "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-maga-lauren-boebert-colorado",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Trump",
+      "Maga",
+      "Lauren Boebert",
+      "Colorado"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "New Orleans boat crash: all passengers and crew found alive in ‘miracle on the Mississippi’ – as it happened",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。New Orleans boat crash: all passengers and crew found alive in ‘miracle on the Mississippi’ – as it happened",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "New Orleans",
+      "Mississippi"
     ]
   }
 ]
