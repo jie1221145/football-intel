@@ -1,391 +1,351 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Wales' top-tier survival hopes hit by Norway loss",
-    "url": "https://www.bbc.com/sport/football/live/crz6568xvv8vt",
+    "title": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
+    "url": "https://www.bbc.com/sport/football/articles/c933ge310n33o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Wales' top-tier survival hopes hit by Norway loss",
+    "core_event": "来自 BBC Sport 的赛事报道。60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Wales",
-      "Norway"
+      "England"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
-    "url": "https://www.bbc.com/sport/football/articles/cr15e4w75wxpo",
+    "title": "Kroupi scores as France beat Turkey to take top spot",
+    "url": "https://www.bbc.com/sport/football/live/cw30g3p6vd15t",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Hallgrimsson rues 'painful' defeat for Republic of Ireland",
+    "core_event": "来自 BBC Sport 的赛事报道。Kroupi scores as France beat Turkey to take top spot",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Hallgrimsson",
-      "Republic",
-      "Ireland"
+      "Kroupi",
+      "France",
+      "Turkey"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Ancelotti and Raphinha sent off as Japan beat Brazil",
-    "url": "https://www.bbc.com/sport/football/live/cv5yny98z474t",
+    "title": "Belgium come back to beat Italy to quarters spot",
+    "url": "https://www.bbc.com/sport/football/live/cmx27n430548t",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Ancelotti and Raphinha sent off as Japan beat Brazil",
+    "core_event": "来自 BBC Sport 的赛事报道。Belgium come back to beat Italy to quarters spot",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Ancelotti",
-      "Raphinha",
-      "Japan",
-      "Brazil"
+      "Belgium",
+      "Italy"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Tenerife boss says Owono's 12-match ban 'feels light'",
-    "url": "https://www.bbc.com/sport/football/articles/cmjeq0x815zko",
+    "title": "Ronaldinho makes comeback in Ravenna win",
+    "url": "https://www.bbc.com/sport/football/articles/ckregz4g823xo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Ronaldinho makes comeback in Ravenna win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Ronaldinho",
+      "Ravenna"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Man Utd target Fulham's Bassey - Monday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/cklyegvq86w8o",
     "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Tenerife boss says Owono's 12-match ban 'feels light'",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man Utd target Fulham's Bassey - Monday's gossip",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Tenerife",
-      "Owono"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Six goals to go - will McGinn catch Dalglish & Law?",
-    "url": "https://www.bbc.com/sport/football/articles/cke89156y10zo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Six goals to go - will McGinn catch Dalglish & Law?",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Dalglish"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
-    "url": "https://www.bbc.com/sport/football/articles/c6e9kgn532gxo",
-    "category": "transfer",
-    "emoji_tag": "🔴",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Arsenal target Nusa could cost £66m - Sunday's gossip",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Arsenal",
-      "Nusa",
-      "Sunday"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Liverpool beat Brighton to end winless run",
-    "url": "https://www.bbc.com/sport/football/live/c699z97022g5t",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Liverpool beat Brighton to end winless run",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Liverpool",
-      "Brighton"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Austria seal top spot with win over Republic of Ireland",
-    "url": "https://www.bbc.com/sport/football/live/cwkg5gm288p7t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Austria seal top spot with win over Republic of Ireland",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Austria",
-      "Republic",
-      "Ireland"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Northern Ireland beat Ukraine to move closer to Nations League promotion",
-    "url": "https://www.bbc.com/sport/football/live/cj93z3np22dwt",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Northern Ireland beat Ukraine to move closer to Nations League promotion",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Northern Ireland",
-      "Ukraine",
-      "Nations League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Le Tissier scores stunner as Man Utd beat Palace",
-    "url": "https://www.bbc.com/sport/football/live/crx2325xjjplt",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Le Tissier scores stunner as Man Utd beat Palace",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Le Tissier",
       "Man Utd",
-      "Palace"
+      "Fulham",
+      "Bassey",
+      "Monday"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Spurs and Everton play out goalless draw in WSL",
-    "url": "https://www.bbc.com/sport/football/live/cmzxlxg6qqwpt",
-    "category": "match_report",
-    "emoji_tag": "⚪",
-    "core_event": "来自 BBC Sport 的赛事报道。Spurs and Everton play out goalless draw in WSL",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Spurs",
-      "Everton"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Stockport beat Reading to go level at top of table",
-    "url": "https://www.bbc.com/sport/football/live/cr89z98w2qzxt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Stockport beat Reading to go level at top of table",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Stockport",
-      "Reading"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "MK Dons thrash Burton for fourth straight league win",
-    "url": "https://www.bbc.com/sport/football/live/cw62y2l416r9t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。MK Dons thrash Burton for fourth straight league win",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Dons",
-      "Burton"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Challinor wins first league game as Sheff Wed beat Plymouth",
-    "url": "https://www.bbc.com/sport/football/live/c50mempnykp3t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Challinor wins first league game as Sheff Wed beat Plymouth",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Challinor",
-      "Sheff Wed",
-      "Plymouth"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "UEFA Nations League Belarus Belarus plays Albania Albania at 17:00 17:00 on Sun the 15 of Nov",
-    "url": "https://www.bbc.com/sport/football/live/c9gkly1nzylyt",
+    "title": "Club's first match since player's death abandoned because of serious injury",
+    "url": "https://www.bbc.com/sport/football/articles/cm98xd2dpjd7o",
     "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。UEFA Nations League Belarus Belarus plays Albania Albania at 17:00 17:00 on Sun the 15 of Nov",
+    "emoji_tag": "🚑",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Club's first match since player's death abandoned because of serious injury",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Nations League Belarus",
-      "Belarus",
-      "Albania Albania"
+      "Club"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "England hold on to stun world champions Spain in thriller",
+    "url": "https://www.bbc.com/sport/football/live/c65y1lrepr5zt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。England hold on to stun world champions Spain in thriller",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "England",
+      "Spain"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Chapecoense air crash survivor wins promotion in final game",
+    "url": "https://www.bbc.com/sport/football/articles/ckp8017p1e3go",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Chapecoense air crash survivor wins promotion in final game",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Chapecoense"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Celtic end Rangers' winning run with first Old Firm win in over two years",
+    "url": "https://www.bbc.com/sport/football/live/cqze753wwe76t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Celtic end Rangers' winning run with first Old Firm win in over two years",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Celtic",
+      "Rangers",
+      "Old Firm"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Aston Villa beat Birmingham in WSL derby",
+    "url": "https://www.bbc.com/sport/football/live/c8wy5x1nk3llt",
+    "category": "match_report",
+    "emoji_tag": "🟣",
+    "core_event": "来自 BBC Sport 的赛事报道。Aston Villa beat Birmingham in WSL derby",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Aston Villa",
+      "Birmingham"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Tenerife return to action after death of De Miguel",
+    "url": "https://www.bbc.com/sport/football/articles/cqx2xn535yj8o",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Tenerife return to action after death of De Miguel",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Tenerife",
+      "De Miguel"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "England win in Spain - have they set a new standard? Audio, 27 minutes England win in Spain - have they set a new standard?",
+    "url": "https://www.bbc.com/sounds/play/p0pn5rdk",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。England win in Spain - have they set a new standard? Audio, 27 minutes England win in Spain - have they set a new standard?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "England",
+      "Spain",
+      "Audio"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "West Ham loss hands Charlton 10th consecutive WSL defeat",
+    "url": "https://www.bbc.com/sport/football/live/cmqlq3rz951dt",
+    "category": "match_report",
+    "emoji_tag": "⚒️",
+    "core_event": "来自 BBC Sport 的赛事报道。West Ham loss hands Charlton 10th consecutive WSL defeat",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "West Ham",
+      "Charlton"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "London City Lionesses show intent with draw at Arsenal",
+    "url": "https://www.bbc.com/sport/football/live/cm20qr6z155wt",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。London City Lionesses show intent with draw at Arsenal",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "London City Lionesses",
+      "Arsenal"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Children's tournament abandoned for parents' behaviour",
+    "url": "https://www.bbc.com/sport/football/articles/cmp867d026nno",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Children's tournament abandoned for parents' behaviour",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Children"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "‘No one is unbeatable’ Tuchel eager for team to impose style on Spain",
-    "url": "https://www.theguardian.com/football/2026/nov/13/no-one-is-unbeatable-tuchel-eager-for-england-to-impose-style-on-spain",
+    "title": "England Tuchel hails statement win over Spain as ‘complete performance’",
+    "url": "https://www.theguardian.com/football/2026/nov/15/thomas-tuchel-england-spain-nations-league",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。England Tuchel hails statement win over Spain as ‘complete performance’",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "England Tuchel",
+      "Spain"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Sid Lowe Three Lions’ win over Spain comes in two acts: the first superb, the second heroic",
+    "url": "https://www.theguardian.com/football/2026/nov/15/england-superb-heroic-spain-nations-league",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。‘No one is unbeatable’ Tuchel eager for team to impose style on Spain",
+    "core_event": "来自 The Guardian 的赛事报道。Sid Lowe Three Lions’ win over Spain comes in two acts: the first superb, the second heroic",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
+    "key_players": [
+      "Sid Lowe Three",
+      "Lions",
+      "Spain"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "NWSL Hopkins’ late stunner sends Kansas City past Gotham and into final",
+    "url": "https://www.theguardian.com/football/2026/nov/15/kansas-city-current-gotham-fc-nwsl-semi-final-haley-hopkins",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。NWSL Hopkins’ late stunner sends Kansas City past Gotham and into final",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Hopkins",
+      "Kansas City",
+      "Gotham"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Tuchel hails England’s statement win over Spain as ‘complete performance’",
+    "url": "https://www.theguardian.com/football/2026/nov/15/thomas-tuchel-england-spain-nations-league",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Tuchel hails England’s statement win over Spain as ‘complete performance’",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
       "Tuchel",
+      "England",
       "Spain"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Spain De la Fuente feels the strain as Lamine Yamal club v country debate rages",
-    "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Spain De la Fuente feels the strain as Lamine Yamal club v country debate rages",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Spain De",
-      "Fuente",
-      "Lamine Yamal"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "As it happened Simon Burnton's minute-by-minute account",
-    "url": "https://www.theguardian.com/football/live/2026/nov/14/chelsea-v-man-city-womens-super-league-live",
+    "title": "Three Lions’ win over Spain comes in two acts: the first superb, the second heroic",
+    "url": "https://www.theguardian.com/football/2026/nov/15/england-superb-heroic-spain-nations-league",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。As it happened Simon Burnton's minute-by-minute account",
+    "core_event": "来自 The Guardian 的赛事报道。Three Lions’ win over Spain comes in two acts: the first superb, the second heroic",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Simon Burnton"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "NWSL Luvanga strikes as Washington Spirit beat Utah to reach third straight final",
-    "url": "https://www.theguardian.com/football/2026/nov/14/washington-spirit-utah-royals-nwsl-semi-final-clara-luvanga",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。NWSL Luvanga strikes as Washington Spirit beat Utah to reach third straight final",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Luvanga",
-      "Washington Spirit",
-      "Utah"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Football Daily Taking a brief minute to remember Sage’s impact at Palace",
-    "url": "https://www.theguardian.com/football/2026/nov/13/pierre-sage-crystal-palace-football-daily-newsletter",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Football Daily Taking a brief minute to remember Sage’s impact at Palace",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Football Daily Taking",
-      "Sage",
-      "Palace"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat",
-    "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Raphinha",
-      "Brazil",
-      "Japan",
-      "Argentina"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
-    "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Fuente",
-      "Lamine Yamal",
+      "Three Lions",
       "Spain"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "UK government to consider changing age of consent after allegations against Russell Brand",
-    "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。UK government to consider changing age of consent after allegations against Russell Brand",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "title": "Mary Earps frustrates Arsenal as London City Lionesses earn battling draw",
+    "url": "https://www.theguardian.com/football/2026/nov/15/arsenal-london-city-lionesses-womens-super-league-wsl-match-report",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 The Guardian 的赛事报道。Mary Earps frustrates Arsenal as London City Lionesses earn battling draw",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Russell Brand"
+      "Mary Earps",
+      "Arsenal",
+      "London City Lionesses"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
-    "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+    "title": "Terry Butcher: ‘I’ve learned to live with the Hand of God goal better’",
+    "url": "https://www.theguardian.com/football/2026/nov/15/terry-butcher-ive-learned-to-live-with-the-hand-of-god-goal-better",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Democrat wins Alaska governor’s seat for first time in nearly 30 years",
+    "core_event": "来自 The Guardian 的赛事报道。Terry Butcher: ‘I’ve learned to live with the Hand of God goal better’",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Democrat",
-      "Alaska"
+      "Terry Butcher",
+      "Hand"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Zelenskyy accuses SpaceX of lying about Starshield – and says US floated Donbas-for-Nato deal",
-    "url": "https://www.theguardian.com/world/2026/nov/14/spacex-not-honest-slowing-starshield-elon-musk-volodymyr-zelenskyy",
-    "category": "transfer",
+    "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+    "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Zelenskyy accuses SpaceX of lying about Starshield – and says US floated Donbas-for-Nato deal",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "core_event": "来自 The Guardian 的赛事报道。‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Zelenskyy",
-      "Starshield",
-      "Donbas",
-      "Nato"
+      "Jensen Huang"
     ]
   }
 ]
