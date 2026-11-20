@@ -1,159 +1,121 @@
 [
   {
     "source": "BBC Sport",
-    "title": "Chelsea score late to beat PSG and close on last eight",
-    "url": "https://www.bbc.com/sport/football/live/cx24e3j2228vt",
-    "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 BBC Sport 的赛事报道。Chelsea score late to beat PSG and close on last eight",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Chelsea"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Hemp & Shaw give Man City vital win in Sweden",
-    "url": "https://www.bbc.com/sport/football/live/cqe85vepp263t",
-    "category": "match_report",
-    "emoji_tag": "🩵",
-    "core_event": "来自 BBC Sport 的赛事报道。Hemp & Shaw give Man City vital win in Sweden",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Hemp",
-      "Shaw",
-      "Man City",
-      "Sweden"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Record crowds, legends - Bordeaux bid to escape amateur game",
-    "url": "https://www.bbc.com/sport/football/articles/c63rgqrz9jgqo",
+    "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/cj5y14g2wppko",
     "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Record crowds, legends - Bordeaux bid to escape amateur game",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Barcelona target Man Utd's Martinez - Friday's gossip",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Record",
-      "Bordeaux"
+      "Barcelona",
+      "Man Utd",
+      "Martinez",
+      "Friday"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Ward close to new Republic of Ireland deal as World Cup chance beckons",
-    "url": "https://www.bbc.com/sport/football/articles/c6782xedd985o",
+    "title": "'I'm very healthy' - Kompany to return to dugout after health scare",
+    "url": "https://www.bbc.com/sport/football/articles/cm0rkzwgn0lro",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。'I'm very healthy' - Kompany to return to dugout after health scare",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Kompany"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Will Infantino feel he's already won as Fifa challengers confirmed?",
+    "url": "https://www.bbc.com/sport/football/articles/c8wy53z3ygypo",
     "category": "transfer",
     "emoji_tag": "⚽",
-    "core_event": "据 BBC Sport，双方谈判进入最终阶段，签约进展顺利。Ward close to new Republic of Ireland deal as World Cup chance beckons",
+    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Will Infantino feel he's already won as Fifa challengers confirmed?",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 4,
-    "gossip_label": "接近官宣",
+    "gossip_rating": 5,
+    "gossip_label": "官方确认",
     "key_players": [
-      "Ward",
-      "Republic",
-      "Ireland",
+      "Will Infantino",
+      "Fifa"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "We'll only sell if offer makes club blink - McInnes",
+    "url": "https://www.bbc.com/sport/football/articles/cwlymr2159y5o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。We'll only sell if offer makes club blink - McInnes",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": []
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Five return for Wales' World Cup play-off final",
+    "url": "https://www.bbc.com/sport/football/articles/c620535y8zpjo",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Five return for Wales' World Cup play-off final",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Five",
+      "Wales",
       "World Cup"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Top 10 European Strikers of the Century - Part One. Audio, 42 minutes Top 10 European Strikers of the Century - Part One",
-    "url": "https://www.bbc.com/sounds/play/p0pnqxmx",
+    "title": "The SPOTY Men’s Footballer of the Year. Audio, 39 minutes The SPOTY Men’s Footballer of the Year",
+    "url": "https://www.bbc.com/sounds/play/m003501m",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Top 10 European Strikers of the Century - Part One. Audio, 42 minutes Top 10 European Strikers of the Century - Part One",
+    "core_event": "来自 BBC Sport 的赛事报道。The SPOTY Men’s Footballer of the Year. Audio, 39 minutes The SPOTY Men’s Footballer of the Year",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "European Strikers",
-      "Century",
-      "Part One",
+      "Footballer",
+      "Year",
       "Audio"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Toney loses bid to avoid Euro 2028 court clash",
-    "url": "https://www.bbc.com/news/articles/ckm2m1899mqyo",
-    "category": "transfer",
+    "title": "Eight-year ban for player who threw rock that hit assistant referee",
+    "url": "https://www.bbc.com/sport/football/articles/cqlyk9yzkz2no",
+    "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Toney loses bid to avoid Euro 2028 court clash",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Eight-year ban for player who threw rock that hit assistant referee",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Toney",
-      "Euro"
+      "Eight"
     ]
   },
   {
     "source": "BBC Sport",
-    "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
-    "url": "https://www.bbc.com/sport/football/articles/cmn507wn6gg3o",
-    "category": "match_report",
+    "title": "Magill returns to NI squad for Greece friendlies",
+    "url": "https://www.bbc.com/sport/football/articles/cqly43n1vjm8o",
+    "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Bellamy convinced of Wales credentials despite defeat by Portugal",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Magill returns to NI squad for Greece friendlies",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Bellamy",
-      "Wales",
-      "Portugal"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Republic of Ireland talisman Parrott caps dream year with two more goals",
-    "url": "https://www.bbc.com/sport/football/articles/cqzjr3yr2z0eo",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Republic of Ireland talisman Parrott caps dream year with two more goals",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Republic",
-      "Ireland",
-      "Parrott"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Arsenal Double winner Storey dies aged 81",
-    "url": "https://www.bbc.com/sport/football/articles/c63eg3ekxnpyo",
-    "category": "match_report",
-    "emoji_tag": "🔴",
-    "core_event": "来自 BBC Sport 的赛事报道。Arsenal Double winner Storey dies aged 81",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Arsenal Double",
-      "Storey"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Haaland's last-second penalty sends Norway through",
-    "url": "https://www.bbc.com/sport/football/live/cq1k974v3m9dt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Haaland's last-second penalty sends Norway through",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Haaland",
-      "Norway"
+      "Magill",
+      "Greece"
     ]
   },
   {
@@ -225,121 +187,122 @@
     "key_players": []
   },
   {
-    "source": "The Guardian",
-    "title": "USWNT Hayes names veteran group in bid to secure World Cup spot",
-    "url": "https://www.theguardian.com/football/2026/nov/18/uswnt-squad-concacaf-w-championship-world-cup-qualifier",
-    "category": "transfer",
+    "source": "BBC Sport",
+    "title": "When is the Nations League quarter-final draw?",
+    "url": "https://www.bbc.com/sport/football/articles/cw20xnde3dyzo",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。USWNT Hayes names veteran group in bid to secure World Cup spot",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
+    "core_event": "来自 BBC Sport 的赛事报道。When is the Nations League quarter-final draw?",
+    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "gossip_rating": null,
+    "gossip_label": null,
     "key_players": [
-      "Hayes",
-      "World Cup"
+      "Nations League"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Which Premier League players are set for yellow card suspensions?",
+    "url": "https://www.bbc.com/sport/articles/cr3wj7wg35pxo",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Which Premier League players are set for yellow card suspensions?",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Which Premier League"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Moving the Goalposts Janine van Wyk on South Africa's Wafcon journey",
-    "url": "https://www.theguardian.com/football/2026/nov/17/janine-van-wyck-south-africa-wafcon-book-extract-moving-the-goalposts-newsletter",
+    "title": "Everton Grealish recalls a golden age of mavericks – but football has moved on",
+    "url": "https://www.theguardian.com/football/2026/nov/18/jack-grealish-recalls-a-golden-age-of-mavericks-but-football-has-moved-on",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Everton Grealish recalls a golden age of mavericks – but football has moved on",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Everton Grealish"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Moving the Goalposts Where the NWSL Championship will be won and lost",
+    "url": "https://www.theguardian.com/football/2026/nov/19/nwsl-championship-washington-spirit-kc-current-moving-the-goalposts",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Moving the Goalposts Janine van Wyk on South Africa's Wafcon journey",
+    "core_event": "来自 The Guardian 的赛事报道。Moving the Goalposts Where the NWSL Championship will be won and lost",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
       "Moving",
-      "Goalposts Janine",
-      "South Africa",
-      "Wafcon"
+      "Goalposts Where",
+      "Championship"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Fifa ‘I’m entering to win’: Diallo launches campaign to topple Infantino",
-    "url": "https://www.theguardian.com/football/2026/nov/17/im-entering-to-win-philippe-diallo-launches-campaign-to-topple-gianni-infantino",
+    "title": "Football Daily Political gamers face off at Fifa with the real-life final boss",
+    "url": "https://www.theguardian.com/football/2026/nov/19/football-daily-fifa-presidential-election",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Fifa ‘I’m entering to win’: Diallo launches campaign to topple Infantino",
+    "core_event": "来自 The Guardian 的赛事报道。Football Daily Political gamers face off at Fifa with the real-life final boss",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Fifa",
-      "Diallo",
-      "Infantino"
+      "Football Daily Political",
+      "Fifa"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
-    "url": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Netflix",
-      "World Cup"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Jack Grealish recalls a golden age of mavericks – but football has moved on",
-    "url": "https://www.theguardian.com/football/2026/nov/18/jack-grealish-recalls-a-golden-age-of-mavericks-but-football-has-moved-on",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Jack Grealish recalls a golden age of mavericks – but football has moved on",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Jack Grealish"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Veerle Buurman scrambles late WCL winner to push blunt Chelsea past PSG",
-    "url": "https://www.theguardian.com/football/2026/nov/18/chelsea-paris-saint-germain-womens-champions-league-match-report",
-    "category": "match_report",
-    "emoji_tag": "🔵",
-    "core_event": "来自 The Guardian 的赛事报道。Veerle Buurman scrambles late WCL winner to push blunt Chelsea past PSG",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Veerle Buurman",
-      "Chelsea"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "Florence Pugh speaks out against ‘disturbing’ cosmetic surgery speculation",
-    "url": "https://www.theguardian.com/culture/2026/nov/19/florence-pugh-responds-cosmetic-plastic-surgery-speculation-governors-awards",
+    "title": "England get one-match suspended ban on away tickets for anti-pope chants in Spain",
+    "url": "https://www.theguardian.com/football/2026/nov/19/england-one-match-suspended-away-tickets-ban-anti-pope-chants-spain-uefa",
     "category": "injury",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Florence Pugh speaks out against ‘disturbing’ cosmetic surgery speculation",
-    "tactical_financial_impact": "长期缺阵将迫使主帅调整主力阵容，考验替补球员的临场发挥。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Florence Pugh"
-    ]
-  },
-  {
-    "source": "The Guardian",
-    "title": "I jumped from a plane at 12,000ft. In mid-air, a friend’s knee collided into my neck",
-    "url": "https://www.theguardian.com/lifeandstyle/2026/nov/18/i-jumped-from-a-plane-at-12000ft-in-mid-air-a-friends-knee-collided-into-my-neck",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。I jumped from a plane at 12,000ft. In mid-air, a friend’s knee collided into my neck",
+    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。England get one-match suspended ban on away tickets for anti-pope chants in Spain",
     "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
     "gossip_rating": null,
     "gossip_label": null,
-    "key_players": []
+    "key_players": [
+      "England",
+      "Spain"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Summer signings join Lionel Messi among MLS’s top earners: Takeaways from the league’s salary release",
+    "url": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Summer signings join Lionel Messi among MLS’s top earners: Takeaways from the league’s salary release",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Summer",
+      "Lionel Messi",
+      "Takeaways"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "double quotation mark Parents: please don’t buy Grand Theft Auto VI for your child",
+    "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-parents-please-dont-buy-gta-6-vi-for-your-child",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。double quotation mark Parents: please don’t buy Grand Theft Auto VI for your child",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Parents",
+      "Grand Theft Auto"
+    ]
   }
 ]
