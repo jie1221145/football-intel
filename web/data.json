@@ -1,6 +1,159 @@
 [
   {
     "source": "BBC Sport",
+    "title": "Forest condemn Chelsea to third successive defeat",
+    "url": "https://www.bbc.com/sport/football/live/cme3d91zygp8t",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 BBC Sport 的赛事报道。Forest condemn Chelsea to third successive defeat",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Forest",
+      "Chelsea"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Azaz provokes Boro fans after scoring in Saints victory",
+    "url": "https://www.bbc.com/sport/football/live/cmy49kg7d98qt",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Azaz provokes Boro fans after scoring in Saints victory",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Azaz",
+      "Boro",
+      "Saints"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Man Utd trigger Fernandes' one-year contract extension",
+    "url": "https://www.bbc.com/sport/football/articles/c6d91j5geepqo",
+    "category": "transfer",
+    "emoji_tag": "🔴",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man Utd trigger Fernandes' one-year contract extension",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Man Utd",
+      "Fernandes"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
+    "url": "https://www.bbc.com/sport/football/articles/cmy49d5kpw78o",
+    "category": "match_report",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Head coach Slegers leaves Arsenal 18 months after Champions League win",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Head",
+      "Slegers",
+      "Arsenal",
+      "Champions League"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Greece hand Northern Ireland fifth consecutive defeat",
+    "url": "https://www.bbc.com/sport/football/live/cm4gn679kk86t",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Greece hand Northern Ireland fifth consecutive defeat",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Greece",
+      "Northern Ireland"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Champions League to be a factor in Paz move - Saturday's gossip",
+    "url": "https://www.bbc.com/sport/football/articles/cqvg23jg6x78o",
+    "category": "transfer",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Champions League to be a factor in Paz move - Saturday's gossip",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Champions League",
+      "Saturday"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Man City owners should be forced to sell, say clubs",
+    "url": "https://www.bbc.com/sport/football/articles/cwp809d7yp4go",
+    "category": "transfer",
+    "emoji_tag": "🩵",
+    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Man City owners should be forced to sell, say clubs",
+    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
+    "key_players": [
+      "Man City"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Spurs' Savio to miss festive fixtures after injury setback",
+    "url": "https://www.bbc.com/sport/football/articles/cw4gnm4p3zxlo",
+    "category": "match_report",
+    "emoji_tag": "⚪",
+    "core_event": "来自 BBC Sport 的赛事报道。Spurs' Savio to miss festive fixtures after injury setback",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Spurs",
+      "Savio"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Botman banned from driving for using phone at wheel",
+    "url": "https://www.bbc.com/news/articles/c6wy43d3ry12o",
+    "category": "injury",
+    "emoji_tag": "⚽",
+    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Botman banned from driving for using phone at wheel",
+    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Botman"
+    ]
+  },
+  {
+    "source": "BBC Sport",
+    "title": "Steven Gerrard on Wirtz - and just how good is Ngumoha? Audio, 24 minutes Steven Gerrard on Wirtz - and just how good is Ngumoha?",
+    "url": "https://www.bbc.com/sounds/play/p0pqb0nm",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 BBC Sport 的赛事报道。Steven Gerrard on Wirtz - and just how good is Ngumoha? Audio, 24 minutes Steven Gerrard on Wirtz - and just how good is Ngumoha?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Steven Gerrard",
+      "Wirtz",
+      "Ngumoha",
+      "Audio"
+    ]
+  },
+  {
+    "source": "BBC Sport",
     "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
     "url": "https://www.bbc.com/sport/football/articles/cmq5v84vw818o",
     "category": "match_report",
@@ -12,21 +165,6 @@
     "key_players": [
       "Bournemouth",
       "Europa League"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Frank gains first victory as Palace manager",
-    "url": "https://www.bbc.com/sport/football/live/cm930gwqx2e3t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Frank gains first victory as Palace manager",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Frank",
-      "Palace"
     ]
   },
   {
@@ -46,174 +184,6 @@
   },
   {
     "source": "BBC Sport",
-    "title": "Police response to Besiktas fans' pro-Palestine banner 'unacceptable'",
-    "url": "https://www.bbc.com/sport/football/live/cm4gn89709n7t",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Police response to Besiktas fans' pro-Palestine banner 'unacceptable'",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Police",
-      "Besiktas",
-      "Palestine"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Is it time to sell Erling Haaland? - FPL gameweek 12 dilemmas",
-    "url": "https://www.bbc.com/sport/football/articles/cjvg2w35rn63o",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 披露这一转会传言，可靠度有待核实。Is it time to sell Erling Haaland? - FPL gameweek 12 dilemmas",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 2,
-    "gossip_label": "野史流言",
-    "key_players": [
-      "Erling Haaland"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Brighton cruise to victory over 10-man Craiova",
-    "url": "https://www.bbc.com/sport/football/live/c6y80ej72k2gt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Brighton cruise to victory over 10-man Craiova",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Brighton",
-      "Craiova"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Germany's Freigang given 16-month ban over drugs test issues",
-    "url": "https://www.bbc.com/sport/football/articles/cqlym4rd3y52o",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。Germany's Freigang given 16-month ban over drugs test issues",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Germany",
-      "Freigang"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Calvert-Lewin signs new Leeds deal until 2029",
-    "url": "https://www.bbc.com/sport/football/articles/cx62pnz1evv4o",
-    "category": "transfer",
-    "emoji_tag": "⚽",
-    "core_event": "【官方】BBC Sport 报道此次转会已正式完成。Calvert-Lewin signs new Leeds deal until 2029",
-    "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
-    "gossip_rating": 5,
-    "gossip_label": "官方确认",
-    "key_players": [
-      "Calvert",
-      "Lewin",
-      "Leeds"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Ten-man Bournemouth beat Celta for 10th win in row",
-    "url": "https://www.bbc.com/sport/football/live/cje39qwypkx7t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Ten-man Bournemouth beat Celta for 10th win in row",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Bournemouth",
-      "Celta"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Carsley eyes Euros history with England U21s after draw",
-    "url": "https://www.bbc.com/sport/football/articles/c97726npre86o",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Carsley eyes Euros history with England U21s after draw",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Carsley",
-      "Euros",
-      "England"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Is Bellingham better than Zidane?! Audio, 36 minutes Is Bellingham better than Zidane?!",
-    "url": "https://www.bbc.com/sounds/play/p0pq4ydb",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Is Bellingham better than Zidane?! Audio, 36 minutes Is Bellingham better than Zidane?!",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Is Bellingham",
-      "Zidane",
-      "Audio"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "What will returning Magill bring to Northern Ireland?",
-    "url": "https://www.bbc.com/sport/football/articles/cm93rdqrgkz2o",
-    "category": "injury",
-    "emoji_tag": "⚽",
-    "core_event": "BBC Sport 报道了这一伤病 / 停赛动态。What will returning Magill bring to Northern Ireland?",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Magill",
-      "Northern Ireland"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Ten-man Huddersfield hold on to beat Doncaster",
-    "url": "https://www.bbc.com/sport/football/live/cq2e8wp72mm8t",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Ten-man Huddersfield hold on to beat Doncaster",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Huddersfield",
-      "Doncaster"
-    ]
-  },
-  {
-    "source": "BBC Sport",
-    "title": "Burnley break record for homes games without win as Birmingham continue fine form",
-    "url": "https://www.bbc.com/sport/football/live/ckqx505l5x4qt",
-    "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 BBC Sport 的赛事报道。Burnley break record for homes games without win as Birmingham continue fine form",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
-    "key_players": [
-      "Burnley",
-      "Birmingham"
-    ]
-  },
-  {
-    "source": "BBC Sport",
     "title": "The part-timers who won three Wembley finals in a row",
     "url": "https://www.bbc.com/sport/football/articles/c6y4z21xelk4o",
     "category": "match_report",
@@ -227,110 +197,141 @@
     ]
   },
   {
-    "source": "The Guardian",
-    "title": "‘It threw me off my bowling' Isobel Goodwin living dream after England call-up",
-    "url": "https://www.theguardian.com/football/2026/nov/25/isobel-goodwin-england-callup-london-city-lionesses-bowling",
+    "source": "BBC Sport",
+    "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
+    "url": "https://www.bbc.com/sport/football/articles/cz7z09v9pp1o",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。‘It threw me off my bowling' Isobel Goodwin living dream after England call-up",
+    "emoji_tag": "🔴",
+    "core_event": "来自 BBC Sport 的赛事报道。Arsenal had more than 20 players on shortlist to capitalise on title win",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Isobel Goodwin",
-      "England"
+      "Arsenal"
     ]
   },
   {
-    "source": "The Guardian",
-    "title": "Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
-    "url": "https://www.theguardian.com/football/2026/nov/26/crystal-palace-real-sociedad-europa-league-match-report",
+    "source": "BBC Sport",
+    "title": "73 goals from dropping deep - we ask Kane to break down how he did it",
+    "url": "https://www.bbc.com/sport/articles/cx2z7rjn2p2o",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
+    "core_event": "来自 BBC Sport 的赛事报道。73 goals from dropping deep - we ask Kane to break down how he did it",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Thomas Frank",
-      "Crystal Palace",
-      "Real Sociedad"
+      "Kane"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Pro-Palestinian banner as Besiktas face Israeli team causes delay and diplomatic incident",
-    "url": "https://www.theguardian.com/football/2026/nov/26/crowd-trouble-besiktas-hapoel-beer-sheva-diplomatic-incident-israel-palestine",
-    "category": "injury",
+    "title": "Premier League top scorers Who is leading race for the golden boot?",
+    "url": "https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot",
+    "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "The Guardian 报道了这一伤病 / 停赛动态。Pro-Palestinian banner as Besiktas face Israeli team causes delay and diplomatic incident",
-    "tactical_financial_impact": "伤病将影响球队短期人员配置，主帅需在接下来的赛程中合理轮换。",
+    "core_event": "来自 The Guardian 的赛事报道。Premier League top scorers Who is leading race for the golden boot?",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Palestinian",
-      "Besiktas",
-      "Israeli"
+      "Premier League"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Fifa staff asked to attend interviews as Infantino sell-off scheme investigated",
-    "url": "https://www.theguardian.com/football/2026/nov/26/fifa-gianni-infantino-sell-off-scheme-investigated",
+    "title": "Arteta sets Arsenal 100-point Premier League target to emulate Manchester City",
+    "url": "https://www.theguardian.com/football/2026/nov/27/arteta-sets-arsenal-100-point-premier-league-target-to-emulate-manchester-city",
     "category": "transfer",
-    "emoji_tag": "🔵",
-    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Fifa staff asked to attend interviews as Infantino sell-off scheme investigated",
+    "emoji_tag": "🔴",
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Arteta sets Arsenal 100-point Premier League target to emulate Manchester City",
     "tactical_financial_impact": "此次引援将直接影响球队阵容深度和战术灵活性，具体影响视价格和球员定位而定。",
     "gossip_rating": 2,
     "gossip_label": "野史流言",
     "key_players": [
-      "Fifa",
-      "Infantino"
+      "Arteta",
+      "Arsenal",
+      "Premier League",
+      "Manchester City"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Reinildo error extends Sunderland woe as Jagiellonia grab Europa League draw",
-    "url": "https://www.theguardian.com/football/2026/nov/26/sunderland-jagiellonia-bialystok-europa-league-match-report",
+    "title": "‘My Tottenham was born’: De Zerbi harks back to opening defeat for Sunderland return",
+    "url": "https://www.theguardian.com/football/2026/nov/27/roberto-de-zerbi-tottenham-sunderland",
     "category": "match_report",
-    "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。Reinildo error extends Sunderland woe as Jagiellonia grab Europa League draw",
-    "tactical_financial_impact": "平局结果对积分榜的影响需结合其他竞争对手的战绩综合判断。",
+    "emoji_tag": "⚪",
+    "core_event": "来自 The Guardian 的赛事报道。‘My Tottenham was born’: De Zerbi harks back to opening defeat for Sunderland return",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Reinildo",
-      "Sunderland",
-      "Jagiellonia",
-      "Europa League"
+      "My Tottenham",
+      "De Zerbi",
+      "Sunderland"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "Bayern Munich go from bad to worse with own goals on and off the pitch",
-    "url": "https://www.theguardian.com/football/2026/nov/26/football-daily-newsletter-bayern-munich",
-    "category": "match_report",
+    "title": "Manchester United extend Fernandes contract until 2028 to stop free transfer",
+    "url": "https://www.theguardian.com/football/2026/nov/27/manchester-united-bruno-fernandes-contract-2028-activate-option-mauricio-pochettino",
+    "category": "transfer",
     "emoji_tag": "🔴",
-    "core_event": "来自 The Guardian 的赛事报道。Bayern Munich go from bad to worse with own goals on and off the pitch",
-    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
-    "gossip_rating": null,
-    "gossip_label": null,
+    "core_event": "The Guardian 披露这一转会传言，可靠度有待核实。Manchester United extend Fernandes contract until 2028 to stop free transfer",
+    "tactical_financial_impact": "自由转会无需支付转会费，仅需考虑薪资成本，性价比极高。",
+    "gossip_rating": 2,
+    "gossip_label": "野史流言",
     "key_players": [
-      "Bayern Munich"
+      "Manchester United",
+      "Fernandes"
     ]
   },
   {
     "source": "The Guardian",
-    "title": "‘Not really the thing to take a victory lap in’: the meaning of Jensen Huang’s new jacket",
-    "url": "https://www.theguardian.com/fashion/2026/nov/26/soft-power-what-jensen-huangs-switch-from-leather-to-cotton-says-about-his-new-image",
+    "title": "USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador",
+    "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier",
     "category": "match_report",
     "emoji_tag": "⚽",
-    "core_event": "来自 The Guardian 的赛事报道。‘Not really the thing to take a victory lap in’: the meaning of Jensen Huang’s new jacket",
+    "core_event": "来自 The Guardian 的赛事报道。USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador",
     "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
     "gossip_rating": null,
     "gossip_label": null,
     "key_players": [
-      "Jensen Huang"
+      "Women",
+      "World Cup",
+      "El Salvador"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Aaron Rodgers texts into Amazon broadcast to defend himself as Steelers beat Broncos",
+    "url": "https://www.theguardian.com/sport/2026/nov/27/aaron-rodgers-texts-into-amazon-broadcast-to-defend-himself-as-steelers-beat-broncos",
+    "category": "match_report",
+    "emoji_tag": "⚽",
+    "core_event": "来自 The Guardian 的赛事报道。Aaron Rodgers texts into Amazon broadcast to defend himself as Steelers beat Broncos",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Aaron Rodgers",
+      "Amazon",
+      "Steelers",
+      "Broncos"
+    ]
+  },
+  {
+    "source": "The Guardian",
+    "title": "Jared Kushner’s 70-minute interview reveals naive bias in handling of Putin’s aggression",
+    "url": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival",
+    "category": "match_report",
+    "emoji_tag": "🔵",
+    "core_event": "来自 The Guardian 的赛事报道。Jared Kushner’s 70-minute interview reveals naive bias in handling of Putin’s aggression",
+    "tactical_financial_impact": "本场比赛结果将对积分榜格局产生影响，需关注后续赛程安排。",
+    "gossip_rating": null,
+    "gossip_label": null,
+    "key_players": [
+      "Jared Kushner",
+      "Putin"
     ]
   }
 ]
